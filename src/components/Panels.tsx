@@ -3,8 +3,7 @@ import type { Milestone, Story, CategoryId } from '../types';
 import { CAT, CATEGORIES, TYPES, TYPE_LABEL } from '../lib/meta';
 import { ERAS, eventRange, toAstro, type Visibility } from '../lib/dates';
 import { HEAT_STOPS, KERNEL_KM, THRESHOLDS, heatPosition } from '../lib/density';
-import { LIFE_COLORS, LIFE_LABELS, LIFE_SHORT, MAX_GAP_YEARS, lifeSnapshot, type LifeData } from '../lib/lifeExpectancy';
-import { fromAstro } from '../lib/dates';
+import { LIFE_COLORS, LIFE_LABELS, LIFE_SHORT, type LifeData } from '../lib/lifeExpectancy';
 
 // ---------------------------------------------------------------------------
 export function Feed({ items, vis, pulses, currentId, onSelect }: {
@@ -257,15 +256,8 @@ export function DensityLegend({ heatOnly }: { heatOnly: boolean }) {
   );
 }
 
-export function LifeLegend({ data, year, error }: { data: LifeData | null; year: number; error: boolean }) {
-  const y = fromAstro(Math.floor(year));
-  const n = data ? lifeSnapshot(data, y).size : 0;
-  let note: string;
-  if (error) note = 'The life expectancy data could not be loaded.';
-  else if (!data) note = 'Loading life expectancy estimates…';
-  else if (y < data.firstYear) note = `No country estimates this early. The series begins in ${data.firstYear} (United Kingdom); most countries have estimates only from 1950.`;
-  else if (y > data.lastYear) note = `Latest estimates, for ${data.lastYear}, for ${n} countries and territories.`;
-  else note = `Estimates for ${n} ${n === 1 ? 'country or territory' : 'countries and territories'} in ${y}.${y < 1950 ? ' Before 1950 most countries have no estimate.' : ''}`;
+export function LifeLegend({ data, error }: { data: LifeData | null; error: boolean }) {
+  const status = error ? 'The life expectancy data could not be loaded.' : !data ? 'Loading life expectancy estimates…' : null;
   return (
     <div className="life-legend" aria-live="polite">
       <p className="dl-title">Life expectancy at birth, in years</p>
@@ -275,7 +267,7 @@ export function LifeLegend({ data, year, error }: { data: LifeData | null; year:
         ))}
         <span><i className="ll-none" /><b className="ll-long">no estimate</b><b className="ll-short">none</b></span>
       </div>
-      <p className="small muted">{note} Shown by present-day borders; each country shows its most recent estimate from the last {MAX_GAP_YEARS} years. Source: Our World in Data (Riley; Clio Infra; UN Population Division), CC BY 4.0.</p>
+      <p className="small muted">{status ? `${status} ` : ''}Source: Our World in Data (Riley; Clio Infra; UN Population Division), CC BY 4.0.</p>
     </div>
   );
 }

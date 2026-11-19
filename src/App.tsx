@@ -459,7 +459,7 @@ export default function App() {
           </div>
 
           <div className="map-legends">
-            {lifeOn && <LifeLegend data={lifeData} year={year} error={lifeError} />}
+            {lifeOn && <LifeLegend data={lifeData} error={lifeError} />}
             {view !== 'dots' && <DensityLegend heatOnly={view === 'density'} />}
           </div>
 
