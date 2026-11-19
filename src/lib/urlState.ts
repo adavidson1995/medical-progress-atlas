@@ -17,6 +17,7 @@ import { fromAstro, toAstro } from './dates';
  *   g              match secondary tags too
  *   zl | z<era>    timeline: linear full scale, or zoomed to an era id
  *   s<n>p<m>       story n, step m
+ *   le             life expectancy layer on
  *   e-<id>         selected milestone
  */
 export interface UrlState {
@@ -26,6 +27,7 @@ export interface UrlState {
   cats?: CategoryId[];
   types?: MilestoneType[];
   matchTags?: boolean;
+  life?: boolean;
   zoom?: string; // 'linear' | era id
   story?: { index: number; step: number };
   event?: string;
@@ -42,6 +44,7 @@ export function encodeState(s: UrlState): string {
   if (s.cats && s.cats.length < CATEGORIES.length) t.push(`c-${s.cats.map((c) => CATEGORIES.find((x) => x.id === c)!.code).join('-') || 'none'}`);
   if (s.types && s.types.length < TYPES.length) t.push(`t-${s.types.map((c) => TYPES.find((x) => x.id === c)!.code).join('-') || 'none'}`);
   if (s.matchTags) t.push('g');
+  if (s.life) t.push('le');
   if (s.zoom) t.push(s.zoom === 'linear' ? 'zl' : `z${s.zoom}`);
   if (s.story) t.push(`s${s.story.index}p${s.story.step}`);
   if (s.event) t.push(`e-${s.event}`);
@@ -67,6 +70,7 @@ export function decodeState(hash: string): UrlState {
     else if (tok.startsWith('c-')) out.cats = tok.slice(2).split('-').map((c) => CATEGORIES.find((x) => x.code === c)?.id).filter(Boolean) as CategoryId[];
     else if (tok.startsWith('t-')) out.types = tok.slice(2).split('-').map((c) => TYPES.find((x) => x.code === c)?.id).filter(Boolean) as MilestoneType[];
     else if (tok === 'g') out.matchTags = true;
+    else if (tok === 'le') out.life = true;
     else if (tok === 'zl') out.zoom = 'linear';
     else if ((m = tok.match(/^z(e\d)$/))) out.zoom = m[1];
     else if ((m = tok.match(/^s(\d+)p(\d+)$/))) out.story = { index: Number(m[1]), step: Number(m[2]) };

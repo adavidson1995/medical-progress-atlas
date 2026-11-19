@@ -11,6 +11,7 @@ describe('URL state', () => {
       cats: ['surgery', 'public-health'] as never,
       types: ['demonstration'] as never,
       matchTags: true,
+      life: true,
       zoom: 'linear',
       story: { index: 2, step: 3 },
       event: 'edwin-smith-papyrus',
@@ -24,6 +25,7 @@ describe('URL state', () => {
     expect(d.cats).toEqual(['surgery', 'public-health']);
     expect(d.types).toEqual(['demonstration']);
     expect(d.matchTags).toBe(true);
+    expect(d.life).toBe(true);
     expect(d.zoom).toBe('linear');
     expect(d.story).toEqual({ index: 2, step: 3 });
     expect(d.event).toBe('edwin-smith-papyrus');

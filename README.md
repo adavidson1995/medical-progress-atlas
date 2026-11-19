@@ -9,9 +9,9 @@ The site is static: TypeScript and React, built with Vite. The map uses d3-geo w
 ## Using the atlas
 
 - **Play**: watch milestones appear, either one milestone at a time ("Through milestones") or at a constant pace through time ("Through time"), at 0.5× to 4×. "Start from the beginning" rewinds to the earliest milestone.
-- **Timeline**: drag or click to move; focus it and use the arrow keys (Shift for bigger steps, Home and End for the ends). The default "All history, compressed" view gives six periods different widths, labelled with how many years each covers. "All history, even scale" draws time uniformly, and the period buttons zoom in.
+- **Timeline**: drag anywhere along it (including over milestone marks or the playhead) to move through time, or click to jump; clicking a mark opens that milestone; focus it and use the arrow keys (Shift for bigger steps, Home and End for the ends). The default "All history, compressed" view gives six periods different widths, labelled with how many years each covers. "All history, even scale" draws time uniformly, and the period buttons zoom in.
 - **Everything so far / Selected period**: show every milestone up to the playhead, or only those within a chosen number of years before it.
-- **Map**: opens on a heatmap of where documented milestones cluster; point at a warm area to see how many are there and click to list them. Switch to individual milestones, or both, at any time. Clusters show how many milestones they contain; click to zoom in or list them. Modern borders can be switched off.
+- **Map**: opens on a heatmap of where documented milestones cluster; point at a warm area to see how many are there and click to list them. Switch to individual milestones, or both, at any time. Tick **Life expectancy by country** to colour each country by its estimated life expectancy at birth in the year shown, from Our World in Data (estimates mainly from 1950; earlier where they exist). Clusters show how many milestones they contain; click to zoom in or list them. Modern borders can be switched off.
 - **Filters**: categories (with "only" to isolate one), kinds of milestone, and an option to include milestones tagged with a category as well as those whose primary category it is.
 - **Cards**: click any dot, feed entry or list entry. Earlier and Later step through the dataset in date order. Copy link shares the exact view.
 - **Stories**: six guided routes: anaesthesia, infection, vaccination and eradication, seeing inside the body, safer childbirth, and caring for the mind.
@@ -78,7 +78,8 @@ Batches still to do: before 1600 (ancient and medieval texts, hospitals and phys
 - 21 of the 81 were suggested by Wikipedia's *Timeline of medicine and medical technology* and verified independently to the same standard (batch 1 of that list: 1600–1900). Progress through the rest of the list is tracked in `research/wikipedia-queue.json`; see "Adding the Wikipedia timeline" below.
 - 333 distinct sources, each recorded with the claims it was checked for. Early, disputed and "first" claims have at least two independent sources, except 5 entries that are openly marked as single-source.
 - Map with a smooth heatmap (the default), dots and combined views, clustering, uncertainty circles, linked locations and an optional modern-borders layer. Timeline with compressed, even and per-period scales, two playback modes, four speeds, cumulative and period views, pulses for new milestones, an optional "Follow new milestones" mode, a feed, a searchable list, six stories, shareable URLs, keyboard control, reduced-motion support and a mobile layout.
-- A validator that blocks the build on data errors, 26 automated tests, a link checker, generated bibliography, a social preview image and a GitHub Pages workflow.
+- An optional life expectancy layer by country (Our World in Data, CC BY 4.0), driven by the same timeline.
+- A validator that blocks the build on data errors, 30 automated tests, a link checker, generated bibliography, a social preview image and a GitHub Pages workflow.
 
 ### Uncertain or not done
 

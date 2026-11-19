@@ -9,7 +9,8 @@ import { decodeState, encodeState } from './lib/urlState';
 import { MapView, type MapHandle, type MapViewMode } from './components/MapView';
 import { Timeline } from './components/Timeline';
 import { EventCard } from './components/EventCard';
-import { AboutPanel, DensityLegend, Feed, Legend, ListPanel, StoriesPanel } from './components/Panels';
+import { AboutPanel, DensityLegend, Feed, Legend, LifeLegend, ListPanel, StoriesPanel } from './components/Panels';
+import type { LifeData } from './lib/lifeExpectancy';
 
 const AXIS_SECONDS = 90; // seconds to cross the whole timeline at 1× in "through time" playback
 const EVENT_MS = 2600; // milliseconds per milestone at 1× in "through events" playback
@@ -38,6 +39,16 @@ export default function App() {
   const [matchTags, setMatchTags] = useState(!!init.matchTags);
   const [view, setView] = useState<MapViewMode>(init.view ?? 'density');
   const [borders, setBorders] = useState(true);
+  const [lifeOn, setLifeOn] = useState(!!init.life);
+  const [lifeData, setLifeData] = useState<LifeData | null>(null);
+  const [lifeError, setLifeError] = useState(false);
+  useEffect(() => {
+    if (!lifeOn || lifeData) return;
+    fetch(`${import.meta.env.BASE_URL}data/life-expectancy.json`)
+      .then((r) => r.json())
+      .then(setLifeData)
+      .catch(() => setLifeError(true));
+  }, [lifeOn, lifeData]);
   const [follow, setFollow] = useState(false);
   const [selected, setSelected] = useState<string | null>(init.event ?? null);
   const [panel, setPanel] = useState<Panel>('feed');
@@ -268,10 +279,11 @@ export default function App() {
     cats: [...cats],
     types: [...types],
     matchTags,
+    life: lifeOn,
     zoom: zoom === 'compressed' ? undefined : zoom,
     story: story ?? undefined,
     event: selected ?? undefined,
-  }), [year, mode, span, view, cats, types, matchTags, zoom, story, selected]);
+  }), [year, mode, span, view, cats, types, matchTags, lifeOn, zoom, story, selected]);
   useEffect(() => {
     if (playing || intro) return;
     const t = window.setTimeout(() => writeHash(hash), 300);
@@ -356,6 +368,8 @@ export default function App() {
             selectedId={selected}
             view={view}
             borders={borders}
+            life={lifeOn ? lifeData : null}
+            year={year}
             onSelect={(id) => select(id)}
             onClusterList={(ids, x, y) => setClusterList({ ids, x, y })}
           />
@@ -392,6 +406,7 @@ export default function App() {
               <button onClick={() => mapRef.current?.zoomBy(1 / 1.6)} aria-label="Zoom out">−</button>
               <button onClick={() => mapRef.current?.reset()} aria-label="Reset map view" className="small">World</button>
             </div>
+            <label className="check small pill pill-life"><input type="checkbox" checked={lifeOn} onChange={(e) => setLifeOn(e.target.checked)} /> Life expectancy by country</label>
             <label className="check small pill"><input type="checkbox" checked={borders} onChange={(e) => setBorders(e.target.checked)} /> Modern borders (for orientation only)</label>
             <label className="check small pill"><input type="checkbox" checked={follow} onChange={(e) => setFollow(e.target.checked)} /> Follow new milestones</label>
           </div>
@@ -443,7 +458,10 @@ export default function App() {
             )}
           </div>
 
-          {view !== 'dots' && <DensityLegend heatOnly={view === 'density'} />}
+          <div className="map-legends">
+            {lifeOn && <LifeLegend data={lifeData} year={year} error={lifeError} />}
+            {view !== 'dots' && <DensityLegend heatOnly={view === 'density'} />}
+          </div>
 
           {clusterList && (
             <div className="cluster-pop" style={{ left: Math.max(8, clusterList.x - 140), top: clusterList.y + 18 }} role="dialog" aria-label="Milestones at this place">

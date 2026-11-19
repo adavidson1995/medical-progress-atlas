@@ -10,6 +10,8 @@ import type { Visibility } from '../lib/dates';
 import { CAT } from '../lib/meta';
 import { computeDensity, heatPixels } from '../lib/density';
 import { clusterPoints, type Cluster, type ScreenPoint } from '../lib/cluster';
+import { lifeColor, lifeSnapshot, type LifeData } from '../lib/lifeExpectancy';
+import { fromAstro } from '../lib/dates';
 
 export type MapViewMode = 'dots' | 'density' | 'both';
 
@@ -26,6 +28,9 @@ interface Props {
   selectedId: string | null;
   view: MapViewMode;
   borders: boolean;
+  /** Life expectancy layer: data (null while loading or switched off) and the playhead year. */
+  life: LifeData | null;
+  year: number;
   onSelect: (id: string) => void;
   onClusterList: (ids: string[], x: number, y: number) => void;
 }
@@ -33,9 +38,11 @@ interface Props {
 const BASE = import.meta.env.BASE_URL;
 /** Screen radius within which a click or hover on the heatmap gathers milestones. */
 const HEAT_PICK_PX = 34;
+/** Antarctica and the French Southern and Antarctic Lands have no permanent population, so no life expectancy. */
+const NO_POPULATION = new Set(['010', '260']);
 const MAX_K = 24;
 
-type Geo = { land: GeoJSON.Feature | GeoJSON.FeatureCollection; borders: GeoJSON.MultiLineString };
+type Geo = { land: GeoJSON.Feature | GeoJSON.FeatureCollection; borders: GeoJSON.MultiLineString; countries: GeoJSON.Feature[] };
 
 function loadTopo(file: string): Promise<Geo> {
   return fetch(`${BASE}data/${file}`)
@@ -45,12 +52,13 @@ function loadTopo(file: string): Promise<Geo> {
       return {
         land: feature(topo, topo.objects.land) as GeoJSON.Feature,
         borders: mesh(topo, countries, (a, b) => a !== b) as GeoJSON.MultiLineString,
+        countries: (feature(topo, countries) as unknown as GeoJSON.FeatureCollection).features,
       };
     });
 }
 
 export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref) {
-  const { items, vis, pulses, selectedId, view, borders, onSelect, onClusterList } = props;
+  const { items, vis, pulses, selectedId, view, borders, life, year, onSelect, onClusterList } = props;
   const wrapRef = useRef<HTMLDivElement>(null);
   const svgRef = useRef<SVGSVGElement>(null);
   const zoomRef = useRef<ZoomBehavior<SVGSVGElement, unknown> | null>(null);
@@ -85,8 +93,10 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
   // --- projection fitted to the container (base coordinates, before zoom)
   const projection: GeoProjection = useMemo(() => {
     const pad = 8;
+    // On narrow screens the legends sit above the map, so leave room for them at the top.
+    const top = size.w < 600 && size.h > 380 ? Math.min(150, size.h * 0.28) : pad;
     return geoEqualEarth().fitExtent(
-      [[pad, pad], [size.w - pad, size.h - pad]],
+      [[pad, top], [size.w - pad, size.h - pad]],
       { type: 'Sphere' } as GeoSphere,
     );
   }, [size.w, size.h]);
@@ -95,6 +105,13 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
   const graticulePath = useMemo(() => path(geoGraticule().step([30, 30])()) ?? '', [path]);
   const landPath = useMemo(() => (geo ? path(geo.land as never) ?? '' : ''), [geo, path]);
   const borderPath = useMemo(() => (geo ? path(geo.borders) ?? '' : ''), [geo, path]);
+  const countryPaths = useMemo(
+    () => (geo && life ? geo.countries.filter((f) => f.id != null && !NO_POPULATION.has(String(f.id))).map((f) => ({ id: String(f.id), name: String(f.properties?.name ?? ''), d: path(f) ?? '' })) : []),
+    [geo, path, life],
+  );
+  const lifeYear = fromAstro(Math.floor(year));
+  const lifeNow = useMemo(() => (life ? lifeSnapshot(life, lifeYear) : null), [life, lifeYear]);
+  const [lifeHover, setLifeHover] = useState<{ id: string; name: string; x: number; y: number } | null>(null);
 
   // --- zoom behaviour
   useEffect(() => {
@@ -278,6 +295,10 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
         style={!showDots && heatHover ? { cursor: 'pointer' } : undefined}
       >
         <defs>
+          <pattern id="life-none" width={4} height={4} patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <rect width={4} height={4} className="life-none-bg" />
+            <line x1={0} y1={0} x2={0} y2={4} className="life-none-line" />
+          </pattern>
           <clipPath id="sphere-clip">
             <path d={spherePath} transform={gTransform} />
           </clipPath>
@@ -286,11 +307,30 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
           <path d={spherePath} className="sphere" />
           <path d={graticulePath} className="graticule" />
           <path d={landPath} className="land" />
+          {lifeNow && (
+            <g className="life-layer">
+              {countryPaths.map((c) => {
+                const v = lifeNow.get(c.id);
+                const enter = (e: React.MouseEvent) => { const r = svgRef.current!.getBoundingClientRect(); setLifeHover({ id: c.id, name: c.name, x: e.clientX - r.left, y: e.clientY - r.top }); };
+                return (
+                  <path
+                    key={c.id}
+                    d={c.d}
+                    style={{ fill: v ? lifeColor(v.value) : 'url(#life-none)' }}
+                    className={`life-country ${v ? '' : 'is-none'}`}
+                    onMouseEnter={enter}
+                    onMouseMove={enter}
+                    onMouseLeave={() => setLifeHover(null)}
+                  />
+                );
+              })}
+            </g>
+          )}
           {borders && <path d={borderPath} className="borders" />}
           <path d={spherePath} className="sphere-edge" />
         </g>
         {density && heatHref && (
-          <g transform={gTransform} clipPath="url(#sphere-clip)" className={`density ${view === 'both' ? 'density-faint' : ''}`}>
+          <g transform={gTransform} clipPath="url(#sphere-clip)" className={`density ${view === 'both' || lifeNow ? 'density-faint' : ''}`}>
             <g transform={`scale(${density.cell})`}>
               <image href={heatHref} x={0} y={0} width={density.nx} height={density.ny} preserveAspectRatio="none" className="heat-image" />
               {contourPaths.map((c) => (
@@ -395,6 +435,21 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
         {selected && <SelectedLabel m={selected} projection={projection} t={t} w={size.w} />}
       </svg>
 
+      {!hover && !heatHover && lifeHover && lifeNow && !lifeNow.get(lifeHover.id) && (
+        <div className="map-tooltip" style={{ left: Math.min(lifeHover.x + 14, size.w - 260), top: Math.max(lifeHover.y - 12, 8) }} role="tooltip">
+          <strong>{lifeHover.name}</strong>
+          <span className="tt-sub">No life expectancy estimate for {lifeYear < 0 ? `${-lifeYear} BCE` : lifeYear}</span>
+        </div>
+      )}
+      {!hover && !heatHover && lifeHover && lifeNow?.get(lifeHover.id) && (
+        <div className="map-tooltip" style={{ left: Math.min(lifeHover.x + 14, size.w - 260), top: Math.max(lifeHover.y - 12, 8) }} role="tooltip">
+          <strong>{lifeHover.name}</strong>
+          <span className="tt-sub">
+            Life expectancy at birth: {lifeNow.get(lifeHover.id)!.value.toFixed(1)} years
+            {lifeNow.get(lifeHover.id)!.year !== lifeYear ? ` (latest estimate: ${lifeNow.get(lifeHover.id)!.year})` : ` (${lifeYear})`}
+          </span>
+        </div>
+      )}
       {!hover && heatHover && (
         <div className="map-tooltip" style={{ left: Math.min(heatHover.x + 14, size.w - 260), top: Math.max(heatHover.y - 12, 8) }} role="tooltip">
           <strong>{heatHover.ids.length} milestone{heatHover.ids.length === 1 ? '' : 's'} here</strong>

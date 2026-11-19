@@ -71,5 +71,6 @@ Edit the files in `data-src/` (see `DATA_SCHEMA.md`), run `npm run validate`, `n
 ## Third-party terms
 
 - **Basemap:** Natural Earth country outlines, which are in the public domain (naturalearthdata.com/about/terms-of-use; credit is not required but is given in the site's About panel). They reach the project through the `world-atlas` npm package (ISC licence) and are bundled as `public/data/countries-110m.json` and `countries-50m.json`, so there are no tile-service limits or keys.
+- **Life expectancy data:** Our World in Data (based on Riley 2005, Clio Infra 2015 and UN Population Division 2019), CC BY 4.0; attribution is shown in the layer's legend and the About panel.
 - **Fonts:** Public Sans and Newsreader, both under the SIL Open Font License 1.1, bundled through the `@fontsource-variable` packages.
 - **Code dependencies:** React, d3 modules and topojson-client (MIT or ISC licences). See `package.json`.

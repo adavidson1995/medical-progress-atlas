@@ -122,6 +122,16 @@ The heatmap is labelled **"Density of documented milestones in this atlas"**. It
 
 It shows where this selection of documented events is concentrated. It does not measure medical achievement, health, or the importance of any place.
 
+### Life expectancy layer
+
+An optional layer, "Life expectancy by country", colours each present-day country by its estimated life expectancy at birth in the year shown on the timeline.
+
+- **Source.** Our World in Data's long-run series (dataset 1892 in the owid-datasets repository). It combines Clio Infra's country estimates before 1950 (Zijdeman and Ribeira da Silva, 2015) with UN *World Population Prospects 2019* from 1950 to 2019. Licence: CC BY 4.0. The CSV is kept unmodified in `data-src/external/owid-life-expectancy/`, and `npm run data:life` rebuilds `public/data/life-expectancy.json` from it.
+- **Coverage.** 233 countries and territories, 172 of which are large enough to appear on the 1:110m map. Before 1950 only 91 countries have any estimate, many of them only at intervals of five or ten years. The earliest values are for the United Kingdom from 1543 and Sweden from 1751. Regional and world aggregates in the source file are left out.
+- **Time rule.** Each country shows its most recent estimate from the previous ten years and is otherwise hatched as "no estimate". There is no interpolation between estimates. After 2019, the last year in the file, the 2019 values are held, and the legend says so; the falls in 2020–2021 are therefore not shown.
+- **Colour.** Seven fixed bins (under 30, 30–39 … 80 and over) on a single blue-green scale that gets darker as life expectancy rises. This keeps it clearly separate from the warm colours of the milestone heatmap. When both layers are on, the heatmap is drawn semi-transparently on top.
+- **Caveats.** Figures are for present-day territories, including for years before those states existed. Life expectancy at birth is strongly affected by infant and child deaths. The layer is shown for context and implies no causal link with any milestone.
+
 ## 7. Coverage and known biases
 
 The dataset is a curated selection of 60 events, not a complete history. Its gaps follow the gaps in surviving records and in published scholarship:

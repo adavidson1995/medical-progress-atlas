@@ -86,22 +86,37 @@ export function Timeline(p: Props) {
   const px = x(p.year);
   const wx = p.mode === 'window' ? x(p.year - p.span) : px;
 
+  // Pointer gestures: a press anywhere on the timeline (including on a milestone mark or the
+  // playhead) and a drag of more than a few pixels scrubs the playhead. A press and release
+  // without moving selects the mark under the pointer, or jumps the playhead there.
+  const gesture = useRef<{ x0: number; markId: string | null; moved: boolean; mode: 'playhead' | 'span' } | null>(null);
+  const localX = (e: React.PointerEvent<SVGSVGElement>) => e.clientX - (e.currentTarget as SVGSVGElement).getBoundingClientRect().left;
   const onPointerDown = (e: React.PointerEvent<SVGSVGElement>) => {
-    const target = e.target as Element;
-    if (target.closest('.tl-mark')) return;
-    const rect = (e.currentTarget as SVGSVGElement).getBoundingClientRect();
-    const mx = e.clientX - rect.left;
+    if (e.button !== 0 && e.pointerType === 'mouse') return;
+    const mx = localX(e);
+    const markEl = (e.target as Element).closest('.tl-mark');
     const nearSpan = p.mode === 'window' && Math.abs(mx - wx) < 10 && Math.abs(mx - px) > 10;
-    setDrag(nearSpan ? 'span' : 'playhead');
+    gesture.current = { x0: mx, markId: markEl?.getAttribute('data-id') ?? null, moved: false, mode: nearSpan ? 'span' : 'playhead' };
     (e.currentTarget as SVGSVGElement).setPointerCapture(e.pointerId);
-    if (!nearSpan) p.onScrub(yearAt(mx));
+    e.preventDefault();
+    if (nearSpan) { setDrag('span'); gesture.current.moved = true; }
+    else if (!markEl) { setDrag('playhead'); p.onScrub(yearAt(mx)); gesture.current.moved = true; }
   };
   const onPointerMove = (e: React.PointerEvent<SVGSVGElement>) => {
-    if (!drag) return;
-    const rect = (e.currentTarget as SVGSVGElement).getBoundingClientRect();
-    const mx = e.clientX - rect.left;
-    if (drag === 'playhead') p.onScrub(yearAt(mx));
-    else p.onSpan(Math.max(1, Math.round(p.year - yearAt(Math.min(mx, px - 4)))));
+    const g = gesture.current;
+    if (!g) return;
+    const mx = localX(e);
+    if (!g.moved && Math.abs(mx - g.x0) < 4) return;
+    if (!g.moved) { g.moved = true; setDrag('playhead'); }
+    if (g.mode === 'span') p.onSpan(Math.max(1, Math.round(p.year - yearAt(Math.min(mx, px - 4)))));
+    else p.onScrub(yearAt(mx));
+  };
+  const onPointerUp = (e: React.PointerEvent<SVGSVGElement>) => {
+    const g = gesture.current;
+    gesture.current = null;
+    setDrag(null);
+    if (g && !g.moved && g.markId) p.onSelect(g.markId);
+    else if (g && !g.moved) p.onScrub(yearAt(localX(e)));
   };
   const onKey = (e: React.KeyboardEvent) => {
     // Step in screen space, so a key press moves a similar distance in every band of a compressed scale:
@@ -126,8 +141,8 @@ export function Timeline(p: Props) {
         height={H}
         onPointerDown={onPointerDown}
         onPointerMove={onPointerMove}
-        onPointerUp={() => setDrag(null)}
-        onPointerCancel={() => setDrag(null)}
+        onPointerUp={onPointerUp}
+        onPointerCancel={() => { gesture.current = null; setDrag(null); }}
         className={drag ? 'is-dragging' : ''}
       >
         {segs.map((s) => (
@@ -174,7 +189,7 @@ export function Timeline(p: Props) {
             const col = CAT[m.category].color;
             const cls = `tl-mark ${v === 'hidden' ? 'is-future' : ''} ${m.id === p.selectedId ? 'is-selected' : ''} ${m.id === p.currentId ? 'is-current' : ''}`;
             return (
-              <g key={m.id} className={cls} onClick={() => p.onSelect(m.id)}>
+              <g key={m.id} className={cls} data-id={m.id}>
                 <title>{`${m.title} (${m.date.display})`}</title>
                 <rect x={xs - 3} y={y - 1} width={Math.max(6, xe - xs + 6)} height={LANE_H + 2} className="tl-hit" />
                 {range ? (
@@ -193,6 +208,7 @@ export function Timeline(p: Props) {
         <g className="tl-playhead" transform={`translate(${px},0)`}>
           <line y1={TRACK_Y - 10} y2={AXIS_Y + 8} />
           <circle cy={TRACK_Y - 10} r={5} />
+          <rect x={-9} y={TRACK_Y - 18} width={18} height={AXIS_Y - TRACK_Y + 26} className="tl-grip" />
         </g>
       </svg>
       <div

@@ -72,3 +72,27 @@ describe('heat colour scale', () => {
     expect(HEAT_STOPS).toHaveLength(8);
   });
 });
+
+import { lifeAt, lifeColor, LIFE_COLORS, MAX_GAP_YEARS } from '../src/lib/lifeExpectancy';
+
+describe('life expectancy lookup', () => {
+  const s: [number, number][] = [[1850, 40], [1860, 42], [1950, 60], [1951, 61]];
+  it('returns nothing before the first estimate', () => {
+    expect(lifeAt(s, 1849)).toBeNull();
+  });
+  it('uses the most recent estimate at or before the year', () => {
+    expect(lifeAt(s, 1855)).toEqual({ value: 40, year: 1850 });
+    expect(lifeAt(s, 1860)).toEqual({ value: 42, year: 1860 });
+    expect(lifeAt(s, 1951)).toEqual({ value: 61, year: 1951 });
+  });
+  it('goes blank when the latest estimate is too old', () => {
+    expect(lifeAt(s, 1860 + MAX_GAP_YEARS)).not.toBeNull();
+    expect(lifeAt(s, 1860 + MAX_GAP_YEARS + 1)).toBeNull();
+  });
+  it('maps values to fixed bins', () => {
+    expect(lifeColor(25)).toBe(LIFE_COLORS[0]);
+    expect(lifeColor(30)).toBe(LIFE_COLORS[1]);
+    expect(lifeColor(79.9)).toBe(LIFE_COLORS[5]);
+    expect(lifeColor(85)).toBe(LIFE_COLORS[6]);
+  });
+});

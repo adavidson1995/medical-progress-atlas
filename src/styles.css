@@ -192,9 +192,22 @@ code { font-size: 12px; background: var(--panel-2); padding: 1px 4px; border-rad
 .check { display: flex; gap: 6px; align-items: flex-start; }
 .check input { margin: 2px 0 0; accent-color: var(--ink); }
 
-.density-legend { position: absolute; right: 12px; bottom: 12px; z-index: 5; width: 330px;
+.map-legends { position: absolute; right: 12px; bottom: 12px; z-index: 5; display: flex; flex-direction: column; gap: 8px; width: 330px; }
+.density-legend, .life-legend { width: 100%; box-sizing: border-box;
   background: rgba(247, 249, 249, 0.96); border: 1px solid var(--rule); border-radius: 8px; padding: 8px 12px; }
-.density-legend .small { font-size: 12px; line-height: 1.4; }
+.density-legend .small, .life-legend .small { font-size: 12px; line-height: 1.4; }
+.life-legend p { margin: 0; }
+.map-legends .life-legend ~ .density-legend .small { display: none; }
+.ll-scale { display: grid; grid-template-columns: repeat(4, 1fr); gap: 3px 8px; margin: 2px 0 6px; font-size: 11.5px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.ll-scale span { display: flex; align-items: center; gap: 5px; white-space: nowrap; }
+.ll-scale i { width: 14px; height: 10px; border: 1px solid rgba(22,33,43,.25); flex: none; }
+.ll-scale i.ll-none { background: repeating-linear-gradient(45deg, var(--land) 0 2px, #aab4ad 2px 3px); }
+.ll-scale b { font-weight: 400; }
+.ll-short { display: none; }
+.life-none-bg { fill: var(--land); }
+.life-none-line { stroke: #aab4ad; stroke-width: 1; }
+.life-country { stroke: rgba(22, 33, 43, 0.18); stroke-width: 0.4; vector-effect: non-scaling-stroke; }
+.life-country:hover { stroke: var(--ink); stroke-width: 1.2; }
 .density-legend p { margin: 0; }
 .dl-bar { height: 10px; border-radius: 2px; border: 1px solid var(--rule); }
 .dl-ticks { position: relative; height: 16px; margin: 2px 0 4px; font-size: 11.5px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
@@ -245,8 +258,10 @@ code { font-size: 12px; background: var(--panel-2); padding: 1px 4px; border-rad
 .scale-note { margin: 0 0 2px; }
 
 .timeline { position: relative; margin-top: 4px; user-select: none; }
-.timeline svg { display: block; touch-action: none; cursor: pointer; }
-.timeline svg.is-dragging { cursor: ew-resize; }
+.timeline svg { display: block; touch-action: none; cursor: pointer; -webkit-user-select: none; user-select: none; }
+.timeline svg.is-dragging, .timeline svg.is-dragging * { cursor: grabbing !important; }
+.tl-grip { fill: transparent; cursor: grab; }
+.tl-playhead:hover circle { r: 7; }
 .tl-seg { fill: #edf1f2; }
 .tl-seg-alt { fill: #e3e9eb; }
 .tl-seg-label { font-size: 11.5px; fill: var(--ink-2); }
@@ -266,7 +281,7 @@ code { font-size: 12px; background: var(--panel-2); padding: 1px 4px; border-rad
 .tl-window-handle { fill: var(--ink); cursor: ew-resize; }
 .tl-playhead line { stroke: var(--ink); stroke-width: 2; }
 .tl-playhead circle { fill: var(--ink); }
-.tl-slider { position: absolute; top: 6px; width: 28px; height: 70px; border-radius: 6px; }
+.tl-slider { position: absolute; top: 6px; width: 28px; height: 70px; border-radius: 6px; pointer-events: none; }
 .tl-slider:focus-visible { outline: 2px solid var(--focus); }
 
 /* ---------- side panel: feed, list, stories, about */
@@ -389,11 +404,16 @@ code { font-size: 12px; background: var(--panel-2); padding: 1px 4px; border-rad
   .legend-wrap { bottom: 10px; left: 10px; max-width: calc(100% - 20px); }
   .start-long { display: none; }
   .start-short { display: inline; }
-  .density-legend { padding: 6px 10px; }
-  .density-legend .small { display: none; }
+  .density-legend, .life-legend { padding: 6px 10px; }
+  .density-legend .small, .life-legend .small { display: none; }
+  .ll-scale { grid-template-columns: repeat(8, 1fr); gap: 2px; font-size: 10.5px; }
+  .ll-scale span { flex-direction: column; gap: 1px; }
+  .ll-scale i { width: 100%; }
+  .ll-long { display: none; }
+  .ll-short { display: inline; }
   .dl-title { font-size: 12px; }
   .legend-wrap.is-open { background: rgba(247,249,249,.98); max-height: 60dvh; z-index: 30; }
-  .density-legend { left: 12px; right: auto; bottom: auto; top: 66px; width: min(330px, calc(100% - 24px)); }
+  .map-legends { left: 12px; right: auto; bottom: auto; top: 66px; width: min(330px, calc(100% - 24px)); gap: 6px; }
   .readout { left: 12px; top: 8px; }
   .intro { top: auto; bottom: 12px; left: 12px; width: calc(100% - 24px); padding: 14px 16px 10px; }
   .intro h2 { font-size: 21px; }

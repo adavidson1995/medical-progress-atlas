@@ -3,6 +3,8 @@ import type { Milestone, Story, CategoryId } from '../types';
 import { CAT, CATEGORIES, TYPES, TYPE_LABEL } from '../lib/meta';
 import { ERAS, eventRange, toAstro, type Visibility } from '../lib/dates';
 import { HEAT_STOPS, KERNEL_KM, THRESHOLDS, heatPosition } from '../lib/density';
+import { LIFE_COLORS, LIFE_LABELS, LIFE_SHORT, MAX_GAP_YEARS, lifeSnapshot, type LifeData } from '../lib/lifeExpectancy';
+import { fromAstro } from '../lib/dates';
 
 // ---------------------------------------------------------------------------
 export function Feed({ items, vis, pulses, currentId, onSelect }: {
@@ -171,6 +173,16 @@ export function AboutPanel({ all, generated }: { all: Milestone[]; generated: st
         <li>The colour scale is fixed and logarithmic, from pale yellow to deep red, with faint contour lines at {THRESHOLDS.join(', ')} milestones per million km². It never rescales during playback or filtering, so a colour always means the same density.</li>
       </ul>
 
+      <h3>Life expectancy layer</h3>
+      <p>The optional layer colours each present-day country by its estimated life expectancy at birth in the year on the timeline. It comes from <a href="https://ourworldindata.org/life-expectancy" target="_blank" rel="noreferrer">Our World in Data</a>, combining Clio Infra's country estimates before 1950 (Zijdeman and Ribeira da Silva, 2015) with the UN Population Division's World Population Prospects 2019 from 1950 to 2019 (CC BY 4.0).</p>
+      <ul>
+        <li>Before 1950 most countries have no estimate and are hatched. The earliest figures in the series are for the United Kingdom from 1543 and Sweden from 1751.</li>
+        <li>Each country shows its most recent estimate from the previous ten years. After 2019 the 2019 figures are shown, so falls during the COVID-19 pandemic do not appear.</li>
+        <li>Figures are given for present-day borders, including for years before those countries existed.</li>
+        <li>Life expectancy at birth is pulled down heavily by deaths in infancy and childhood; it is not the age most adults reached.</li>
+        <li>The layer is context. It does not show that any milestone on the map caused a change in life expectancy.</li>
+      </ul>
+
       <h3>Evidence and its limits</h3>
       <p>Early and disputed claims were checked against at least two independent sources where possible. {single} milestone{single === 1 ? ' rests' : 's rest'} on a single study or account; {single === 1 ? 'it is' : 'these are'} flagged in {single === 1 ? 'its' : 'their'} card. Coverage is uneven: written and archaeological records survive unequally, and published scholarship over-represents some regions and languages. This atlas is a curated selection, not a complete history.</p>
 
@@ -184,7 +196,7 @@ export function AboutPanel({ all, generated }: { all: Milestone[]; generated: st
       </ul>
 
       <h3>Credits</h3>
-      <p className="small">Basemap made with Natural Earth (public domain; naturalearthdata.com), via the world-atlas package (ISC licence). Typefaces: Public Sans (U.S. Web Design System) and Newsreader (Production Type), both under the SIL Open Font License. Data version {generated}. Full methodology, schema and bibliography are in the project’s documentation.</p>
+      <p className="small">Basemap made with Natural Earth (public domain; naturalearthdata.com), via the world-atlas package (ISC licence). Life expectancy data: Our World in Data, CC BY 4.0. Typefaces: Public Sans (U.S. Web Design System) and Newsreader (Production Type), both under the SIL Open Font License. Data version {generated}. Full methodology, schema and bibliography are in the project’s documentation.</p>
     </div>
   );
 }
@@ -241,6 +253,29 @@ export function DensityLegend({ heatOnly }: { heatOnly: boolean }) {
         ))}
       </div>
       <p className="small muted">Milestones per million km², smoothed over ~{KERNEL_KM} km, on a fixed scale. It reflects this atlas and what records survive, not all medical activity.{heatOnly ? ' Point at a warm area to see how many milestones are there; click to list them.' : ''}</p>
+    </div>
+  );
+}
+
+export function LifeLegend({ data, year, error }: { data: LifeData | null; year: number; error: boolean }) {
+  const y = fromAstro(Math.floor(year));
+  const n = data ? lifeSnapshot(data, y).size : 0;
+  let note: string;
+  if (error) note = 'The life expectancy data could not be loaded.';
+  else if (!data) note = 'Loading life expectancy estimates…';
+  else if (y < data.firstYear) note = `No country estimates this early. The series begins in ${data.firstYear} (United Kingdom); most countries have estimates only from 1950.`;
+  else if (y > data.lastYear) note = `Latest estimates, for ${data.lastYear}, for ${n} countries and territories.`;
+  else note = `Estimates for ${n} ${n === 1 ? 'country or territory' : 'countries and territories'} in ${y}.${y < 1950 ? ' Before 1950 most countries have no estimate.' : ''}`;
+  return (
+    <div className="life-legend" aria-live="polite">
+      <p className="dl-title">Life expectancy at birth, in years</p>
+      <div className="ll-scale">
+        {LIFE_COLORS.map((c, i) => (
+          <span key={c}><i style={{ background: c }} /><b className="ll-long">{LIFE_LABELS[i]}</b><b className="ll-short">{LIFE_SHORT[i]}</b></span>
+        ))}
+        <span><i className="ll-none" /><b className="ll-long">no estimate</b><b className="ll-short">none</b></span>
+      </div>
+      <p className="small muted">{note} Shown by present-day borders; each country shows its most recent estimate from the last {MAX_GAP_YEARS} years. Source: Our World in Data (Riley; Clio Infra; UN Population Division), CC BY 4.0.</p>
     </div>
   );
 }
