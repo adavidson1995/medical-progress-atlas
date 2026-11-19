@@ -25,6 +25,17 @@ export function formatPlayhead(a: number, resolution = 1): string {
   return `c. ${formatYear(r === 0 ? -1 : r)}`;
 }
 
+/**
+ * The big year in the map's top-left corner: a plain year, never a date or range
+ * (those are on each milestone's card). Before 3500 BCE the year is rounded to the
+ * nearest century, because prehistoric dates are only known to within centuries.
+ */
+export function formatReadoutYear(a: number): string {
+  const y = fromAstro(Math.floor(a));
+  if (y >= -3500) return formatYear(y);
+  return formatYear(Math.round(y / 100) * 100);
+}
+
 export const NOW_YEAR = new Date().getFullYear();
 export const DOMAIN_START_HIST = -30000;
 export const DOMAIN_START = toAstro(DOMAIN_START_HIST);

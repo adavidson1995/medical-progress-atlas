@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { eventRange, formatPlayhead, formatYear, fromAstro, toAstro, visibility, COMPRESSED, LINEAR, DOMAIN_START, DOMAIN_END } from '../src/lib/dates';
+import { eventRange, formatPlayhead, formatReadoutYear, formatYear, fromAstro, toAstro, visibility, COMPRESSED, LINEAR, DOMAIN_START, DOMAIN_END } from '../src/lib/dates';
 import type { Milestone } from '../src/types';
 
 const ev = (start: number, end: number): Milestone =>
@@ -68,4 +68,13 @@ describe('timeline scales', () => {
       }
     });
   }
+});
+
+describe('formatReadoutYear', () => {
+  it('shows a plain year, rounding only before 3500 BCE', () => {
+    expect(formatReadoutYear(toAstro(1879) + 0.5)).toBe('1879');
+    expect(formatReadoutYear(toAstro(-1850) + 0.5)).toBe('1,850 BCE');
+    expect(formatReadoutYear(toAstro(-12210) + 0.5)).toBe('12,200 BCE');
+    expect(formatReadoutYear(toAstro(-7300) + 0.5)).toBe('7,300 BCE');
+  });
 });

@@ -3,7 +3,7 @@ import type { AtlasData, CategoryId, MilestoneType } from './types';
 import { CAT, CATEGORIES, TYPES } from './lib/meta';
 import {
   COMPRESSED, DOMAIN_END, DOMAIN_START, ERAS, LINEAR, compareMilestones, eraScale, eventRange,
-  formatPlayhead, playheadResolution, toAstro, visibility, type Visibility,
+  formatPlayhead, formatReadoutYear, playheadResolution, toAstro, visibility, type Visibility,
 } from './lib/dates';
 import { decodeState, encodeState } from './lib/urlState';
 import { MapView, type MapHandle, type MapViewMode } from './components/MapView';
@@ -321,8 +321,7 @@ export default function App() {
   const rateLabel = yearsPerSecond >= 10
     ? `${new Intl.NumberFormat('en-GB', { maximumSignificantDigits: 2 }).format(yearsPerSecond)} years per second`
     : `${yearsPerSecond.toFixed(1)} years per second`;
-  const current = currentId ? byId.get(currentId) : undefined;
-  const showingEventDate = playMode === 'events' && current && Math.abs(eventRange(current)[0] + 0.5 - year) < 1e-6;
+  const readoutYear = formatReadoutYear(year);
   const segIdx = scale.segments.findIndex((s) => year < s.a1);
 
   const startFromBeginning = () => {
@@ -375,11 +374,12 @@ export default function App() {
           />
 
           <div className="readout" aria-live="off">
-            <p className="readout-year">{showingEventDate ? current!.date.display : playheadLabel}</p>
-            <p className="readout-sub">
-              {mode === 'window' ? `Showing milestones dated within the ${span} years to here` : 'Showing all milestones up to here'}
-              {playing && playMode === 'time' ? `. Time passes at about ${rateLabel}` : ''}
-            </p>
+            <p className="readout-year">{readoutYear}</p>
+            {!playing && (
+              <p className="readout-sub">
+                {mode === 'window' ? `Showing milestones dated within the ${span} years to here` : 'Showing all milestones up to here'}
+              </p>
+            )}
           </div>
 
           {intro && (
