@@ -1,0 +1,86 @@
+[
+  {
+    "id": "anaesthesia",
+    "title": "Taming pain: the development of anaesthesia",
+    "dek": "From Ice Age surgery with no record of pain relief to herbal and then chemical anaesthesia, reached independently in Japan and the United States.",
+    "steps": [
+      { "eventId": "liang-tebo-amputation", "note": "Surgery long predates any record of anaesthesia. How this Ice Age patient's pain and bleeding were managed is simply unknown." },
+      { "eventId": "andean-trepanation", "note": "Andean surgeons operated on the skull for nearly two thousand years, with survival improving over time. No written record tells us what, if anything, eased the pain." },
+      { "eventId": "hanaoka-general-anaesthesia", "note": "In 1804 Hanaoka Seishū used a herbal preparation to anaesthetise a patient fully for breast surgery, the earliest well-documented general anaesthetic." },
+      { "eventId": "ether-anaesthesia", "note": "Four decades later, and with no knowledge of Hanaoka's work, ether was used in Georgia and then demonstrated publicly in Boston. Publicity, not priority, drove its spread." },
+      { "eventId": "bunyoro-caesarean", "note": "An 1879 account from Bunyoro describes banana wine used to dull pain during a caesarean section, a reminder that pain control took many forms." },
+      { "eventId": "first-heart-transplant", "note": "Reliable anaesthesia, together with antisepsis and blood transfusion, made long, complex operations such as heart transplantation possible." }
+    ]
+  },
+  {
+    "id": "infection",
+    "title": "Understanding and preventing infection",
+    "dek": "People learned to block the spread of disease long before they knew what caused it, and identifying germs did not immediately bring cures.",
+    "steps": [
+      { "eventId": "ragusa-quarantine", "note": "Ragusa's 1377 rule separated travellers for 30 days. It worked on observation, centuries before anyone knew about plague bacteria." },
+      { "eventId": "semmelweis-handwashing", "note": "Semmelweis's chlorinated-lime handwashing cut maternal deaths in Vienna in 1847, but his colleagues resisted and the practice lapsed." },
+      { "eventId": "snow-broad-street", "note": "John Snow linked cholera to a water pump in 1854 while most doctors still blamed foul air. The famous map came after the investigation, not before." },
+      { "eventId": "lister-antisepsis", "note": "Drawing on Pasteur's work, Lister used carbolic acid to prevent wound infection, turning germ theory into surgical practice." },
+      { "eventId": "laveran-malaria-parasite", "note": "Laveran found the malaria parasite in Algeria in 1880, the first protozoan shown to cause disease, and was doubted for nearly a decade." },
+      { "eventId": "koch-tuberculosis", "note": "Koch identified the tuberculosis bacillus in 1882, but effective drugs took another sixty years." },
+      { "eventId": "malaria-mosquito-transmission", "note": "Knowing how a disease travels can matter as much as knowing its cause: mosquitoes became the target of malaria control." },
+      { "eventId": "penicillin", "note": "Fleming's 1928 observation sat largely unused for a decade until others turned it into a medicine." },
+      { "eventId": "ors-oral-rehydration", "note": "A cheap drink of sugar and salt, proven in Dhaka and the 1971 refugee camps, became one of the most effective responses to deadly diarrhoea." }
+    ]
+  },
+  {
+    "id": "vaccination",
+    "title": "Vaccination and disease eradication",
+    "dek": "Inoculation travelled from Asia and Africa to Europe and the Americas, became vaccination, and eventually ended smallpox.",
+    "steps": [
+      { "eventId": "variolation-traditions", "note": "Deliberately giving a mild smallpox infection was practised in China, Africa and the Ottoman world long before Europe adopted it." },
+      { "eventId": "boston-inoculation-1721", "note": "In Boston, knowledge from an enslaved African man, Onesimus, led to inoculation and to an early attempt to judge it by counting deaths." },
+      { "eventId": "jenner-cowpox-vaccination", "note": "Jenner tested and publicised cowpox, a safer substitute. A Dorset farmer had already tried it on his family." },
+      { "eventId": "balmis-expedition", "note": "Vaccine crossed oceans in the bodies of orphaned children, an achievement inseparable from its ethical cost." },
+      { "eventId": "polio-vaccine-trials", "note": "Twentieth-century vaccines were tested in trials of unprecedented size, in the United States and, during the Cold War, in the Soviet Union." },
+      { "eventId": "smallpox-eradication", "note": "Case-finding and containment, not just mass vaccination, ended smallpox. The last natural case was in Somalia in 1977." },
+      { "eventId": "ebola-ring-vaccination", "note": "The same ring strategy was used to test an Ebola vaccine in Guinea during an epidemic." },
+      { "eventId": "rts-s-malaria-vaccine", "note": "The first vaccine against a human parasite was recommended in 2021 after pilots led by health ministries in Ghana, Kenya and Malawi." },
+      { "eventId": "mrna-vaccines", "note": "Fifteen years of largely unheralded laboratory work made mRNA vaccines possible within a year of the COVID-19 pandemic's start." }
+    ]
+  },
+  {
+    "id": "seeing-inside",
+    "title": "Seeing inside the body",
+    "dek": "From reading signs on the surface to listening, cutting and finally imaging, with long gaps where knowledge was lost or ignored.",
+    "steps": [
+      { "eventId": "edwin-smith-papyrus", "note": "An Egyptian surgeon described the surface of the brain in skull wounds, recording what injuries revealed." },
+      { "eventId": "babylonian-diagnostic-handbook", "note": "Babylonian scholars organised diagnosis as a reference work linking outward signs to what was happening within." },
+      { "eventId": "ibn-al-nafis-pulmonary-circulation", "note": "Ibn al-Nafis reasoned that blood passes through the lungs, a correct insight forgotten in the West for nearly seven centuries." },
+      { "eventId": "vesalius-fabrica", "note": "Vesalius made dissection and accurate illustration the basis of anatomy, using the bodies of executed criminals." },
+      { "eventId": "laennec-stethoscope", "note": "The stethoscope let doctors hear disease in the chest and check their judgements against autopsy." },
+      { "eventId": "rontgen-x-rays", "note": "X-rays showed the inside of the living body without surgery and were adopted with extraordinary speed." },
+      { "eventId": "ct-scanning", "note": "Computing turned X-rays into slices through the body, revealing soft tissue such as the brain." }
+    ]
+  },
+  {
+    "id": "childbirth",
+    "title": "Making childbirth safer",
+    "dek": "Knowledge about pregnancy and birth has been written down for nearly 4,000 years; the obstacles have often been secrecy, resistance and access.",
+    "steps": [
+      { "eventId": "kahun-gynaecological-papyrus", "note": "Egypt's oldest surviving medical papyrus is devoted to women's health, fertility and pregnancy." },
+      { "eventId": "chamberlen-forceps", "note": "A family of London practitioners kept a life-saving instrument secret for over a century." },
+      { "eventId": "semmelweis-handwashing", "note": "Handwashing slashed deaths from childbed fever in Vienna, yet the evidence was resisted." },
+      { "eventId": "bunyoro-caesarean", "note": "In 1879 a European visitor watched a caesarean in Bunyoro in which mother and child survived, at a time when the operation was often fatal in European hospitals." },
+      { "eventId": "liggins-antenatal-steroids", "note": "A sheep experiment in Auckland led to a randomised trial showing that steroids before birth protect premature babies." },
+      { "eventId": "kangaroo-mother-care", "note": "Short of incubators, doctors in Bogotá turned parents' bodies into the incubator. Trials later confirmed the benefit." }
+    ]
+  },
+  {
+    "id": "mind",
+    "title": "Caring for the mind",
+    "dek": "Explanations of mental illness and ways of caring for it, from Greek arguments against divine causes to community care in Belgium and Nigeria.",
+    "steps": [
+      { "eventId": "hippocratic-sacred-disease", "note": "A Greek author insisted that epilepsy had natural causes in the brain, though stigma long outlasted the argument." },
+      { "eventId": "geel-family-care", "note": "Pilgrims seeking cures at Geel were boarded with local families, the start of a tradition of community care that continues today." },
+      { "eventId": "mansuri-bimaristan", "note": "Cairo's great hospital included wards for mental illness within a general, endowed institution." },
+      { "eventId": "cade-lithium", "note": "A small uncontrolled study in Melbourne revived lithium, later confirmed by a placebo-controlled trial in Denmark." },
+      { "eventId": "aro-village-system", "note": "At Aro in Nigeria, patients lived in villages during treatment, an influential model of culturally grounded community psychiatry." }
+    ]
+  }
+]

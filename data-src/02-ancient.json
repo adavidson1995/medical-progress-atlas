@@ -1,0 +1,777 @@
+[
+  {
+    "id": "kahun-gynaecological-papyrus",
+    "title": "The Kahun papyrus on women's health",
+    "summary": "A papyrus from the town of Lahun in Egypt, written around 1800 BCE, sets out diagnoses and treatments for gynaecological complaints, fertility and pregnancy. It is the oldest surviving Egyptian medical papyrus.",
+    "explanation": "The papyrus was excavated at el-Lahun, near the Faiyum, by Flinders Petrie in 1889 and is now in the Petrie Museum at University College London (UC 32057). It dates from the Twelfth Dynasty of the Middle Kingdom.\n\nThe text is divided into short sections, each describing a woman's complaint, how to recognise it and how to treat it, with remedies applied to the body or taken by mouth rather than surgery. It also covers fertility, pregnancy and contraception.\n\nOlder medical texts exist elsewhere: a Sumerian medical text from around 2000 BCE is known from Mesopotamia.",
+    "date": {
+      "start": -1850,
+      "end": -1773,
+      "display": "c. 1800 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "Dated on palaeographic and archaeological grounds to the Twelfth Dynasty (Middle Kingdom), which ended c. 1773 BCE."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text",
+      "archaeological"
+    ],
+    "category": "maternal",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "women's health",
+      "earliest records",
+      "Egyptian medicine"
+    ],
+    "locations": [
+      {
+        "name": "el-Lahun (Kahun), near the Faiyum",
+        "modern": "El Lahun, Faiyum Governorate, Egypt",
+        "lat": 29.24,
+        "lon": 30.97,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Unknown Egyptian scribes and healers",
+        "role": "Compiled the text"
+      },
+      {
+        "name": "Flinders Petrie",
+        "role": "Excavated the papyrus (1889)"
+      },
+      {
+        "name": "F. Ll. Griffith",
+        "role": "First translator and editor"
+      }
+    ],
+    "whatChanged": "Preserves the earliest systematic written guidance on women's reproductive health from Egypt.",
+    "whyItMattered": "Shows that maternal and reproductive health was a distinct field of medical knowledge nearly four thousand years ago.",
+    "limitations": [
+      "Its explanations reflect Egyptian ideas of the body, such as the womb causing symptoms elsewhere; many remedies would not be effective.",
+      "Being the oldest surviving Egyptian medical papyrus says nothing about where such knowledge began."
+    ],
+    "sources": [
+      {
+        "citation": "Science in Ancient Egypt (Saxon Academy of Sciences, Leipzig). Kahun Gynaecological Papyrus (UC 32057), with bibliography including Collier M, Quirke S. The UCL Lahun Papyri (BAR International Series 1209, 2004), 58–64.",
+        "url": "https://sae.saw-leipzig.de/en/documents/kahun-gynaecological-papyrus",
+        "kind": "university",
+        "supports": "Inventory UC 32057 at the Petrie Museum; findspot el-Lahun; Middle Kingdom, 12th Dynasty; text type handbook."
+      },
+      {
+        "citation": "Garrison–Morton (HistoryofMedicine.com), entry 7011: The Petrie papyri. Hieratic papyri from Kahun and Gurob, ed. F. Ll. Griffith (1898).",
+        "url": "https://historyofmedicine.com/id/9177",
+        "kind": "book",
+        "supports": "c. 1800 BCE; found at El-Lahun by Petrie in 1889; translated by Griffith (1893); concerns gynaecological diseases, fertility, pregnancy and contraception."
+      },
+      {
+        "citation": "Cuneiform Digital Library Initiative. Medical texts (CDLI Wiki).",
+        "url": "https://cdli.ox.ac.uk/wiki/medical_texts",
+        "kind": "university",
+        "supports": "The oldest known complete medical text, from about 2000 BC, is in Sumerian."
+      }
+    ],
+    "related": [
+      "edwin-smith-papyrus",
+      "babylonian-diagnostic-handbook",
+      "chamberlen-forceps"
+    ]
+  },
+  {
+    "id": "edwin-smith-papyrus",
+    "title": "The Edwin Smith papyrus: injuries examined case by case",
+    "summary": "An Egyptian papyrus copied around 1600 BCE presents 48 cases of wounds and fractures, each with examination, diagnosis, prognosis and treatment. It includes the earliest known written descriptions of the brain's surface and of spinal injury.",
+    "explanation": "The scroll is named after the American dealer Edwin Smith, who bought it near Luxor in 1862; it is now held by the New York Academy of Medicine. It was copied around 1600 BCE from an older text whose date is uncertain.\n\nIts 48 cases are ordered from the skull down to the chest and upper arm, and each follows a fixed formula: a description of the injury, the diagnosis, a prognosis and the treatment, with explanatory notes. Several cases describe skull fractures exposing the brain and its coverings, and injuries of the neck that cause paralysis.\n\nThe main text is strikingly free of magic, though spells and recipes appear on the other side of the papyrus.",
+    "date": {
+      "start": -1650,
+      "end": -1550,
+      "display": "c. 1600 BCE (copy)",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "The surviving copy is dated to about 1600 BCE. The original it was copied from is older; estimates range widely and are uncertain."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "surgery",
+    "tags": [
+      "diagnosis",
+      "mind-brain"
+    ],
+    "themes": [
+      "trauma care",
+      "Egyptian medicine",
+      "earliest records"
+    ],
+    "locations": [
+      {
+        "name": "Thebes region, where the papyrus was bought in 1862",
+        "modern": "Luxor, Egypt",
+        "lat": 25.7,
+        "lon": 32.6,
+        "radiusKm": 30,
+        "precision": "region",
+        "type": "text-origin",
+        "role": "Acquired near Luxor; original findspot and place of writing unknown"
+      }
+    ],
+    "locationNote": "The papyrus was bought, not excavated, so the marker shows where it surfaced rather than where it was written.",
+    "people": [
+      {
+        "name": "An unknown Egyptian author and later copyist",
+        "role": "Wrote and copied the text"
+      },
+      {
+        "name": "Edwin Smith",
+        "role": "Bought the papyrus in 1862"
+      },
+      {
+        "name": "James Henry Breasted",
+        "role": "Translated it (published 1930)"
+      }
+    ],
+    "whatChanged": "Shows a structured, observation-based approach to injuries, including the judgement that some cases should not be treated.",
+    "whyItMattered": "It is the oldest known surgical treatise and a key witness to Egyptian clinical reasoning.",
+    "limitations": [
+      "It is a copy; the date and authorship of the original are unknown, and the 1862 purchase means its findspot is unrecorded.",
+      "Claims that it reflects a 'scientific' medicine separate from magic are partly modern framing; the same scroll contains spells."
+    ],
+    "sources": [
+      {
+        "citation": "New York Academy of Medicine. Edwin Smith Surgical Papyrus.",
+        "url": "https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/",
+        "kind": "archive",
+        "supports": "Created about 1600 BCE in hieratic; 48 cases of wounds and trauma in a fixed formula; magical spells on the reverse; held by NYAM."
+      },
+      {
+        "citation": "Stiefel M, et al. The Edwin Smith Papyrus: the birth of analytical thinking in medicine and otolaryngology. Laryngoscope 2006 (PubMed record).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16467701/",
+        "kind": "journal",
+        "supports": "Discovered in 1862 outside Luxor; a copy of an earlier text; 48 cases, mostly traumatic injuries."
+      },
+      {
+        "citation": "Minagar A, et al. The Edwin Smith surgical papyrus: description and analysis of the earliest case of aphasia. Journal of Medical Biography 2003;11(2):114–117.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12717541/",
+        "doi": "10.1177/096777200301100214",
+        "pages": "114–117",
+        "kind": "journal",
+        "supports": "First written use of the word for brain; earliest descriptions of the meninges and cerebrospinal fluid."
+      },
+      {
+        "citation": "The Edwin Smith papyrus: a clinical reappraisal of the oldest known document on spinal injuries (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989268/",
+        "kind": "journal",
+        "supports": "Seventeenth century BCE; six of the 48 cases concern the spine."
+      },
+      {
+        "citation": "Management of fractures of the humerus in ancient Egypt, Greece, and Rome: an historical review (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2690737/",
+        "kind": "journal",
+        "supports": "Copied circa 1600 BC; 48 cases topographically ordered from the skull to the chest and upper arm."
+      },
+      {
+        "citation": "Spinal cord injury: past, present, and future (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2031949/",
+        "kind": "journal",
+        "supports": "Purchased by Edwin Smith in Luxor in 1862; translated by Breasted, published 1930; six cervical spine cases, two with spinal cord injury."
+      }
+    ],
+    "related": [
+      "kahun-gynaecological-papyrus",
+      "european-trepanation"
+    ]
+  },
+  {
+    "id": "babylonian-diagnostic-handbook",
+    "title": "Babylon's Diagnostic Handbook is edited",
+    "summary": "Around the mid-eleventh century BCE the Babylonian scholar Esagil-kīn-apli produced a standard edition of Sakikkû, a long series of tablets linking symptoms to diagnoses and prognoses.",
+    "explanation": "Mesopotamian healers had been writing down medical knowledge for centuries. Esagil-kīn-apli, chief scholar to King Adad-apla-iddina, gathered and edited the diagnostic omen series known as Sakikkû, 'symptoms', creating the version that later scribes copied. His own catalogue explaining the new edition survives in Neo-Assyrian and Neo-Babylonian copies.\n\nEach entry follows a conditional formula: if a patient shows certain signs, then the diagnosis or outcome is this. The handbook covers symptoms throughout the body and records disease names, prognosis and supposed causes, which often included divine or demonic agency alongside natural explanations.\n\nThe work shows diagnosis organised as a systematic body of knowledge long before Greek medicine.",
+    "date": {
+      "start": -1067,
+      "end": -1046,
+      "display": "c. 1067–1046 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "During the reign of Adad-apla-iddina, as named in Esagil-kīn-apli's catalogue; reign dates themselves vary slightly between chronologies."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "Mesopotamian medicine",
+      "prognosis",
+      "scholarly editing"
+    ],
+    "locations": [
+      {
+        "name": "Babylonia",
+        "modern": "Southern Iraq",
+        "lat": 32.5,
+        "lon": 44.4,
+        "radiusKm": 150,
+        "precision": "region",
+        "type": "text-origin",
+        "role": "Region where the edition was made; copies survive from Assyria and Babylonia"
+      }
+    ],
+    "people": [
+      {
+        "name": "Esagil-kīn-apli",
+        "role": "Chief scholar (ummânu) who edited the series"
+      },
+      {
+        "name": "Generations of earlier Mesopotamian scholars",
+        "role": "Composed the material he edited"
+      }
+    ],
+    "whatChanged": "Created a standardised reference that tied observable signs to diagnosis and prognosis.",
+    "whyItMattered": "One of the earliest large-scale systematisations of diagnosis, and a reminder that diagnostic reasoning did not begin in Greece.",
+    "limitations": [
+      "The handbook mixes clinical observation with divination; its causes are often supernatural.",
+      "Esagil-kīn-apli edited an existing tradition rather than composing it from scratch."
+    ],
+    "sources": [
+      {
+        "citation": "Cuneiform Digital Library Initiative. Medical texts (CDLI Wiki).",
+        "url": "https://cdli.ox.ac.uk/wiki/medical_texts",
+        "kind": "university",
+        "supports": "Diagnostic Handbook by Esagil-kīn-apli during the reign of Adad-apla-iddina (1067–1046 BC); symptoms, disease names, prognosis and causation; casuistic formula; earlier Middle Babylonian diagnostic texts."
+      },
+      {
+        "citation": "Schmidtchen E. Esagil-kīn-apli's catalogue of Sakikkû and Alamdimmû. Chapter in an edited volume (De Gruyter).",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781501504914-007/pdf",
+        "doi": "10.1515/9781501504914-007",
+        "kind": "book",
+        "supports": "Catalogue names King Adad-apla-iddina; editorial work in the middle of the 11th century BCE; Heeßel's edition of the Diagnostic Handbook."
+      }
+    ],
+    "related": [
+      "kahun-gynaecological-papyrus",
+      "hippocratic-sacred-disease"
+    ]
+  },
+  {
+    "id": "hippocratic-sacred-disease",
+    "title": "'On the Sacred Disease' argues epilepsy is natural",
+    "summary": "A treatise in the Hippocratic collection, written around 450–400 BCE by an unknown author, insists that epilepsy is no more divine than any other disease and that its seat is the brain.",
+    "explanation": "Epilepsy was widely called the 'sacred disease' and treated with purifications and charms. The author of this short treatise attacked that view, arguing that people called the disease divine only because they did not understand it.\n\nHe described seizures from observation, loss of voice, foaming at the mouth, clenched hands and loss of awareness, and located their cause in the brain, which he regarded as the organ of thought and feeling. His mechanism, phlegm blocking passages from the brain, came from humoral theory and has not survived, but the insistence on natural causes did.\n\nThe treatise belongs to the Hippocratic Corpus, a collection of writings by many authors traditionally linked to Hippocrates of Kos. Its author is not known, and earlier thinkers such as Alcmaeon of Croton had already identified the brain as the seat of intelligence.",
+    "date": {
+      "start": -450,
+      "end": -400,
+      "display": "c. 450–400 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Usually dated to the second half of the fifth century BCE on stylistic and historical grounds."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "epilepsy",
+      "natural explanations of disease",
+      "stigma"
+    ],
+    "locations": [
+      {
+        "name": "Greek-speaking Aegean world",
+        "modern": "Greece and western Türkiye",
+        "lat": 37.8,
+        "lon": 25.0,
+        "radiusKm": 400,
+        "precision": "macro-region",
+        "type": "text-origin",
+        "role": "Author and place of writing unknown; the Corpus is traditionally linked to Kos"
+      }
+    ],
+    "people": [
+      {
+        "name": "Unknown Hippocratic author",
+        "role": "Wrote the treatise"
+      }
+    ],
+    "whatChanged": "Argued explicitly that a feared condition had natural, brain-based causes rather than divine ones.",
+    "whyItMattered": "An early challenge to supernatural explanations of disease and to the stigma attached to epilepsy, which nonetheless persisted for centuries.",
+    "limitations": [
+      "The proposed mechanism (phlegm from the brain) was wrong.",
+      "Attribution to Hippocrates himself is traditional, not established.",
+      "Natural and supernatural explanations coexisted in many traditions, including Mesopotamian and Egyptian medicine."
+    ],
+    "sources": [
+      {
+        "citation": "Theodore WH, in: Third International Congress on Epilepsy, Brain and Mind, part 1. Epilepsy & Behavior (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5256665/",
+        "kind": "journal",
+        "supports": "First surviving text devoted to epilepsy, usually dated 450–400 BCE; Alcmaeon and Democritus may have written earlier."
+      },
+      {
+        "citation": "The evolution of the concepts of seizures and epilepsy: what's in a name? (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7049807/",
+        "kind": "journal",
+        "supports": "Hippocratic collection, around 400 BC, by an unknown physician; scientific view of epilepsy."
+      },
+      {
+        "citation": "From phenomena to phrasing: rethinking seizure classification through history (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13232033/",
+        "kind": "journal",
+        "supports": "Epilepsy 'no more sacred than any other disease'; natural, brain-based causes; described signs; phlegm mechanism."
+      },
+      {
+        "citation": "Alcmaeon. Stanford Encyclopedia of Philosophy (Summer 2015 edition).",
+        "url": "https://plato.stanford.edu/archives/sum2015/entries/alcmaeon/",
+        "kind": "university",
+        "supports": "Alcmaeon's identification of the brain as the seat of intelligence influenced On the Sacred Disease."
+      }
+    ],
+    "related": [
+      "babylonian-diagnostic-handbook",
+      "geel-family-care"
+    ]
+  },
+  {
+    "id": "mawangdui-medical-manuscripts",
+    "title": "Medical manuscripts buried at Mawangdui",
+    "summary": "A Han-dynasty tomb at Mawangdui, sealed in 168 BCE, held the earliest surviving Chinese medical manuscripts, including a formulary of more than 250 prescriptions now called Recipes for Fifty-Two Ailments.",
+    "explanation": "Tomb 3 at Mawangdui, near Changsha, probably belonged to Li Xi, a young nobleman of the Western Han. When it was excavated in 1973, a lacquer case in the coffin chamber held a library of texts written on silk, bamboo and wood. Among them were medical manuscripts that had been unknown for two thousand years.\n\nThe best known, now called Recipes for Fifty-Two Ailments, contains more than 250 prescriptions and treatments. Other manuscripts deal with the body's channels and with treatment by moxa, a plant material burned on or near the skin. Because they predate the classic medical canons, they show Chinese medicine at an earlier, less systematised stage.\n\nThe tomb gives a firm latest date; the texts themselves were composed and copied earlier, at dates that are uncertain.",
+    "date": {
+      "start": -168,
+      "end": -168,
+      "display": "before 168 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "year",
+      "basis": "The tomb was sealed in 168 BCE, so the manuscripts were written before then. When the texts were composed is uncertain."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text",
+      "archaeological"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "Chinese medicine",
+      "earliest records",
+      "excavated texts"
+    ],
+    "locations": [
+      {
+        "name": "Mawangdui Tomb 3, near Changsha (Kingdom of Changsha)",
+        "modern": "Changsha, Hunan, China",
+        "lat": 28.21,
+        "lon": 113.03,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Unknown Chinese physicians and scribes",
+        "role": "Composed and copied the texts"
+      },
+      {
+        "name": "Li Xi (probable occupant of Tomb 3)",
+        "role": "Owner of the buried library"
+      },
+      {
+        "name": "Donald Harper",
+        "role": "Translated and studied the manuscripts (1998)"
+      }
+    ],
+    "whatChanged": "Revealed medical writing from before the classic Chinese canons, otherwise lost.",
+    "whyItMattered": "Changed scholars' understanding of how Chinese medicine developed and when its classic texts were compiled.",
+    "limitations": [
+      "These are the earliest surviving manuscripts, not the beginning of Chinese medical writing.",
+      "How well the remedies worked is unknown, and they reflect ideas about illness very different from today's."
+    ],
+    "sources": [
+      {
+        "citation": "Raphals L. Review of Donald Harper, Early Chinese Medical Literature: The Mawangdui Medical Manuscripts (London: Kegan Paul, 1998). Project MUSE.",
+        "url": "https://muse.jhu.edu/article/8677/summary",
+        "kind": "journal",
+        "supports": "Seven medical manuscripts on three sheets of silk from Mawangdui Tomb 3, recovered in 1973; burial dated 168 BCE; first published 1983."
+      },
+      {
+        "citation": "Introducing the *Wu ze you xing tu manuscript from Mawangdui. Early China (Cambridge University Press), 2020.",
+        "url": "https://www.cambridge.org/core/journals/early-china/article/introducing-the-wu-ze-you-xing-tu-manuscript-from-mawangdui/8B31FB01F5E501DACE140F8ABEACF8AB/share/62fdb2249a2c5f859385f713d686eb3c72914d16",
+        "kind": "journal",
+        "supports": "Tomb 3 at Changsha probably belonged to Li Xi (d. 168 BCE); manuscripts including medical texts on bamboo, wood and silk stored in a lacquer case."
+      },
+      {
+        "citation": "Illness, remedies and medical care in Han China. Ancient History Sites.",
+        "url": "https://www.ancient-history-sites.com/?p=173994",
+        "kind": "museum",
+        "supports": "Recipes for Fifty-Two Ailments contains more than 250 prescriptions; other texts on bodily channels and moxa."
+      }
+    ],
+    "related": [
+      "artemisinin",
+      "sushruta-samhita"
+    ]
+  },
+  {
+    "id": "sushruta-samhita",
+    "title": "The Compendium of Suśruta describes surgery, including rebuilding the nose",
+    "summary": "The Suśrutasaṃhitā, a Sanskrit medical treatise composed in layers about two thousand years ago, is a foundation of Ayurveda and contains detailed surgical instructions, including the reconstruction of noses and ears with skin flaps.",
+    "explanation": "The Compendium of Suśruta is one of the classical texts of South Asian medicine. It covers diagnosis and therapy but is especially known for its surgical teaching, including the plastic repair of the nose and ears.\n\nIts nasal reconstruction, using a flap of the patient's own skin, was later known in Europe as the 'Indian method'. The text was written in several authorial layers, and later commentators worked with revised versions. The oldest dated manuscript, from 878 CE and preserved in Kathmandu, records an earlier version than modern printed editions.\n\nPopular and clinical literature often dates Suśruta to 600 BCE or even earlier. Philological research does not support these dates.",
+    "date": {
+      "start": -100,
+      "end": 300,
+      "display": "c. 2,000 years ago (composed in layers)",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "The Suśruta Project dates the work to about two thousand years ago and stresses its many authorial layers; internal evidence suggests it is later than the Carakasaṃhitā. The earliest dated manuscript is from 878 CE. The range shown is deliberately broad."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "surgery",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "Ayurveda",
+      "plastic surgery",
+      "disputed dates"
+    ],
+    "locations": [
+      {
+        "name": "South Asia (place of composition unknown)",
+        "modern": "South Asia",
+        "lat": null,
+        "lon": null,
+        "radiusKm": 0,
+        "precision": "macro-region",
+        "type": "text-origin",
+        "role": "Where the text was composed is not known"
+      }
+    ],
+    "locationNote": "No reliable place of composition is known, so the treatise appears in the list and timeline but not on the map. Its oldest dated manuscript is preserved in Kathmandu.",
+    "people": [
+      {
+        "name": "Suśruta (traditional author) and later redactors",
+        "role": "Authors of successive layers of the text"
+      }
+    ],
+    "whatChanged": "Set down a systematic surgical curriculum and techniques such as flap repair of the nose.",
+    "whyItMattered": "The Indian method of nasal reconstruction influenced European plastic surgery, and the text remains central to Ayurveda.",
+    "limitations": [
+      "The common clinical claim that Suśruta lived around 600 BCE (or 1000–800 BCE) is not supported by textual scholarship.",
+      "The surviving text mixes layers from different periods, so not every technique can be dated to the same time."
+    ],
+    "contested": "Dates for Suśruta and the Compendium vary by more than a millennium across publications; philologists date the work to about two thousand years ago.",
+    "sources": [
+      {
+        "citation": "The Suśruta Project (University of Alberta), project overview.",
+        "url": "https://sushrutaproject.org",
+        "kind": "university",
+        "supports": "Written in Sanskrit about two thousand years ago; foundation of Ayurveda; MS Kathmandu KL 699 reliably datable to 878 CE; UNESCO Memory of the World."
+      },
+      {
+        "citation": "Wujastyk D, Birch J, Klebanov A, et al. On the Plastic Surgery of the Ears and Nose: The Nepalese Version of the Suśrutasaṃhitā. Heidelberg Asian Studies Publishing, 2023.",
+        "url": "https://soas-repository.worktribe.com/OutputFile/453104",
+        "doi": "10.11588/hasp.1203",
+        "kind": "book",
+        "supports": "Critical edition and translation of the chapter on plastic surgery of the ears and nose; differences between the Nepalese and later versions."
+      },
+      {
+        "citation": "Wujastyk D. Intertextuality and the methods of diagnosis. The Suśruta Project blog, 2025.",
+        "url": "https://sushrutaproject.org/?p=1706",
+        "kind": "university",
+        "supports": "Evidence used to argue that the Suśrutasaṃhitā is later than the Carakasaṃhitā."
+      },
+      {
+        "citation": "Wujastyk D. An anusvāra and the goals of editing. The Suśruta Project blog, 2020.",
+        "url": "https://sushrutaproject.org/?p=338",
+        "kind": "university",
+        "supports": "The Suśrutasaṃhitā has many authorial layers."
+      },
+      {
+        "citation": "Game changers: plastic and reconstructive surgery innovations of the last 100 years (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10431564/",
+        "kind": "journal",
+        "supports": "Example of the clinical literature dating Suśruta to c. 1000–800 BC and naming the pedicled flap the 'Indian method' (dates not adopted here)."
+      }
+    ],
+    "related": [
+      "mawangdui-medical-manuscripts",
+      "edwin-smith-papyrus"
+    ]
+  },
+  {
+    "id": "nubian-tetracycline",
+    "title": "Tetracycline in the bones of ancient Nubians",
+    "summary": "Bones from a population that lived in Sudanese Nubia around 350–550 CE contain the antibiotic tetracycline, probably from fermented grain or beer. Whether its use was deliberate is debated.",
+    "explanation": "In 1980, examining Nubian bones under ultraviolet light, the anthropologist George Armelagos and colleagues noticed a green-yellow fluorescence typical of tetracycline, an antibiotic produced by Streptomyces soil bacteria. Sceptics argued that the signal could have come from microbes invading the bones after burial.\n\nIn 2010, the chemist Mark Nelson and colleagues dissolved samples and confirmed by mass spectrometry that tetracycline was embedded in the bone itself, including in a young child. The quantities suggested regular consumption over long periods. The team proposed that the source was grain fermented into a beer-like gruel and contaminated with Streptomyces.\n\nThe authors believe the Nubians knew what they were doing. That is an interpretation: the chemistry shows exposure, not intention or medical purpose.",
+    "date": {
+      "start": 350,
+      "end": 550,
+      "display": "c. 350–550 CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "century",
+      "basis": "Date range of the burial population studied (the 'X-Group' period)."
+    },
+    "type": "observation",
+    "evidence": [
+      "archaeological",
+      "laboratory"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "antibiotics",
+      "fermentation",
+      "Africa",
+      "interpretation versus evidence"
+    ],
+    "locations": [
+      {
+        "name": "Sudanese Nubia (Nile valley)",
+        "modern": "Northern Sudan",
+        "lat": 21.5,
+        "lon": 31.0,
+        "radiusKm": 150,
+        "precision": "region",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "locationNote": "The burial sites lie in Sudanese Nubia; the marker shows the region rather than a specific cemetery.",
+    "people": [
+      {
+        "name": "Nubian communities of the Nile valley",
+        "role": "Produced and consumed the fermented food or drink"
+      },
+      {
+        "name": "George Armelagos",
+        "role": "Bioarchaeologist who first noticed the fluorescence"
+      },
+      {
+        "name": "Mark Nelson and colleagues",
+        "role": "Confirmed tetracycline chemically (2010)"
+      }
+    ],
+    "whatChanged": "Showed that people ingested an antibiotic substance some 1,500 years before antibiotics were discovered in the laboratory.",
+    "whyItMattered": "Raises the possibility that fermented foods were used, knowingly or not, in ways that affected infection, and shows how chemistry can test archaeological claims.",
+    "limitations": [
+      "The evidence shows consumption, not that the substance was used as medicine or that it improved health.",
+      "The claim that Nubians deliberately produced it is the researchers' interpretation."
+    ],
+    "contested": "Earlier critics attributed the fluorescence to post-burial contamination; the 2010 chemical analysis addressed that, but the question of intent remains open.",
+    "sources": [
+      {
+        "citation": "Emory University. Ancient brewmasters tapped drug secrets. Emory Report, 31 August 2010.",
+        "url": "https://news.emory.edu/emory-report-archive/stories/2010/09/07/beer.html",
+        "kind": "university",
+        "supports": "Armelagos's 1980 discovery in Nubian bones dated 350–550 CE; regular consumption likely through beer; Nelson's analysis; researchers' view that use was deliberate."
+      },
+      {
+        "citation": "Nelson ML, et al. Brief communication: mass spectroscopic characterization of tetracycline in the skeletal remains of an ancient population from Sudanese Nubia 350–550 CE. American Journal of Physical Anthropology 2010 (abstract as quoted by Phys.org and others).",
+        "url": "https://phys.org/news/2010-08-ancient-brew-masters-drug-secrets.pdf",
+        "kind": "journal",
+        "supports": "Prior histological evidence (Bassett et al., 1980) met with scepticism over taphonomic contamination; acid extraction and mass spectroscopic confirmation; source tied to grain containing Streptomyces."
+      }
+    ],
+    "singleSource": true,
+    "sourceNote": "The findings come from one research group's work over several decades; no independent re-analysis was found.",
+    "related": [
+      "penicillin",
+      "streptomycin-trial"
+    ]
+  },
+  {
+    "id": "andean-trepanation",
+    "title": "Two thousand years of skull surgery in the Andes",
+    "summary": "More trepanned skulls are known from Peru than from the rest of the world combined. Healing on the bone shows survival improved over time, reaching high rates in the centuries before the Spanish conquest.",
+    "explanation": "Over 800 skulls with surgical openings have been recovered from burial caves and excavations in coastal and highland Peru, the earliest dating to around 400 BCE. Analysing healing around the openings, John Verano and colleagues showed that early practitioners lost about half their patients, but that techniques were refined over the centuries.\n\nBetween about 1000 and 1400 CE, survival rose to as high as 91 per cent in some samples, and in the Inca period only around 17 to 25 per cent of patients died before their skulls began to heal. Some skulls bear several openings.\n\nThe researchers note that these outcomes compare favourably with nineteenth-century cranial surgery, but there are no written records explaining how Andean practitioners avoided infection.",
+    "date": {
+      "start": -400,
+      "end": 1532,
+      "display": "c. 400 BCE – early 1500s CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "century",
+      "basis": "From the earliest dated trepanned crania studied (c. 400 BCE) to the end of the Inca period at the Spanish conquest."
+    },
+    "type": "practice",
+    "evidence": [
+      "archaeological"
+    ],
+    "category": "surgery",
+    "tags": [
+      "mind-brain"
+    ],
+    "themes": [
+      "trepanation",
+      "Indigenous knowledge",
+      "improvement over time"
+    ],
+    "locations": [
+      {
+        "name": "Central Andes: coastal and highland Peru",
+        "modern": "Peru",
+        "lat": -12.0,
+        "lon": -75.5,
+        "radiusKm": 450,
+        "precision": "macro-region",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Andean practitioners across many cultures, including the Inca",
+        "role": "Performed the operations"
+      },
+      {
+        "name": "John W. Verano, Anne Titelbaum and David Kushner",
+        "role": "Analysed the crania and outcomes (2016–2018)"
+      }
+    ],
+    "whatChanged": "Documents a long, evolving surgical tradition in which outcomes measurably improved.",
+    "whyItMattered": "Shows independent development of cranial surgery in the Americas, and that pre-modern surgeons could achieve high survival.",
+    "limitations": [
+      "Healing shows survival, not why the operation was done or whether it helped the patient's condition.",
+      "Most skulls were collected in the late 1800s and early 1900s, and their contexts are not always well recorded."
+    ],
+    "sources": [
+      {
+        "citation": "Kushner DS, Verano JW, Titelbaum AR. Trepanation procedures/outcomes: comparison of prehistoric Peru with other ancient, medieval, and American Civil War cranial surgery. World Neurosurgery 2018;114.",
+        "url": "https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi.dedup.....01a05454baddd8a3184d868cd8b872b6",
+        "kind": "journal",
+        "supports": "More prehistoric trepanned crania in Peru than anywhere; nearly 2,000 years of practice from 400 BC; survival rates analysed."
+      },
+      {
+        "citation": "University of Miami. Remarkable skill of ancient Peru's cranial surgeons. News release via ScienceDaily, 8 June 2018.",
+        "url": "https://www.sciencedaily.com/releases/2018/06/180608200055.htm",
+        "kind": "university",
+        "supports": "Over 800 skulls mostly collected in the late 1800s and early 1900s; survival up to 91% in some samples 1000–1400 CE; Verano's book Holes in the Head."
+      },
+      {
+        "citation": "University of Miami News. Holes in the head (June 2018).",
+        "url": "https://news.miami.edu/stories/2018/06/holes-in-the-head.html",
+        "kind": "university",
+        "supports": "More trepanned skulls in Peru than the rest of the world combined; Inca survival about twice that of the American Civil War."
+      },
+      {
+        "citation": "Live Science. The Incas mastered the grisly practice of drilling holes in people's skulls (2018).",
+        "url": "https://www.foxnews.com/science/incas-mastered-the-grisly-practice-of-drilling-holes-in-peoples-skulls",
+        "kind": "journal",
+        "supports": "About half of patients in 400–200 BCE died; 17–25% of Inca-period patients died; no written records."
+      }
+    ],
+    "related": [
+      "european-trepanation",
+      "liang-tebo-amputation"
+    ]
+  },
+  {
+    "id": "mohenjo-daro-drainage",
+    "title": "Covered drains in every street of Mohenjo-daro",
+    "summary": "In the third millennium BCE, the Indus city of Mohenjo-daro was built with drains along every street and lane, connected to bathing floors and wastewater chutes in houses.",
+    "explanation": "Mohenjo-daro, on the right bank of the Indus, is the best-preserved city of the Indus civilisation. Its lower town was laid out on a strict plan. Street drains of fitted baked brick, sealed with mud mortar, ran along every street and lane, even in the poorest quarters, and were mostly covered with bricks or limestone blocks that could be lifted for cleaning. Larger drains had corbelled roofs high enough for workers to enter.\n\nInside houses, bathing floors and vertical pipes in the walls carried wastewater out to the street drains. The same drains were maintained and rebuilt over long periods. The so-called Great Bath, a large waterproofed tank, was emptied through a covered drain.\n\nThe system shows organised management of water and waste on an urban scale. What its builders understood about the link between waste and disease is unknown.",
+    "date": {
+      "start": -3000,
+      "end": -2001,
+      "display": "3rd millennium BCE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "millennium",
+      "basis": "UNESCO dates the city to the 3rd millennium BCE. The drains were built and rebuilt over a long period within this range."
+    },
+    "type": "practice",
+    "evidence": [
+      "archaeological"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "sanitation",
+      "urban planning",
+      "water management"
+    ],
+    "locations": [
+      {
+        "name": "Mohenjo-daro",
+        "modern": "Larkana District, Sindh, Pakistan",
+        "lat": 27.33,
+        "lon": 68.14,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Inhabitants and builders of the Indus city",
+        "role": "Built and maintained the drainage"
+      }
+    ],
+    "whatChanged": "Shows city-wide management of wastewater built into urban design.",
+    "whyItMattered": "One of the earliest known examples of sanitation planned at the scale of a whole city.",
+    "limitations": [
+      "We cannot tell whether health was a motive; the drains may reflect ideas of cleanliness, ritual or simple practicality.",
+      "Similar features exist at other Indus cities such as Harappa; Mohenjo-daro is the best preserved, not necessarily the first."
+    ],
+    "sources": [
+      {
+        "citation": "UNESCO World Heritage Centre. Archaeological Ruins at Moenjodaro (List no. 138).",
+        "url": "https://whc.unesco.org/en/list/138/",
+        "kind": "institution",
+        "supports": "Most ancient and best preserved urban ruin in the Indus Valley, 3rd millennium BC; strictly planned lower town."
+      },
+      {
+        "citation": "UNESCO World Heritage Centre. State of conservation report, Archaeological Ruins at Moenjodaro.",
+        "url": "https://whc.unesco.org/document/224137",
+        "kind": "institution",
+        "supports": "Located on the right bank of the Indus, 28 km from Larkana; best preserved urban settlement in South Asia."
+      },
+      {
+        "citation": "Harappa.com (J. M. Kenoyer and colleagues). Mohenjo-daro street with drains.",
+        "url": "https://www.harappa.com/blog/mohenjo-daro-street-drains",
+        "kind": "university",
+        "supports": "All streets and lanes had drains; vertical pipes and bathing-floor drains in houses; baked-brick drains sealed with mud mortar, mostly covered; reuse over time (Possehl)."
+      },
+      {
+        "citation": "Harappa.com. Ancient Indus city drains (quoting John Marshall).",
+        "url": "https://www.harappa.com/blog/ancient-indus-city-drains",
+        "kind": "university",
+        "supports": "Elaborate drainage even in the poorest quarters; removable brick or stone covers; corbelled roofs."
+      },
+      {
+        "citation": "Harappa.com. Mohenjo-daro Great Bath diagram.",
+        "url": "https://www.harappa.com/blog/mohenjo-daro-great-bath-diagram",
+        "kind": "university",
+        "supports": "Great Bath's waste water carried off through a covered drain."
+      }
+    ],
+    "related": [
+      "mehrgarh-dental",
+      "snow-broad-street"
+    ]
+  }
+]

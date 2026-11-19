@@ -1,0 +1,262 @@
+[
+  {
+    "id": "liang-tebo-amputation",
+    "title": "A healed amputation in a Bornean cave burial",
+    "summary": "The skeleton of a young person buried in Liang Tebo cave shows that part of the left lower leg was removed, probably in childhood, and that the person survived for years afterwards.",
+    "explanation": "Excavators working in the limestone karst of East Kalimantan found a burial in which the lower third of the left leg was missing. The cut through the shin bones is clean and oblique, and the bone ends show healing, which the team interpreted as a deliberate amputation rather than an accident or animal attack.\n\nThe individual appears to have survived the operation and lived for another six to nine years before being buried with care. That implies someone controlled bleeding, managed the wound and looked after a person with reduced mobility in a tropical setting where infection would have been a serious risk.\n\nThe find challenges a long-held view that complex surgery only emerged with settled farming societies around 10,000 years ago. Until this report, the oldest widely accepted amputation came from a Neolithic farmer in France, about 7,000 years ago.",
+    "date": {
+      "start": -29050,
+      "end": -28050,
+      "display": "c. 31,000 years ago",
+      "kind": "point",
+      "approximate": true,
+      "precision": "radiometric",
+      "basis": "The excavation report describes the burial as at least 31,000 years old; summaries of the paper give 31,000–30,000 years ago. Converted to BCE approximately, using 1950 as the reference year for 'years ago'."
+    },
+    "type": "practice",
+    "evidence": ["archaeological"],
+    "category": "surgery",
+    "tags": [],
+    "themes": ["prehistory", "foraging societies", "care of the injured"],
+    "locations": [
+      {
+        "name": "Liang Tebo cave, Sangkulirang–Mangkalihat karst",
+        "modern": "East Kalimantan, Indonesian Borneo",
+        "lat": 1.0,
+        "lon": 117.6,
+        "radiusKm": 60,
+        "precision": "region",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "locationNote": "The cave's exact position is not given in the sources consulted; the marker covers the karst region.",
+    "people": [
+      { "name": "An unknown foraging community", "role": "Carried out the amputation and cared for the patient" },
+      { "name": "Tim Maloney and an Indonesian–Australian team", "role": "Excavated (2020) and published the find (2022)" }
+    ],
+    "whatChanged": "Pushes the earliest known evidence of a successful surgical amputation back by roughly 24,000 years, and into a foraging rather than a farming society.",
+    "whyItMattered": "It shows that sophisticated surgical knowledge, including how to limit blood loss and infection, could exist among Ice Age foragers in tropical Asia.",
+    "limitations": [
+      "We do not know how the operation was done, what tools were used or why the limb was removed.",
+      "A single skeleton cannot show how common such operations were.",
+      "The interpretation rests on one study; no independent re-analysis was found."
+    ],
+    "sources": [
+      {
+        "citation": "Maloney TR, Dilkes-Hall IE, Vlok M, et al. Surgical amputation of a limb 31,000 years ago in Borneo. Nature 2022;609(7927):547–551.",
+        "url": "https://research-repository.uwa.edu.au/en/publications/surgical-amputation-of-a-limb-31000-years-ago-in-borneo/",
+        "doi": "10.1038/s41586-022-05160-8",
+        "kind": "journal",
+        "supports": "Date (at least 31,000 years ago), location (Liang Tebo, East Kalimantan), amputation of distal third of left lower leg, survival 6–9 years, previous oldest case c. 7,000 years ago."
+      },
+      {
+        "citation": "Early limb amputation in Borneo. The Past (Current World Archaeology), 15 November 2022.",
+        "url": "https://the-past.com/news/early-limb-amputation-in-borneo/",
+        "kind": "journal",
+        "supports": "Reported date range 31,000–30,000 years ago; clean cut through tibia and fibula; excavation in 2020."
+      }
+    ],
+    "singleSource": true,
+    "sourceNote": "All accounts derive from one excavation report (Maloney et al. 2022). The magazine report summarises that paper and is not independent confirmation.",
+    "related": ["european-trepanation", "villabruna-dental"]
+  },
+  {
+    "id": "villabruna-dental",
+    "title": "Flint tools used on a decayed tooth, Villabruna",
+    "summary": "A molar from a hunter-gatherer buried in the Dolomites about 14,000 years ago carries scratch marks inside a large cavity, interpreted as an attempt to clean out the decay with pointed flint.",
+    "explanation": "Researchers examined the teeth of a young man buried at Riparo Villabruna, a rock shelter in the Belluno Dolomites. A large carious cavity in a lower molar had striations that, under the scanning electron microscope, resemble cut marks made by pointed flint tools.\n\nThe marks were made while the man was alive and the authors argue they show intentional, if partial, removal of decayed tissue. They suggest early dental treatment grew out of the much older habit of toothpicking, using scraping and levering rather than drilling.\n\nAttempts to detect residues of any medication applied to the tooth were inconclusive.",
+    "date": {
+      "start": -12210,
+      "end": -11870,
+      "display": "c. 14,000 years ago",
+      "kind": "point",
+      "approximate": true,
+      "precision": "radiometric",
+      "basis": "The burial was directly radiocarbon dated to c. 14,160–13,820 calibrated years before present (BP = before 1950), i.e. roughly 12,210–11,870 BCE."
+    },
+    "type": "practice",
+    "evidence": ["archaeological"],
+    "category": "surgery",
+    "tags": [],
+    "themes": ["dentistry", "prehistory"],
+    "locations": [
+      {
+        "name": "Riparo Villabruna",
+        "modern": "Sovramonte, Belluno, Veneto, Italy",
+        "lat": 46.06,
+        "lon": 11.79,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      { "name": "A Late Upper Palaeolithic community", "role": "Practised the intervention" },
+      { "name": "Gregorio Oxilia, Stefano Benazzi and colleagues", "role": "Analysed the tooth (2015)" }
+    ],
+    "whatChanged": "Extends evidence of deliberate work on a diseased tooth back before farming, several thousand years earlier than drilled teeth from Neolithic Mehrgarh.",
+    "whyItMattered": "Suggests that people treated dental pain long before the dietary changes of agriculture made tooth decay common.",
+    "limitations": [
+      "The purpose is inferred: to remove decay and/or restore the tooth's function.",
+      "Similar marks can come from cutting meat held in the teeth; the authors argue the cavity's position makes this unlikely.",
+      "No evidence of any medicine applied to the tooth was found."
+    ],
+    "sources": [
+      {
+        "citation": "Oxilia G, Peresani M, Romandini M, et al. Earliest evidence of dental caries manipulation in the Late Upper Palaeolithic. Scientific Reports 2015;5:12150.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4504065",
+        "doi": "10.1038/srep12150",
+        "kind": "journal",
+        "supports": "Direct date 14,160–13,820 cal BP; Riparo Villabruna (Sovramonte, Belluno); ante-mortem striations from pointed flint tools; interpretation and limitations."
+      }
+    ],
+    "singleSource": true,
+    "sourceNote": "One peer-reviewed study. A follow-up by the same group (Riparo Fredian, 2017) reports related evidence but is not independent.",
+    "related": ["mehrgarh-dental", "liang-tebo-amputation"]
+  },
+  {
+    "id": "mehrgarh-dental",
+    "title": "Drilled molars at Neolithic Mehrgarh",
+    "summary": "Eleven molar crowns from nine adults buried at Mehrgarh carry neat drilled holes made in life, evidence of a local tradition of proto-dentistry lasting centuries.",
+    "explanation": "Mehrgarh, at the foot of the Bolan Pass, is one of the earliest farming villages known in South Asia. In its Neolithic graveyard, researchers identified eleven drilled molar crowns belonging to nine adults, women and men.\n\nThe holes were bored with tiny flint drill tips, probably the same tools that villagers used to perforate beads. Wear on the edges of the holes shows the teeth continued to be used for chewing, so the drilling was done on living people.\n\nThe authors argued that the holes, on back teeth where they would scarcely be visible, were unlikely to be decorative. Whether the drilling relieved pain or treated decay cannot be proven; no filling material survived.",
+    "date": {
+      "start": -7000,
+      "end": -5500,
+      "display": "c. 9,000–7,500 years ago",
+      "kind": "span",
+      "approximate": true,
+      "precision": "millennium",
+      "basis": "The graveyard is dated 9,000–7,500 years ago (roughly 7000–5500 BCE). The drilled teeth span this period, so the practice persisted rather than occurring once."
+    },
+    "type": "practice",
+    "evidence": ["archaeological"],
+    "category": "surgery",
+    "tags": [],
+    "themes": ["dentistry", "prehistory", "early farming"],
+    "locations": [
+      {
+        "name": "Mehrgarh",
+        "modern": "Kachi plain, Balochistan, Pakistan",
+        "lat": 29.38,
+        "lon": 67.62,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      { "name": "Neolithic community of Mehrgarh", "role": "Practised the drilling" },
+      { "name": "Alfredo Coppa, Luca Bondioli, Roberto Macchiarelli and colleagues", "role": "Identified and published the evidence (2006)" }
+    ],
+    "whatChanged": "Provides the earliest known evidence of drilling living human teeth, as a practice repeated over many generations.",
+    "whyItMattered": "Shows a craft skill (bead drilling) being turned to bodily care, and that early farming communities attempted dental intervention.",
+    "limitations": [
+      "The purpose is inferred; therapeutic intent is likely but not demonstrated.",
+      "The practice does not appear in later periods at the site."
+    ],
+    "sources": [
+      {
+        "citation": "Coppa A, Bondioli L, Cucina A, et al. Early Neolithic tradition of dentistry. Nature 2006;440(7085):755–756.",
+        "url": "https://carta.anthropogeny.org/node/311021",
+        "doi": "10.1038/440755a",
+        "kind": "journal",
+        "supports": "Eleven drilled molar crowns from nine adults; Neolithic graveyard in Pakistan dated 7,500–9,000 years ago; a long tradition of proto-dentistry."
+      },
+      {
+        "citation": "Microscopy reveals early Neolithic dentistry. Microscopy Today (Cambridge University Press), published online 14 March 2018.",
+        "url": "https://cambridge.org/core/journals/microscopy-today/article/microscopy-reveals-early-neolithic-dentistry/2715BDEA100ACFA5AB6898CA0B8FF571",
+        "kind": "journal",
+        "supports": "Authors' reasoning that the drilling was not decorative because the holes would hardly be visible."
+      }
+    ],
+    "singleSource": true,
+    "sourceNote": "The evidence comes from one research team's 2006 report; the second item summarises it.",
+    "related": ["villabruna-dental"]
+  },
+  {
+    "id": "european-trepanation",
+    "title": "Early skull surgery in Europe — and a re-examined 'first'",
+    "summary": "Healed openings in skulls from the Dnieper Rapids and from Ensisheim in Alsace have both been called the earliest trepanation in Europe. The Ensisheim case has since been reassessed.",
+    "explanation": "Trepanation, cutting or scraping an opening in the skull, is one of the oldest surgical procedures for which there is physical evidence. Healing around the edge of the hole shows that a person survived the procedure.\n\nIn 1997 a skull from a Neolithic cemetery at Ensisheim, dated to about 5100 BCE, was published as the earliest unequivocal trepanation. A year later, a skull from the Vasilyevka II cemetery in the Dnieper Rapids region, dated 1,000–2,000 years earlier, was reported with a fully healed opening.\n\nIn 2022 a re-examination of the Ensisheim skull argued that its two lesions may not be healed surgical openings at all and that disease cannot be excluded. The story is a reminder that a 'first' can be overturned in either direction, by new finds or by new readings of old ones.\n\nWhy people performed trepanation is unknown for these early cases. Later traditions show both therapeutic uses, such as treating skull fractures, and other motives.",
+    "date": {
+      "start": -7300,
+      "end": -5100,
+      "display": "c. 7300–5100 BCE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "radiometric",
+      "basis": "Vasilyevka II cemetery: radiocarbon determinations calibrated to 7300–6220 BCE (2σ). Ensisheim burial: c. 5100 BCE as reported in 1997."
+    },
+    "type": "practice",
+    "evidence": ["archaeological"],
+    "category": "surgery",
+    "tags": ["mind-brain"],
+    "themes": ["trepanation", "prehistory", "disputed firsts"],
+    "locations": [
+      {
+        "name": "Vasilyevka II cemetery, Dnieper Rapids",
+        "modern": "Dnipro river, south-eastern Ukraine",
+        "lat": 48.1,
+        "lon": 35.1,
+        "radiusKm": 50,
+        "precision": "region",
+        "type": "archaeological-findspot",
+        "role": "Healed trepanation reported in 1998 (Mesolithic–Neolithic transition)"
+      },
+      {
+        "name": "Ensisheim 'Les Octrois', tomb 44",
+        "modern": "Ensisheim, Haut-Rhin, France",
+        "lat": 47.87,
+        "lon": 7.35,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "archaeological-findspot",
+        "role": "Published as healed double trepanation in 1997; diagnosis questioned in 2022"
+      }
+    ],
+    "people": [
+      { "name": "Mesolithic and Neolithic communities of eastern and central Europe", "role": "Practitioners (unknown)" },
+      { "name": "Kurt W. Alt and colleagues", "role": "Reported Ensisheim (1997)" },
+      { "name": "Malcolm C. Lillie", "role": "Reported Vasilyevka II (1998)" },
+      { "name": "Marina Escolà", "role": "Re-examined Ensisheim (2022)" }
+    ],
+    "whatChanged": "Established that cranial surgery with survival was practised in Europe by at least the seventh millennium BCE, while showing how fragile priority claims are.",
+    "whyItMattered": "Trepanation was practised independently in many parts of the world. These cases are among the earliest well-studied examples.",
+    "limitations": [
+      "A healed opening documents a procedure, not its purpose or its benefit to the patient.",
+      "Openings in the skull can also result from injury, disease or decay after burial, so diagnosis requires careful study.",
+      "Dates for Vasilyevka II are for the cemetery, not the individual skeleton."
+    ],
+    "contested": "Ensisheim was described as the earliest 'unequivocal' trepanation in 1997; Lillie (1998) reported an older case; Escolà (2022) argues neither Ensisheim lesion is clearly a healed trepanation.",
+    "sources": [
+      {
+        "citation": "Alt KW, Jeunesse C, Buitrago-Téllez CH, et al. Evidence for stone age cranial surgery. Nature 1997;387(6631):360.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9163419",
+        "doi": "10.1038/387360a0",
+        "kind": "journal",
+        "supports": "Original report of the Ensisheim case."
+      },
+      {
+        "citation": "Lillie MC. Cranial surgery dates back to Mesolithic. Nature 1998;391(6670):854.",
+        "url": "https://www.nature.com/articles/36023",
+        "doi": "10.1038/36023",
+        "kind": "journal",
+        "supports": "Vasilyevka II location (Dnieper Rapids, c. 400 km south-east of Kyiv), calibrated dates 7300–6220 BCE, complete closure of the aperture; Ensisheim dated to 5100 BCE."
+      },
+      {
+        "citation": "Escolà M. La chirurgie crânienne du Néolithique alsacien : état de la question. Bulletin de la Société préhistorique française 2022;119(2):295–324.",
+        "url": "https://www.prehistoire.org/offres/doc_inline_src/515/0-BSPF_2022_2_article_ESCOLA.pdf",
+        "pages": "295–324",
+        "kind": "journal",
+        "supports": "Reassessment: the Ensisheim marks do not seem to be healed trepanations; other pathologies cannot be excluded."
+      },
+      {
+        "citation": "Walker AA. Neolithic surgery. Archaeology 1997;50(5).",
+        "url": "https://archive.archaeology.org/9709/newsbriefs/trepanation.html",
+        "kind": "journal",
+        "supports": "Ensisheim described as the earliest unequivocal evidence (1997); purpose unknown."
+      }
+    ],
+    "related": ["andean-trepanation", "liang-tebo-amputation"]
+  }
+]

@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "hanaoka-general-anaesthesia",
+    "title": "Hanaoka Seishū operates under general anaesthesia",
+    "summary": "On 13 October 1804 the surgeon Hanaoka Seishū gave a 60-year-old woman, Kan Aiya, an oral herbal anaesthetic, tsūsensan, and removed a breast tumour while she was unconscious.",
+    "explanation": "Hanaoka Seishū (1760–1835) practised in Kii Province, combining Chinese-derived herbal medicine with surgical ideas reaching Japan through Dutch books. He spent years developing tsūsensan (also called mafutsusan), a drink based mainly on Datura and other plants, testing it on animals and, according to biographers, on members of his own family.\n\nOn 13 October 1804 he used it to anaesthetise Kan Aiya and excised her breast cancer. This is the earliest well-documented operation under general anaesthesia, more than four decades before ether was demonstrated in the United States. Hanaoka went on to perform many more operations with the drug and trained numerous students.\n\nBecause Japan's contacts with the outside world were tightly restricted at the time, his work was little known abroad and did not influence the later development of ether and chloroform anaesthesia in Europe and North America. The two lines developed independently.",
+    "date": {
+      "start": 1804,
+      "end": 1804,
+      "display": "13 October 1804",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date recorded in Hanaoka's case record and repeated in scholarly accounts."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "surgery",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "anaesthesia",
+      "independent development",
+      "knowledge exchange"
+    ],
+    "locations": [
+      {
+        "name": "Hirayama, Kii Province",
+        "modern": "Kinokawa, Wakayama Prefecture, Japan",
+        "lat": 34.27,
+        "lon": 135.36,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Hanaoka Seishū",
+        "role": "Surgeon; developed tsūsensan"
+      },
+      {
+        "name": "Kan Aiya",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "Demonstrated that a patient could be rendered unconscious for major surgery with a reproducible preparation.",
+    "whyItMattered": "Showed that surgical anaesthesia was achievable decades before ether, and illustrates parallel, unconnected routes to the same goal.",
+    "limitations": [
+      "Tsūsensan's main active ingredients are toxic anticholinergic alkaloids; it was not a safe anaesthetic by modern standards.",
+      "Who transcribed the surviving case manuscript has been questioned by historians.",
+      "Herbal anaesthesia is described in earlier Chinese sources (notably the physician Hua Tuo, 2nd–3rd century CE), but no reliable formula or case record survives."
+    ],
+    "harms": "Biographical accounts relate that Hanaoka's mother and wife volunteered for trials of the drug and that his wife lost her sight, possibly as a result.",
+    "sources": [
+      {
+        "citation": "Izuo M. Medical history: Seishu Hanaoka and his success in breast cancer surgery under general anesthesia two hundred years ago. Breast Cancer 2004;11(4).",
+        "url": "https://www.deepdyve.com/lp/springer-journals/medical-history-seishu-hanaoka-and-his-success-in-breast-cancer-uemPDaSLKI",
+        "kind": "journal",
+        "supports": "Hanaoka performed successful breast-cancer surgery under general anaesthesia in 1804, 38 years before Long's use of ether in 1842."
+      },
+      {
+        "citation": "Matsuki A. [New studies on the history of anesthesiology: a new study on Seishu Hanaoka's 'Nyugan Chiken Roku']. Masui 2000;49(9):1038–1043. Abstract reproduced by general-anaesthesia.com.",
+        "url": "https://www.general-anaesthesia.com/seishu-hanaoka.html",
+        "pages": "1038–1043",
+        "kind": "journal",
+        "supports": "Date 13 October 1804; patient Kan Aiya, aged 60; uncertainty over who transcribed the case manuscript."
+      },
+      {
+        "citation": "Kotler DL. Dr. Seishu Hanaoka (1760–1835): surgeon, pharmacist, and anesthesiologist. Gibbon Society Historical Profiles, Thomas Jefferson University, 2014.",
+        "url": "https://core.ac.uk/download/129189266.pdf",
+        "kind": "university",
+        "supports": "Documented 1804 operation in Wakayama; tsūsensan's plant ingredients including Datura; Dutch surgical influence; family members' involvement in testing."
+      }
+    ],
+    "related": [
+      "ether-anaesthesia"
+    ]
+  },
+  {
+    "id": "bunyoro-caesarean",
+    "title": "A caesarean delivery observed in Bunyoro",
+    "summary": "In 1879 a visiting medical student, Robert Felkin, watched practitioners in the kingdom of Bunyoro deliver a baby by caesarean section. Mother and child were alive when he left 11 days later.",
+    "explanation": "Robert Felkin was travelling with a missionary party in the Great Lakes region when, at a place he called Kahura, he witnessed a caesarean section carried out by a local surgeon and assistants. His account was presented to the Edinburgh Obstetrical Society in 1884.\n\nAccording to Felkin, the patient, a young woman in her first pregnancy, was made half-intoxicated with banana wine, which was also used to wash the surgeon's hands and her abdomen. The surgeon opened the abdomen and uterus, delivered the baby, cleared the uterus of clots and the placenta, and closed the wound by pinning the edges together with iron spikes, covered with clean cloth. Felkin followed the mother and baby for 11 days and both did well.\n\nFelkin concluded that the operation was well established. At the time, caesarean section in European hospitals still carried a very high maternal death rate, which makes the account notable, though it cannot be generalised from a single case.",
+    "date": {
+      "start": 1879,
+      "end": 1879,
+      "display": "1879",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of Felkin's observation, as given in his 1884 account."
+    },
+    "type": "observation",
+    "evidence": [
+      "eyewitness-account"
+    ],
+    "category": "maternal",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "Indigenous knowledge",
+      "anaesthesia",
+      "colonial-era observation"
+    ],
+    "locations": [
+      {
+        "name": "Kahura, Kingdom of Bunyoro (Bunyoro-Kitara)",
+        "modern": "Western Uganda",
+        "lat": 1.7,
+        "lon": 31.5,
+        "radiusKm": 120,
+        "precision": "region",
+        "type": "documented-practice"
+      }
+    ],
+    "locationNote": "Kahura has not been located precisely; the marker shows the Bunyoro region.",
+    "people": [
+      {
+        "name": "An unnamed Banyoro surgeon and assistants",
+        "role": "Performed the operation"
+      },
+      {
+        "name": "Robert W. Felkin",
+        "role": "Observer; published the account (1884)"
+      }
+    ],
+    "whatChanged": "Documented that surgical delivery with survival of mother and child was practised in East Africa by local practitioners, independently of European surgery.",
+    "whyItMattered": "Challenges narratives in which surgical progress flows only outward from Europe, and records African surgical knowledge that is otherwise poorly documented in writing.",
+    "limitations": [
+      "This is a single eyewitness account by an outside observer; no Banyoro written record of the practice exists.",
+      "How often such operations were done, and with what outcomes, is unknown.",
+      "Felkin's interpretations (for example, that the wine acted as an anaesthetic) are his own."
+    ],
+    "sources": [
+      {
+        "citation": "Dunn PM. Robert Felkin MD (1853–1926) and caesarean delivery in Central Africa (1879). Archives of Disease in Childhood: Fetal and Neonatal Edition 1999;80(3):F250–F251.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10212095",
+        "doi": "10.1136/fn.80.3.f250",
+        "pages": "F250–F251",
+        "kind": "journal",
+        "supports": "Felkin's lecture to the Edinburgh Obstetrical Society, 9 January 1884 ('Notes on labour in Central Africa'); operation performed in 1879 at Kahura; both mother and child survived."
+      },
+      {
+        "citation": "Diop S, et al. Overview of surgical and anesthesia practice in sub-Saharan Africa during the 19th century: the example of the people of Bunyoro. Pan African Medical Journal 2021;40:120.",
+        "url": "https://www.panafrican-med-journal.com/content/article/40/120/full",
+        "doi": "10.11604/pamj.2021.40.120.32092",
+        "kind": "journal",
+        "supports": "Patient aged 21, first pregnancy; banana alcohol used; wound closed with iron spikes; mother and baby followed for 11 days; Bunyoro kingdom."
+      }
+    ],
+    "singleSource": true,
+    "sourceNote": "Both scholarly sources rely on Felkin's single 1884 account (Edinburgh Medical Journal 1884;29:922–930); there is no independent eyewitness.",
+    "related": [
+      "chamberlen-forceps",
+      "semmelweis-handwashing"
+    ]
+  },
+  {
+    "id": "laveran-malaria-parasite",
+    "title": "Laveran sees the malaria parasite in a soldier's blood",
+    "summary": "On 6 November 1880, at the military hospital in Constantine, the French army physician Alphonse Laveran saw moving parasites in the fresh blood of a soldier with malaria.",
+    "explanation": "Laveran had been posted to French military hospitals in Algeria, where malaria was common and often severe. Studying the dark pigment found in the blood of patients, he noticed unfamiliar bodies, and on 6 November 1880 at Constantine he watched one put out moving filaments, a sign that it was alive. He concluded that malaria was caused by a parasite, not a bacterium or a miasma.\n\nHe reported the finding to the French Academy of Medicine in November 1880. Many colleagues were sceptical, partly because others were searching for a 'malaria bacillus'; recognition came only gradually, by about 1889.\n\nIt was the first protozoan shown to cause an infectious disease, and it opened the way to the work on how malaria spreads.",
+    "date": {
+      "start": 1880,
+      "end": 1880,
+      "display": "6 November 1880",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the observation at Constantine military hospital, as given in histories of Laveran's work and by Institut Pasteur."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "malaria",
+      "infectious disease",
+      "colonial military medicine"
+    ],
+    "locations": [
+      {
+        "name": "Military hospital, Constantine (French Algeria)",
+        "modern": "Constantine, Algeria",
+        "lat": 36.37,
+        "lon": 6.61,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Alphonse Laveran",
+        "role": "French army physician"
+      },
+      {
+        "name": "An unnamed soldier of the transport corps",
+        "role": "Patient whose blood was examined"
+      }
+    ],
+    "whatChanged": "Identified a parasite in human blood as the cause of malaria, overturning bacterial and 'bad air' explanations.",
+    "whyItMattered": "Made diagnosis by microscopy possible and set up the search for how the parasite reaches people.",
+    "limitations": [
+      "Laveran's observation was not widely accepted for about a decade.",
+      "The full life cycle, including transmission by mosquitoes, was worked out by others later."
+    ],
+    "sources": [
+      {
+        "citation": "Laveran, the military doctor. Article in PubMed Central (in French with English abstract).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10387292/",
+        "kind": "journal",
+        "supports": "Discovery at the military hospital in Constantine on 6 November 1880, in the blood of a soldier."
+      },
+      {
+        "citation": "Laveran and the French Academy of Medicine. Article in PubMed Central.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10387297/",
+        "kind": "journal",
+        "supports": "Note sent to the Academy in November 1880 from Constantine; rapporteur Léon Colin unconvinced."
+      },
+      {
+        "citation": "Institut Pasteur. Alphonse Laveran (1845–1922).",
+        "url": "https://www.pasteur.fr/en/about-us/alphonse-laveran-1845-1922",
+        "kind": "institution",
+        "supports": "Discovery at Constantine hospital in 1880; descriptions published 1880–1882."
+      },
+      {
+        "citation": "Nobel Prize in Physiology or Medicine 1907: award ceremony speech (C. Sundberg).",
+        "url": "https://www.nobelprize.org/prizes/medicine/1907/ceremony-speech/",
+        "kind": "institution",
+        "supports": "Research began at Bône in 1879; scepticism, including from those seeking a malaria bacillus; recognition by 1889."
+      },
+      {
+        "citation": "Cox FEG. History of the discovery of the malaria parasites and their vectors. Parasites & Vectors 2010;3:5.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2825508/",
+        "kind": "journal",
+        "supports": "Understanding of the malaria parasites begins in 1880 with Laveran's discovery."
+      }
+    ],
+    "related": [
+      "malaria-mosquito-transmission",
+      "artemisinin",
+      "rts-s-malaria-vaccine"
+    ]
+  },
+  {
+    "id": "malaria-mosquito-transmission",
+    "title": "Mosquitoes shown to carry malaria",
+    "summary": "In 1897 Ronald Ross found malaria parasites developing in the stomach of an Anopheles mosquito that had fed on a patient. Over the next three years, Battista Grassi's team in Rome showed how human malaria is transmitted.",
+    "explanation": "Patrick Manson and Laveran had suggested that mosquitoes might spread malaria. Ronald Ross, an officer in the Indian Medical Service, spent more than two years dissecting mosquitoes before, on 20 August 1897 at Secunderabad, he found pigmented cysts in the stomach wall of an anopheline mosquito fed on a patient with malaria. He then worked out the full transmission cycle using a malaria parasite of birds.\n\nIn Italy, Giovanni Battista Grassi and colleagues showed that human malaria is transmitted specifically by Anopheles mosquitoes, confirming the cycle in humans by about 1900. Ross and Grassi quarrelled bitterly over priority; the 1902 Nobel Prize went to Ross alone.\n\nKnowing the vector made it possible to attack malaria by controlling mosquitoes and their breeding sites, alongside treating the infection.",
+    "date": {
+      "start": 1897,
+      "end": 1900,
+      "display": "1897–1900",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Ross's key observation on 20 August 1897; Grassi's group's confirmation in human malaria by about 1900."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "prevention",
+      "public-health"
+    ],
+    "themes": [
+      "malaria",
+      "vector-borne disease",
+      "disputed priority"
+    ],
+    "locations": [
+      {
+        "name": "Secunderabad, Hyderabad State (British India)",
+        "modern": "Secunderabad, Telangana, India",
+        "lat": 17.44,
+        "lon": 78.5,
+        "radiusKm": 8,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Ross finds parasite stages in an Anopheles mosquito, 20 August 1897"
+      },
+      {
+        "name": "Rome",
+        "modern": "Rome, Italy",
+        "lat": 41.9,
+        "lon": 12.5,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Grassi and colleagues show anophelines transmit human malaria (1898–1900)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ronald Ross",
+        "role": "Indian Medical Service officer"
+      },
+      {
+        "name": "Patrick Manson",
+        "role": "Proposed the mosquito hypothesis and advised Ross"
+      },
+      {
+        "name": "Giovanni Battista Grassi and colleagues",
+        "role": "Demonstrated transmission of human malaria by Anopheles"
+      }
+    ],
+    "whatChanged": "Showed that malaria parasites pass through a mosquito, explaining how the disease spreads.",
+    "whyItMattered": "Mosquito control became a central strategy in malaria prevention, from drainage to bed nets.",
+    "limitations": [
+      "Ross's complete life cycle was shown in bird malaria; human transmission was confirmed by the Italian school.",
+      "Priority between Ross and Grassi was fiercely disputed and the Nobel Prize recognised only Ross."
+    ],
+    "contested": "Credit for working out the transmission of human malaria is disputed between Ross and Grassi's group.",
+    "sources": [
+      {
+        "citation": "Cox FEG. History of the discovery of the malaria parasites and their vectors. Parasites & Vectors 2010;3:5.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2825508/",
+        "kind": "journal",
+        "supports": "Ross found developmental stages in anopheline mosquitoes and called 20 August 1897 'Mosquito day'; full cycle elucidated in bird malaria."
+      },
+      {
+        "citation": "In the wake of Alphonse Laveran. Article in PubMed Central (in French with English abstract).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10387307/",
+        "kind": "journal",
+        "supports": "Ross posted to Secunderabad in June 1897; observed pigmented oocysts on 20 August 1897; role of Grassi."
+      },
+      {
+        "citation": "Nobel Prize in Physiology or Medicine 1902: Ronald Ross, biographical.",
+        "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/biographical/",
+        "kind": "institution",
+        "supports": "Indian Medical Service from 1881; tested the Laveran–Manson mosquito hypothesis from 1894; Nobel citation."
+      },
+      {
+        "citation": "Cox FEG. History of human parasitology. Clinical Microbiology Reviews 2002.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC126866/",
+        "kind": "journal",
+        "supports": "Ross saw oocysts in an anopheline fed on a patient, then turned to bird malaria."
+      },
+      {
+        "citation": "Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clinical Microbiology Reviews 2009.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2620631/",
+        "kind": "journal",
+        "supports": "Ross identified oocysts in mosquitoes in India in 1897; Grassi and colleagues confirmed anopheline mosquitoes as the vector of human malaria in 1900."
+      }
+    ],
+    "related": [
+      "laveran-malaria-parasite",
+      "artemisinin"
+    ]
+  },
+  {
+    "id": "balmis-expedition",
+    "title": "The Balmis expedition carries vaccine across two oceans",
+    "summary": "From 1803 a Spanish royal expedition led by Francisco Xavier de Balmis carried smallpox vaccine to the Americas and Asia, keeping it alive by passing it arm to arm through a chain of orphaned children.",
+    "explanation": "Cowpox material lost its potency within days, so it could not survive a long voyage in a bottle. Balmis's solution was to take children who had never had smallpox and vaccinate them in sequence: as one child's pustule matured, fluid from it was used to vaccinate the next.\n\nThe expedition sailed from La Coruña on 30 November 1803 with 22 boys from an orphanage in Santiago de Compostela. In the Americas it divided. José Salvany led a branch through present-day Colombia, Ecuador, Peru, Bolivia and Chile, a journey that lasted years, while Balmis took the vaccine to New Spain. There he recruited further children to carry it across the Pacific to the Philippines, and from there it reached Macao.\n\nThe expedition is often described as the first international, philanthropic vaccination campaign.",
+    "date": {
+      "start": 1803,
+      "end": 1806,
+      "display": "1803–1806",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Commonly dated 1803–1806 for Balmis's own route, from the departure from La Coruña on 30 November 1803. Salvany's branch continued in South America for several more years; sources give end dates between 1806 and 1814."
+    },
+    "type": "implementation",
+    "evidence": [
+      "programme-records"
+    ],
+    "category": "prevention",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "smallpox",
+      "vaccines",
+      "colonial health campaigns",
+      "children in medical history"
+    ],
+    "locations": [
+      {
+        "name": "La Coruña",
+        "modern": "A Coruña, Galicia, Spain",
+        "lat": 43.37,
+        "lon": -8.4,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Departure, 30 November 1803"
+      },
+      {
+        "name": "Santafé de Bogotá (Viceroyalty of New Granada)",
+        "modern": "Bogotá, Colombia",
+        "lat": 4.6,
+        "lon": -74.08,
+        "radiusKm": 15,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Salvany's South American branch"
+      },
+      {
+        "name": "New Spain",
+        "modern": "Mexico",
+        "lat": 19.4,
+        "lon": -99.1,
+        "radiusKm": 300,
+        "precision": "macro-region",
+        "type": "implementation-area",
+        "role": "Vaccination and recruitment of children for the Pacific crossing"
+      },
+      {
+        "name": "Manila (Spanish Philippines)",
+        "modern": "Manila, Philippines",
+        "lat": 14.6,
+        "lon": 120.98,
+        "radiusKm": 15,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Vaccine carried across the Pacific"
+      },
+      {
+        "name": "Macao",
+        "modern": "Macao, China",
+        "lat": 22.2,
+        "lon": 113.55,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Vaccine reaches southern China"
+      }
+    ],
+    "people": [
+      {
+        "name": "Francisco Xavier de Balmis",
+        "role": "Physician and director of the expedition"
+      },
+      {
+        "name": "José Salvany",
+        "role": "Led the South American branch"
+      },
+      {
+        "name": "Orphaned children from Spain and New Spain",
+        "role": "Carried the vaccine in their bodies"
+      },
+      {
+        "name": "King Charles IV of Spain",
+        "role": "Ordered and funded the expedition"
+      }
+    ],
+    "whatChanged": "Showed that a fragile biological product could be kept viable across oceans and introduced at scale in distant territories.",
+    "whyItMattered": "Brought vaccination to large parts of the Spanish empire within a few years of Jenner's publication.",
+    "limitations": [
+      "Coverage was uneven, and the expedition served the priorities of a colonial power.",
+      "Accounts differ on the expedition's end date and on the number of children involved in later stages."
+    ],
+    "harms": "The method depended on using orphaned children, who could not consent, as living carriers; arm-to-arm vaccination could also transmit other infections. In the same period, Portuguese efforts in Brazil and Angola used enslaved children to carry vaccine.",
+    "sources": [
+      {
+        "citation": "The past, present, and future of immunization in the Americas (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6645178/",
+        "kind": "journal",
+        "supports": "22 children from the Santiago de Compostela orphanage; sailed from La Coruña on 30 November 1803; additional 25 orphans selected to cross the Pacific."
+      },
+      {
+        "citation": "Tarrago RE. The Balmis–Salvany smallpox expedition: the first public health vaccination campaign in South America. Pan American Health Organization.",
+        "url": "https://www3.paho.org/english/dd/pin/Number11_article6.htm",
+        "kind": "institution",
+        "supports": "Royal order of 1 September 1803; Salvany's route through Cartagena, Panama and Santafé de Bogotá and the countries of western South America; orphan children used for arm-to-arm transfer."
+      },
+      {
+        "citation": "Jenner's legacy: how Edward Jenner's smallpox vaccine changed public health (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450354/",
+        "kind": "journal",
+        "supports": "Expedition 1803–1806 through the Americas, the Philippines and Macao."
+      },
+      {
+        "citation": "In arms and on slides: slavery-related interests in the dissemination of smallpox vaccine in Brazil and Angola, 1804–1810 (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13450909/",
+        "kind": "journal",
+        "supports": "Use of enslaved children's bodies to transport vaccine in the Portuguese world."
+      },
+      {
+        "citation": "The XIX century smallpox prevention in Naples and the risk of transmission of human blood-related pathogens (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4328853/",
+        "kind": "journal",
+        "supports": "Arm-to-arm vaccination associated with outbreaks of syphilis and serum hepatitis."
+      }
+    ],
+    "related": [
+      "jenner-cowpox-vaccination",
+      "smallpox-eradication"
+    ]
+  },
+  {
+    "id": "semmelweis-handwashing",
+    "title": "Semmelweis orders hand disinfection on a maternity ward",
+    "summary": "In May 1847, at Vienna's General Hospital, Ignaz Semmelweis required doctors and medical students to wash their hands in chlorinated lime before examining women in labour. Deaths from puerperal fever fell sharply.",
+    "explanation": "Vienna's maternity hospital had two clinics, and women were admitted to them on alternate days. From 1840 to 1846, about 98 of every 1,000 mothers died in the first clinic, where doctors and medical students worked, against about 36 per 1,000 in the second, staffed by midwives. Almost all the deaths were from puerperal (childbed) fever.\n\nSemmelweis concluded that students and doctors were carrying 'cadaverous particles' on their hands from the autopsy room to the delivery ward. From 15 May 1847 he required everyone to scrub with a chlorinated lime solution until the smell of the dissecting room was gone. Mortality in the first clinic fell to around the level of the midwives' clinic, and rose again after he left Vienna in 1850 and the practice lapsed.\n\nHis ideas were resisted, and he was slow to publish: students and colleagues reported his findings, and his own book appeared only in 1861. Germ theory, which explained why handwashing worked, came later.",
+    "date": {
+      "start": 1847,
+      "end": 1847,
+      "display": "15 May 1847",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date the chlorinated lime handwashing order took effect, as given in WHO and historical accounts."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "programme-records",
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "infection control",
+      "delay between discovery and adoption",
+      "hospital records"
+    ],
+    "locations": [
+      {
+        "name": "Vienna General Hospital (Allgemeines Krankenhaus), First Obstetric Clinic",
+        "modern": "Vienna, Austria",
+        "lat": 48.22,
+        "lon": 16.35,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ignaz Philipp Semmelweis",
+        "role": "Assistant physician in obstetrics"
+      },
+      {
+        "name": "Mothers admitted to the Vienna maternity clinics",
+        "role": "Patients whose deaths and survival were recorded"
+      }
+    ],
+    "whatChanged": "Showed that disinfecting clinicians' hands could prevent a deadly hospital infection, even before its cause was understood.",
+    "whyItMattered": "Hand hygiene is now the cornerstone of infection prevention in health care.",
+    "limitations": [
+      "Semmelweis's explanation (cadaverous particles) was incomplete; bacteria were identified as the cause later.",
+      "The comparison relied on hospital records rather than a planned trial, although alternate-day admission made the two clinics broadly comparable."
+    ],
+    "harms": "Resistance to Semmelweis's findings meant the practice lapsed in Vienna after he left in 1850, and maternal deaths there rose again.",
+    "sources": [
+      {
+        "citation": "Loudon I. Ignaz Phillip Semmelweis' studies of death in childbirth. Journal of the Royal Society of Medicine (James Lind Library).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/",
+        "kind": "journal",
+        "supports": "Two clinics with alternate-day admission; 1840–1846 mortality 98.4 vs 36.2 per 1,000; almost all deaths from puerperal fever; chloride of lime handwashing introduced 1847."
+      },
+      {
+        "citation": "Allegranzi B, et al. Preventing sepsis in healthcare: 200 years after the birth of Ignaz Semmelweis (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/",
+        "kind": "journal",
+        "supports": "Intervention instituted on 15 May 1847, scrubbing with chlorinated lime between autopsy room and delivery room."
+      },
+      {
+        "citation": "Semmelweis and the aetiology of puerperal sepsis 160 years on: an historical review (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2870773/",
+        "kind": "journal",
+        "supports": "Handwashing reduced mortality; cessation after Semmelweis left Vienna in 1850 associated with increased mortality."
+      },
+      {
+        "citation": "The little-known history of cleanliness and the forgotten pioneers of handwashing (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745",
+        "kind": "journal",
+        "supports": "Semmelweis did not publish at first; students reported his results; his book appeared in 1861."
+      },
+      {
+        "citation": "WHO Regional Office for Europe. Commemorating the impact of Semmelweis' work on global health. 19 June 2018.",
+        "url": "https://www.who.int/europe/news/item/19-06-2018-commemorating-the-impact-of-semmelweis-work-on-global-health",
+        "kind": "institution",
+        "supports": "Students and junior physicians ordered to wash in chlorinated lime until the smell of corpses was undetectable."
+      }
+    ],
+    "related": [
+      "lister-antisepsis",
+      "bunyoro-caesarean",
+      "koch-tuberculosis"
+    ]
+  },
+  {
+    "id": "snow-broad-street",
+    "title": "John Snow traces a cholera outbreak to a water pump",
+    "summary": "During the Soho cholera outbreak of 1854, John Snow gathered evidence that cases were linked to water from the Broad Street pump and persuaded local officials to remove its handle on 8 September.",
+    "explanation": "Many physicians at the time believed cholera spread through foul air, or miasma. John Snow, a London physician also known for his work on anaesthesia, argued that it was spread by something taken in by mouth, most likely in water.\n\nWhen a severe outbreak struck Soho at the end of August 1854, killing more than 600 people, Snow examined the addresses of the dead and interviewed residents. Deaths clustered around the Broad Street pump, and telling exceptions fitted his theory: workers at a nearby brewery who drank beer escaped, while a woman living far away who had Broad Street water brought to her daily died. He presented his evidence to the parish board of guardians, and the pump handle was removed the next day, 8 September.\n\nThe outbreak was already declining by then, and the famous map of deaths was drawn afterwards to present the case rather than to discover it. Snow's broader argument that cholera is waterborne was not widely accepted in his lifetime.",
+    "date": {
+      "start": 1854,
+      "end": 1854,
+      "display": "8 September 1854",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date the pump handle was removed, as given by LSHTM and in Snow's 1855 account."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "public-health",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "epidemiology",
+      "cholera",
+      "water and sanitation",
+      "myths in medical history"
+    ],
+    "locations": [
+      {
+        "name": "Broad Street, Soho, Parish of St James",
+        "modern": "Broadwick Street, Soho, London, UK",
+        "lat": 51.51,
+        "lon": -0.14,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "John Snow",
+        "role": "Physician and investigator"
+      },
+      {
+        "name": "Board of Guardians of St James's parish",
+        "role": "Ordered removal of the pump handle"
+      },
+      {
+        "name": "Residents of Soho",
+        "role": "Gave information about their water use"
+      }
+    ],
+    "whatChanged": "Linked cases of a disease to a specific water source by systematically studying where and how people fell ill.",
+    "whyItMattered": "Became a founding example of epidemiology and of public-health action based on evidence rather than prevailing theory.",
+    "limitations": [
+      "Removing the handle did not end the outbreak on its own; it was already waning, partly because residents had fled.",
+      "The popular story that Snow's map revealed the source is a myth; he identified the pump through investigation, and the map illustrated his argument."
+    ],
+    "sources": [
+      {
+        "citation": "London School of Hygiene & Tropical Medicine. About John Snow (John Snow bicentenary).",
+        "url": "https://johnsnowbicentenary.lshtm.ac.uk/about-john-snow/",
+        "kind": "university",
+        "supports": "Analysis of death addresses and interviews; council persuaded to remove the handle on 8 September 1854; outbreak beginning 30 August 1854; Snow's work in anaesthesia."
+      },
+      {
+        "citation": "London School of Hygiene & Tropical Medicine. EPM101 Fundamentals of Epidemiology: John Snow's investigation of cholera.",
+        "url": "http://dl.lshtm.ac.uk/epmtastercourse/tastercourses/1/epm101/fe01/EPM101_FE01_010_100.html",
+        "kind": "university",
+        "supports": "Brewery workers who drank beer were spared; a woman in Hampstead who had Broad Street water brought daily died; handle removed 8 September 1854."
+      },
+      {
+        "citation": "UCLA Fielding School of Public Health. Map, myth and error making in the Broad Street pump outbreak.",
+        "url": "https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_f.html",
+        "kind": "university",
+        "supports": "Snow's own words that the handle was removed the following day; myth about the map's role; errors in later maps."
+      },
+      {
+        "citation": "Science Museum. Epidemiology: the public health science.",
+        "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/epidemiology-public-health-science",
+        "kind": "museum",
+        "supports": "Data gathered from records and households; outbreak already petering out when the handle was removed."
+      },
+      {
+        "citation": "John Snow, cholera, the Broad Street pump; waterborne diseases then and now (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/",
+        "kind": "journal",
+        "supports": "Already declining epidemic, partly because people left the area."
+      },
+      {
+        "citation": "London School of Hygiene & Tropical Medicine. John Snow memorial pump reinstalled (news, 2019).",
+        "url": "https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its",
+        "kind": "university",
+        "supports": "Outbreak claimed over 600 lives in Soho."
+      }
+    ],
+    "related": [
+      "ragusa-quarantine",
+      "ors-oral-rehydration"
+    ]
+  },
+  {
+    "id": "ether-anaesthesia",
+    "title": "Ether anaesthesia: a country practice and a public demonstration",
+    "summary": "Crawford Long used ether during surgery in Jefferson, Georgia, in March 1842 but did not publicise it. On 16 October 1846 William Morton's public demonstration at Massachusetts General Hospital spread surgical anaesthesia around the world.",
+    "explanation": "The intoxicating effects of inhaled ether had been known for centuries. On 30 March 1842, Crawford Long, a physician in rural Georgia, etherised a patient, James Venable, to remove cysts from his neck, and went on to use ether in other operations. He did not report this promptly, so his work had no immediate influence.\n\nOn 16 October 1846, the Boston dentist William T. G. Morton administered sulphuric ether to Edward Gilbert Abbott in the surgical amphitheatre of Massachusetts General Hospital, now called the Ether Dome, while the surgeon John Collins Warren operated on a lesion under Abbott's jaw. Hospital records show the operation was a ligation of the lesion's blood supply rather than the tumour excision often described. The technique was quickly adopted around the world.\n\nThe demonstration was followed by twenty years of bitter dispute over credit between Morton, the chemist Charles Jackson and the dentist Horace Wells, none of whom had been first. Morton also tried to patent ether.",
+    "date": {
+      "start": 1842,
+      "end": 1846,
+      "display": "1842–1846",
+      "kind": "span",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Long's first recorded use on 30 March 1842; Morton's public demonstration on 16 October 1846."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report",
+      "programme-records"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "anaesthesia",
+      "independent development",
+      "disputed priority"
+    ],
+    "locations": [
+      {
+        "name": "Jefferson, Georgia",
+        "modern": "Jefferson, Georgia, USA",
+        "lat": 34.12,
+        "lon": -83.57,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Crawford Long's use of ether in private practice, from 30 March 1842"
+      },
+      {
+        "name": "Massachusetts General Hospital, Boston",
+        "modern": "Boston, Massachusetts, USA",
+        "lat": 42.36,
+        "lon": -71.07,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Public demonstration by Morton and Warren, 16 October 1846"
+      }
+    ],
+    "people": [
+      {
+        "name": "Crawford W. Long",
+        "role": "Physician who used ether in 1842"
+      },
+      {
+        "name": "James Venable",
+        "role": "Long's patient"
+      },
+      {
+        "name": "William T. G. Morton",
+        "role": "Dentist who administered ether in the 1846 demonstration"
+      },
+      {
+        "name": "John Collins Warren",
+        "role": "Surgeon who operated"
+      },
+      {
+        "name": "Edward Gilbert Abbott",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "Made painless surgery a public, reproducible reality that surgeons everywhere could adopt.",
+    "whyItMattered": "Anaesthesia allowed longer, more careful operations and transformed surgery and dentistry.",
+    "limitations": [
+      "General anaesthesia had already been achieved in Japan in 1804 by a different method, unknown in the West.",
+      "Early ether anaesthesia was imprecise and carried real risks."
+    ],
+    "contested": "Long, Morton, Jackson and Wells all claimed credit; historians generally separate first use (Long) from the demonstration that led to adoption (Morton).",
+    "sources": [
+      {
+        "citation": "Wood Library-Museum of Anesthesiology. History of anesthesia (timeline).",
+        "url": "https://www.woodlibrarymuseum.org/history-of-anesthesia/",
+        "kind": "museum",
+        "supports": "Long etherised James Venable for removal of neck cysts on 30 March 1842; Morton's public demonstration on 16 October 1846 at MGH with John Collins Warren."
+      },
+      {
+        "citation": "Wood Library-Museum of Anesthesiology. Ether.",
+        "url": "https://www.woodlibrarymuseum.org/museum/ether/",
+        "kind": "museum",
+        "supports": "Long used ether in private practice in Jefferson, Georgia, in 1842; technique quickly adopted worldwide after 1846."
+      },
+      {
+        "citation": "Massachusetts General Hospital, Paul S. Russell, MD Museum of Medical History and Innovation. The Ether Dome.",
+        "url": "https://www.massgeneral.org/museum/exhibits/ether-dome",
+        "kind": "museum",
+        "supports": "16 October 1846 public surgery using ether in the amphitheatre now called the Ether Dome."
+      },
+      {
+        "citation": "Ether Day revisited: the surgical records of Edward Gilbert Abbott (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10431558/",
+        "kind": "journal",
+        "supports": "Patient Gilbert Abbott; sulphuric ether given by Morton; MGH records show an attempted ligation of the lesion's blood supply; details often misreported."
+      },
+      {
+        "citation": "Adams AK. Tarnished idol: William Thomas Green Morton and the introduction of surgical anesthesia (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1279690/",
+        "kind": "journal",
+        "supports": "Twenty years of dispute between three claimants, none the earliest; Morton patented ether."
+      }
+    ],
+    "related": [
+      "hanaoka-general-anaesthesia",
+      "lister-antisepsis"
+    ]
+  },
+  {
+    "id": "lister-antisepsis",
+    "title": "Lister treats a compound fracture with carbolic acid",
+    "summary": "On 12 August 1865 at Glasgow Royal Infirmary, Joseph Lister dressed the open leg fracture of a boy, James Greenlees, with carbolic acid. The wound healed without infection, and Lister published the method in 1867.",
+    "explanation": "Compound fractures, where broken bone pierces the skin, frequently became infected and could lead to amputation or death. Lister, Regius Professor of Surgery at Glasgow, had read Louis Pasteur's work on microorganisms and reasoned that something entering the wound from outside caused the putrefaction.\n\nWhen James Greenlees was brought in after being run over by a cart, Lister set the bone and dressed the wound with carbolic acid (phenol). The boy recovered fully. Lister treated further cases and in 1867 published a series of articles in The Lancet setting out what he called the antiseptic principle.\n\nHe later extended the approach to the surgical environment as a whole, using a carbolic spray during his years in Edinburgh.",
+    "date": {
+      "start": 1865,
+      "end": 1865,
+      "display": "12 August 1865",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first use of carbolic acid on Greenlees's wound; publication followed in 1867."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "infection control",
+      "germ theory"
+    ],
+    "locations": [
+      {
+        "name": "Glasgow Royal Infirmary",
+        "modern": "Glasgow, Scotland, UK",
+        "lat": 55.86,
+        "lon": -4.24,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Joseph Lister",
+        "role": "Surgeon"
+      },
+      {
+        "name": "James Greenlees",
+        "role": "Patient, a boy with an open leg fracture"
+      },
+      {
+        "name": "Louis Pasteur",
+        "role": "Chemist whose work on microorganisms Lister drew on"
+      }
+    ],
+    "whatChanged": "Turned the idea that germs cause wound infection into a practical surgical method.",
+    "whyItMattered": "Antiseptic and later aseptic surgery made operations far safer and enabled modern surgery.",
+    "limitations": [
+      "Lister's evidence was a series of cases rather than a controlled comparison.",
+      "Adoption by other surgeons was gradual, and the germ theory on which it rested was still contested."
+    ],
+    "sources": [
+      {
+        "citation": "Royal College of Physicians and Surgeons of Glasgow Heritage. Lister's antiseptic practice.",
+        "url": "https://heritage.rcpsg.ac.uk/exhibits/show/lister-exhibition/lister-antiseptic-practice",
+        "kind": "museum",
+        "supports": "First case James Greenlees in 1865, injured by a cart; Glasgow Royal Infirmary; carbolic acid dressings; influence of Pasteur."
+      },
+      {
+        "citation": "Royal College of Physicians and Surgeons of Glasgow Heritage. The case of James Greenlees.",
+        "url": "https://heritage.rcpsg.ac.uk/items/show/1422",
+        "kind": "museum",
+        "supports": "1867 Lancet articles; open fracture dressed in carbolic acid; full recovery; carbolic spray mainly used in Edinburgh."
+      },
+      {
+        "citation": "The Lister Lecture, 1964: wound sepsis, from carbolic acid to hyperbaric oxygen (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1928284/",
+        "kind": "journal",
+        "supports": "Original use of carbolic acid at the Royal Infirmary, Glasgow, on 12 August 1865."
+      },
+      {
+        "citation": "Joseph Lister and the performance of antiseptic surgery (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3744349/",
+        "kind": "journal",
+        "supports": "First published account in a series of Lancet articles in spring 1867, beginning with Greenlees and three other patients."
+      }
+    ],
+    "related": [
+      "semmelweis-handwashing",
+      "ether-anaesthesia"
+    ]
+  },
+  {
+    "id": "laennec-stethoscope",
+    "title": "Laennec invents the stethoscope",
+    "summary": "In 1816 at the Necker Hospital in Paris, René Laennec rolled paper into a tube to listen to a patient's chest, then built a wooden stethoscope. His 1819 treatise linked the sounds he heard to findings at autopsy.",
+    "explanation": "Physicians sometimes listened to the chest by pressing an ear against it, which was awkward and often uninformative. According to the best-known account, Laennec was examining a young woman with suspected heart disease when he rolled a sheaf of paper into a tube and found that heart and breath sounds were much clearer through it. He soon replaced the paper with a wooden cylinder.\n\nLaennec's real innovation was method. He systematically compared the sounds heard through the instrument with what he later found at post-mortem examination, building a vocabulary of signs such as rales and egophony. He set this out in De l'auscultation médiate (1819), which taught a generation of students from many countries.\n\nAccounts differ on the date of the first use: some give February 1816, others 13 September 1816.",
+    "date": {
+      "start": 1816,
+      "end": 1816,
+      "display": "1816",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of the invention at the Necker Hospital; sources disagree on the month (February or September). The treatise was published in 1819."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "devices",
+      "clinical examination",
+      "clinico-pathological correlation"
+    ],
+    "locations": [
+      {
+        "name": "Necker Hospital, Paris",
+        "modern": "Paris, France",
+        "lat": 48.85,
+        "lon": 2.32,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "René-Théophile-Hyacinthe Laennec",
+        "role": "Physician at the Necker Hospital"
+      }
+    ],
+    "whatChanged": "Gave doctors an instrument and a method for detecting disease inside the chest from its sounds.",
+    "whyItMattered": "The stethoscope became the symbol of clinical medicine, and Laennec's correlation of signs with autopsy findings shaped modern diagnosis.",
+    "limitations": [
+      "The famous anecdote about the young woman comes from later retellings; details vary between accounts.",
+      "Auscultation depends heavily on the listener's skill and has been partly supplemented by imaging."
+    ],
+    "sources": [
+      {
+        "citation": "Roguin A. Rene Theophile Hyacinthe Laënnec (1781–1826): the man behind the stethoscope. Clinical Medicine & Research (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1570491/",
+        "kind": "journal",
+        "supports": "Invention in 1816; diagnoses correlated with autopsy observations; De l'auscultation médiate."
+      },
+      {
+        "citation": "Morris JS. Laennec's stethoscope: the Welsh connection (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1079329/",
+        "kind": "journal",
+        "supports": "Chef de service at the Necker Hospital in 1816 where he described the stethoscope; published 1819; over 300 foreign students."
+      },
+      {
+        "citation": "Hollman A. An ear to the chest: an illustrated history of the evolution of the stethoscope (review, PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1279298/",
+        "kind": "journal",
+        "supports": "Invention dated 13 September 1816; rolled quire of paper; occasion witnessed by Augustus Granville; paper replaced by wood."
+      },
+      {
+        "citation": "Cinteza M. The stethoscope at the age of 200 (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5394493/",
+        "kind": "journal",
+        "supports": "Alternative account dating the invention to February 1816."
+      },
+      {
+        "citation": "A history of physical examination texts and the conception of bedside diagnosis (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3116347/",
+        "kind": "journal",
+        "supports": "1819 manual coined terms such as rales, egophony and pectoriloquy; correlation with autopsy findings."
+      }
+    ],
+    "related": [
+      "rontgen-x-rays",
+      "ct-scanning"
+    ]
+  },
+  {
+    "id": "serum-therapy",
+    "title": "Antitoxin serum against diphtheria and tetanus",
+    "summary": "In 1890, Emil von Behring and Kitasato Shibasaburō, working in Robert Koch's institute in Berlin, showed that serum from immunised animals could neutralise diphtheria and tetanus toxins and protect other animals. Serum therapy followed.",
+    "explanation": "Diphtheria killed large numbers of children by producing a toxin. Behring and Kitasato found that animals injected with the toxins of diphtheria or tetanus bacteria produced substances in their blood that neutralised them. Serum taken from such animals could protect untreated animals and even cure sick ones. They published their findings jointly in 1890.\n\nBehring concluded that immunity could be transferred in the blood, an idea now called passive immunisation. Horse serum against diphtheria was soon tested in children, with an early report on 30 bacteriologically confirmed cases in 1893, and antitoxin was used in hospitals to reduce deaths during outbreaks by the mid-1890s. Similar work was under way in France at almost the same time.\n\nThe first Nobel Prize in Physiology or Medicine, in 1901, went to Behring alone for serum therapy, although the foundational 1890 paper was co-authored with Kitasato.",
+    "date": {
+      "start": 1890,
+      "end": 1890,
+      "display": "1890",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of the joint publication in Deutsche Medizinische Wochenschrift (1890;16:1113–1114)."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "prevention",
+      "mechanisms"
+    ],
+    "themes": [
+      "immunology",
+      "child health",
+      "recognition and exclusion"
+    ],
+    "locations": [
+      {
+        "name": "Institute for Infectious Diseases (Koch's institute), Berlin",
+        "modern": "Berlin, Germany",
+        "lat": 52.53,
+        "lon": 13.35,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Emil von Behring",
+        "role": "Bacteriologist"
+      },
+      {
+        "name": "Kitasato Shibasaburō",
+        "role": "Bacteriologist; co-author of the 1890 paper"
+      }
+    ],
+    "whatChanged": "Created the first specific treatment for diphtheria and established that immunity can be transferred through blood serum.",
+    "whyItMattered": "Founded serum therapy and passive immunisation; antitoxin remains the specific treatment for diphtheria.",
+    "limitations": [
+      "Injecting animal serum carried a risk of serious reactions in patients.",
+      "Early clinical evidence came from case series rather than controlled trials."
+    ],
+    "contested": "The Nobel Prize recognised Behring alone, although the 1890 paper on tetanus and diphtheria immunity was joint work with Kitasato.",
+    "sources": [
+      {
+        "citation": "von Behring E, Kitasato S. Ueber das Zustandekommen der Diphtherie-Immunität und der Tetanus-Immunität bei Thieren. Deutsche Medizinische Wochenschrift 1890;16(49):1113–1114 (as cited in PubMed Central reviews).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7151993/",
+        "doi": "10.1055/s-0029-1207589",
+        "pages": "1113–1114",
+        "kind": "primary",
+        "supports": "Original 1890 joint publication; passive immunisation demonstrated in animals; antitoxin used in hospitals by the mid-1890s; Behring's 1901 Nobel Prize."
+      },
+      {
+        "citation": "Passive immunization: toward magic bullets (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150278/",
+        "kind": "journal",
+        "supports": "Behring and Kitasato working in Koch's laboratory in Berlin; serum could confer immunity and cure sick animals."
+      },
+      {
+        "citation": "French 19th century contributions to the development of treatments for diphtheria (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3078608/",
+        "kind": "journal",
+        "supports": "Serum from hyper-immune horse; first clinical report in 1893 on 30 bacteriologically confirmed cases."
+      },
+      {
+        "citation": "From the Gorgon's blood to Behring's Blutserumtherapie: a long path towards serum therapy (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13459526/",
+        "kind": "journal",
+        "supports": "Discovery of the serum therapy principle in Germany and France almost at the same time."
+      },
+      {
+        "citation": "Life-threatening antibodies: the discovery of anaphylaxis (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13459517/",
+        "kind": "journal",
+        "supports": "1890 protective serum experiments; anaphylaxis as the negative counterpart of serum therapy."
+      }
+    ],
+    "related": [
+      "koch-tuberculosis",
+      "jenner-cowpox-vaccination"
+    ]
+  },
+  {
+    "id": "rontgen-x-rays",
+    "title": "Röntgen discovers X-rays",
+    "summary": "On 8 November 1895 at the University of Würzburg, Wilhelm Conrad Röntgen noticed a fluorescent screen glowing near a shielded cathode-ray tube. He identified a new, penetrating radiation he called X-rays.",
+    "explanation": "Röntgen was experimenting with cathode-ray tubes when a fluorescent screen in his laboratory began to glow for no apparent reason. After weeks of work, often eating and sleeping in the laboratory, he showed that the tube emitted invisible rays able to pass through materials that were opaque to ordinary light. Because their nature was unknown, he called them X-rays.\n\nHe mailed his first announcement to colleagues on 1 January 1896, and the news spread around the world through the press. The discovery very soon made an impact on practical medicine, letting doctors see inside the body without surgery. Röntgen received the first Nobel Prize in Physics in 1901.",
+    "date": {
+      "start": 1895,
+      "end": 1895,
+      "display": "8 November 1895",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the discovery as given by the Nobel Foundation; first announcement mailed 1 January 1896."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [],
+    "themes": [
+      "imaging",
+      "devices",
+      "rapid adoption"
+    ],
+    "locations": [
+      {
+        "name": "University of Würzburg",
+        "modern": "Würzburg, Bavaria, Germany",
+        "lat": 49.79,
+        "lon": 9.93,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Wilhelm Conrad Röntgen",
+        "role": "Physicist"
+      }
+    ],
+    "whatChanged": "Allowed doctors to see inside the living body without cutting it open.",
+    "whyItMattered": "Founded medical imaging; radiography remains one of the most used diagnostic tests.",
+    "limitations": [
+      "Röntgen was investigating physics, not medicine; the medical applications were developed by many others.",
+      "The biological dangers of the new radiation were not understood at first."
+    ],
+    "sources": [
+      {
+        "citation": "NobelPrize.org. Marie and Pierre Curie and the discovery of polonium and radium.",
+        "url": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/",
+        "kind": "institution",
+        "supports": "8 November 1895 discovery at Würzburg; first announcement mailed 1 January 1896; rapid impact on practical medicine."
+      },
+      {
+        "citation": "NobelPrize.org. The Nobel Prize in Physics 1901 — Speed read: an illuminating accident.",
+        "url": "https://www.nobelprize.org/prizes/physics/1901/speedread/",
+        "kind": "institution",
+        "supports": "Glowing fluorescent screen in November 1895; weeks of work eating and sleeping in the lab; first Nobel Prize in Physics 1901."
+      },
+      {
+        "citation": "NobelPrize.org. The Nobel Prize in Physics 1901 — Perspectives: a helping hand from the media.",
+        "url": "https://www.nobelprize.org/prizes/physics/1901/perspectives/",
+        "kind": "institution",
+        "supports": "News of X-rays spread through the press; Röntgen at Würzburg University."
+      }
+    ],
+    "related": [
+      "laennec-stethoscope",
+      "ct-scanning"
+    ]
+  },
+  {
+    "id": "koch-tuberculosis",
+    "title": "Koch identifies the cause of tuberculosis",
+    "summary": "On 24 March 1882, at the Berlin Physiological Society, Robert Koch announced that he had found the bacterium that causes tuberculosis, then responsible for about one in seven deaths in Europe and the United States.",
+    "explanation": "Tuberculosis was widely thought to be hereditary or constitutional. Using new staining methods and culture media, Koch showed rod-shaped bacteria in tuberculous tissue from humans and animals, grew them in pure culture on blood serum, and reproduced the disease by inoculating animals with the cultures.\n\nHe presented his findings in a lecture on the aetiology of tuberculosis and published them three weeks later. In 1884 he set out the criteria, now called Koch's postulates, for linking a specific microbe to a specific disease, which became a foundation of bacteriology.\n\nIdentifying the cause did not immediately produce a cure; effective drugs arrived only in the 1940s. The anniversary of Koch's lecture has been observed as World TB Day since 1982.",
+    "date": {
+      "start": 1882,
+      "end": 1882,
+      "display": "24 March 1882",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of Koch's lecture to the Berlin Physiological Society; publication followed on 10 April 1882."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "germ theory",
+      "tuberculosis",
+      "laboratory methods"
+    ],
+    "locations": [
+      {
+        "name": "Berlin (Imperial Health Office laboratory; Physiological Society)",
+        "modern": "Berlin, Germany",
+        "lat": 52.52,
+        "lon": 13.39,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Robert Koch",
+        "role": "Physician and bacteriologist"
+      },
+      {
+        "name": "Koch's laboratory colleagues in Berlin",
+        "role": "Developed methods and pathogen identification"
+      }
+    ],
+    "whatChanged": "Proved that tuberculosis is an infectious disease caused by a specific bacterium.",
+    "whyItMattered": "Established methods for identifying the causes of infectious diseases and redirected tuberculosis control towards preventing transmission.",
+    "limitations": [
+      "Knowing the cause did not by itself provide a treatment; effective antibiotics came some sixty years later."
+    ],
+    "sources": [
+      {
+        "citation": "Centers for Disease Control and Prevention. Historical perspectives centennial: Koch's discovery of the tubercle bacillus. MMWR 1982.",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm",
+        "kind": "institution",
+        "supports": "Announcement on 24 March 1882 to the Berlin Physiological Society; publication on 10 April; Koch's postulates in 1884; bacillus observed in all cases, grown outside the host and disease reproduced."
+      },
+      {
+        "citation": "Centers for Disease Control and Prevention. History of World TB Day.",
+        "url": "https://www.cdc.gov/world-tb-day/history/index.html",
+        "kind": "institution",
+        "supports": "TB killed one in seven people in the US and Europe in 1882; discovery proved TB infectious, not hereditary; March 24 recognised as World TB Day in 1982."
+      },
+      {
+        "citation": "WHO Regional Office for Europe. World TB Day.",
+        "url": "https://www.who.int/europe/campaigns/world-tb-day",
+        "kind": "institution",
+        "supports": "Result made public at the Berlin Physiological Society on 24 March 1882; published three weeks later; World TB Day since 1982."
+      },
+      {
+        "citation": "Robert Koch. Emerging Infectious Diseases 2011;17(3) (photo quiz).",
+        "url": "https://wwwnc.cdc.gov/eid/article/17/3/10-1881_article",
+        "kind": "journal",
+        "supports": "Improved staining and media in Berlin; constant presence of bacilli in lesions of humans and animals; pure culture on blood serum; Nobel Prize 1905."
+      }
+    ],
+    "related": [
+      "streptomycin-trial",
+      "laveran-malaria-parasite",
+      "helicobacter-pylori"
+    ]
+  },
+  {
+    "id": "serturner-morphine",
+    "title": "Sertürner isolates morphine from opium",
+    "summary": "Between 1803 and 1805 Friedrich Sertürner, a young pharmacist's assistant in Paderborn, isolated the sleep-inducing substance in opium. Named morphium after the god of dreams, it was the first alkaloid obtained from any plant.",
+    "explanation": "Sertürner trained at the court pharmacy in Paderborn. Just after finishing his apprenticeship he set out to find the substance responsible for opium's effects, and found that adding ammonia to a clarified opium extract separated an almost pure material. He first reported it in 1805 in a letter to a pharmaceutical journal, and soon described it as a weak base, which he called morphium.\n\nThe work drew little notice until 1817, when he published a full account of its isolation, crystallisation, chemistry and effects, tested on rats, dogs, himself and others. Small doses produced light-headed, happy feelings; larger ones caused drowsiness, exhaustion and confusion. He suggested it was the first of a new class of 'vegetable alkalis', and the word alkaloid was coined the following year.\n\nA pure active ingredient could now be given in measured doses instead of crude opium. Commercial production began in 1827 at a pharmacy in Darmstadt that became the firm Merck.",
+    "date": {
+      "start": 1803,
+      "end": 1805,
+      "display": "1803–1805 (full account 1817)",
+      "kind": "point",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Sources place the isolation between 1803 and 1805, most often in 1804; his first report is a letter of 1805, and his comprehensive paper appeared in 1817."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "pharmacology",
+      "alkaloid chemistry",
+      "pain relief",
+      "self-experimentation"
+    ],
+    "locations": [
+      {
+        "name": "Court pharmacy, Paderborn, Prince-Bishopric of Paderborn",
+        "modern": "Paderborn, North Rhine-Westphalia, Germany",
+        "lat": 51.72,
+        "lon": 8.75,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Friedrich Wilhelm Adam Sertürner",
+        "role": "Pharmacist's assistant at the court pharmacy in Paderborn"
+      }
+    ],
+    "whatChanged": "Isolated the active ingredient of a medicinal plant for the first time, making a pure, measurable drug from opium.",
+    "whyItMattered": "Morphine became a mainstay of pain relief, and Sertürner's work showed that the active substance of a medicinal plant could be isolated and studied as a pure chemical.",
+    "limitations": [
+      "Acidic substances had been extracted from plants before; morphine was the first plant base, later called an alkaloid, to be isolated and recognised as such.",
+      "Sertürner's early reports were largely ignored; recognition came only after 1817.",
+      "His tests on himself and others were uncontrolled and risky by modern standards.",
+      "Opium's capacity to cause dependence, recognised since antiquity, carried over to morphine."
+    ],
+    "sources": [
+      {
+        "citation": "Ban TA. Educational Series 2, Bulletin 9, Vignette 4: The isolation of morphine. International Network for the History of Neuropsychopharmacology (INHN), 15 March 2018.",
+        "url": "https://inhn.org/index.php?id=1403",
+        "kind": "institution",
+        "supports": "Isolation between 1803 and 1805; first reported in a 1805 letter to Trommsdorff's journal; weak base named morphium; comprehensive paper in 1817 with tests on rats, dogs, himself and others; dose effects; production from 1827 in Darmstadt at the pharmacy that became Merck."
+      },
+      {
+        "citation": "Complete Dictionary of Scientific Biography: Sertürner, Friedrich Wilhelm Adam Ferdinand (via Encyclopedia.com).",
+        "url": "https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/serturner-friedrich-wilhelm-adam-ferdinand",
+        "kind": "book",
+        "supports": "Born at Neuhaus near Paderborn in 1783; isolated the sleep-inducing factor of opium using ammonia; called it a vegetable alkali and the first of a new class; first publications from 1805."
+      },
+      {
+        "citation": "Ärzte Zeitung. Erforschung von Morphium und Mumifizierungsmethoden.",
+        "url": "https://www.aerztezeitung.de/Panorama/Erforschung-von-Morphium-und-Mumifizierungsmethoden-369072.html",
+        "kind": "journal",
+        "supports": "In 1804, aged 21, as an assistant at the court pharmacy in Paderborn, isolated the sleep-inducing factor of opium; significance recognised only after the expanded 1817 publication."
+      }
+    ],
+    "related": [
+      "davy-nitrous-oxide"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "sims-fistula-repair",
+    "title": "Sims's fistula operations on enslaved women",
+    "summary": "From 1845 to 1849, in a small hospital behind his house in Montgomery, Alabama, J. Marion Sims repeatedly operated without anaesthesia on enslaved women with vesicovaginal fistulas until he found a repair that worked. Three of the women are known by name: Anarcha, Betsey and Lucy.",
+    "explanation": "A vesicovaginal fistula, a hole between the bladder and vagina left by prolonged obstructed labour, caused constant leaking of urine and was generally considered incurable. Sims, a physician who treated enslaved people on plantations around Montgomery, devised a speculum that let him see the injury clearly and began experimental operations in late 1845.\n\nAbout a dozen enslaved women, placed in his care by the people who enslaved them, were operated on over four years. Anarcha, aged 17, underwent 30 operations before her fistula closed in 1849. Sims never used anaesthesia in these operations, even after ether became available in 1846. The women also served as his nurses and surgical assistants once his colleagues stopped attending. No account by any of them survives.\n\nSims's success made his reputation, and he became one of the most celebrated surgeons of the nineteenth century, often called the father of modern gynaecology.",
+    "date": {
+      "start": 1845,
+      "end": 1849,
+      "display": "1845–1849",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Sims began the experimental operations in late 1845 and achieved his first lasting repair in 1849."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "slavery and medicine",
+      "consent",
+      "obstetric injury"
+    ],
+    "locations": [
+      {
+        "name": "Sims's hospital, Montgomery, Alabama",
+        "modern": "Montgomery, Alabama, USA",
+        "lat": 32.38,
+        "lon": -86.31,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "J. Marion Sims",
+        "role": "Physician and surgeon in Montgomery, Alabama"
+      },
+      {
+        "name": "Anarcha, Betsey and Lucy",
+        "role": "Enslaved women operated on repeatedly, who also served as surgical assistants"
+      },
+      {
+        "name": "About nine other enslaved women",
+        "role": "Patients whose names were not recorded"
+      }
+    ],
+    "whatChanged": "Produced the first consistently successful operation for vesicovaginal fistula.",
+    "whyItMattered": "The repair relieved a devastating injury of childbirth, but the way it was developed has become a central case in debates about consent, race and exploitation in medicine.",
+    "limitations": [
+      "Almost everything known comes from Sims's own writings; the women's experience is unrecorded."
+    ],
+    "contested": "Historians and ethicists disagree about how to judge Sims. L. L. Wall has argued from the historical record that the operations were therapeutic, that the women wanted their fistulas repaired and cooperated, and that the charges against Sims are largely without merit. Critics argue that enslaved women could not meaningfully refuse, and point to Sims's own account of their pain. In 2018 New York City moved his statue from Central Park; in 2021 a monument to the 'Mothers of Gynecology' was unveiled in Montgomery.",
+    "harms": "The women were enslaved: legal consent came from their enslavers, and they had little or no power to refuse. They underwent repeated painful operations without anaesthesia, often naked and watched by other physicians, at a time when many white doctors, Sims included, believed that Black people felt less pain.",
+    "sources": [
+      {
+        "citation": "Wall LL. The medical ethics of Dr J Marion Sims: a fresh look at the historical record. Journal of Medical Ethics 2006;32(6):346–350.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2563360",
+        "doi": "10.1136/jme.2005.012559",
+        "kind": "journal",
+        "supports": "Operations from late 1845 to summer 1849 in a small hospital behind his house in Montgomery; Anarcha underwent 30 operations; no anaesthesia used; consent questions; Wall's conclusion that the charges are largely without merit."
+      },
+      {
+        "citation": "McCall A. James Marion Sims: father of modern gynecology or abuser? Mütter Museum of the College of Physicians of Philadelphia, 24 September 2020.",
+        "url": "https://muttermuseum.org/stories/posts/james-marion-sims-father-modern-gynecology-or-abuser/",
+        "kind": "museum",
+        "supports": "About twelve enslaved women 'loaned' by enslavers, 1845–1849; Betsy, Lucy and Anarcha named; no anaesthesia even after it was available; belief that Black patients felt less pain; women served as nurses and assistants; no first-person accounts; statue moved in 2018."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). James Marion Sims.",
+        "url": "https://litfl.com/james-marion-sims/",
+        "kind": "institution",
+        "supports": "Sims speculum developed in 1845; first successful repair in 1849; women named as Anarcha, Betsy and Lucy; 'Mothers of Gynecology' monument in Montgomery in 2021."
+      },
+      {
+        "citation": "Holland B. The 'father of modern gynecology' performed shocking experiments on enslaved women. History.com (A&E Television Networks).",
+        "url": "https://www.history.com/articles/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves",
+        "kind": "institution",
+        "supports": "Anarcha was 17; 30 operations over four years; owners' consent was the only legal requirement; the women's voices unrecorded."
+      }
+    ],
+    "related": [
+      "semmelweis-handwashing",
+      "ether-anaesthesia"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "blundell-transfusion",
+    "title": "Blundell transfuses human blood",
+    "summary": "From 1818 the London obstetrician James Blundell, determined to save women bleeding to death after childbirth, carried out the first documented transfusions of human blood into patients. His first patient died; in 1829 he published a case in which a woman with severe bleeding after childbirth recovered.",
+    "explanation": "Blundell, an obstetrician at Guy's Hospital, was, in his own words, appalled at his helplessness in the face of fatal haemorrhage during delivery. He experimented on dogs and, following the Edinburgh graduate John Leacock, who had argued that blood from another species was harmful, concluded that only human blood should be used.\n\nIn 1818 he transfused blood from several donors into a man dying of stomach cancer, who improved briefly but died two days later. Between 1818 and 1829 Blundell and his colleagues performed ten transfusions; at most four succeeded, and some patients were probably already dead. In 1829 The Lancet published a case in which a woman with severe bleeding after childbirth recovered after receiving eight ounces of blood, given gradually over three hours.\n\nBlundell designed instruments for transfusion and promoted it widely, always crediting Leacock's earlier work. Without knowledge of blood groups, discovered almost a century later, transfusion remained risky and unpredictable.",
+    "date": {
+      "start": 1818,
+      "end": 1829,
+      "display": "1818–1829",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First documented transfusion in 1818 (sources differ between 25 September and 22 December); first published success in The Lancet in 1829."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "blood transfusion",
+      "postpartum haemorrhage",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Guy's Hospital, Southwark, London",
+        "modern": "Southwark, London, England, UK",
+        "lat": 51.5,
+        "lon": -0.09,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "James Blundell",
+        "role": "Obstetrician and physiologist at Guy's Hospital, London"
+      },
+      {
+        "name": "John Henry Leacock",
+        "role": "Edinburgh graduate from Barbados whose earlier experiments on dogs Blundell credited"
+      }
+    ],
+    "whatChanged": "Moved transfusion from animal experiments and animal blood to human blood given to patients.",
+    "whyItMattered": "It established transfusion as a possible treatment for blood loss, especially in childbirth, decades before blood groups made it reliable.",
+    "limitations": [
+      "Most early transfusions failed; without blood typing, reactions could be fatal.",
+      "Sources disagree on the dates and details of the first transfusions."
+    ],
+    "sources": [
+      {
+        "citation": "Learoyd P. The history of blood transfusion prior to the 20th century, part 2. British Blood Transfusion Society, 2012.",
+        "url": "https://www.bbts.org.uk/downloads/05._the_history_of_blood_transfusion_prior_to_the_20th_century_-_part_2_-_phil_learoyd.pdf",
+        "kind": "institution",
+        "supports": "Appalled at his helplessness against fatal haemorrhage; dog experiments; first attempt on 22 December 1818 on a man with gastric carcinoma who died two days later; ten transfusions 1818–1829, at most four successful; 1829 Lancet case of a woman with post-partum haemorrhage who recovered after eight ounces; his instruments; Leacock's work."
+      },
+      {
+        "citation": "Schmidt PJ, Leacock AG. Forgotten transfusion history: John Leacock of Barbados. BMJ 2002;325(7378):1485–1487.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC139049",
+        "doi": "10.1136/bmj.325.7378.1485",
+        "kind": "journal",
+        "supports": "Leacock's 1816 dissertation on transfusion; Blundell extended his experiments, publicised transfusion and always credited Leacock; blood groups discovered almost 100 years later."
+      },
+      {
+        "citation": "History News Network. The surprising story of the first blood transfusion.",
+        "url": "https://www.historynewsnetwork.org/article/the-surprising-story-of-the-first-blood-transfusio",
+        "kind": "university",
+        "supports": "Blundell, obstetrician at Guy's Hospital, transfused a man dying of stomach cancer on 25 September 1818."
+      }
+    ],
+    "related": [
+      "harvey-circulation"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "bennett-virchow-leukaemia",
+    "title": "Leukaemia recognised as a disease of the blood",
+    "summary": "In 1845 John Hughes Bennett in Edinburgh, and six weeks later Rudolf Virchow in Germany, independently described patients whose blood was overwhelmed by white cells. Virchow called it 'white blood', and later leukämie.",
+    "explanation": "In March 1845 a slater named John Monteith died at the Royal Infirmary of Edinburgh, where he had been under the care of Robert Christison, with a hugely enlarged spleen and liver. John Hughes Bennett examined the body and found the blood full of what he took to be pus cells, without any source of infection. He published the case later that year as one in which death came from 'suppuration of the blood'.\n\nSix weeks after Bennett's report, Virchow, a young pathologist in Berlin, independently published a similar post-mortem case. Rather than calling it infection, he argued that the blood itself was abnormal, called the condition 'white blood' (weisses Blut) and two years later coined the name leukämie, from the Greek for white and blood.\n\nThe two men disputed priority for some years. Virchow eventually acknowledged Bennett's earlier publication.",
+    "date": {
+      "start": 1845,
+      "end": 1845,
+      "display": "1845",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Both reports were published in 1845, Virchow's about six weeks after Bennett's. The name leukämie dates from 1847."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "pathology",
+      "microscopy",
+      "cancer",
+      "priority dispute"
+    ],
+    "locations": [
+      {
+        "name": "Royal Infirmary of Edinburgh",
+        "modern": "Edinburgh, Scotland, UK",
+        "lat": 55.95,
+        "lon": -3.19,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Where Bennett examined the first case he published"
+      }
+    ],
+    "locationNote": "Virchow's independent case, published six weeks later, is not mapped because the sources consulted do not state where it was examined.",
+    "people": [
+      {
+        "name": "John Hughes Bennett",
+        "role": "Pathologist and physician, Edinburgh"
+      },
+      {
+        "name": "Rudolf Virchow",
+        "role": "Pathologist who independently described and named the disease"
+      },
+      {
+        "name": "John Monteith",
+        "role": "The patient, a slater, whose case Bennett published"
+      }
+    ],
+    "whatChanged": "Identified a disease of the blood itself, recognisable under the microscope, rather than a form of infection.",
+    "whyItMattered": "It was the first recognition of leukaemia, and an early example of defining a disease by microscopic changes in the body's cells.",
+    "limitations": [
+      "Bennett first interpreted the cells as pus; Virchow's interpretation as a primary blood disorder proved correct.",
+      "Earlier observers may have seen similar cases without describing them as a distinct disease."
+    ],
+    "contested": "Bennett and Virchow disputed priority. Bennett published first; Virchow gave the disease its name and its interpretation, and later credited Bennett.",
+    "sources": [
+      {
+        "citation": "Garrison–Morton (Norman J, ed.). HistoryofMedicine.com, subject: leukaemia. Bennett JH (1845), GMN 3061; Virchow R. Weisses Blut (1845), GMN 3062.",
+        "url": "https://historyofmedicine.com/subject?id=1158",
+        "kind": "book",
+        "supports": "Bennett's 1845 case under the care of Christison was the first definite description of leukaemia as a blood disorder; Virchow independently published a necropsy case six weeks later and gave the condition its name."
+      },
+      {
+        "citation": "The pathology of leucocythaemia (nineteenth-century article, PubMed Central archive).",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9803076/",
+        "kind": "journal",
+        "supports": "John Monteith, a slater, admitted to the Edinburgh Royal Infirmary on 27 February 1845 under Dr Christison, died 15 March; examined by Bennett; published as 'suppuration of the blood'; dispute between Bennett and Virchow; Virchow's first article about a month later."
+      },
+      {
+        "citation": "Hektoen International. Leukemia: white blood (September 2025).",
+        "url": "https://hekint.org/2025/09/08/leukemia-white-blood/",
+        "kind": "journal",
+        "supports": "Bennett described a case in 1845 and Virchow published a similar case at the same time; the priority dispute was settled when Virchow gave credit to Bennett."
+      },
+      {
+        "citation": "Hektoen International. Article on the history of leukaemia (weisses Blut).",
+        "url": "https://hekint.org/?p=49208",
+        "kind": "journal",
+        "supports": "Virchow called it 'white blood' (weisses Blut) and two years later 'leukämie'."
+      }
+    ],
+    "related": [
+      "virchow-cellular-pathology"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "women-medical-degrees-us",
+    "title": "Women begin to earn medical degrees in the United States",
+    "summary": "In 1849 Elizabeth Blackwell became the first woman to receive an MD from an American medical school. In 1850 Quakers in Philadelphia founded the Female Medical College of Pennsylvania, the first medical school in the world for women authorised to award the MD.",
+    "explanation": "Women had long practised medicine as healers, nurses and midwives, but were barred from formal training as physicians. Elizabeth Blackwell, born in Bristol, England, applied to many medical schools before Geneva Medical College in western New York accepted her in 1847. On 23 January 1849 she received her degree in the town's Presbyterian church. She went on to support medical education for women in the United States and Britain.\n\nIn 1850, two years after the women's rights convention at Seneca Falls, a group of progressive physicians and laymen, most of them Quakers, chartered the Female Medical College of Pennsylvania in Philadelphia. It opened that year on Arch Street, and its first graduates, in 1851, included Ann Preston, who later became the first woman dean of an American medical school. The college, renamed the Woman's Medical College of Pennsylvania in 1867, trained thousands of women physicians who practised around the world.\n\nOpposition was fierce, and women students were openly harassed.",
+    "date": {
+      "start": 1849,
+      "end": 1850,
+      "display": "1849–1850",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Blackwell graduated on 23 January 1849; the Female Medical College of Pennsylvania was chartered in March 1850 and opened later that year."
+    },
+    "type": "implementation",
+    "evidence": [
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "women in medicine",
+      "medical education",
+      "health workforce"
+    ],
+    "locations": [
+      {
+        "name": "Geneva Medical College, Geneva, New York",
+        "modern": "Geneva, New York, USA",
+        "lat": 42.87,
+        "lon": -76.98,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Where Blackwell studied and graduated (1847–1849)"
+      },
+      {
+        "name": "Female Medical College of Pennsylvania, Arch Street, Philadelphia",
+        "modern": "Philadelphia, Pennsylvania, USA",
+        "lat": 39.95,
+        "lon": -75.15,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area",
+        "role": "The first degree-granting medical school for women (1850)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Elizabeth Blackwell",
+        "role": "First woman to receive an MD from an American medical school"
+      },
+      {
+        "name": "Founders of the Female Medical College of Pennsylvania",
+        "role": "Progressive physicians and laymen, mostly Quakers"
+      },
+      {
+        "name": "Ann Preston",
+        "role": "Member of the first graduating class; later the first woman dean of a US medical school"
+      }
+    ],
+    "whatChanged": "Opened formal medical training and the MD degree to women in the United States, first individually and then through an institution.",
+    "whyItMattered": "It began a long change: in 2017, for the first time, women made up a majority of US medical students.",
+    "limitations": [
+      "These 'firsts' are as stated by the US National Library of Medicine and Drexel University; they concern the MD degree, not women's medical practice in general.",
+      "Women had practised medicine long before this as healers, nurses and midwives; the milestone concerns formal degrees.",
+      "Admission remained rare and contested for decades; many schools and hospitals continued to exclude women."
+    ],
+    "sources": [
+      {
+        "citation": "US National Library of Medicine. Changing the Face of Medicine: Dr. Elizabeth Blackwell.",
+        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_elizabeth_blackwell.html",
+        "kind": "institution",
+        "supports": "Accepted by Geneva Medical College in 1847; in 1849 became the first woman to receive an MD from an American medical school; supported medical education for women."
+      },
+      {
+        "citation": "NIH Record (26 January 1999). NLM exhibit commemorates first woman physician (archived).",
+        "url": "https://webarchive.library.unt.edu/eot2008/20090116003905/http:/nihrecord.od.nih.gov/newsletters/01_26_99/story04.htm",
+        "kind": "institution",
+        "supports": "On 23 January 1849, in the Presbyterian church in Geneva, NY, the president of Geneva Medical College conferred the MD on Blackwell."
+      },
+      {
+        "citation": "Drexel University College of Medicine. History of the College.",
+        "url": "https://drexel.edu/medicine/home/aboutthecollege/history.aspx",
+        "kind": "university",
+        "supports": "Founded in 1850 as the Female Medical College of Pennsylvania, the first degree-granting medical school in the world for women."
+      },
+      {
+        "citation": "Encyclopedia of Greater Philadelphia. Woman's Medical College of Pennsylvania.",
+        "url": "https://philadelphiaencyclopedia.org/essays/womans-medical-college-of-pennsylvania/",
+        "kind": "university",
+        "supports": "Founded 1850, two years after Seneca Falls; first building at 627 Arch Street; first graduating class included Ann Preston, later the first female dean of a US medical school; first medical school in the world for women authorised to award the MD."
+      },
+      {
+        "citation": "Drexel University College of Medicine. Founders' Day celebration marks the 175th anniversary (March 2025).",
+        "url": "https://drexel.edu/medicine/news-events/news-archive/2025/march/founders-day-celebration-marks-the-175th-anniversary-of-the-college-of-medicines-legacy",
+        "kind": "university",
+        "supports": "Founded in 1850 by progressive male physicians and laymen, mostly Quakers."
+      },
+      {
+        "citation": "Doctor or Doctress? Drexel University College of Medicine Legacy Center. The first female medical college.",
+        "url": "https://doctordoctress.org/islandora/object/islandora:1496/record/islandora:1691",
+        "kind": "archive",
+        "supports": "Before 1850 women practised as healers, nurses and midwives without formal training as physicians; the college was the first in the United States to train women as physicians and grant them degrees."
+      },
+      {
+        "citation": "Atlas Obscura. Student life at the world's first medical school for women.",
+        "url": "https://atlasobscura.com/articles/student-life-worlds-first-medical-school-for-women-feminism-health",
+        "kind": "institution",
+        "supports": "WMCP opened in 1850, the first medical college for women; hostility and harassment of its students."
+      },
+      {
+        "citation": "Drexel University College of Medicine. WMCP 175th anniversary celebration.",
+        "url": "https://drexel.edu/medicine/news-events/wmcp-175th-anniversary-celebration",
+        "kind": "university",
+        "supports": "Founded 1850; trained thousands of women physicians who practised in all parts of the world."
+      },
+      {
+        "citation": "HISTORY.com (A&E Television Networks). First woman M.D. (This Day in History).",
+        "url": "https://www.history.com/this-day-in-history/first-woman-m-d",
+        "kind": "institution",
+        "supports": "In 2017, for the first time, a majority of medical students in the United States were women."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "virchow-cellular-pathology",
+    "title": "Virchow's Cellular Pathology",
+    "summary": "In 1858 Rudolf Virchow published his Berlin lectures as Die Cellularpathologie, arguing that disease is a disturbance of the body's cells and that every cell arises from another cell. The idea displaced the ancient theory of imbalanced humours.",
+    "explanation": "Virchow trained in Berlin, held the first chair of pathological anatomy in Germany at Würzburg from 1849, and was recalled to Berlin in 1856 to lead its Pathological Institute. Early in 1858 he gave a series of 20 lectures there, published the same year as Cellular Pathology as Based upon Physiological and Pathological Histology.\n\nBuilding on the recent theory that plants and animals are made of cells, Virchow argued that the cell is the basic unit of life and of disease: illnesses arise from changes in particular cells and tissues, and every cell comes from a pre-existing cell (omnis cellula e cellula). Disease, on this view, was to be found by examining tissues under the microscope, not by reasoning about imbalances of bodily fluids.\n\nVirchow was also active in politics and public health; Berlin's modern sewer system owes much to him.",
+    "date": {
+      "start": 1858,
+      "end": 1858,
+      "display": "1858",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "The lectures were given early in 1858 at the Pathological Institute in Berlin and published that year. Virchow had stated the maxim omnis cellula e cellula in 1855."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "pathology",
+      "cell theory",
+      "microscopy"
+    ],
+    "locations": [
+      {
+        "name": "Pathological Institute, Charité, Berlin",
+        "modern": "Berlin, Germany",
+        "lat": 52.53,
+        "lon": 13.38,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Rudolf Virchow",
+        "role": "Professor of pathological anatomy and director of the Pathological Institute, Berlin"
+      }
+    ],
+    "whatChanged": "Located disease in abnormal cells and tissues, making microscopic examination of tissue the basis of pathology.",
+    "whyItMattered": "Cellular pathology remains the foundation of how diseases, including cancers, are diagnosed and classified.",
+    "limitations": [
+      "Several ideas associated with Virchow were proposed or anticipated by others; his authority helped them win acceptance."
+    ],
+    "sources": [
+      {
+        "citation": "Edwards SA. Rudolph Virchow, the father of cellular pathology. AAAS (American Association for the Advancement of Science).",
+        "url": "https://www.aaas.org/rudolph-virchow-father-cellular-pathology",
+        "kind": "institution",
+        "supports": "Founder of cellular pathology; most diseases understood as dysfunction of cells; omnis cellula e cellula proposed in 1855; Die Cellularpathologie transcribes lectures given in 1858 at the Pathological Institute of Berlin."
+      },
+      {
+        "citation": "Ribatti D. Rudolf Virchow, the founder of cellular pathology. Romanian Journal of Morphology and Embryology 2019;60(4):1381–1382.",
+        "url": "https://rjme.ro/RJME/resources/files/60041913811382.pdf",
+        "kind": "journal",
+        "supports": "Established omnis cellula e cellula and considered for the first time that alterations of cell organisation were the basis of disease; studied in Berlin; moved to Würzburg in 1849; recalled to Berlin in 1856."
+      },
+      {
+        "citation": "Encyclopædia Universalis. Virchow Rudolf (1821–1902).",
+        "url": "https://www.universalis.fr/encyclopedie/rudolf-virchow/",
+        "kind": "book",
+        "supports": "Taught at Würzburg until 1856, then directed the Berlin Institute of Pathology; published his lectures in 1858 as Die Cellularpathologie; public-health work in Berlin."
+      },
+      {
+        "citation": "Androutsos G. Rudolf Virchow (1821–1902): founder of cellular pathology and pioneer of oncology. Journal of BUON 2004;9:331–336.",
+        "url": "https://jbuon.com/archive/9-3-331.pdf",
+        "kind": "journal",
+        "supports": "Appointed in November 1849 to the first chair of pathological anatomy in Germany at Würzburg."
+      },
+      {
+        "citation": "The Pathologist. An anniversary to remember (Virchow bicentenary).",
+        "url": "https://thepathologist.com/outside-the-lab/an-anniversary-to-remember",
+        "kind": "journal",
+        "supports": "Virchow may not himself have described or coined many concepts linked to him, but lent them credibility and ensured their acceptance."
+      }
+    ],
+    "related": [
+      "bennett-virchow-leukaemia",
+      "hooke-micrographia"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pasteur-spontaneous-generation",
+    "title": "Pasteur's swan-neck flasks and the germ theory",
+    "summary": "Between 1859 and 1862 Louis Pasteur showed in Paris that boiled broth stays sterile in a flask whose curved neck traps airborne dust, and spoils only when microbes from the air reach it. The work undermined spontaneous generation and supported the germ theory of disease.",
+    "explanation": "Many scientists still believed that microbes could arise spontaneously in decaying matter. Pasteur, whose work on fermentation had convinced him that it was caused by living micro-organisms, set out in 1859 to settle the question by experiment.\n\nHe boiled a nutrient liquid in a flask whose long neck he had drawn out into a downward S-curve, then let it cool. Air could still enter, but dust and germs settled in the bend of the neck, and the liquid stayed unaltered. Once the neck was broken, microbes soon grew in it. In 1862, after a public dispute with Félix Pouchet, a leading defender of spontaneous generation, he published his results.\n\nPasteur concluded that microbes are everywhere, in water, in air and on objects and skin, and that some of them cause disease. The idea underpinned Lister's antiseptic surgery and the later identification of specific disease-causing bacteria.",
+    "date": {
+      "start": 1859,
+      "end": 1862,
+      "display": "1859–1862",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Pasteur began the experiments in 1859 and published his paper in 1862. Wikipedia's timeline gives 1861, and a separate 1870 entry for the germ theory."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "germ theory",
+      "microbiology",
+      "experimental method"
+    ],
+    "locations": [
+      {
+        "name": "École normale supérieure, Paris",
+        "modern": "Paris, France",
+        "lat": 48.84,
+        "lon": 2.34,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Louis Pasteur",
+        "role": "Chemist at the École normale supérieure"
+      },
+      {
+        "name": "Félix Pouchet",
+        "role": "Naturalist and leading defender of spontaneous generation"
+      }
+    ],
+    "whatChanged": "Showed experimentally that microbes come from other microbes carried in air and dust, not from spontaneous generation.",
+    "whyItMattered": "It gave the germ theory of disease its experimental footing and helped make antiseptic and aseptic practice reasonable.",
+    "limitations": [
+      "Pasteur's experiments did not by themselves prove that particular germs cause particular diseases; that came later, notably from Koch."
+    ],
+    "sources": [
+      {
+        "citation": "Institut Pasteur. The middle years, 1862–1877 (history of Louis Pasteur).",
+        "url": "https://www.pasteur.fr/en/institut-pasteur/history/middle-years-1862-1877",
+        "kind": "institution",
+        "supports": "Spontaneous generation widely accepted; swan-necked flasks boiled, dust and germs deposited on the bend, liquid unaltered; struggle with Pouchet and the 1862 paper; microbes omnipresent and some responsible for diseases."
+      },
+      {
+        "citation": "Encyclopædia Britannica. Louis Pasteur: spontaneous generation.",
+        "url": "https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation",
+        "kind": "book",
+        "supports": "In 1859 Pasteur decided to settle the dispute, believing his germ theory could not be substantiated while spontaneous generation was believed; swan-neck flask kept boiled broth sterile."
+      },
+      {
+        "citation": "OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).",
+        "url": "https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation",
+        "kind": "university",
+        "supports": "Pasteur's swan-neck flasks kept boiled broth sterile while the necks were intact; the experiments disproved spontaneous generation."
+      }
+    ],
+    "related": [
+      "lister-antisepsis",
+      "koch-tuberculosis",
+      "pasteur-attenuated-vaccines",
+      "semmelweis-handwashing"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pasteur-attenuated-vaccines",
+    "title": "Pasteur's attenuated vaccines: chicken cholera and anthrax",
+    "summary": "In 1879 Louis Pasteur's laboratory found that ageing cultures of the chicken cholera bacterium lost their virulence yet protected chickens. In May 1881 a public trial at Pouilly-le-Fort showed that an attenuated anthrax vaccine protected sheep, cattle and a goat.",
+    "explanation": "Inspired by Jenner, Pasteur hoped that vaccines could be found for all infectious diseases. In 1879 chickens inoculated with an old culture of the chicken cholera bacterium, left standing for weeks, became only mildly ill and then resisted fresh, virulent bacteria. Pasteur called this weakening 'attenuation' and attributed it to exposure to oxygen.\n\nWith Charles Chamberland and Émile Roux he then developed an anthrax vaccine. At a farm at Pouilly-le-Fort, near Paris, 24 sheep, a goat and six cows were vaccinated twice in May 1881 while a similar group was not. On 31 May all were injected with virulent anthrax. By 2 June the vaccinated animals were healthy, while the unvaccinated sheep and goat were dead and the unvaccinated cows ill. The trial, held before journalists and officials, made Pasteur's vaccine famous.\n\nChamberland's private notebooks, studied much later, show that the vaccine used at Pouilly-le-Fort had been weakened with potassium dichromate, a method close to that of Pasteur's rival Jean-Joseph Henri Toussaint, rather than by oxygen as Pasteur's public account implied.",
+    "date": {
+      "start": 1879,
+      "end": 1881,
+      "display": "1879–1881",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Chicken cholera attenuation in 1879; the public anthrax trial at Pouilly-le-Fort ran from 5 May to 2 June 1881. Wikipedia's timeline lists 1879 ('first cholera vaccine') and 1881 separately."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "veterinary medicine",
+      "public demonstration"
+    ],
+    "locations": [
+      {
+        "name": "École normale supérieure, Paris",
+        "modern": "Paris, France",
+        "lat": 48.84,
+        "lon": 2.34,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Pasteur's laboratory, where chicken cholera was attenuated (1879)"
+      },
+      {
+        "name": "Pouilly-le-Fort, near Paris",
+        "modern": "Seine-et-Marne, France",
+        "lat": 48.59,
+        "lon": 2.74,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "trial-site",
+        "role": "Public anthrax vaccine trial (May–June 1881)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Louis Pasteur",
+        "role": "Director of the laboratory"
+      },
+      {
+        "name": "Charles Chamberland and Émile Roux",
+        "role": "Pasteur's collaborators on the anthrax vaccine"
+      },
+      {
+        "name": "Jean-Joseph Henri Toussaint",
+        "role": "Veterinary scientist and rival whose attenuation method resembled the one actually used"
+      }
+    ],
+    "whatChanged": "Showed that disease-causing microbes could be deliberately weakened in the laboratory to make vaccines, and tested one in a controlled public trial.",
+    "whyItMattered": "Attenuation became a general method for making vaccines, extending Jenner's approach far beyond smallpox.",
+    "limitations": [
+      "Pasteur's explanation of how the chicken cholera vaccine worked was later found to be wrong.",
+      "Robert Koch, not Pasteur, first isolated the anthrax bacillus."
+    ],
+    "contested": "Pasteur's public account of the anthrax vaccine did not match what was used: his collaborators' notebooks show it was attenuated with potassium dichromate, close to Toussaint's method.",
+    "sources": [
+      {
+        "citation": "Nature Milestones in Vaccines (2020). Milestone on Pasteur's attenuated vaccines.",
+        "url": "https://www.nature.com/articles/d42859-020-00008-5",
+        "kind": "journal",
+        "supports": "Chicken cholera cultures lost virulence in 1879 and protected chickens; 'attenuation'; Pouilly-le-Fort: 24 sheep, 1 goat and 6 cows vaccinated on 5 and 17 May 1881, controls, challenge on 31 May, results on 2 June; Chamberland's notebooks show potassium dichromate attenuation similar to Toussaint's; Jenner's inspiration."
+      },
+      {
+        "citation": "Comptes Rendus Biologies (Académie des sciences), special issue 'Pasteur, a visionary': Pasteur's first vaccines, chicken cholera (1879) and anthrax (1881).",
+        "url": "https://comptes-rendus.academie-sciences.fr/biologies/item/10.5802/crbiol.83.pdf",
+        "doi": "10.5802/crbiol.83",
+        "kind": "journal",
+        "supports": "Ageing cultures of the chicken cholera bacterium lost virulence and protected chickens; Pasteur's first vaccines were chicken cholera (1879) and anthrax (1881)."
+      },
+      {
+        "citation": "Science History Institute. Louis Pasteur (historical profile).",
+        "url": "https://www.sciencehistory.org/scientific-bios/historical-profile-louis-pasteur",
+        "kind": "institution",
+        "supports": "Worked with Roux and Chamberland; widely publicised 1881 anthrax trial at Pouilly-le-Fort; Pasteur's explanation of the chicken vaccine later found to be wrong; Koch recognised as discoverer of the anthrax bacterium."
+      },
+      {
+        "citation": "Prabhu M. Scrutiny or public spectacle? How Louis Pasteur put the anthrax vaccine on trial. Gavi VaccinesWork, 8 July 2026.",
+        "url": "https://www.gavi.org/vaccineswork/scrutiny-or-public-spectacle-how-louis-pasteur-put-anthrax-vaccine-trial",
+        "kind": "institution",
+        "supports": "Public trial at a farm in Pouilly-le-Fort, near Paris, in May 1881."
+      }
+    ],
+    "related": [
+      "jenner-cowpox-vaccination",
+      "pasteur-spontaneous-generation",
+      "pasteur-rabies-vaccine",
+      "koch-tuberculosis"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pasteur-rabies-vaccine",
+    "title": "Rabies vaccine given to Joseph Meister",
+    "summary": "On 6 July 1885 in Paris, nine-year-old Joseph Meister, bitten 14 times by a rabid dog, began a course of injections of dried rabid spinal cord prepared in Louis Pasteur's laboratory. He never developed rabies, and the success led to the founding of the Institut Pasteur.",
+    "explanation": "Rabies was invariably fatal once symptoms appeared, but its long incubation offered time to act after a bite. Pasteur's team had weakened the rabies agent by air-drying the spinal cords of infected rabbits, and reported protecting dogs.\n\nMeister's mother brought him from Alsace to Paris. Pasteur was not a physician, so Dr Jacques-Joseph Grancher gave the injections: 13 over about ten days, each made from progressively fresher, more virulent cord. Meister stayed well. In October a shepherd, Jean-Baptiste Jupille, was treated, and by March 1886 Pasteur reported results for 350 people. The flood of patients prompted the Academy of Sciences to call for a rabies vaccine centre, and the Institut Pasteur opened in 1888.\n\nPasteur's private notebooks, kept by his family until the 1970s, complicate the story. They record that he had treated two people before Meister, one of whom died, and that the preparation Meister received had been made by methods little tested in animals.",
+    "date": {
+      "start": 1885,
+      "end": 1885,
+      "display": "6 July 1885",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of Meister's first injection, as recorded by the Institut Pasteur. Wikipedia's timeline gives 1882."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report",
+      "programme-records"
+    ],
+    "category": "prevention",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "vaccines",
+      "post-exposure treatment",
+      "research ethics"
+    ],
+    "locations": [
+      {
+        "name": "Pasteur's laboratory, École normale supérieure, Paris",
+        "modern": "Paris, France",
+        "lat": 48.84,
+        "lon": 2.34,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "trial-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Louis Pasteur",
+        "role": "Head of the laboratory that developed the vaccine"
+      },
+      {
+        "name": "Jacques-Joseph Grancher",
+        "role": "Physician who gave the injections"
+      },
+      {
+        "name": "Joseph Meister",
+        "role": "Nine-year-old patient from Alsace"
+      },
+      {
+        "name": "Jean-Baptiste Jupille",
+        "role": "Shepherd treated in October 1885"
+      }
+    ],
+    "whatChanged": "Showed that a vaccine given after exposure could prevent a fatal infection with a long incubation period.",
+    "whyItMattered": "Post-exposure rabies vaccination still saves lives, and the demand it created founded the Institut Pasteur, a model for research institutes worldwide.",
+    "limitations": [
+      "Not everyone bitten by a rabid animal develops rabies, so a single survivor could not prove the treatment worked; there was no control group.",
+      "The preparation was risky and its methods were not fully disclosed at the time."
+    ],
+    "contested": "Historians who studied Pasteur's notebooks found that he had treated two people before Meister (one died) and that the preparation used on Meister differed from the one tested on dogs.",
+    "sources": [
+      {
+        "citation": "Institut Pasteur. The final years, 1877–1887.",
+        "url": "https://www.pasteur.fr/en/node/1686",
+        "kind": "institution",
+        "supports": "6 July 1885; Joseph Meister, nine, from Alsace, bitten 14 times; Grancher inoculated as Pasteur was not a physician; 13 injections over 10 days of progressively fresher rabid spinal cord; never developed rabies."
+      },
+      {
+        "citation": "Institut Pasteur. A rabies vaccine center should be set up (history of the Institut Pasteur).",
+        "url": "https://www.pasteur.fr/en/node/6679",
+        "kind": "institution",
+        "supports": "Results for 350 people presented on 1 March 1886; Academy committee for a vaccine centre; Jupille treated in October 1885."
+      },
+      {
+        "citation": "Nature Milestones in Vaccines (2020). Milestone on Pasteur's attenuated vaccines.",
+        "url": "https://www.nature.com/articles/d42859-020-00008-5",
+        "kind": "journal",
+        "supports": "Rabies agent weakened by air-drying infected rabbit spinal cord; Meister received 13 inoculations and survived; notebooks show two people vaccinated before Meister, one of whom died."
+      },
+      {
+        "citation": "The Scientist. The rabies vaccine backstory.",
+        "url": "https://mobile.the-scientist.com/article/46107/the-rabies-vaccine-backstory",
+        "kind": "journal",
+        "supports": "Preparation given to Meister made by different methods essentially untested in animals; notebooks held by heirs until the 1970s; criticism that Pasteur took risks with children's lives; no control group."
+      }
+    ],
+    "related": [
+      "pasteur-attenuated-vaccines",
+      "jenner-cowpox-vaccination"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "snellen-eye-chart",
+    "title": "Snellen's eye chart",
+    "summary": "In 1862 Herman Snellen of the Netherlands Hospital for Eye Patients in Utrecht published his optotypes: letters of graded sizes, each built on a 5 × 5 grid, for measuring sharpness of vision. Versions of his chart remain in use worldwide.",
+    "explanation": "Earlier tests, such as Eduard Jäger's reading-type cards, measured how well people could read ordinary print of various sizes. Snellen, assistant and then first physician at the eye hospital founded in Utrecht by Franciscus Donders, chose not to use existing typefaces. He designed special letters, which he called optotypes, each drawn within a square divided into 5 × 5 parts, so that the detail of each letter had a defined size.\n\nVisual acuity could then be expressed as a fraction: the distance at which the person reads a line, over the distance at which a normal eye can just read it. He published the charts in 1862.\n\nSnellen later became professor of ophthalmology at Utrecht in 1877 and director of the eye hospital in 1884.",
+    "date": {
+      "start": 1862,
+      "end": 1862,
+      "display": "1862",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year Snellen published his optotypes (Optotypi ad visum determinandum)."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [],
+    "themes": [
+      "ophthalmology",
+      "standardised measurement",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Netherlands Hospital for Eye Patients, Utrecht",
+        "modern": "Utrecht, Netherlands",
+        "lat": 52.09,
+        "lon": 5.12,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Herman Snellen",
+        "role": "Ophthalmologist, Netherlands Hospital for Eye Patients"
+      },
+      {
+        "name": "Franciscus Donders",
+        "role": "Founder of the hospital, whose work on visual acuity Snellen's chart served"
+      }
+    ],
+    "whatChanged": "Gave a simple, standardised way to measure and record visual acuity.",
+    "whyItMattered": "Standardised measurement of eyesight made results comparable between clinics and over time, and underlies prescriptions, screening and fitness-to-drive tests.",
+    "limitations": [
+      "Other test charts existed before Snellen's; his contribution was standardised letters and a fractional measure.",
+      "Many clinicians and researchers now prefer the LogMAR chart for precise measurement."
+    ],
+    "sources": [
+      {
+        "citation": "[Snellen and his optotypes]. Nederlands Tijdschrift voor Geneeskunde 2012;156(16):A4416 (PubMed abstract).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22510417/",
+        "kind": "journal",
+        "supports": "Studied at Utrecht under Donders; assistant from 1858 and later first physician at Donders' eye hospital; published his optotypes in 1862, letters constructed in squares with 5 × 5 subdivisions; professor in 1877; director in 1884."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). Herman Snellen.",
+        "url": "https://litfl.com/herman-snellen/",
+        "kind": "institution",
+        "supports": "In 1862 introduced a standardised system for vision testing using optotypes and the Snellen fraction, replacing inconsistent reading materials; Optotypi ad visum determinandum."
+      },
+      {
+        "citation": "Grzybowski A. Dutch master Herman Snellen famous for visual acuity testing chart. EuroTimes (ESCRS), 1 November 2016.",
+        "url": "https://www.escrs.org/eurotimes/snellen-visual-acuity/",
+        "kind": "institution",
+        "supports": "Snellen's work on visual acuity testing and the chart he introduced; professor of ophthalmology at Utrecht in 1877."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "waller-einthoven-ecg",
+    "title": "Recording the heart's electrical activity",
+    "summary": "In May 1887 Augustus Waller recorded the first electrocardiogram from a human heart at St Mary's Hospital, London. Willem Einthoven, who saw Waller's demonstrations, built a far more sensitive string galvanometer at Leiden and by 1903 was recording clear, clinically useful ECGs.",
+    "explanation": "Waller used a capillary electrometer, in which a mercury column moves slightly with electric current, and photographed the shadow of the moving meniscus on a travelling plate. His 1887 tracings from the intact human heart showed only two distorted deflections, and he doubted that the method would ever be much use in hospitals.\n\nEinthoven, professor of physiology at Leiden, first corrected the distortions of the capillary electrometer mathematically and named the deflections P, Q, R, S and T. He then developed a string galvanometer, a fine silver-coated quartz thread stretched between the poles of a strong magnet, which he described in 1901 and used to publish detailed ECGs in 1903.\n\nIt made the electrocardiogram a practical tool for detecting heart disease. Einthoven received the 1924 Nobel Prize in Physiology or Medicine.",
+    "date": {
+      "start": 1887,
+      "end": 1903,
+      "display": "1887–1903",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Waller's first human ECG in May 1887; Einthoven described his string galvanometer in 1901 and published ECGs recorded with it in 1903. Wikipedia's timeline credits Einthoven with 1887."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "cardiology",
+      "devices",
+      "physiology"
+    ],
+    "locations": [
+      {
+        "name": "St Mary's Hospital, Paddington, London",
+        "modern": "London, England, UK",
+        "lat": 51.52,
+        "lon": -0.17,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Waller's first human electrocardiogram (1887)"
+      },
+      {
+        "name": "Physiological laboratory, University of Leiden",
+        "modern": "Leiden, Netherlands",
+        "lat": 52.16,
+        "lon": 4.49,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Einthoven's string galvanometer (1901–1903)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Augustus Désiré Waller",
+        "role": "Physiologist at St Mary's Hospital Medical School, London"
+      },
+      {
+        "name": "Willem Einthoven",
+        "role": "Professor of physiology, University of Leiden"
+      }
+    ],
+    "whatChanged": "Made the heart's electrical activity visible and measurable from the surface of the body.",
+    "whyItMattered": "The electrocardiogram became one of medicine's most widely used diagnostic tests for heart disease.",
+    "limitations": [
+      "Waller's recordings were too crude for clinical use.",
+      "Einthoven built on earlier instruments, including a similar device made by the French engineer Clément Ader for communications."
+    ],
+    "sources": [
+      {
+        "citation": "Barold SS. Willem Einthoven and the birth of clinical electrocardiography a hundred years ago (PubMed abstract, 2003).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12766530/",
+        "kind": "journal",
+        "supports": "First ECG from the intact human heart recorded by Waller with a capillary electrometer in May 1887 at St Mary's Hospital; poor tracings with two deflections; Einthoven's string galvanometer; Nobel Prize 1924."
+      },
+      {
+        "citation": "Engineering and Technology History Wiki (IEEE History Center). Electrocardiography.",
+        "url": "https://www.ethw.org/Electrocardiography",
+        "kind": "institution",
+        "supports": "Waller used Lippmann's capillary electrometer and photographed the meniscus on moving paper; pessimistic about utility; one of his demonstrations inspired Einthoven; string galvanometer developed at Leiden in 1901."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). History of the electrocardiogram.",
+        "url": "https://litfl.com/history-of-the-electrocardiogram/",
+        "kind": "institution",
+        "supports": "Waller's 1887 demonstration at St Mary's, published in the Journal of Physiology 1887;8:229–34, two deflections; Einthoven's string galvanometer of 1901 with a fine silver-coated quartz string."
+      },
+      {
+        "citation": "National MagLab (National High Magnetic Field Laboratory). Electrocardiograph – 1903.",
+        "url": "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/electrocardiograph-1903/",
+        "kind": "institution",
+        "supports": "Waller first recorded the heart's activity in 1887; Einthoven clarified Waller's results and renamed the points P, Q, R, S and T."
+      },
+      {
+        "citation": "Liebson PR. Willem Einthoven and the string galvanometer. Hektoen International, 2017.",
+        "url": "https://hekint.org/2017/01/27/willem-einthoven-and-the-string-galvanometer/",
+        "kind": "journal",
+        "supports": "Waller's 1887 recording with the capillary electrometer; Waller's 1911 remark doubting extensive hospital use; Ader's earlier instrument acknowledged by Einthoven."
+      },
+      {
+        "citation": "IEEE Spectrum. Forget electrodes, the first EKG machine used buckets of saline solution and telephone wire.",
+        "url": "https://spectrum.ieee.org/forget-electrodes-the-first-ekg-machine-used-buckets-of-saline-solution-and-telephone-wire",
+        "kind": "institution",
+        "supports": "Einthoven, professor of physiology at Leiden, and his string galvanometer gave the medical world an important diagnostic tool for heart disease; Einthoven's group corrected Waller's measurements mathematically."
+      }
+    ],
+    "related": [
+      "laennec-stethoscope"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "shipp-obstetrics-school-utah",
+    "title": "Ellis Shipp's school of obstetrics and nursing, Utah",
+    "summary": "After graduating from the Woman's Medical College of Pennsylvania in March 1878, Ellis Reynolds Shipp returned to Salt Lake City and opened a school of obstetrics and nursing. Over five decades it trained about 500 women as midwives and nurses across Utah.",
+    "explanation": "Leaders of the Church of Jesus Christ of Latter-day Saints, concerned about deaths of mothers and infants in Utah Territory, encouraged women to train as physicians in the East. Shipp took the place of a homesick sister wife at the Woman's Medical College of Pennsylvania and graduated on 14 March 1878.\n\nBack in Salt Lake City she set up a practice in obstetrics and women's diseases and, realising that a few women doctors could not meet the need, opened a school to train midwives and nurses, advertised with free scholarships. Its graduates became licensed midwives in communities throughout the territory. Shipp herself is said to have delivered more than 5,000 babies, and she helped found the Deseret Hospital.",
+    "date": {
+      "start": 1878,
+      "end": 1879,
+      "display": "1878–1879",
+      "kind": "point",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Shipp graduated on 14 March 1878. Sources date the opening of her school to the autumn of 1878 or to 1879."
+    },
+    "type": "implementation",
+    "evidence": [
+      "programme-records"
+    ],
+    "category": "maternal",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "women in medicine",
+      "midwifery",
+      "health workforce"
+    ],
+    "locations": [
+      {
+        "name": "Salt Lake City, Utah Territory",
+        "modern": "Salt Lake City, Utah, USA",
+        "lat": 40.76,
+        "lon": -111.89,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ellis Reynolds Shipp",
+        "role": "Physician; founder of the School of Obstetrics and Nursing"
+      },
+      {
+        "name": "The school's students",
+        "role": "About 500 women who trained as midwives and nurses"
+      }
+    ],
+    "whatChanged": "Created a local route for women in a remote territory to train as licensed midwives and nurses.",
+    "whyItMattered": "It spread trained birth attendants through Utah's communities at a time of high maternal and infant mortality.",
+    "limitations": [
+      "Figures for the number of graduates (about 500) and births attended (5,000 to 6,000) come from commemorative and local sources and vary.",
+      "This is a regional milestone; similar efforts to train midwives existed elsewhere."
+    ],
+    "sources": [
+      {
+        "citation": "Utah History Encyclopedia (Utah Education Network). Shipp, Ellis Reynolds.",
+        "url": "https://www.uen.org/utah_history_encyclopedia/s/SHIPP_ELLIS.shtml",
+        "kind": "university",
+        "supports": "One of Utah's first female doctors; established a school of obstetrics and nursing (1878/1879) that trained five hundred women as licensed midwives; delivered more than 5,000 children."
+      },
+      {
+        "citation": "Utah Division of State Archives and Records Service. Stories of Utah Women: Dr. Ellis Reynolds Shipp.",
+        "url": "https://archives.utah.gov/?p=5511",
+        "kind": "archive",
+        "supports": "Studied at the Woman's Medical College in Pennsylvania; in 1878 established the Ellis Reynolds Shipp School of Obstetrics and Nursing, teaching hundreds of women midwifery."
+      },
+      {
+        "citation": "Church News. This Is the Place Heritage Park honors medical career of Ellis Reynolds Shipp with new statue (21 September 2023).",
+        "url": "https://www.thechurchnews.com/history/2023/9/21/23882750/this-is-the-place-heritage-park-honors-medical-career-of-ellis-reynolds-shipp-with-new-statue/",
+        "kind": "institution",
+        "supports": "Graduated in 1878, sent by Brigham Young to help reduce infant and maternal mortality in Utah; school graduated over 500 nurses and midwives; helped create the Deseret Hospital."
+      },
+      {
+        "citation": "J. Willard Marriott Library, University of Utah. Collection record on Ellis Reynolds Shipp.",
+        "url": "https://collections.lib.utah.edu/details?id=1229832",
+        "kind": "university",
+        "supports": "Margaret Curtis Shipp left for the Women's Medical College in 1875; Ellis Shipp's announcement of practice in obstetrics and diseases of women with free scholarships, the beginning of a school for nurses and midwives."
+      },
+      {
+        "citation": "The Friend (Church of Jesus Christ of Latter-day Saints), April 1984. Ellis Reynolds Shipp: mother and doctor.",
+        "url": "https://lds.org/friend/1984/04/ellis-reynolds-shipp-mother-and-doctor?lang=eng",
+        "kind": "institution",
+        "supports": "Diary entry of 14 March 1878 recording her graduation; in the autumn of 1878 she opened her School of Obstetrics and Nursing."
+      }
+    ],
+    "related": [
+      "women-medical-degrees-us"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  }
+]

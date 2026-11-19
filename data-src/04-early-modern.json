@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "variolation-traditions",
+    "title": "Smallpox inoculation practised across Asia, Africa and the Ottoman world",
+    "summary": "Long before vaccination, people in China, parts of Africa and the Ottoman Empire deliberately gave healthy people a mild smallpox infection to protect them. European and colonial American physicians learned the practice from these traditions.",
+    "explanation": "Inoculation, later called variolation, introduced material from a smallpox sore or scab into a healthy person. The resulting illness was usually milder than naturally caught smallpox and left lifelong immunity, although some inoculated people died and they could infect others.\n\nThe earliest written discussion of the practice is in a Chinese book first published in 1549, which describes blowing powdered scab material into the nose. A Chinese tradition dates its invention to 1567–1572; a much-repeated claim that it began around 1000 CE rests on little documentation. Claims of ancient origins in India are not supported by Sanskrit medical texts, and an eighteenth-century report of Indian practice is doubtful.\n\nIn Constantinople, physicians reported to the Royal Society in London in 1714 and 1716 that inoculation had been introduced by a Greek woman around 1660 and had spread after an epidemic in 1700. Lady Mary Wortley Montagu had her son inoculated there and in 1721 had her daughter inoculated in London. In the same year, Onesimus, an enslaved African man, described inoculation in his homeland to the Boston minister Cotton Mather. The origins of the practice remain obscure, and it may be much older than any surviving record.",
+    "date": {
+      "start": 1549,
+      "end": 1721,
+      "display": "documented from 1549",
+      "kind": "span",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "From the earliest surviving written discussion (a Chinese book first published in 1549) to its reports reaching Britain and New England by 1721. The practice may be considerably older."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text",
+      "eyewitness-account"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "smallpox",
+      "knowledge exchange",
+      "Indigenous knowledge",
+      "earliest record is not the origin"
+    ],
+    "locations": [
+      {
+        "name": "China (Ming dynasty)",
+        "modern": "China",
+        "lat": 31.0,
+        "lon": 114.0,
+        "radiusKm": 900,
+        "precision": "macro-region",
+        "type": "documented-practice",
+        "role": "Earliest written discussion (1549); nasal insufflation of scab material"
+      },
+      {
+        "name": "Constantinople (Ottoman Empire)",
+        "modern": "Istanbul, Türkiye",
+        "lat": 41.01,
+        "lon": 28.98,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Reports by Timonius (1714) and Pylarini (1716); observed by Lady Mary Wortley Montagu"
+      },
+      {
+        "name": "Onesimus's homeland in Africa",
+        "modern": "Identified by historians as West Africa or the Fezzan (southern Libya)",
+        "lat": null,
+        "lon": null,
+        "radiusKm": 0,
+        "precision": "macro-region",
+        "type": "documented-practice",
+        "role": "Practice described by Onesimus to Cotton Mather; location uncertain"
+      }
+    ],
+    "locationNote": "The region of the Chinese accounts is shown broadly. Where in Africa Onesimus came from is disputed, so no point is drawn for it.",
+    "people": [
+      {
+        "name": "Practitioners in China, Africa and the Ottoman Empire",
+        "role": "Developed and transmitted the practice (mostly unnamed)"
+      },
+      {
+        "name": "Emanuel Timonius and Jacobus Pylarini",
+        "role": "Physicians who reported the Constantinople practice to the Royal Society"
+      },
+      {
+        "name": "Lady Mary Wortley Montagu",
+        "role": "Had her children inoculated and promoted the practice in Britain"
+      },
+      {
+        "name": "Onesimus",
+        "role": "Enslaved man in Boston who described African inoculation to Cotton Mather"
+      }
+    ],
+    "whatChanged": "Introduced the principle of deliberately inducing a mild infection to prevent a deadly one.",
+    "whyItMattered": "Variolation was the direct forerunner of vaccination, and its spread to Europe and the Americas came from Asian and African knowledge.",
+    "limitations": [
+      "The earliest surviving record (1549) is not evidence that the practice began in China or at that date.",
+      "Variolation carried a real risk of death and of spreading smallpox to others.",
+      "Claims that inoculation dates to around 1000 CE in China, or to antiquity in India, are poorly supported."
+    ],
+    "contested": "Where variolation originated, and where in Africa Onesimus learned of it (West Africa or the Fezzan in present-day southern Libya), are both disputed.",
+    "sources": [
+      {
+        "citation": "Boylston A. The origins of inoculation. Journal of the Royal Society of Medicine 2012;105(7):309–313.",
+        "url": "https://www.jameslindlibrary.org/wp-data/uploads/2016/07/J-R-Soc-Med-2012-07-Boylston-309-13.pdf",
+        "doi": "10.1258/jrsm.2012.12k044",
+        "pages": "309–313",
+        "kind": "journal",
+        "supports": "Chinese book first published 1549; tradition of invention 1567–1572; weak basis of the c. 1000 CE claim; doubts about Indian accounts; Timonius (1714) and Pylarini (1716); Greek woman c. 1660; Montagu's children; Onesimus described as from present-day southern Libya."
+      },
+      {
+        "citation": "Houghton Library, Harvard University. Onesimus and the discovery of inoculation (exhibition text).",
+        "url": "https://library.harvard.edu/exhibits/houghton-library-lobby-gallery-0",
+        "kind": "university",
+        "supports": "Onesimus described as an enslaved West African man whose testimony persuaded Mather."
+      },
+      {
+        "citation": "Massachusetts Historical Society. Variolation vs. vaccination: 18th-century developments in smallpox inoculation (2020).",
+        "url": "https://www.masshist.org/beehiveblog/2020/05/variolation-vs-vaccination-18th-century-developments-in-smallpox-inoculation/",
+        "kind": "archive",
+        "supports": "Variolation used in Africa, the Ottoman Empire, China and India before its adoption in the West; Montagu's daughter inoculated in England."
+      }
+    ],
+    "related": [
+      "boston-inoculation-1721",
+      "jenner-cowpox-vaccination",
+      "al-razi-smallpox-measles",
+      "smallpox-eradication"
+    ]
+  },
+  {
+    "id": "boston-inoculation-1721",
+    "title": "Boston's inoculation controversy and its numbers",
+    "summary": "During Boston's 1721 smallpox epidemic, Zabdiel Boylston inoculated 282 people on the advice of Cotton Mather, who had learned of the practice from Onesimus. Boylston's counts suggested far lower mortality among the inoculated.",
+    "explanation": "When smallpox reached Boston in 1721, the minister Cotton Mather urged physicians to try inoculation. He had read reports from Constantinople in the Royal Society's journal and had heard about the practice from Onesimus, an African man he enslaved. Only one physician, Zabdiel Boylston, agreed.\n\nThe experiment provoked fury: inoculated people could spread smallpox, and critics mocked the practice for having been learned from Africans. Someone threw an explosive device through Mather's window. Boylston nonetheless kept records. Among 282 people he inoculated, 6 died (about 2%); among 5,759 residents who caught smallpox naturally and were not inoculated, 884 died (about 15%).\n\nThese numbers, together with comparable English figures collected by James Jurin, were among the earliest attempts to judge a medical practice by counting outcomes in comparable groups.",
+    "date": {
+      "start": 1721,
+      "end": 1722,
+      "display": "1721–1722",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Duration of the epidemic and inoculation campaign in Boston."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "smallpox",
+      "counting outcomes",
+      "African knowledge",
+      "slavery"
+    ],
+    "locations": [
+      {
+        "name": "Boston, Province of Massachusetts Bay",
+        "modern": "Boston, Massachusetts, USA",
+        "lat": 42.36,
+        "lon": -71.06,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Onesimus",
+        "role": "Enslaved African man who described inoculation to Mather"
+      },
+      {
+        "name": "Cotton Mather",
+        "role": "Minister who promoted inoculation"
+      },
+      {
+        "name": "Zabdiel Boylston",
+        "role": "Physician who performed the inoculations and recorded outcomes"
+      }
+    ],
+    "whatChanged": "Provided an early numerical comparison suggesting that inoculation greatly reduced the risk of dying from smallpox.",
+    "whyItMattered": "Helped establish inoculation in Britain and its colonies and foreshadowed the use of outcome counts to evaluate treatments.",
+    "limitations": [
+      "The groups were not allocated by chance and may have differed in health, age and circumstances.",
+      "Inoculated people could transmit smallpox, a genuine public-health risk raised by opponents.",
+      "Figures differ slightly between historical accounts."
+    ],
+    "harms": "The knowledge came from an enslaved man whose contribution was long minimised; opponents disparaged the practice explicitly because of its African origin.",
+    "sources": [
+      {
+        "citation": "Highlights of historical events leading to national surveillance of vaccination coverage in the United States. Public Health Reports (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3113425/",
+        "kind": "journal",
+        "supports": "Onesimus informed Mather; Boylston inoculated 282 residents; 6 deaths (2.1%) among inoculated vs 884 of 5,759 (15.3%) among non-inoculated cases."
+      },
+      {
+        "citation": "Massachusetts Historical Society. Defeating the 'Speckled Monster': the fight against smallpox from inoculation to vaccination (Object of the Month, February 2021).",
+        "url": "https://www.masshist.org/object-of-the-month/objects/feb-2021",
+        "kind": "archive",
+        "supports": "1721 epidemic; Mather's reading and Onesimus's testimony; Boylston the only physician to respond."
+      },
+      {
+        "citation": "Massachusetts Historical Society. Race and infectious disease in the 18th century.",
+        "url": "https://www.masshist.org/beehiveblog/category/from-our-collections/page/41/",
+        "kind": "archive",
+        "supports": "William Douglass's 1722 attack disparaging inoculation for its African source."
+      },
+      {
+        "citation": "Cotton Mather visits Yard. Harvard Gazette, May 2001.",
+        "url": "https://news.harvard.edu/gazette/story/2001/05/cotton-mather-visits-yard/",
+        "kind": "university",
+        "supports": "Anger in the community; a bomb thrown through Mather's window."
+      },
+      {
+        "citation": "Boylston A. The origins of inoculation. Journal of the Royal Society of Medicine 2012;105(7):309–313.",
+        "url": "https://www.jameslindlibrary.org/wp-data/uploads/2016/07/J-R-Soc-Med-2012-07-Boylston-309-13.pdf",
+        "doi": "10.1258/jrsm.2012.12k044",
+        "kind": "journal",
+        "supports": "Jurin's 1723 survey of mortality in variolated versus natural smallpox; early 'evidence-based medicine'."
+      }
+    ],
+    "related": [
+      "variolation-traditions",
+      "lind-scurvy-trial",
+      "jenner-cowpox-vaccination"
+    ]
+  },
+  {
+    "id": "jenner-cowpox-vaccination",
+    "title": "Jenner tests cowpox as protection against smallpox",
+    "summary": "On 14 May 1796 Edward Jenner inoculated eight-year-old James Phipps with material from a milkmaid's cowpox sore, then showed the boy did not react to smallpox. His 1798 publication launched vaccination.",
+    "explanation": "Country people had long observed that milkmaids who caught cowpox, a mild disease, seemed to escape smallpox. Edward Jenner, a physician in Berkeley, Gloucestershire, set out to test the idea. On 14 May 1796 he took material from a cowpox lesion on the hand of a milkmaid, Sarah Nelmes, and inoculated James Phipps, the son of his gardener. Six weeks later he inoculated the boy with smallpox material, and no disease followed.\n\nJenner gathered further cases and published An Inquiry into the Causes and Effects of the Variolae Vaccinae in 1798. Vaccination, from the Latin for cow, was safer than variolation because it did not produce smallpox and could not spread it. Within a few years it was being carried around the world.\n\nJenner was not the first to try cowpox deliberately: in 1774 the Dorset farmer Benjamin Jesty had inoculated his wife and two sons with cowpox during a smallpox outbreak. Jenner's contribution was systematic testing and publication.",
+    "date": {
+      "start": 1796,
+      "end": 1796,
+      "display": "14 May 1796",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the Phipps inoculation; Jenner's Inquiry was published in 1798."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "smallpox",
+      "vaccines",
+      "folk knowledge"
+    ],
+    "locations": [
+      {
+        "name": "Berkeley, Gloucestershire",
+        "modern": "Berkeley, England, UK",
+        "lat": 51.69,
+        "lon": -2.46,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Edward Jenner",
+        "role": "Physician"
+      },
+      {
+        "name": "James Phipps",
+        "role": "Eight-year-old boy who was vaccinated and then challenged with smallpox"
+      },
+      {
+        "name": "Sarah Nelmes",
+        "role": "Milkmaid whose cowpox lesion supplied the material"
+      },
+      {
+        "name": "Benjamin Jesty",
+        "role": "Farmer who inoculated his family with cowpox in 1774"
+      }
+    ],
+    "whatChanged": "Replaced risky inoculation with smallpox by inoculation with a related, mild animal disease.",
+    "whyItMattered": "Vaccination spread worldwide and, nearly two centuries later, made the eradication of smallpox possible.",
+    "limitations": [
+      "Deliberately exposing a child to smallpox to test protection would be unethical today.",
+      "Protection from cowpox was folk knowledge; Jesty and others had used it before Jenner.",
+      "Jenner's early evidence rested on a small number of cases."
+    ],
+    "harms": "The test relied on deliberately challenging a child, the son of an employee, with smallpox.",
+    "sources": [
+      {
+        "citation": "Riedel S. Edward Jenner and the history of smallpox and vaccination. Proceedings (Baylor University Medical Center) 2005;18(1):21–25.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/",
+        "doi": "10.1080/08998280.2005.11928028",
+        "pages": "21–25",
+        "kind": "journal",
+        "supports": "14 May 1796 inoculation of 8-year-old James Phipps with material from Nelmes' lesions."
+      },
+      {
+        "citation": "Thank you, Edward. Merci, Louis. (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4713079/",
+        "kind": "journal",
+        "supports": "Six weeks later, Phipps challenged with smallpox material without developing disease."
+      },
+      {
+        "citation": "Smallpox vaccines for biodefense: need and feasibility (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9709930/",
+        "kind": "journal",
+        "supports": "History of vaccination dated from the 1798 publication of Jenner's experiments; Jenner the first to study the hypothesis systematically."
+      },
+      {
+        "citation": "Pead PJ. The origins of vaccination: history is what you remember. Journal of the Royal Society of Medicine (correspondence).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3883152/",
+        "kind": "journal",
+        "supports": "Benjamin Jesty of Yetminster performed cowpox vaccinations at Chetnole in 1774; two subjects later resisted variolation."
+      },
+      {
+        "citation": "Jenner's legacy: how Edward Jenner's smallpox vaccine changed public health (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11450354/",
+        "kind": "journal",
+        "supports": "James Phipps was the son of Jenner's gardener; material from milkmaid Sarah Nelmes; Jenner born in Berkeley, Gloucestershire."
+      },
+      {
+        "citation": "Esparza J. A head of state leading by example (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9514359/",
+        "kind": "journal",
+        "supports": "Cowpox vaccination was safer than variolation and did not risk onward transmission of smallpox."
+      }
+    ],
+    "related": [
+      "variolation-traditions",
+      "balmis-expedition",
+      "smallpox-eradication"
+    ]
+  },
+  {
+    "id": "lind-scurvy-trial",
+    "title": "Lind compares six remedies for scurvy at sea",
+    "summary": "On 20 May 1747, aboard HMS Salisbury, the naval surgeon James Lind gave twelve sailors with scurvy one of six treatments in pairs. The two given oranges and lemons recovered fastest.",
+    "explanation": "Scurvy killed huge numbers of sailors on long voyages. James Lind chose twelve men whose cases were as similar as he could find, kept them in the same part of the ship on the same diet, and assigned pairs to cider, elixir of vitriol, vinegar, sea water, oranges and lemons, or a purgative paste. Within six days one of the men given citrus was fit for duty, and the other was well enough to nurse the rest.\n\nThis deliberate comparison of treatments under similar conditions is one of the best-known early examples of a controlled clinical trial. Yet Lind's 1753 Treatise of the Scurvy did not single out citrus as a decisive cure, and its recommendations had little immediate impact. The Royal Navy did not issue citrus juice routinely until 1795, more than four decades later.",
+    "date": {
+      "start": 1747,
+      "end": 1747,
+      "display": "20 May 1747",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Start date given in Lind's own account in A Treatise of the Scurvy (1753)."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "trial",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "fair tests of treatments",
+      "delay between discovery and adoption",
+      "nutrition"
+    ],
+    "locations": [
+      {
+        "name": "HMS Salisbury, at sea",
+        "modern": "Off the south-west coast of England (exact position unknown)",
+        "lat": null,
+        "lon": null,
+        "radiusKm": 0,
+        "precision": "macro-region",
+        "type": "trial-site",
+        "role": "Trial conducted at sea; the ship returned to Plymouth in June 1747"
+      }
+    ],
+    "locationNote": "The ship's position during the trial is not recorded in the sources consulted, so the trial is not placed on the map.",
+    "people": [
+      {
+        "name": "James Lind",
+        "role": "Naval surgeon"
+      },
+      {
+        "name": "Twelve sailors with scurvy",
+        "role": "Trial participants"
+      }
+    ],
+    "whatChanged": "Demonstrated the value of comparing treatments side by side in similar patients.",
+    "whyItMattered": "A landmark in the history of fair tests of treatments, and an illustration of how long good evidence can take to change practice.",
+    "limitations": [
+      "Only two men received each treatment, and Lind's own interpretation was cautious and mixed.",
+      "Ship records suggest the account of sickness on board may not match official muster rolls."
+    ],
+    "sources": [
+      {
+        "citation": "Sutton G. James Lind aboard Salisbury. JLL Bulletin: Commentaries on the history of treatment evaluation, 2004.",
+        "url": "https://www.jameslindlibrary.org/articles/james-lind-aboard-salisbury/",
+        "kind": "journal",
+        "supports": "Six-way comparison in twelve men (cider, elixir of vitriol, vinegar, sea water, oranges and lemons, purgative)."
+      },
+      {
+        "citation": "Sutton G. Putrid gums and 'Dead Men's Cloaths': James Lind aboard the Salisbury. Journal of the Royal Society of Medicine 2003;96(12):605–608.",
+        "url": "https://www.jameslindlibrary.org/wp-data/uploads/2016/08/J-R-Soc-Med-2003-12-Sutton-605-8.pdf",
+        "pages": "605–608",
+        "kind": "journal",
+        "supports": "Experiment at sea between 20 May and 17 June 1747; ship returned to Plymouth in June; Navy introduced citrus rations in 1795; muster roll discrepancies."
+      },
+      {
+        "citation": "Gaddum JH. Proceedings of the Royal Society of Medicine 1954;47 (section paper quoting Lind 1753; reproduced by the James Lind Library).",
+        "url": "https://www.jameslindlibrary.org/wp-data/uploads/2019/02/Gaddum-1954.pdf",
+        "kind": "journal",
+        "supports": "Lind's own words: twelve patients 'as similar as I could have them'; one citrus patient fit for duty after six days, the other appointed nurse."
+      },
+      {
+        "citation": "James Lind and scurvy: 1747 to 1795. JLL Bulletin: Commentaries on the history of treatment evaluation.",
+        "url": "https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/",
+        "kind": "journal",
+        "supports": "The Treatise's therapeutic recommendations had little impact."
+      }
+    ],
+    "related": [
+      "boston-inoculation-1721",
+      "streptomycin-trial",
+      "annedda-scurvy"
+    ]
+  },
+  {
+    "id": "chamberlen-forceps",
+    "title": "The Chamberlens' secret obstetric forceps",
+    "summary": "Around 1600 a London family of surgeons and midwives, the Chamberlens, devised forceps that could deliver a living baby from an obstructed labour. They kept the design secret for over a century.",
+    "explanation": "Before forceps, an obstructed labour often ended with instruments that saved the mother only by destroying the child, or with the death of both. The Chamberlens, a Huguenot family settled in England, devised curved blades that could be applied separately around the baby's head and then joined, allowing a live birth.\n\nThe invention was probably made by Peter Chamberlen the elder and promoted by his nephew, Dr Peter Chamberlen. The family guarded it closely, working under blankets so that no one could see the instrument, and passed the secret down through four or five generations. Similar instruments were developed independently in Flanders and Holland, and forceps only became widely known in the early eighteenth century.\n\nThe original instruments were found in 1813 hidden at Woodham Mortimer Hall in Essex.",
+    "date": {
+      "start": 1580,
+      "end": 1630,
+      "display": "c. 1600 (secret until the early 1700s)",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "The invention cannot be dated precisely; it is attributed to the late 16th or early 17th century. Forceps became widely known only in the early 18th century."
+    },
+    "type": "invention",
+    "evidence": [
+      "archaeological",
+      "surviving-text"
+    ],
+    "category": "maternal",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "devices",
+      "secrecy",
+      "delay between invention and adoption",
+      "men in midwifery"
+    ],
+    "locations": [
+      {
+        "name": "London",
+        "modern": "London, UK",
+        "lat": 51.51,
+        "lon": -0.12,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Family practice where the forceps were used"
+      }
+    ],
+    "people": [
+      {
+        "name": "Peter Chamberlen the elder",
+        "role": "Probable inventor"
+      },
+      {
+        "name": "Dr Peter Chamberlen",
+        "role": "Nephew who promoted the family's practice"
+      },
+      {
+        "name": "Later generations of the Chamberlen family",
+        "role": "Kept the secret"
+      }
+    ],
+    "whatChanged": "Made it possible to deliver a living child in an obstructed labour.",
+    "whyItMattered": "Forceps saved many mothers and babies once known, but secrecy delayed their benefit for more than a century.",
+    "limitations": [
+      "The date and the individual inventor are uncertain.",
+      "Their spread gave male practitioners entry to the previously all-female delivery room, reshaping who attended births."
+    ],
+    "harms": "By keeping the design secret to protect their business, the Chamberlens withheld a life-saving technique from most women in obstructed labour for over a century.",
+    "sources": [
+      {
+        "citation": "Moore W. Keeping mum. BMJ (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1839178/",
+        "kind": "journal",
+        "supports": "Secret handed down through four or five generations over roughly 150 years; probably invented by the elder Peter, promoted by his nephew Dr Peter; enabled live delivery in obstructed birth."
+      },
+      {
+        "citation": "The birth of forceps (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3704058/",
+        "kind": "journal",
+        "supports": "Births conducted under blankets with only the Chamberlens present; secret kept for nearly a century; original forceps found at Woodham Mortimer, Essex. Cites Dunn P, Arch Dis Child Fetal Neonatal Ed 1999;81:F232–5."
+      },
+      {
+        "citation": "Thiery M. [The inventors of the obstetric forceps and the obstetric lever] (article in Dutch), 1992;54(1):45–53 (PubMed record).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1636321/",
+        "kind": "journal",
+        "supports": "Multiple lineage of invention: reinvented in Flanders by Jan Palfyn and in Holland by Rogier Roonhuyse."
+      },
+      {
+        "citation": "[History and sidelights on the forceps] (PubMed abstract).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6396325/",
+        "kind": "journal",
+        "supports": "Discovery of the Chamberlen forceps in 1813 at Woodham Mortimer Hall, Essex."
+      },
+      {
+        "citation": "Facts and ideas from anywhere: the Chamberlen forceps. Baylor University Medical Center Proceedings (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1906586/",
+        "kind": "journal",
+        "supports": "Secret kept for 150 years; refusing to share condemned many to death; forceps gave male doctors the key to the previously all-female delivery room."
+      }
+    ],
+    "related": [
+      "kahun-gynaecological-papyrus",
+      "semmelweis-handwashing",
+      "bunyoro-caesarean"
+    ]
+  },
+  {
+    "id": "annedda-scurvy",
+    "title": "Stadaconan healers cure Cartier's crew of scurvy",
+    "summary": "In the winter of 1535–36 Jacques Cartier's crew was dying of scurvy at Stadacona. Domagaya, son of the Stadaconan chief, showed them a remedy called annedda, an infusion of evergreen bark and leaves, prepared by two local women.",
+    "explanation": "Cartier's ships were frozen in near the village of Stadacona, on the site of present-day Quebec City, from November 1535. By February 1536 only 10 of his 110 men were in good health, and 25 eventually died. Cartier tried to hide his crew's weakness from the local people.\n\nHe learned of the cure from Domagaya, whom he had taken to France the year before. At Cartier's request, Domagaya had two women prepare the remedy from the bark and foliage of a conifer the Stadaconans called annedda, probably eastern white cedar. The sick recovered quickly.\n\nThe knowledge did not stay with the Europeans. When Roberval's party wintered near the same place in 1542, about 50 of 200 men died of scurvy, apparently without using the remedy.",
+    "date": {
+      "start": 1536,
+      "end": 1536,
+      "display": "winter 1535–1536",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "The remedy was given during the winter of 1535–36, after the crisis reached its peak in February 1536 (Cartier's account)."
+    },
+    "type": "practice",
+    "evidence": [
+      "eyewitness-account"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "Indigenous knowledge",
+      "nutrition",
+      "knowledge lost and found",
+      "colonial encounters"
+    ],
+    "locations": [
+      {
+        "name": "Stadacona (St Lawrence Iroquoian village)",
+        "modern": "Quebec City, Quebec, Canada",
+        "lat": 46.81,
+        "lon": -71.21,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Domagaya",
+        "role": "Son of the Stadaconan chief Donnacona; revealed the remedy"
+      },
+      {
+        "name": "Two Stadaconan women",
+        "role": "Prepared the remedy"
+      },
+      {
+        "name": "Jacques Cartier",
+        "role": "French expedition leader who recorded the cure"
+      }
+    ],
+    "whatChanged": "Saved most of an expedition through Indigenous knowledge of a plant remedy for scurvy.",
+    "whyItMattered": "An early, well-documented case of European survival depending on Indigenous medical knowledge, and of that knowledge failing to be retained.",
+    "limitations": [
+      "The plant cannot be identified with certainty; eastern white cedar is the most common identification.",
+      "The account comes from the French side; Stadaconan understanding of the remedy is known only through it."
+    ],
+    "harms": "Cartier had seized Domagaya and his brother Taignoagny in 1534 to train them as interpreters, and in 1536 he took their father Donnacona to France, where he died.",
+    "sources": [
+      {
+        "citation": "Parks Canada. Cartier-Brébeuf National Historic Site: Wintering (1535–1536).",
+        "url": "https://parks.canada.ca/lhn-nhs/qc/cartierbrebeuf/culture/histoire-history/evenement-event/cartier/c",
+        "kind": "institution",
+        "supports": "Cartier hid the poor health of his crew; Domagaya had the medicine prepared by two women; annedda believed to be eastern white cedar; 25 sailors died."
+      },
+      {
+        "citation": "Trudel M. Donnacona. Dictionary of Canadian Biography, vol. 1. University of Toronto/Université Laval.",
+        "url": "https://www.biographi.ca/en/bio/177",
+        "kind": "university",
+        "supports": "Cartier learned the secret of annedda (white cedar) from Domagaya; Donnacona taken into exile with his sons and died in France, probably 1539."
+      },
+      {
+        "citation": "Scurvy. The Canadian Encyclopedia.",
+        "url": "https://thecanadianencyclopedia.ca/en/article/scurvy",
+        "kind": "institution",
+        "supports": "By February 1536 only 10 of 110 men were healthy; cure of conifer needles and bark; Roberval's 1542 party lost about 50 of 200 without using it."
+      },
+      {
+        "citation": "Library and Archives Canada. Explorers: Jacques Cartier.",
+        "url": "https://epe.lac-bac.gc.ca/100/206/301/lac-bac/explorers/www.collectionscanada.gc.ca/explorers/h24-1330-e.html",
+        "kind": "archive",
+        "supports": "Taignoagny and Domagaya kidnapped at Gaspé in 1534; twenty-five Frenchmen died of scurvy before the cure was learned."
+      }
+    ],
+    "related": [
+      "lind-scurvy-trial",
+      "badianus-manuscript"
+    ]
+  },
+  {
+    "id": "badianus-manuscript",
+    "title": "Nahua physicians record Indigenous plant medicine",
+    "summary": "In 1552, at the Colegio de Santa Cruz in Tlatelolco, the Nahua physician Martín de la Cruz composed an illustrated herbal of Indigenous medicine, translated into Latin by Juan Badiano. It is the earliest surviving illustrated work on Nahua medicine and botany.",
+    "explanation": "The Colegio de Santa Cruz de Tlatelolco was founded to educate sons of the Nahua nobility. Martín de la Cruz, the college's Indigenous physician, set down remedies from Nahua medical knowledge, and Juan Badiano, a Nahua Latin teacher, translated them. The book, made for Francisco de Mendoza, son of the viceroy of New Spain, who sent it to Spain, contains some 185 painted plant illustrations alongside remedies.\n\nThe manuscript is unusual among sixteenth-century records of the Americas because it was written and translated by Indigenous authors rather than by European observers. Its blend of Nahua knowledge and European herbal form reflects the colonial setting in which it was made; the Nahuatl original has not survived.\n\nThe Latin manuscript spent nearly four centuries in European libraries, including the Vatican, where it was rediscovered in 1929. In 1990 Pope John Paul II returned it to Mexico, where it is held by the National Institute of Anthropology and History.",
+    "date": {
+      "start": 1552,
+      "end": 1552,
+      "display": "1552",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Completed and dated 1552."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "Indigenous knowledge",
+      "botany",
+      "colonial encounters"
+    ],
+    "locations": [
+      {
+        "name": "Colegio de Santa Cruz, Tlatelolco (New Spain)",
+        "modern": "Tlatelolco, Mexico City, Mexico",
+        "lat": 19.45,
+        "lon": -99.14,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "text-origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Martín de la Cruz",
+        "role": "Nahua physician, author"
+      },
+      {
+        "name": "Juan Badiano",
+        "role": "Nahua scholar, Latin translator"
+      },
+      {
+        "name": "Jacobo de Grado",
+        "role": "Friar who commissioned the work"
+      }
+    ],
+    "whatChanged": "Preserved Nahua medical and botanical knowledge in a written, illustrated form by Nahua authors.",
+    "whyItMattered": "A rare Indigenous-authored source for pre-conquest medicine in the Americas, and an object whose repatriation reflects changing views on cultural heritage.",
+    "limitations": [
+      "It was produced under colonial and missionary sponsorship, which shaped its form and content.",
+      "The original Nahuatl text is lost; we have the Latin translation."
+    ],
+    "sources": [
+      {
+        "citation": "Tufts University, Tisch Library Special Collections. The Badianus Manuscript.",
+        "url": "https://tischlibrary.tufts.edu/node/2568",
+        "kind": "university",
+        "supports": "First illustrated text of Nahua medicine, 185 illustrations; composed by Martín de la Cruz in Nahuatl, translated by Juan Badiano at the Colegio de Santa Cruz de Tlatelolco; commissioned by Jacobo de Grado for Francisco de Mendoza; returned in 1990; now at INAH."
+      },
+      {
+        "citation": "Not Even Past (University of Texas at Austin). The Codex de la Cruz-Badiano.",
+        "url": "https://notevenpast.org/?p=687",
+        "kind": "university",
+        "supports": "Brought to the Vatican in 1626; rediscovered in 1929; blend of European and Aztec cultures; returned to Mexico by Pope John Paul II."
+      },
+      {
+        "citation": "Chávez-Robledo P, et al. Ophthalmology in the Codex De la Cruz-Badiano. Revista Mexicana de Oftalmología 2016.",
+        "url": "https://www.elsevier.es/es-revista-revista-mexicana-oftalmologia-321-pdf-download-X0187451916498073",
+        "kind": "journal",
+        "supports": "Martín de la Cruz, native of Xochimilco, physician at the Colegio de Santa Cruz de Tlatelolco; mid-16th century."
+      },
+      {
+        "citation": "Not Even Past (University of Texas at Austin). Codice de la Cruz-Badiano (PDF via CORE).",
+        "url": "https://core.ac.uk/download/323372195.pdf",
+        "kind": "university",
+        "supports": "In 1552 Francisco de Mendoza, son of the viceroy, sent the Latin manuscript to Spain; produced by Martín de la Cruz and translated by Juan Badiano."
+      }
+    ],
+    "related": [
+      "annedda-scurvy",
+      "cinchona-bark"
+    ]
+  },
+  {
+    "id": "cinchona-bark",
+    "title": "Cinchona bark enters medicine against fevers",
+    "summary": "In the 1630s Jesuit missionaries in the Viceroyalty of Peru began using the bark of the Andean cinchona tree to treat intermittent fevers, and sent it to Europe. Its active ingredient, quinine, was isolated in Paris in 1820.",
+    "explanation": "The bark of cinchona trees, from the eastern slopes of the Andes, became known in Europe as 'Jesuits' bark' or 'Peruvian bark'. Jesuit missionaries were using it against fevers by about 1630, and shipments reached Europe in the following years, where it became the first effective treatment for malaria.\n\nPopular stories credit its discovery to a feverish Indigenous man who drank water steeped with fallen cinchona, or to the cure of a Spanish countess. These are legends. Whether Andean peoples used the bark against fevers before European contact is uncertain.\n\nAlmost two centuries later, in 1820, the French pharmacists Pierre-Joseph Pelletier and Joseph Caventou isolated quinine from the bark. Purified quinine replaced the bark and allowed reliable dosing, decades before the malaria parasite itself was identified.",
+    "date": {
+      "start": 1630,
+      "end": 1640,
+      "display": "1630s",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Use by Jesuit missionaries in South America is dated to about 1630; the first shipments to Europe followed in the 1630s."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "malaria",
+      "Indigenous knowledge",
+      "colonial trade in medicines"
+    ],
+    "locations": [
+      {
+        "name": "Andean forests of the Viceroyalty of Peru",
+        "modern": "Peru, Ecuador and Bolivia",
+        "lat": -8.0,
+        "lon": -77.0,
+        "radiusKm": 700,
+        "precision": "macro-region",
+        "type": "documented-practice"
+      }
+    ],
+    "locationNote": "Cinchona grows along the eastern Andes; the exact places of earliest use are not documented, so a broad region is shown.",
+    "people": [
+      {
+        "name": "Jesuit missionaries in South America",
+        "role": "Used the bark and sent it to Europe"
+      },
+      {
+        "name": "Andean communities",
+        "role": "Lived where cinchona grows; their role in the discovery is uncertain"
+      },
+      {
+        "name": "Pierre-Joseph Pelletier and Joseph Caventou",
+        "role": "Isolated quinine in 1820"
+      }
+    ],
+    "whatChanged": "Provided the first effective drug treatment for malaria.",
+    "whyItMattered": "Quinine remains an important antimalarial almost four hundred years after the bark's effectiveness was first documented.",
+    "limitations": [
+      "The stories of its discovery are legends, and Indigenous use before contact is not established.",
+      "Results with the bark varied, and reliable dosing became possible only after quinine was purified."
+    ],
+    "contested": "Accounts differ on whether the remedy originated with Andean peoples or with Jesuit missionaries; the evidence for pre-contact use is weak.",
+    "sources": [
+      {
+        "citation": "Achan J, Talisuna AO, Erhart A, et al. Quinine, an old anti-malarial drug in a modern world: role in the treatment of malaria. Malaria Journal 2011;10:144.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121651/",
+        "doi": "10.1186/1475-2875-10-144",
+        "kind": "journal",
+        "supports": "Used to treat malaria from the 1600s; names Jesuits' bark, cardinal's bark; use in 1630 by Jesuit missionaries; legend of earlier native use; quinine isolated and named by Pelletier and Caventou in 1820 and then replaced the bark."
+      },
+      {
+        "citation": "Natural products that changed society (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8146924/",
+        "kind": "journal",
+        "supports": "Jesuits sent the first batch to Europe in 1632; varying success with bark; isolation of quinine in 1820 a breakthrough."
+      },
+      {
+        "citation": "Watch out for malaria: still a leading cause of child death worldwide (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944152/",
+        "kind": "journal",
+        "supports": "Story of the countess, wife of the viceroy of Peru (treated here as legend); Jesuits the main importers to Europe."
+      }
+    ],
+    "related": [
+      "laveran-malaria-parasite",
+      "artemisinin",
+      "badianus-manuscript"
+    ]
+  },
+  {
+    "id": "vesalius-fabrica",
+    "title": "Vesalius's Fabrica rebuilds anatomy on dissection",
+    "summary": "In 1543 Andreas Vesalius, professor at Padua, published De humani corporis fabrica in Basel: seven books of human anatomy based on his own dissections, with detailed woodcut illustrations that corrected many errors inherited from Galen.",
+    "explanation": "Vesalius, a young professor of anatomy and surgery at the University of Padua, insisted that reliable knowledge of the body must come from examining cadavers rather than from ancient texts. He spent much of 1542 dissecting and working with artists to prepare the woodcuts, then took the work to the printer Johannes Oporinus in Basel, where it appeared in 1543.\n\nThe Fabrica was the first profusely illustrated anatomy book. By comparing the human body with Galen's descriptions, many of them based on animal dissection, Vesalius showed where the ancient authority was wrong. It changed how anatomy was taught and set observation above textual authority.\n\nIt was not a solitary achievement: Vesalius built on a broader movement of anatomical study and on the skills of the artists and printers who made the book.",
+    "date": {
+      "start": 1543,
+      "end": 1543,
+      "display": "1543",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of publication in Basel (colophon dated 1543)."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "anatomy",
+      "printing and illustration",
+      "authority versus observation"
+    ],
+    "locations": [
+      {
+        "name": "University of Padua (Republic of Venice)",
+        "modern": "Padua, Italy",
+        "lat": 45.41,
+        "lon": 11.88,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Dissections and preparation of the book (1542)"
+      },
+      {
+        "name": "Basel (Swiss Confederacy)",
+        "modern": "Basel, Switzerland",
+        "lat": 47.56,
+        "lon": 7.59,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "text-origin",
+        "role": "Printed by Johannes Oporinus (1543)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Andreas Vesalius",
+        "role": "Anatomist, professor at Padua"
+      },
+      {
+        "name": "Johannes Oporinus",
+        "role": "Printer in Basel"
+      },
+      {
+        "name": "Unnamed artists",
+        "role": "Produced the woodcut illustrations"
+      }
+    ],
+    "whatChanged": "Made direct dissection and accurate illustration the basis of anatomical knowledge.",
+    "whyItMattered": "Founded modern anatomy and encouraged physicians to test ancient authority against observation.",
+    "limitations": [
+      "The artists responsible for the woodcuts are not securely identified.",
+      "Advances in anatomy were the work of many people; the Fabrica is the best known of them, not the only one."
+    ],
+    "harms": "Anatomy depended on the bodies of executed criminals, used without their consent; Vesalius assembled a skeleton in Basel from an executed man, Jakob Karrer.",
+    "sources": [
+      {
+        "citation": "US National Library of Medicine. Historical Anatomies on the Web: Vesalius, bibliographic information.",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/vesalius_biblio.html",
+        "kind": "archive",
+        "supports": "Published Basel: Ex officina Joannis Oporini, 1543; Vesalius styled professor of the Padua medical school."
+      },
+      {
+        "citation": "North MJ. Illustrating De Fabrica. Circulating Now, US National Library of Medicine, 2014.",
+        "url": "https://circulatingnow.nlm.nih.gov/2014/07/08/illustrating-de-fabrica/",
+        "kind": "archive",
+        "supports": "Professor of anatomy and surgery at Padua; spent much of 1542 dissecting and working with artist(s) on the woodcuts."
+      },
+      {
+        "citation": "US National Library of Medicine. Dream Anatomy (exhibition).",
+        "url": "https://sites.wip.nlm.nih.gov/exhibition/dream-anatomy/index.html?assetPath=section1_slide1",
+        "kind": "museum",
+        "supports": "First profusely illustrated anatomy book; insisted reliable knowledge derives from cadavers, not ancient texts."
+      },
+      {
+        "citation": "Andreas Vesalius: celebrating 500 years of dissecting nature (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4762440/",
+        "kind": "journal",
+        "supports": "Arrived in Basel in January 1543; skeleton from the executed criminal Jacob Karrar preserved in Basel."
+      },
+      {
+        "citation": "The role of Vesalius and his contemporaries in the transfiguration of human anatomical science (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9877481/",
+        "kind": "journal",
+        "supports": "Revolutionised anatomy teaching; use of executed criminals' corpses; advances not attributable to a single person."
+      }
+    ],
+    "related": [
+      "ibn-al-nafis-pulmonary-circulation",
+      "edwin-smith-papyrus"
+    ]
+  },
+  {
+    "id": "fabrici-venous-valves",
+    "title": "Fabrici describes the valves of the veins",
+    "summary": "In 1603 Girolamo Fabrici (Fabricius ab Aquapendente), professor of anatomy at Padua, published De venarum ostiolis, the most detailed illustrated account of the valves in the veins to that date. He misread their purpose; his student William Harvey later used them as evidence that blood circulates.",
+    "explanation": "Valves inside the veins had been noticed by earlier anatomists, but Fabrici, professor of anatomy and surgery at Padua from 1565, examined them systematically. He demonstrated them in 1579 and in 1603 published a short illustrated treatise on them, De venarum ostiolis ('On the little doors of the veins'), printed in Padua.\n\nHe noted that the valves always point towards the heart. Following Galen, however, he believed that blood flowed outward through the veins, and explained the valves as brakes that stopped too much blood flowing back into the limbs, where the veins might burst.\n\nWilliam Harvey studied at Padua from 1598 to 1602, when Fabrici was at the height of his fame, and learned about the valves there. Harvey later explained them quite differently, as part of his theory of the circulation of the blood.",
+    "date": {
+      "start": 1603,
+      "end": 1603,
+      "display": "1603",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year De venarum ostiolis was published in Padua. Fabrici had demonstrated the valves in 1579 (some accounts say 1574)."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "anatomy",
+      "Padua school",
+      "anatomical illustration"
+    ],
+    "locations": [
+      {
+        "name": "University of Padua",
+        "modern": "Padua, Veneto, Italy",
+        "lat": 45.41,
+        "lon": 11.88,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Girolamo Fabrici (Hieronymus Fabricius ab Aquapendente)",
+        "role": "Professor of anatomy and surgery, University of Padua"
+      }
+    ],
+    "whatChanged": "Gave anatomists a detailed, illustrated description of the venous valves and showed that they always face towards the heart.",
+    "whyItMattered": "The valves became one of the pieces of evidence Harvey used to argue that blood returns to the heart and circulates.",
+    "limitations": [
+      "Valves in the veins had been seen before Fabrici; his claim to have discovered them has been contested.",
+      "Fabrici's explanation of what the valves were for, based on Galen's physiology, was wrong."
+    ],
+    "contested": "Sources give 1574 or 1579 for his first observation of the valves, and recent scholarship questions his claim to have discovered them.",
+    "sources": [
+      {
+        "citation": "Ellis H. Hieronymus Fabricius: professor of anatomy at Padua in Vesalius' footsteps. British Journal of Hospital Medicine 2019;80(2):109.",
+        "url": "https://storage.imrpress.com/IMR/hmed/application/10.12968/hmed.2019.80.2.109.pdf",
+        "doi": "10.12968/hmed.2019.80.2.109",
+        "kind": "journal",
+        "supports": "De venarum ostiolis published in Padua in 1603; valves always directed towards the heart; noted before but not described and figured in such detail; Fabricius followed Galen and thought they stopped blood flowing backwards; Harvey in Padua 1598–1602."
+      },
+      {
+        "citation": "University of Oxford, Cabinet. Harvey's teacher in Padua: Hieronymus Fabricius of Aquapendente (commentary).",
+        "url": "https://www.cabinet.ox.ac.uk/node/836",
+        "kind": "university",
+        "supports": "Professor of anatomy and surgery at Padua from 1565; anatomy theatre opened 1594; demonstrated vein valves in 1579; priority recently contested; supervised William Harvey, who learned about the valves in Padua."
+      },
+      {
+        "citation": "Edward Worth Library, Dublin. Teaching anatomy: Padua, sixteenth century.",
+        "url": "https://anatomy.edwardworthlibrary.ie/teaching-anatomy/padua/sixteenth-century/",
+        "kind": "museum",
+        "supports": "De venarum ostiolis (Padua, 1603) included a detailed description of the valves in the veins."
+      }
+    ],
+    "related": [
+      "harvey-circulation",
+      "vesalius-fabrica"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "harvey-circulation",
+    "title": "Harvey shows that the blood circulates",
+    "summary": "In 1628 William Harvey, physician at St Bartholomew's Hospital in London, published De motu cordis, arguing from experiment and measurement that the heart pumps a fixed volume of blood around the body in a circuit.",
+    "explanation": "Harvey had studied at Padua and was appointed physician to St Bartholomew's Hospital in London in 1609. He investigated the movement of the blood by observation and experiment, working mostly on dogs and on cold-blooded animals such as frogs and snakes, whose slower hearts were easier to watch.\n\nHis decisive argument was quantitative. The heart pushes out so much blood with each beat that the body could not possibly make that amount anew, so a fixed volume of blood must go round and round, driven by the heart acting as a pump. He was already saying this at the end of his Lumleian lectures at the College of Physicians in 1616, but he published only in 1628, in a short Latin book printed in Frankfurt, then a centre of the European book trade.\n\nThe book was fiercely attacked; one critic called the idea paradoxical, useless, false, impossible, absurd and harmful. Harvey could not see how blood passed from the arteries to the veins and had to suppose that there were hidden connections. Marcello Malpighi observed the capillaries in 1661.",
+    "date": {
+      "start": 1628,
+      "end": 1628,
+      "display": "1628",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year De motu cordis was published in Frankfurt. Harvey's notes for his 1616 Lumleian lecture show he had reached the conclusion by then."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "experimental physiology",
+      "quantitative reasoning"
+    ],
+    "locations": [
+      {
+        "name": "St Bartholomew's Hospital, London",
+        "modern": "City of London, England, UK",
+        "lat": 51.52,
+        "lon": -0.1,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Where Harvey worked as physician while developing and teaching the theory"
+      },
+      {
+        "name": "Frankfurt am Main",
+        "modern": "Frankfurt am Main, Hesse, Germany",
+        "lat": 50.11,
+        "lon": 8.68,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "text-origin",
+        "role": "Where De motu cordis was printed in 1628"
+      }
+    ],
+    "people": [
+      {
+        "name": "William Harvey",
+        "role": "Physician to St Bartholomew's Hospital; Lumleian lecturer at the College of Physicians"
+      }
+    ],
+    "whatChanged": "Replaced the idea that blood is continually produced and used up with a circulation driven by the heart as a pump.",
+    "whyItMattered": "Circulation became a foundation of physiology, and the book showed how experiment and measurement could overturn an ancient authority.",
+    "limitations": [
+      "Harvey could not see the capillaries linking arteries and veins; Malpighi observed them in 1661.",
+      "Parts of the circuit, such as the passage of blood through the lungs, had been described earlier (see Ibn al-Nafis); Harvey's contribution was the whole circuit and its experimental proof.",
+      "His experiments relied on live animals, mostly dogs."
+    ],
+    "sources": [
+      {
+        "citation": "Garrison–Morton (Norman J, ed.). HistoryofMedicine.com: Harvey W. Exercitatio anatomica de motu cordis et sanguinis in animalibus, 1628 (GMN 759) and Praelectiones (GMN 758).",
+        "url": "https://www.historyofmedicine.com/author/d/william-harvey",
+        "kind": "book",
+        "supports": "Discovery and experimental proof of the circulation of the blood; notes for the 1616 Lumleian lecture show he had completed his demonstration by then."
+      },
+      {
+        "citation": "Anniversary milestone: De motu cordis. MD magazine, April 1978, pp. 107–111 (University of Pittsburgh Health Sciences Library digital collection).",
+        "url": "https://dec.hsls.pitt.edu/files/original/6d3f9bff366c3ae3c6a532dbdda614323257bef5.pdf",
+        "kind": "archive",
+        "supports": "Published in Frankfurt-am-Main in 1628, a centre of the book trade; physician at St Bartholomew's from 1609; Lumleian lecturer 1615, circulation stated in 1616; experiments on dogs, frogs and snakes; fixed volume of blood; heart as force-pump; critics including Patin; capillaries demonstrated by Malpighi in 1661."
+      },
+      {
+        "citation": "Stanford University, History 13 course readings. William Harvey (1578–1657).",
+        "url": "https://web.stanford.edu/class/history13/Readings/harvey.html",
+        "kind": "university",
+        "supports": "Calculation of how much blood the heart pumps per hour led Harvey to conclude that blood is circulated, not continually produced; publication delayed until 1628."
+      }
+    ],
+    "related": [
+      "fabrici-venous-valves",
+      "ibn-al-nafis-pulmonary-circulation",
+      "vesalius-fabrica"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hooke-micrographia",
+    "title": "Hooke's Micrographia names the cell",
+    "summary": "In 1665 Robert Hooke, curator of experiments to the Royal Society in London, published Micrographia, the first illustrated book of observations made with microscopes. Describing thin slices of cork, he called their tiny compartments 'cells'.",
+    "explanation": "Hooke built one of the best compound microscopes of his time, with its own lighting system, and used it in demonstrations at the Royal Society's weekly meetings, where he had been curator of experiments since 1662. Micrographia (1665) set out his observations with large engraved illustrations, including a famous flea, and became a best-seller.\n\nIn thin slices of cork he saw a honeycomb of small box-like spaces, which reminded him of the cells of a monastery, and he named them accordingly. What he saw were the walls of dead plant tissue. The word was later adopted for the basic unit of living things.\n\nAntoni van Leeuwenhoek, who knew Hooke's work, built far more powerful microscopes and reported protozoa, bacteria, red blood cells and sperm cells in letters that the Royal Society translated and published.",
+    "date": {
+      "start": 1665,
+      "end": 1665,
+      "display": "1665",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of publication of Micrographia."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "microscopy",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Royal Society, London",
+        "modern": "London, England, UK",
+        "lat": 51.51,
+        "lon": -0.09,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Robert Hooke",
+        "role": "Curator of Experiments, Royal Society of London"
+      }
+    ],
+    "whatChanged": "Showed in detail what a microscope could reveal and introduced the word 'cell' for a biological structure.",
+    "whyItMattered": "Microscopy went on to reveal micro-organisms and blood cells, and the cell became the basic unit of biology and of medicine's understanding of disease.",
+    "limitations": [
+      "Hooke saw empty cell walls in dead cork, not living cells.",
+      "Leeuwenhoek's more powerful microscopes, not Hooke's, first revealed bacteria and blood cells."
+    ],
+    "sources": [
+      {
+        "citation": "University of California Museum of Paleontology. Robert Hooke (1635–1703).",
+        "url": "https://ucmp.berkeley.edu/history/hooke.html",
+        "kind": "university",
+        "supports": "Micrographia published 1665, a best-seller; Hooke's compound microscope and illumination system used at Royal Society meetings; Curator of Experiments from 1662; cork observation and the name 'cells'."
+      },
+      {
+        "citation": "Bodleian Libraries, University of Oxford. Moments in Medicine: Micrographia, Robert Hooke, 1665.",
+        "url": "https://bodwhatson.web.ox.ac.uk/sites/default/files/bodwhatson/documents/media/mim-micrographia.pdf",
+        "kind": "university",
+        "supports": "First illustrated book of observations using microscopes; first use of 'cell' for biological organisms; Leeuwenhoek's microscopes revealed protozoa, bacteria, red blood cells and sperm cells, published by the Royal Society."
+      },
+      {
+        "citation": "Pearce JMS. Robert Hooke and Micrographia. Hektoen International, Spring 2023.",
+        "url": "https://hekint.org/?p=40299",
+        "kind": "journal",
+        "supports": "Hooke was first to show the cell; devised one of the earliest microscopes; the cell underlies understanding of the unit of life."
+      }
+    ],
+    "related": [
+      "harvey-circulation"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "amyand-appendicectomy",
+    "title": "Amyand removes a perforated appendix",
+    "summary": "In 1735 at St George's Hospital, London, the surgeon Claudius Amyand operated on an 11-year-old boy's hernia and found inside it an appendix perforated by a swallowed pin. He removed it: the earliest recorded successful appendicectomy.",
+    "explanation": "Hanvil Anderson, aged 11, was admitted to St George's Hospital at Hyde Park Corner with a scrotal hernia he had had since infancy and a fistula between the scrotum and thigh. When Amyand, the hospital's principal surgeon, opened the hernia he found the appendix inside it, pierced by a pin encrusted with stone. He removed the pin and the damaged appendix, and the operation succeeded.\n\nAmyand described the case in a paper read to the Royal Society on 11 December 1735 and published in its Philosophical Transactions. It was an unplanned response to what he found, not a treatment for appendicitis, and the case fell into obscurity. Removing the appendix became an established operation only in the 1880s, after anaesthesia and antisepsis had made abdominal surgery far safer.\n\nAn appendix lying within an inguinal hernia is still called Amyand's hernia.",
+    "date": {
+      "start": 1735,
+      "end": 1735,
+      "display": "1735",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Several sources date the operation to 6 December 1735; Amyand's paper was read to the Royal Society on 11 December 1735. Wikipedia's timeline gives 1736."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "abdominal surgery",
+      "case report"
+    ],
+    "locations": [
+      {
+        "name": "St George's Hospital, Hyde Park Corner, London",
+        "modern": "Hyde Park Corner, London, England, UK",
+        "lat": 51.5,
+        "lon": -0.15,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Claudius Amyand",
+        "role": "Principal Surgeon, St George's Hospital; Serjeant Surgeon to the King"
+      },
+      {
+        "name": "Hanvil Anderson",
+        "role": "The 11-year-old patient"
+      }
+    ],
+    "whatChanged": "Recorded, for the first time, the successful surgical removal of the appendix.",
+    "whyItMattered": "It showed that the appendix could be removed and the patient survive, although the operation did not become routine for another 150 years.",
+    "limitations": [
+      "'Earliest recorded' means the earliest known written report; earlier, unrecorded operations cannot be ruled out.",
+      "Amyand was repairing a hernia and removed the appendix because of what he found; this was not a planned operation for appendicitis.",
+      "The case had little influence at the time; appendicectomy was established independently in the 1880s."
+    ],
+    "sources": [
+      {
+        "citation": "Royal Society Archives. Amyand C. Paper, 'Of an inguinal rupture with a pin in the appendix coeci incrusted with stone; with some observations of wounds in the gutts', 1735. CLP/12ii/70.",
+        "url": "https://makingscience.royalsociety.org/items/clp_12ii_70/paper-of-an-inguinal-rupture-with-a-pin-in-the-appendix-coeci-incrusted-with-stone-with-some-observations-of-wounds-in-the-gutts-by-claudius-claude-amyand",
+        "kind": "archive",
+        "supports": "11-year-old boy admitted to St George's Hospital for a scrotal hernia and a fistula between the scrotum and thigh."
+      },
+      {
+        "citation": "Royal Society Archives. Amyand C. Paper, 'The operation of a hernia scrotalis occasioned by the omentum and the appendix coeci perforated by a needle incrusted with chalk', 1735. CLP/12ii/69.",
+        "url": "https://makingscience.royalsociety.org/items/clp_12ii_69/paper-the-operation-of-a-hernia-scrotalis-occasioned-by-the-omentum-and-the-apendix-appendix-coeci-perforated-by-a-needle-incrusted-with-chalk-in-its-blunt-end-by-claude-amyand",
+        "kind": "archive",
+        "supports": "Read to the Royal Society on 11 December 1735 and published in Philosophical Transactions; a stone-encrusted pin found in the gut."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). Claudius Amyand.",
+        "url": "https://litfl.com/claudius-amyand/",
+        "kind": "institution",
+        "supports": "Operation on 6 December 1735 at St George's Hospital, first recorded appendicectomy, pin-perforated appendix during hernia repair; patient Hanvil Anderson aged 11; Principal Surgeon of St George's at Hyde Park Corner from 1734; Amyand's hernia."
+      },
+      {
+        "citation": "Museum of Health Care at Kingston. A mere appendix: pioneering surgery in Grand Valley, Ontario.",
+        "url": "https://www.museumofhealthcare.ca/blog/a-mere-appendix",
+        "kind": "museum",
+        "supports": "First recorded removal of an appendix in London in 1735 by Amyand; the surgery was a success; the work fell into obscurity and the operation was not tried again until the 1880s, after anaesthesia and antisepsis."
+      }
+    ],
+    "related": [
+      "ether-anaesthesia",
+      "lister-antisepsis"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "priestley-oxygen",
+    "title": "Priestley isolates oxygen at Bowood",
+    "summary": "On 1 August 1774, in the Earl of Shelburne's laboratory at Bowood House in Wiltshire, Joseph Priestley heated red mercuric oxide and collected a new gas. He called it 'dephlogisticated air'; Lavoisier named it oxygen.",
+    "explanation": "Priestley, a dissenting minister and teacher, investigated gases ('airs') from the early 1770s and described several new ones, among them nitrous oxide. In 1773 he became librarian and companion to the Earl of Shelburne, whose estate at Bowood gave him a laboratory. There, on 1 August 1774, he heated red mercuric oxide and isolated a new air.\n\nHe interpreted it through the then-dominant phlogiston theory of burning and called it 'dephlogisticated air'. Later that year, in Paris, he told Antoine Lavoisier about it. Lavoisier recognised it as part of the atmosphere, named it oxygen and used it to overturn the phlogiston theory. Priestley never accepted the new chemistry.\n\nThe Swedish apothecary Carl Wilhelm Scheele prepared the same gas, probably earlier, but published later.",
+    "date": {
+      "start": 1774,
+      "end": 1774,
+      "display": "1 August 1774",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the experiment at Bowood, as given by the Science History Institute, the Bowood estate and the American Chemical Society. Priestley announced the discovery in a letter read to the Royal Society in 1775."
+    },
+    "type": "discovery",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "chemistry",
+      "respiration"
+    ],
+    "locations": [
+      {
+        "name": "Bowood House, near Calne",
+        "modern": "Calne, Wiltshire, England, UK",
+        "lat": 51.43,
+        "lon": -2.04,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Joseph Priestley",
+        "role": "Natural philosopher and dissenting minister; librarian to the Earl of Shelburne"
+      },
+      {
+        "name": "William Petty, 2nd Earl of Shelburne",
+        "role": "Patron who provided the laboratory at Bowood"
+      }
+    ],
+    "whatChanged": "Isolated the gas that Lavoisier identified as a component of air and named oxygen.",
+    "whyItMattered": "Oxygen was central to the new chemistry of burning and, in time, to the understanding of how the body uses the air it breathes.",
+    "limitations": [
+      "Priestley did not understand his gas as a new element; Lavoisier did.",
+      "This is a discovery in chemistry; its medical importance came later and indirectly."
+    ],
+    "contested": "Priority is disputed: Scheele prepared oxygen, probably by 1772, but published after Priestley, and Lavoisier's own claims to independent discovery have been questioned.",
+    "sources": [
+      {
+        "citation": "Science History Institute. Joseph Priestley (historical profile).",
+        "url": "https://sciencehistory.org/historical-profile/joseph-priestley",
+        "kind": "institution",
+        "supports": "Isolated a new air on 1 August 1774; called it dephlogisticated air under phlogiston theory; demonstrated it to Lavoisier, who named it oxygen and campaigned against phlogiston; Priestley resisted the new chemistry."
+      },
+      {
+        "citation": "Bowood House and Gardens. World Book Day: Joseph Priestley.",
+        "url": "https://bowood.org/?p=4663",
+        "kind": "museum",
+        "supports": "Oxygen discovered in the laboratory at Bowood on 1 August 1774; Priestley employed by Lord Shelburne from 1773 as librarian; gases isolated during his seven years there."
+      },
+      {
+        "citation": "American Chemical Society. Joseph Priestley and the discovery of oxygen (International Historic Chemical Landmark).",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/josephpriestleyoxygen.html",
+        "kind": "institution",
+        "supports": "Discovery of oxygen in 1774; landmark dedicated at Bowood House, Wiltshire, in 2000; employment by the Earl of Shelburne from 1773."
+      },
+      {
+        "citation": "Dictionary of National Biography: Priestley, Joseph (via The Victorian Web).",
+        "url": "https://victorianweb.org/history/dnb/3.html",
+        "kind": "book",
+        "supports": "The first volume of his Experiments and Observations on Different Kinds of Air records the discovery of nitrous oxide (dephlogisticated nitrous air) and ammonia; his first paper on airs was read in 1772."
+      },
+      {
+        "citation": "Severinghaus JW. Fire-air and dephlogistication: revisionisms of oxygen's discovery. Advances in Experimental Medicine and Biology 2003;543:7–19 (abstract).",
+        "url": "https://www.general-anaesthesia.com/oxygen.htm",
+        "kind": "journal",
+        "supports": "Scheele's earlier (1772) discovery and the dispute over credit; Lavoisier failed to credit Priestley or Scheele."
+      }
+    ],
+    "related": [
+      "davy-nitrous-oxide"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "withering-foxglove",
+    "title": "Withering's account of the foxglove",
+    "summary": "In 1785 William Withering, physician to the General Hospital in Birmingham, published An Account of the Foxglove: 163 patients with dropsy treated with foxglove leaf, reported whether they did well or not, with a clear description of the drug's dangerous side effects.",
+    "explanation": "Foxglove had been known to herbalists for centuries. Withering, who joined the staff of Birmingham's General Hospital in 1775, was asked about a family remedy for dropsy kept secret by an old woman in Shropshire. The mixture contained at least twenty herbs, and he concluded that the active one could be no other than the foxglove.\n\nOver about ten years he tried different preparations, found dried, powdered leaf more reliable than fresh leaf or a decoction, and learned to adjust the dose. His book reports 163 cases. He chose to include every patient he had treated, whether the outcome was good or bad, because a selection of successes would have misled his readers. He described the toxic effects (nausea, vomiting, diarrhoea and disturbed, green-yellow vision) and advised stopping and restarting at a lower dose when they appeared.\n\nHe did not know how foxglove worked. He thought mainly of its effect on urine, though he noticed that it could calm a disordered heartbeat. Other physicians later used it in excessive doses or where it could not help.",
+    "date": {
+      "start": 1785,
+      "end": 1785,
+      "display": "1785",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year the book was printed in Birmingham. The cases it reports were collected between 1775 and 1784."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "folk medicine",
+      "pharmacology",
+      "heart failure",
+      "reporting all cases"
+    ],
+    "locations": [
+      {
+        "name": "General Hospital, Birmingham",
+        "modern": "Birmingham, England, UK",
+        "lat": 52.48,
+        "lon": -1.9,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "trial-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "William Withering",
+        "role": "Physician to the General Hospital, Birmingham"
+      },
+      {
+        "name": "An unnamed woman in Shropshire",
+        "role": "Kept a family remedy for dropsy that contained foxglove"
+      }
+    ],
+    "whatChanged": "Turned a folk remedy into a medicine with a described preparation, dose, effects and dangers, based on a systematic record of patients.",
+    "whyItMattered": "Digitalis became a landmark treatment for heart failure for well over a century, and the book is an early example of reporting every treated case, not just the successes.",
+    "limitations": [
+      "Withering did not understand how the drug acted and could not reliably say which patients would benefit.",
+      "The Shropshire woman is known only from Withering's brief mention; her name and knowledge were not recorded.",
+      "Problems of dosing and toxicity were not resolved for about a century."
+    ],
+    "sources": [
+      {
+        "citation": "Withering W. An Account of the Foxglove, and Some of Its Medical Uses: with Practical Remarks on Dropsy, and Other Diseases. Birmingham: M. Swinney; 1785 (Project Gutenberg edition).",
+        "url": "https://www.gutenberg.org/ebooks/24886",
+        "kind": "primary",
+        "supports": "Physician to the General Hospital at Birmingham; printed in Birmingham in 1785; about ten years' use; every case mentioned, proper or improper, successful or not."
+      },
+      {
+        "citation": "Lee MR. William Withering (1741–1799): a biographical sketch of a Birmingham Lunatic. James Lind Library, 2005.",
+        "url": "https://www.jameslindlibrary.org/articles/william-withering-1741-1799-a-biographical-sketch-of-a-birmingham-lunatic/",
+        "kind": "journal",
+        "supports": "Joined Birmingham General Hospital in 1775; Shropshire wise woman's remedy of at least 20 herbs, active herb the foxglove; dried leaf more effective; 163 patients; side effects including green/yellow vision; uncertain mechanism; later misuse."
+      },
+      {
+        "citation": "Hektoen International. William Withering and the foxglove (2017).",
+        "url": "https://hekint.org/2017/01/27/william-withering-and-the-foxglove/",
+        "kind": "journal",
+        "supports": "1785 book on ten years of use; in 1775 asked about a remedy kept secret by an old woman in Shropshire; studied at Birmingham General Hospital; a milestone in treating heart failure."
+      },
+      {
+        "citation": "University of Iowa, John Martin Rare Book Room (HEIRS). Withering W. An account of the foxglove (1785).",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=1039",
+        "kind": "university",
+        "supports": "Book includes 163 cases; digitalis in the Edinburgh pharmacopoeia in 1783 and later overuse; regarded as a classic of pharmacology."
+      }
+    ],
+    "related": [
+      "lind-scurvy-trial"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hahnemann-homeopathy",
+    "title": "Hahnemann founds homeopathy",
+    "summary": "In 1796 the German physician Samuel Hahnemann published the principle that 'like cures like', drawn from taking cinchona bark himself in 1790. Homeopathy spread widely in the nineteenth century; reviews of the evidence have found no health condition for which it reliably works.",
+    "explanation": "Hahnemann was critical of the medicine of his day. In 1790, living near Leipzig and translating the Scottish physician William Cullen's Materia Medica, he rejected Cullen's explanation of why cinchona bark helped against malarial fevers and took the bark himself for several days. He reported symptoms resembling the fever, and concluded that a substance which causes symptoms in a healthy person can cure similar symptoms in someone who is ill.\n\nHe first published this 'principle of similars' in 1796, in a German journal of practical medicine, and in 1810 set out his system in the Organon. Homeopathic remedies came to be given in extremely diluted forms. By the late nineteenth century homeopathy was practised in more than 30 countries, with its own medical schools and hospitals, and it remains popular in parts of Europe and in India.\n\nIts principles have not stood up to testing. In 2015 Australia's National Health and Medical Research Council concluded, after assessing the published systematic reviews, that there are no health conditions for which there is reliable evidence that homeopathy is effective.",
+    "date": {
+      "start": 1796,
+      "end": 1796,
+      "display": "1796",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year Hahnemann first published the principle of similars. His self-experiment with cinchona dates from 1790; Wikipedia's timeline gives 1790."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "alternative medicine",
+      "medical theory"
+    ],
+    "locations": [
+      {
+        "name": "Stötteritz, near Leipzig, Electorate of Saxony",
+        "modern": "Leipzig, Saxony, Germany",
+        "lat": 51.32,
+        "lon": 12.42,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Where Hahnemann translated Cullen and tested cinchona on himself (1790)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Samuel Hahnemann",
+        "role": "Physician, chemist and translator; founder of homeopathy"
+      }
+    ],
+    "whatChanged": "Founded a system of treatment based on 'like cures like' and highly diluted remedies, which became a widespread alternative to orthodox medicine.",
+    "whyItMattered": "Homeopathy became one of the most popular alternative therapies in the world, which makes its lack of demonstrated effect a continuing public-health issue.",
+    "limitations": [
+      "Hahnemann's conclusion rested on his own reaction to cinchona; controlled tests of homeopathic remedies have not supported it.",
+      "This entry is included because it shaped medical history, not because the method works."
+    ],
+    "contested": "Supporters of homeopathy, including the Homeopathy Research Institute, dispute the methods of the 2015 Australian review, arguing that its definition of reliable evidence was too strict. The Royal Australian College of General Practitioners maintains that the claim of effectiveness is not supported by systematic reviews.",
+    "harms": "The Australian review warned that people who choose homeopathy may put their health at risk if they reject or delay treatments for which there is good evidence of safety and effectiveness.",
+    "sources": [
+      {
+        "citation": "Institut für Geschichte der Medizin der Robert Bosch Stiftung (Stuttgart). Samuel Hahnemann and the beginnings of homoeopathy.",
+        "url": "https://www.igm-bosch.de/samuel-hahnemann-and-the-beginnings-of-homoeopathy.html",
+        "kind": "institution",
+        "supports": "Translation of Cullen's Materia Medica and cinchona self-experiments near Leipzig, 1789–1790; Simile Principle first published in 1796 in the Journal der practischen Arzneykunde; Organon published 1810."
+      },
+      {
+        "citation": "Ernst E. The prime assumption of homeopathy is based on a misunderstanding (2015).",
+        "url": "https://edzardernst.com/2015/12/the-prime-assumption-of-homeopathy-is-based-on-a-misunderstanding/",
+        "kind": "university",
+        "supports": "In 1790, translating Cullen, Hahnemann disagreed with Cullen's explanation of cinchona's action and took high doses himself, developing symptoms he likened to malaria; origin of 'like cures like'."
+      },
+      {
+        "citation": "Royal Australian College of General Practitioners. Position statement: Homeopathy (October 2025).",
+        "url": "https://www.racgp.org.au/advocacy/position-statements/view-all-position-statements/clinical-and-practice-management/homeopathy",
+        "kind": "institution",
+        "supports": "NHMRC's March 2015 statement concluded there are no health conditions for which there is reliable evidence that homeopathy is effective; claims of effectiveness not supported by systematic reviews."
+      },
+      {
+        "citation": "National Health and Medical Research Council. NHMRC Statement: Statement on Homeopathy, March 2015, ref. CAM02 (copy hosted by P. Bowditch).",
+        "url": "https://mail.peterbowditch.com/writing/ausscience/ausscience1505_homeo_nhmrc_st.pdf",
+        "kind": "institution",
+        "supports": "No health conditions with reliable evidence of effectiveness; homeopathy should not be used for chronic, serious or potentially serious conditions; ideas of similars and memory of highly diluted substances; people may put their health at risk by rejecting or delaying effective treatments."
+      },
+      {
+        "citation": "Hall H. Homeopathy (SkepDoc).",
+        "url": "https://www.skepdoc.info/homeopathy/",
+        "kind": "institution",
+        "supports": "Spread to over 30 countries by the late 1800s; at its peak 22 homeopathic medical schools and over 100 homeopathic hospitals in the US; continued popularity in Europe and India."
+      },
+      {
+        "citation": "Roberts R, Mosley A, Mathie RT, Baitson E, Tournier A. The Australian report: an in-depth analysis of the highly influential 2015 overview report on homeopathy. Homeopathy 2018;107(S01) (abstract).",
+        "url": "https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0038-1633302?lang=en",
+        "doi": "10.1055/s-0038-1633302",
+        "kind": "journal",
+        "supports": "Homeopathy Research Institute's criticism of the NHMRC's definition of reliable evidence."
+      }
+    ],
+    "related": [
+      "cinchona-bark"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "davy-nitrous-oxide",
+    "title": "Davy suggests nitrous oxide against surgical pain",
+    "summary": "Experimenting at the Medical Pneumatic Institution in Bristol, the young chemist Humphry Davy inhaled nitrous oxide repeatedly and in 1800 noted that, as it seemed capable of destroying physical pain, it might be used during surgical operations. The idea lay unused for over 40 years.",
+    "explanation": "The physician Thomas Beddoes opened the Pneumatic Institution at Clifton, Bristol, in 1798 to treat diseases such as consumption with inhaled gases, and hired Davy, then 19, to run its research. Rejecting the belief that nitrous oxide was deadly to breathe, Davy inhaled it many times, recording its effects on himself and on friends.\n\nIn 1800 he published a 580-page account of the work. Near the end, almost in passing, he remarked that because nitrous oxide appeared capable of destroying physical pain, it might probably be used with advantage during surgical operations in which there was little bleeding.\n\nNobody followed this up. The gas became known as laughing gas, and its use against surgical pain was not pursued until the 1840s. In January 1845 the dentist Horace Wells tried to demonstrate it at Massachusetts General Hospital; the patient groaned and moved, and the demonstration was judged a failure.",
+    "date": {
+      "start": 1800,
+      "end": 1800,
+      "display": "1800",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year Davy's Researches, Chemical and Philosophical; Chiefly Concerning Nitrous Oxide was published. The experiments took place in 1799; Wikipedia's timeline lists both years."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report",
+      "laboratory"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "anaesthesia",
+      "self-experimentation",
+      "pneumatic medicine"
+    ],
+    "locations": [
+      {
+        "name": "Medical Pneumatic Institution, Clifton, Bristol",
+        "modern": "Bristol, England, UK",
+        "lat": 51.45,
+        "lon": -2.6,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Humphry Davy",
+        "role": "Superintendent of the Medical Pneumatic Institution"
+      },
+      {
+        "name": "Thomas Beddoes",
+        "role": "Physician who founded the Institution"
+      }
+    ],
+    "whatChanged": "Showed that nitrous oxide could be breathed safely and recorded that it relieved pain.",
+    "whyItMattered": "Nitrous oxide later became one of the first anaesthetic gases; the long gap before anyone acted on Davy's remark shows that an observation alone does not change practice.",
+    "limitations": [
+      "Davy's remark was a passing comment, and historians differ on how much he was concerned with surgical pain.",
+      "Nitrous oxide on its own gives a lighter state of unconsciousness than ether, which helps explain Wells's failure in 1845."
+    ],
+    "sources": [
+      {
+        "citation": "University of Iowa, John Martin Rare Book Room (HEIRS). Davy H. Researches, chemical and philosophical, chiefly concerning nitrous oxide. Bristol: Biggs & Cottle, 1800.",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=1338.5",
+        "kind": "university",
+        "supports": "Published in Bristol in 1800, 580 pages; experiments at the Medical Pneumatic Institution; pure nitrous oxide respirable; 'it may probably be used with advantage in surgical operations'."
+      },
+      {
+        "citation": "Keys TE. Historical vignettes: Sir Humphry Davy. Anesthesia and Analgesia: Current Researches 1972;51(2):187 (University of Pittsburgh digital collection).",
+        "url": "https://dec.hsls.pitt.edu/files/original/c01e4cba408723bfc4134e90982d4a8b2e4d02ea.pdf",
+        "kind": "journal",
+        "supports": "Davy joined the Pneumatic Institution at Bristol in 1798; the 1800 Researches discussed nitrous oxide as a possible anaesthetic."
+      },
+      {
+        "citation": "Technology's Stories (Society for the History of Technology). Article on the origins of surgical anaesthesia (PDF, 2015).",
+        "url": "https://www.technologystories.org/wp-content/uploads/2015/04/Wright_article.pdf",
+        "kind": "institution",
+        "supports": "Beddoes opened the Pneumatic Institution in Clifton in 1798; Davy joined in October 1798; 580-page book published in summer 1800; Wells's nitrous oxide demonstration at MGH in January 1845 failed because the gas gave too light an unconsciousness."
+      }
+    ],
+    "related": [
+      "priestley-oxygen",
+      "ether-anaesthesia",
+      "hanaoka-general-anaesthesia"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "desault-clinical-surgery",
+    "title": "Desault's clinical school and surgical journal",
+    "summary": "At the Hôtel-Dieu in Paris, the surgeon Pierre-Joseph Desault built a clinical school that taught surgery at the bedside, in French, to students from across Europe. In 1791 he founded the Journal de chirurgie to record the most instructive cases from his wards.",
+    "explanation": "Desault, born in Franche-Comté and trained partly in a military hospital, opened a school of anatomy in Paris in 1766 that drew around 300 pupils, to the resentment of established teachers. After posts at the Charité hospital, he took charge of surgery at the Hôtel-Dieu, Paris's main public hospital, in the mid-1780s.\n\nThere he organised teaching around patients: students followed cases on the wards and watched and practised procedures, with lectures given in French rather than Latin. In 1791 he founded the Journal de chirurgie, edited by his pupils, which published the most interesting cases from his clinical school together with his comments on them.\n\nHis students, among them Xavier Bichat, spread his methods; much of what is known of his teaching comes from their publications after his death in 1795.",
+    "date": {
+      "start": 1791,
+      "end": 1791,
+      "display": "1791",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year the Journal de chirurgie was established. Desault's clinical school at the Hôtel-Dieu dates from the late 1780s."
+    },
+    "type": "implementation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "medical education",
+      "clinical teaching",
+      "medical publishing"
+    ],
+    "locations": [
+      {
+        "name": "Hôtel-Dieu, Paris",
+        "modern": "Île de la Cité, Paris, France",
+        "lat": 48.85,
+        "lon": 2.35,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Pierre-Joseph Desault",
+        "role": "Chief surgeon at the Hôtel-Dieu, Paris"
+      },
+      {
+        "name": "Xavier Bichat",
+        "role": "Pupil who published Desault's surgical teachings after his death"
+      }
+    ],
+    "whatChanged": "Made the hospital ward the centre of surgical teaching and published cases from it in a dedicated journal.",
+    "whyItMattered": "Bedside clinical teaching and case reporting became the model for the Paris school of medicine and spread internationally.",
+    "limitations": [
+      "Wikipedia's timeline calls it the first surgical periodical; the sources consulted describe it as a record of cases from Desault's clinic and do not confirm that it was the first."
+    ],
+    "sources": [
+      {
+        "citation": "Pierre-Joseph Desault (1744–1795) and the Hôtel-Dieu. Timočki medicinski glasnik (abstract and PDF).",
+        "url": "https://tmg.org.rs/v460306e.htm",
+        "kind": "journal",
+        "supports": "First French professor of clinical surgery; clinical school at the Hôtel-Dieu attracted students from France and abroad; in 1791 established a Journal de chirurgie, a record of the most interesting clinical cases; taught in French with demonstration and practice; surgeon at the Hôtel-Dieu from 1785."
+      },
+      {
+        "citation": "Encyclopædia Britannica, 9th edition: Desault, Pierre Joseph (via Wikisource mirror).",
+        "url": "https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Encyclop%C3%A6dia_Britannica%2C_Ninth_Edition/Desault%2C_Pierre_Joseph",
+        "kind": "book",
+        "supports": "Opened a school of anatomy in Paris in winter 1766 with about 300 pupils; opposition from established teachers; surgeon-major to the Charité in 1782."
+      },
+      {
+        "citation": "Chalmers A. General Biographical Dictionary: Desault, Peter Joseph (via words.fromoldbooks.org).",
+        "url": "https://words.fromoldbooks.org/Chalmers-Biography/d/desault-peter-joseph.html",
+        "kind": "book",
+        "supports": "Principal surgeon to the Hôtel-Dieu in Paris; came to Paris in 1764; surgeon-major to the Charité in 1782."
+      }
+    ],
+    "related": [
+      "laennec-stethoscope"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  }
+]

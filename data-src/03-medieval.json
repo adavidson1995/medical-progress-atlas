@@ -1,0 +1,437 @@
+[
+  {
+    "id": "al-razi-smallpox-measles",
+    "title": "Al-Razi distinguishes smallpox from measles",
+    "summary": "The Persian physician Abu Bakr al-Razi wrote a treatise that set out how to tell smallpox and measles apart at the bedside, based on careful clinical observation.",
+    "explanation": "Abu Bakr Muhammad ibn Zakariya al-Razi (865–925) was born in Rayy, near present-day Tehran. He directed the hospital in his home town and, at the invitation of the caliph al-Muktafi, a large hospital in Baghdad, before returning to Rayy.\n\nHis short treatise, Kitab al-Judari wa al-Hasbah (On Smallpox and Measles), describes the warning signs of each disease, such as continuous fever, back pain and itching of the nose, and how their course differs. It reads as the work of someone who watched many patients closely, and his other writings include case records of patients he or his students treated.\n\nThe treatise was translated into Latin many times and, much later, into other European languages, shaping how physicians far from Rayy and Baghdad described these diseases.",
+    "date": {
+      "start": 890,
+      "end": 925,
+      "display": "c. 900 CE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Written during al-Razi's working life (he died in 925). The year of composition is not known."
+    },
+    "type": "observation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "infectious disease",
+      "clinical description",
+      "translation and transmission"
+    ],
+    "locations": [
+      {
+        "name": "Rayy",
+        "modern": "Shahr-e Rey, south of Tehran, Iran",
+        "lat": 35.59,
+        "lon": 51.44,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Al-Razi's birthplace; he directed its hospital"
+      },
+      {
+        "name": "Baghdad",
+        "modern": "Baghdad, Iraq",
+        "lat": 33.31,
+        "lon": 44.37,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "He directed a large hospital here at the invitation of the caliph al-Muktafi"
+      }
+    ],
+    "locationNote": "Where the treatise itself was written is not known; both cities where he practised are shown.",
+    "people": [
+      {
+        "name": "Abu Bakr Muhammad ibn Zakariya al-Razi (Rhazes)",
+        "role": "Physician and author"
+      }
+    ],
+    "whatChanged": "Gave physicians a systematic, observation-based way to distinguish two common eruptive fevers.",
+    "whyItMattered": "Accurate differentiation underpins prognosis, isolation and, much later, prevention. The treatise remained in use for centuries through translation.",
+    "limitations": [
+      "Smallpox-like diseases were described in other traditions before al-Razi; claims that he gave the 'first' description of smallpox should be treated cautiously.",
+      "His explanations of cause followed humoral theory, not contagion by specific agents."
+    ],
+    "sources": [
+      {
+        "citation": "Amr SS, Tbakhi A. Abu Bakr Muhammad Ibn Zakariya Al Razi (Rhazes): philosopher, physician and alchemist. Annals of Saudi Medicine 2007;27(4):305–307.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6074295/",
+        "doi": "10.5144/0256-4947.2007.305",
+        "kind": "journal",
+        "supports": "Dates (865–925), birth in Rayy, hospital directorships in Rayy and Baghdad under al-Muktafi, the treatise distinguishing smallpox from measles, Latin translations. Description of the treatise's content (signs and differences between the two diseases) is drawn from this and the case-history study."
+      },
+      {
+        "citation": "Hajar R. The air of history (part IV): great Muslim physicians — Al Rhazes. Heart Views (PubMed Central record).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3752886/",
+        "kind": "journal",
+        "supports": "Quoted description from the treatise of the prodromal signs (continued fever, back pain, itching in the nose) and the clinical differences between smallpox and measles."
+      },
+      {
+        "citation": "Álvarez-Millán C. The case history in medieval Islamic medical literature: Tajārib and Mujarrabāt as source. Medical History 2010.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2844281/",
+        "kind": "journal",
+        "supports": "Al-Razi's records of cases treated by him or his students; his personal observations on smallpox."
+      }
+    ],
+    "related": [
+      "variolation-traditions"
+    ]
+  },
+  {
+    "id": "ragusa-quarantine",
+    "title": "Ragusa orders a period of separation for travellers",
+    "summary": "In 1377, during recurring plague, the Great Council of Ragusa required people arriving from plague-affected areas to spend 30 days apart before entering the city.",
+    "explanation": "Ragusa (present-day Dubrovnik) was a self-governing trading city on the Adriatic whose prosperity depended on ships and caravans. After the Black Death, its Great Council decreed in 1377 that visitors from plague-endemic areas must stay in isolation for 30 days, the trentino, before they could enter.\n\nThe idea that waiting out a period of time would reveal whether someone was carrying disease spread to other cities in the following decades, and the period was extended to 40 days, the quarantino, from which 'quarantine' comes. Venice opened a permanent plague hospital, a lazaretto, on an island in its lagoon in 1423.\n\nThe measure worked on observation, not on any understanding of plague bacteria or fleas. It also imposed real costs on travellers and trade, a tension that has accompanied quarantine ever since.",
+    "date": {
+      "start": 1377,
+      "end": 1377,
+      "display": "1377",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Date of the Great Council's decree."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "prevention"
+    ],
+    "themes": [
+      "plague",
+      "infection control",
+      "law and regulation"
+    ],
+    "locations": [
+      {
+        "name": "Ragusa",
+        "modern": "Dubrovnik, Croatia",
+        "lat": 42.64,
+        "lon": 18.11,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Great Council of Ragusa",
+        "role": "Issued the decree"
+      }
+    ],
+    "whatChanged": "Turned the separation of people at risk into a written, enforceable rule with a defined duration.",
+    "whyItMattered": "Time-limited quarantine became a standard public-health tool, used against plague, cholera, yellow fever and, in the twenty-first century, SARS and COVID-19.",
+    "limitations": [
+      "Isolation of the sick is far older; what is documented here is a formal, time-limited quarantine of arrivals.",
+      "Its effectiveness against plague in this period cannot be measured from surviving records."
+    ],
+    "harms": "Quarantine and sanitary cordons were often enforced harshly and could fall hardest on the poor, on minorities and on people stigmatised as carriers of disease.",
+    "sources": [
+      {
+        "citation": "Tognotti E. Lessons from the history of quarantine, from plague to influenza A. Emerging Infectious Diseases 2013;19(2):254–259.",
+        "url": "https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article",
+        "doi": "10.3201/eid1902.120312",
+        "kind": "journal",
+        "supports": "Quarantine first introduced in 1377 in Dubrovnik; first permanent lazaretto opened by Venice in 1423; social and ethical issues."
+      },
+      {
+        "citation": "Etymologia: Quarantine. Emerging Infectious Diseases 2013;19(2):263.",
+        "url": "https://wwwnc.cdc.gov/eid/article/19/2/ET-1902_article",
+        "kind": "journal",
+        "supports": "1377 decree by the Great Council of Ragusa; 30-day trentino for visitors from plague-endemic areas; later extended to 40 days."
+      }
+    ],
+    "related": [
+      "snow-broad-street"
+    ]
+  },
+  {
+    "id": "ibn-al-nafis-pulmonary-circulation",
+    "title": "Ibn al-Nafis describes blood passing through the lungs",
+    "summary": "In a commentary on the anatomy of Ibn Sina's Canon, written in the mid-thirteenth century, the physician Ibn al-Nafis argued that blood cannot pass through the wall between the heart's ventricles and must reach the left side through the lungs.",
+    "explanation": "Galen had taught that blood seeped from the right to the left side of the heart through invisible pores in the dividing wall, the septum. Ibn al-Nafis, a Syrian-born physician who trained in Damascus and worked in Cairo, rejected this. The septum, he wrote, has no passages; blood from the right ventricle must travel through the lungs, mix with air, and return to the left ventricle.\n\nThis is a description of the pulmonary, or 'lesser', circulation, some three centuries before the European anatomists Michael Servetus and Realdo Colombo set out similar ideas in the 1550s. His commentary was then largely forgotten in the West until an Egyptian physician, Muhyo al-Deen al-Tatawi, came across a manuscript in Berlin around 1930.\n\nWhether European anatomists knew of his work through translation is debated; many historians consider the sixteenth-century descriptions independent. His reasoning appears to have been largely theoretical rather than based on dissection.",
+    "date": {
+      "start": 1239,
+      "end": 1260,
+      "display": "c. 1240–1260",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Written during Ibn al-Nafis's career (he died in 1288); sources place the commentary between the late 1230s and 1260."
+    },
+    "type": "discovery",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "circulation of the blood",
+      "independent discovery",
+      "lost and rediscovered knowledge"
+    ],
+    "locations": [
+      {
+        "name": "Damascus (Ayyubid Syria)",
+        "modern": "Damascus, Syria",
+        "lat": 33.51,
+        "lon": 36.29,
+        "radiusKm": 8,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Where he trained in medicine"
+      },
+      {
+        "name": "Cairo (Mamluk Egypt)",
+        "modern": "Cairo, Egypt",
+        "lat": 30.05,
+        "lon": 31.26,
+        "radiusKm": 8,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Where he practised; place of writing uncertain"
+      }
+    ],
+    "people": [
+      {
+        "name": "ʿAlāʾ al-Dīn Ibn al-Nafīs (al-Qurashī)",
+        "role": "Physician and author"
+      },
+      {
+        "name": "Muhyo al-Deen al-Tatawi",
+        "role": "Rediscovered the manuscript in Berlin around 1930"
+      }
+    ],
+    "whatChanged": "Overturned the Galenic idea of pores in the heart's septum and proposed that blood passes through the lungs.",
+    "whyItMattered": "A correct account of the pulmonary circulation, centuries before it reappeared in Europe, and a case study in how knowledge can be lost and rediscovered.",
+    "limitations": [
+      "He did not describe the full circulation of the blood; his account of the rest of the body remained Galenic.",
+      "His conclusions seem to rest more on reasoning than on dissection."
+    ],
+    "contested": "Whether Servetus or Colombo knew Ibn al-Nafis's work is unresolved; many historians treat the European descriptions as independent.",
+    "sources": [
+      {
+        "citation": "West JB. Ibn al-Nafis, the pulmonary circulation, and the Islamic Golden Age. Journal of Applied Physiology 2008;105(6):1877–1880.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2612469/",
+        "doi": "10.1152/japplphysiol.91171.2008",
+        "pages": "1877–1880",
+        "kind": "journal",
+        "supports": "Dates (1213–1288); challenged Galen's septal pores; all blood reaching the left ventricle passes through the lung; Commentary on Anatomy in Avicenna's Canon."
+      },
+      {
+        "citation": "US National Library of Medicine. Islamic Medical Manuscripts: Medical monographs 4.",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/mon4.html",
+        "kind": "archive",
+        "supports": "Separate commentary on the anatomical portions of the Canon; blood reaches the left ventricle by way of the lungs; three centuries before Servetus and Colombo; debate over transmission."
+      },
+      {
+        "citation": "Milestones in understanding pulmonary circulation: from antiquity to heart-lung machine (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7926369/",
+        "kind": "journal",
+        "supports": "Manuscript found around 1930 in Berlin by Muhyo al-Deen el-Tatawi; not cited in the West before the 20th century."
+      },
+      {
+        "citation": "Lakhtakia R. A trio of exemplars of medieval Islamic medicine: al-Razi, Avicenna and Ibn al-Nafis. Sultan Qaboos University Medical Journal (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4205055/",
+        "kind": "journal",
+        "supports": "Trained in Damascus; wrote the commentary at about 29 years of age."
+      },
+      {
+        "citation": "Development of anatomophysiologic knowledge regarding the cardiovascular system: from Egyptians to Harvey (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4290745/",
+        "kind": "journal",
+        "supports": "His description seems more theoretical than practical; rest of circulation followed Galen."
+      }
+    ],
+    "related": [
+      "al-razi-smallpox-measles",
+      "vesalius-fabrica"
+    ]
+  },
+  {
+    "id": "mansuri-bimaristan",
+    "title": "Cairo's al-Mansuri hospital opens",
+    "summary": "In 1284 the Mamluk sultan al-Mansur Qalawun founded a large endowed hospital in Cairo with separate wards for different conditions, including mental illness, open to patients regardless of sex, origin or religion.",
+    "explanation": "Hospitals called bimaristans, a Persian word meaning 'house of the sick', had developed across the Islamic world in earlier centuries, in cities such as Baghdad, Damascus and Córdoba. The al-Mansuri bimaristan in Cairo was among the largest and best documented.\n\nFunded by a charitable endowment (waqf), it combined treatment, a pharmacy and teaching. Its wards were organised by type of illness, including surgery, infectious disease and mental illness, and separated by sex. Physicians bequeathed libraries to it; Ibn al-Nafis left it his house and books when he died in 1288.\n\nThe bimaristan is an example of organised, institutional health care with public funding and professional staff, long before such hospitals became common in Europe.",
+    "date": {
+      "start": 1284,
+      "end": 1284,
+      "display": "1284",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year of foundation, as given in multiple histories of Islamic hospitals."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text",
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [
+      "mind-brain"
+    ],
+    "themes": [
+      "hospitals",
+      "health systems",
+      "charitable endowment",
+      "mental health care"
+    ],
+    "locations": [
+      {
+        "name": "Bimaristan of Qalawun, Cairo (Mamluk Egypt)",
+        "modern": "Al-Muizz Street, Cairo, Egypt",
+        "lat": 30.05,
+        "lon": 31.26,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sultan al-Mansur Qalawun",
+        "role": "Founder"
+      },
+      {
+        "name": "Physicians, pharmacists and attendants of the bimaristan",
+        "role": "Staff"
+      }
+    ],
+    "whatChanged": "Combined specialised wards, pharmacy, teaching and charitable funding in one institution.",
+    "whyItMattered": "Bimaristans were a model of institutional care, including for mental illness, and influenced hospital design elsewhere.",
+    "limitations": [
+      "Frequently repeated figures for its size (such as 8,000 beds) are not reliable.",
+      "It built on a long tradition of earlier bimaristans and was not the first."
+    ],
+    "sources": [
+      {
+        "citation": "Jundi-Shapur, bimaristans, and the rise of academic medical centres. Journal of the Royal Society of Medicine (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
+        "kind": "journal",
+        "supports": "Al-Mansuri hospital built in Cairo in 1284 at the behest of al-Mansur Qalawun; prototype for later bimaristans. Bimaristans similar in philosophy, structure and function to academic medical centres."
+      },
+      {
+        "citation": "Educational paradigms in Islamic medical history: a review (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11000882/",
+        "kind": "journal",
+        "supports": "Bimaristan means 'dwellings of the sick'; wards by specialty including mental illness, segregated by gender; patients of all ethnicities and religions; funded by waqf."
+      },
+      {
+        "citation": "US National Library of Medicine. Islamic Medical Manuscripts: bio-bibliographies (I).",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/bioI.html",
+        "kind": "archive",
+        "supports": "Ibn al-Nafis bequeathed his house and library to the recently constructed Mansuri hospital in Cairo when he died in 1288."
+      },
+      {
+        "citation": "A review on the development of healthcare infrastructure through the history of Islamic civilization (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8257058/",
+        "kind": "journal",
+        "supports": "Hospitals in Baghdad, Damascus, Córdoba, Seville and Cairo; Qalawun's hospital among the most advanced."
+      }
+    ],
+    "related": [
+      "al-razi-smallpox-measles",
+      "ibn-al-nafis-pulmonary-circulation",
+      "geel-family-care"
+    ]
+  },
+  {
+    "id": "geel-family-care",
+    "title": "Geel's families take in people with mental illness",
+    "summary": "From around the thirteenth century, pilgrims seeking cures for mental illness came to the shrine of St Dymphna in Geel, and local families began boarding them in their homes. The tradition of family foster care continues today.",
+    "explanation": "Geel, a small town in Brabant, became known through the legend of St Dymphna as a place of healing for people regarded as possessed or insane. When the church and its infirmary could not house everyone who came, townspeople took them into their own homes as boarders.\n\nOver centuries this became a system: residents with mental illness lived with host families, joined in daily work and community life, and returned to institutional care when they needed it. In the nineteenth century, asylum reformers across Europe and North America visited and debated the 'colony of Gheel' as an alternative to confinement.\n\nThe World Health Organization's 2001 report on mental health described Geel as one of the best examples of how communities can care for people with mental illness. A family foster care programme still operates there.",
+    "date": {
+      "start": 1201,
+      "end": 1400,
+      "display": "origins c. 1200s–1300s",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "Histories place the earliest infirmary and the boarding model in the 13th century; other accounts say families took in patients 'over 600 years ago'. The exact start is not documented."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text",
+      "programme-records"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "community care",
+      "mental health",
+      "continuity over centuries"
+    ],
+    "locations": [
+      {
+        "name": "Geel, Duchy of Brabant",
+        "modern": "Geel, Antwerp province, Belgium",
+        "lat": 51.16,
+        "lon": 4.99,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Host families of Geel",
+        "role": "Provided care and homes over generations"
+      },
+      {
+        "name": "Boarders with mental illness",
+        "role": "Lived as members of host households"
+      }
+    ],
+    "whatChanged": "Established care for people with mental illness within ordinary family and community life rather than in confinement.",
+    "whyItMattered": "Geel became an enduring reference point for community-based mental health care and for recovery-oriented approaches.",
+    "limitations": [
+      "Its religious origins lay in ideas of possession and miraculous cure, not in medical theory.",
+      "Historical conditions for boarders varied, and nineteenth-century observers disagreed about whether the system was humane."
+    ],
+    "sources": [
+      {
+        "citation": "Lessons to be learned from the oldest community psychiatric service in the world: Geel in Belgium. BJPsych Bulletin (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4967781/",
+        "kind": "journal",
+        "supports": "Dymphna's legend; Geel as a centre for the cure of the 'possessed'; family foster care project; WHO 2001 report describing Geel as an example of community care."
+      },
+      {
+        "citation": "Psychiatry in Belgium (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6734844/",
+        "kind": "journal",
+        "supports": "The earliest Geel infirmary and the community model date from the 13th century."
+      },
+      {
+        "citation": "Evaluating life in foster homes for persons with serious mental illness: resident and caregiver perspectives (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4865377/",
+        "kind": "journal",
+        "supports": "Over 600 years ago families in Geel took mentally ill persons into their homes."
+      },
+      {
+        "citation": "Global mental health and psychiatric institutions in the 21st century. Epidemiology and Psychiatric Sciences (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6998654/",
+        "kind": "journal",
+        "supports": "Nineteenth-century journals published many accounts of the Colony of Gheel as an alternative to asylum care."
+      }
+    ],
+    "related": [
+      "mansuri-bimaristan",
+      "aro-village-system",
+      "hippocratic-sacred-disease"
+    ]
+  }
+]
