@@ -1,5 +1,7 @@
 # An Atlas of Medical Progress
 
+**Live site:** http://www.alexdavidson.me/medical-progress-atlas/
+
 An interactive world map and timeline of 81 documented medical milestones, from a healed amputation in Borneo about 31,000 years ago to mRNA vaccines and the first malaria vaccine recommendation. Each milestone opens a sourced card that sets out what happened, who was involved, what changed, what is uncertain or disputed and, where relevant, the harms connected with it.
 
 The site is static: TypeScript and React, built with Vite. The map uses d3-geo with the equal-area Equal Earth projection and bundled Natural Earth outlines. It needs no server, API key or map-tile service.
