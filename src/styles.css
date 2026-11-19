@@ -73,6 +73,7 @@ code { font-size: 12px; background: var(--panel-2); padding: 1px 4px; border-rad
 .borders { fill: none; stroke: #f4f6f5; stroke-width: 0.8; vector-effect: non-scaling-stroke; }
 .density { pointer-events: none; }
 .density-faint { opacity: 0.55; }
+.density-over-life { opacity: 0.8; }
 .heat-image { image-rendering: auto; }
 .contour { fill: none; stroke: rgba(110, 20, 0, 0.22); stroke-width: 0.6; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
 .heat-dot { fill: var(--ink); }

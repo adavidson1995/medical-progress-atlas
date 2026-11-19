@@ -17,10 +17,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
@@ -46,6 +43,16 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: ./dist
+
+  # A separate job, so the uploaded site is finalised before Pages looks for it
+  # (deploying in the same job occasionally failed with "No artifacts named github-pages").
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5

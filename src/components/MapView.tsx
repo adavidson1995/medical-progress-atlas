@@ -330,7 +330,7 @@ export const MapView = forwardRef<MapHandle, Props>(function MapView(props, ref)
           <path d={spherePath} className="sphere-edge" />
         </g>
         {density && heatHref && (
-          <g transform={gTransform} clipPath="url(#sphere-clip)" className={`density ${view === 'both' || lifeNow ? 'density-faint' : ''}`}>
+          <g transform={gTransform} clipPath="url(#sphere-clip)" className={`density ${lifeNow ? 'density-over-life' : view === 'both' ? 'density-faint' : ''}`}>
             <g transform={`scale(${density.cell})`}>
               <image href={heatHref} x={0} y={0} width={density.nx} height={density.ny} preserveAspectRatio="none" className="heat-image" />
               {contourPaths.map((c) => (
