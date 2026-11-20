@@ -2247,5 +2247,1598 @@
       "human-genome-project"
     ],
     "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "gamow-bag",
+    "title": "A portable pressure bag for altitude sickness",
+    "summary": "Igor Gamow of the University of Colorado, Boulder, patented a lightweight, inflatable hyperbaric chamber in 1990. Pumped up around a climber, it simulates a lower altitude and is used to treat severe mountain sickness where descent is not possible.",
+    "explanation": "Severe altitude illness, including fluid on the lungs or brain, is treated by descending. When that is impossible, raising the air pressure around the patient has a similar effect. Gamow and Geoffrey Geer first patented a portable chamber for studying exercise at raised pressure; the design they patented in the United States in 1990 was a backpackable, inflatable bag about the size of a sleeping bag.\n\nPortable hyperbaric bags are now recommended for severe mountain sickness when descent is risky. A case report from Mount Everest describes a climber with high-altitude pulmonary oedema treated in a Gamow bag for two hours at 7,060 m before descending safely.",
+    "date": {
+      "start": 1990,
+      "end": 1990,
+      "display": "1990",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "US patent 4,974,829 granted on 4 December 1990; related European filings date from 1988–89."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "wilderness medicine"
+    ],
+    "locations": [
+      {
+        "name": "University of Colorado, Boulder",
+        "modern": "Boulder, Colorado, USA",
+        "lat": 40.01,
+        "lon": -105.27,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Igor Gamow",
+        "role": "Inventor; University of Colorado, Boulder"
+      },
+      {
+        "name": "Geoffrey Geer",
+        "role": "Co-inventor"
+      }
+    ],
+    "whatChanged": "Climbers with severe altitude illness could be treated on the mountain when bad weather, darkness or injury prevented descent.",
+    "whyItMattered": "It gave expedition doctors a way to buy time in an emergency at altitude.",
+    "limitations": [
+      "The bag is a temporary measure: descent remains the definitive treatment.",
+      "Evidence for its benefit comes mainly from case reports and small studies."
+    ],
+    "sources": [
+      {
+        "citation": "Gamow RI, Geer GA. Hyperbaric chamber. US patent 4,974,829, granted 4 December 1990.",
+        "url": "https://uspto.report/patent/grant/4974829",
+        "kind": "primary",
+        "supports": "Patent granted 4 December 1990 to Gamow and Geer for a lightweight, backpackable, inflatable hyperbaric chamber; earlier design for endurance exercise at raised pressure."
+      },
+      {
+        "citation": "European Patent Office. EP0469071: Improved hyperbaric chamber (Gamow RI, Geer GA), priority 21 April 1989.",
+        "url": "https://data.epo.org/publication-server/rest/v1.2/patents/EP0469071NWB1/document.pdf",
+        "kind": "primary",
+        "supports": "Inventor's address in Boulder, Colorado; embodiment for a climber with altitude sickness no larger than a sleeping bag."
+      },
+      {
+        "citation": "Case report: treatment of high-altitude pulmonary oedema on Mount Everest with a portable hyperbaric chamber (Gamow bag). Hrčak repository.",
+        "url": "https://hrcak.srce.hr/file/1029",
+        "kind": "journal",
+        "supports": "Climber with high-altitude pulmonary oedema treated in a Gamow bag for two hours at 7,060 m; recommended for severe acute mountain sickness and risky descents."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "brugada-syndrome",
+    "title": "Brugada syndrome described as a cause of sudden cardiac death",
+    "summary": "In 1992 Pedro and Josep Brugada described eight people who had survived sudden cardiac arrest despite structurally normal hearts, all sharing a distinctive ECG pattern. The condition, now called Brugada syndrome, is an inherited cause of sudden death.",
+    "explanation": "The Brugadas' multicentre report in the Journal of the American College of Cardiology described six men and two women with repeated episodes of aborted sudden death that no known disease explained. During normal rhythm their ECGs showed a right bundle branch block pattern with persistent ST-segment elevation in the right chest leads; the fatal rhythm was a rapid polymorphic ventricular tachycardia.\n\nNaming the pattern made it possible to recognise people at risk from a routine ECG. Later research linked the syndrome to inherited faults in the genes for heart ion channels, and drugs such as ajmaline or flecainide came to be used to unmask concealed forms.",
+    "date": {
+      "start": 1992,
+      "end": 1992,
+      "display": "15 November 1992",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Publication date of the report in J Am Coll Cardiol 20(6)."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "cardiology",
+      "inherited disease"
+    ],
+    "locations": [],
+    "locationNote": "A multicentre report; the sources checked do not tie the description to one place.",
+    "people": [
+      {
+        "name": "Pedro Brugada",
+        "role": "Cardiologist"
+      },
+      {
+        "name": "Josep Brugada",
+        "role": "Cardiologist"
+      }
+    ],
+    "whatChanged": "A specific ECG pattern could be linked to a high risk of sudden death in people with otherwise normal hearts.",
+    "whyItMattered": "It explains some sudden deaths in young adults and children, and allows relatives and at-risk people to be screened and protected, for example with an implanted defibrillator.",
+    "limitations": [
+      "Many people with the ECG pattern but no symptoms are at low risk, so deciding whom to treat remains difficult."
+    ],
+    "contested": "Martini and colleagues had described patients with a similar ECG pattern and ventricular fibrillation in 1989, though they reported subtle structural abnormalities of the right ventricle.",
+    "sources": [
+      {
+        "citation": "Brugada P, Brugada J. Right bundle branch block, persistent ST segment elevation and sudden cardiac death: a distinct clinical and electrocardiographic syndrome. A multicenter report. J Am Coll Cardiol 20(6):1391–6 (1992).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1309182/",
+        "doi": "10.1016/0735-1097(92)90253-j",
+        "kind": "journal",
+        "supports": "Eight patients (six male, two female) with recurrent aborted sudden death; ECG findings; polymorphic ventricular tachycardia; no structural heart disease; publication date."
+      },
+      {
+        "citation": "Brugada J, Brugada P, Brugada R. Brugada syndrome: the syndrome of right bundle branch block, ST segment elevation in V1 to V3 and sudden death. PubMed Central (2001).",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569891/",
+        "kind": "journal",
+        "supports": "Syndrome first described in 1992; structurally normal heart; drugs such as ajmaline and flecainide unmask concealed forms."
+      },
+      {
+        "citation": "Whonamedit? Brugada's syndrome.",
+        "url": "https://www.whonamedit.com/synd.cfm/4048.html",
+        "kind": "institution",
+        "supports": "Martini et al. 1989 described six patients with similar ECG findings and subtle right-ventricular abnormalities; the Brugadas described eight further patients in 1992."
+      },
+      {
+        "citation": "Brugada syndrome. CoreEM (Core Emergency Medicine).",
+        "url": "https://coreem.net/core/brugada-syndrome",
+        "kind": "institution",
+        "supports": "Inherited disorder predisposing to sudden death; mutations in sodium, calcium and potassium channel genes; originally described in 1992 by Pedro and Josep Brugada."
+      },
+      {
+        "citation": "Brugada syndrome: 30 years of scientific advances. Rev Esp Cardiol 75:988–91 (2022).",
+        "url": "https://www.revespcardiol.org/en-brugada-syndrome-30-years-scientific-articulo-S1885585722002353",
+        "kind": "journal",
+        "supports": "1992 report of eight patients with aborted sudden death from ventricular fibrillation; Brugada syndrome as a cause of sudden death in children; implantable cardioverter-defibrillators."
+      }
+    ],
+    "related": [
+      "waller-einthoven-ecg"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hepatitis-a-vaccines",
+    "title": "Vaccines against hepatitis A are licensed",
+    "summary": "An inactivated hepatitis A vaccine, Havrix, was licensed in Europe in 1991 after development involving GSK Biologicals in Belgium and US government laboratories. A live attenuated vaccine was licensed in China in 1992.",
+    "explanation": "Hepatitis A virus was identified by electron microscopy at the US National Institutes of Health, but a vaccine depended on growing it in cell cultures suitable for manufacture. Havrix, a formalin-inactivated vaccine, built on strain HM-175 and work in Robert Purcell's laboratory at the NIH, with human trials at the Walter Reed Army Institute of Research from 1986 and a phase 3 trial in Thailand. It was developed by SmithKline Beecham Biologicals at Rixensart, Belgium, licensed in Europe in 1991 and in the United States in 1995.\n\nChina took a different route: a live attenuated vaccine based on the H2 strain was licensed there in 1992. Vaccination of children in several countries has since been followed by large falls in hepatitis A.",
+    "date": {
+      "start": 1991,
+      "end": 1992,
+      "display": "1991–1992",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Inactivated vaccine licensed in Europe in 1991 (some sources give 1992); live attenuated vaccine licensed in China in 1992."
+    },
+    "type": "implementation",
+    "evidence": [
+      "trial",
+      "programme-records"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines"
+    ],
+    "locations": [
+      {
+        "name": "SmithKline Beecham Biologicals, Rixensart",
+        "modern": "Rixensart, Belgium",
+        "lat": 50.71,
+        "lon": 4.53,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Developer of the inactivated vaccine Havrix"
+      },
+      {
+        "name": "China",
+        "modern": "China",
+        "lat": 35.0,
+        "lon": 105.0,
+        "radiusKm": 1500,
+        "precision": "macro-region",
+        "type": "implementation-area",
+        "role": "Live attenuated H2-strain vaccine licensed in 1992"
+      }
+    ],
+    "people": [
+      {
+        "name": "Robert Purcell",
+        "role": "NIAID virologist whose laboratory developed vaccine strains"
+      },
+      {
+        "name": "Bruce Innis",
+        "role": "US Army physician who led the phase 3 trial with Thai collaborators"
+      }
+    ],
+    "whatChanged": "Hepatitis A could be prevented by vaccination rather than only by short-lived immunoglobulin injections.",
+    "whyItMattered": "Vaccination has been followed by steep declines in hepatitis A in countries including the United States, Israel and Argentina.",
+    "limitations": [
+      "Sources differ on whether the first European licence was in 1991 or 1992.",
+      "More than 7,000 people still died of hepatitis A worldwide in 2016."
+    ],
+    "sources": [
+      {
+        "citation": "Shouval D. The history of hepatitis A. Clinical Liver Disease 16(Suppl 1):12–23 (2020).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7538924",
+        "doi": "10.1002/cld.1018",
+        "kind": "journal",
+        "supports": "Inactivated vaccines licensed in 1991 (Europe) and 1995 (United States); live attenuated vaccine available in China since 1992; virus identified by electron microscopy at the NIH."
+      },
+      {
+        "citation": "Hepatitis A vaccine in China and worldwide (review). PubMed Central, PMC7482852.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7482852",
+        "kind": "journal",
+        "supports": "First licensed inactivated vaccine Havrix (GSK Biologicals, Rixensart, Belgium) developed in early 1992; first live attenuated H2-strain vaccine licensed in China in 1992; more than 7,000 deaths worldwide in 2016."
+      },
+      {
+        "citation": "Military Infectious Diseases Research Program. Information paper: Hepatitis A vaccine (Havrix).",
+        "url": "https://midrp.health.mil/pdf_files/INFO_PDF/HepA.pdf",
+        "kind": "institution",
+        "supports": "Human trials at WRAIR from 1986 with formalin-inactivated vaccine; phase 3 trial led by Bruce Innis with Thai collaborators; US licensure February 1995."
+      },
+      {
+        "citation": "NIH Office of Technology Transfer. Havrix: waging war against a common enemy. Case study (2002).",
+        "url": "https://www.techtransfer.nih.gov/sites/default/files/documents/pdfs/HavrixCS.pdf",
+        "kind": "institution",
+        "supports": "Strain HM-175; development in Robert Purcell's NIAID laboratory; involvement of the NIH, US Army and CDC."
+      },
+      {
+        "citation": "Hepatitis A vaccination in China (review). PubMed Central, PMC4000763.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000763",
+        "kind": "journal",
+        "supports": "Vaccines licensed in several countries in 1992; dramatic decreases after use in the United States, Israel and Argentina."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "icsi-brussels",
+    "title": "Injecting a single sperm into an egg: ICSI in Brussels",
+    "summary": "In 1992 a team at the Free University of Brussels reported pregnancies and births after injecting a single sperm directly into a human egg. Intracytoplasmic sperm injection (ICSI) became the standard treatment for severe male infertility.",
+    "explanation": "In-vitro fertilisation often failed when sperm were few or poorly motile. The Brussels Centre for Reproductive Medicine, headed by André Van Steirteghem and Paul Devroey, had been placing sperm under the egg's outer coat (subzonal insemination). The team, including Gianpiero Palermo, also began injecting a sperm directly into some eggs, and found fertilisation much more consistent that way; a pregnancy from such an embryo in April 1991 led to a birth on 14 January 1992.\n\nThey abandoned the older method and reported in The Lancet in July 1992: of 47 eggs injected, 31 fertilised, and four pregnancies resulted, with four healthy babies delivered.",
+    "date": {
+      "start": 1991,
+      "end": 1992,
+      "display": "1991–1992",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First ICSI pregnancy in April 1991 and birth on 14 January 1992; published in The Lancet on 4 July 1992."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [],
+    "themes": [
+      "assisted reproduction"
+    ],
+    "locations": [
+      {
+        "name": "Centre for Reproductive Medicine, Academisch Ziekenhuis, Vrije Universiteit Brussel",
+        "modern": "Brussels (Jette), Belgium",
+        "lat": 50.89,
+        "lon": 4.31,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gianpiero Palermo",
+        "role": "Developed the technique"
+      },
+      {
+        "name": "André Van Steirteghem",
+        "role": "Co-head of the centre"
+      },
+      {
+        "name": "Paul Devroey",
+        "role": "Co-head of the centre"
+      },
+      {
+        "name": "Hubert Joris",
+        "role": "Embryologist and co-author"
+      }
+    ],
+    "whatChanged": "Couples could conceive using very few sperm, or sperm taken surgically from the testis or epididymis.",
+    "whyItMattered": "ICSI made severe male-factor infertility treatable and is now one of the most widely used procedures in assisted reproduction.",
+    "limitations": [
+      "Earlier attempts at microinjection had been made elsewhere with little success.",
+      "Follow-up studies monitor genetic and developmental outcomes, since some causes of male infertility can be passed on."
+    ],
+    "sources": [
+      {
+        "citation": "Palermo G, Joris H, Devroey P, Van Steirteghem AC. Pregnancies after intracytoplasmic injection of single spermatozoon into an oocyte. Lancet 340(8810):17–8 (1992).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1351601/",
+        "doi": "10.1016/0140-6736(92)92425-f",
+        "kind": "journal",
+        "supports": "47 eggs injected, 31 fertilised, four pregnancies, four healthy babies; publication date 4 July 1992."
+      },
+      {
+        "citation": "Van Steirteghem A, quoted in: Celebrating ICSI's twentieth anniversary (summary of Human Reproduction editorial).",
+        "url": "https://www.inviafertility.com/blog/blog/conception/drvkarande/celebrating-icsis-twentieth-anniversary-and-the-birth-of-more-than-2-5-million-children/",
+        "kind": "institution",
+        "supports": "Centre for Reproductive Medicine at UZ Brussel; pregnancy in April 1991 after a single ICSI embryo; delivery on 14 January 1992; shift from SUZI to ICSI."
+      },
+      {
+        "citation": "Current topics in assisted human reproduction, including the development of ICSI. International Journal of Developmental Biology.",
+        "url": "https://ijdb.ehu.eus/article/pdf/9184332",
+        "kind": "journal",
+        "supports": "Earlier microinjection attempts uncontrolled; the Brussels laboratory headed by Van Steirteghem and Devroey persisted and reported pregnancies and births (Palermo et al. 1992)."
+      },
+      {
+        "citation": "Seven years of intracytoplasmic sperm injection and follow-up (Brussels Centres for Reproductive Medicine and Medical Genetics). Human Reproduction.",
+        "url": "https://typeset.io/pdf/seven-years-of-intracytoplasmic-sperm-injection-and-follow-5dv6h0b4ri.pdf",
+        "kind": "journal",
+        "supports": "ICSI first successful in 1992 and widely accepted for severe male-factor infertility; follow-up of children for genetic and malformation outcomes."
+      }
+    ],
+    "related": [
+      "ivf-1978"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "dolly-cloned-sheep",
+    "title": "Dolly the sheep is cloned from an adult cell",
+    "summary": "Dolly, born at the Roslin Institute near Edinburgh on 5 July 1996, was the first mammal cloned from a fully specialised adult cell. Her birth showed that an adult cell's DNA could still direct the development of a whole animal.",
+    "explanation": "Earlier experiments had cloned amphibians, and the Roslin team had cloned the sheep Megan and Morag from cultured embryo cells in 1995. Many believed that fully specialised adult cells could not be reprogrammed in this way. Ian Wilmut, Keith Campbell and colleagues used somatic cell nuclear transfer, placing the nucleus of an udder cell from a six-year-old Finn Dorset ewe into an egg cell, and transferred the resulting embryo to a surrogate.\n\nDolly's birth was announced in February 1997 with the publication of 'Viable offspring derived from fetal and adult mammalian cells' in Nature. The experiment is widely seen as a stepping stone from earlier amphibian cloning to the reprogramming of adult human cells into stem cells.",
+    "date": {
+      "start": 1996,
+      "end": 1996,
+      "display": "5 July 1996",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of Dolly's birth; the result was published on 27 February 1997."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "cloning",
+      "stem cells",
+      "ethics"
+    ],
+    "locations": [
+      {
+        "name": "Roslin Institute, Roslin",
+        "modern": "Roslin, Midlothian, Scotland, UK",
+        "lat": 55.86,
+        "lon": -3.17,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ian Wilmut",
+        "role": "Led the team"
+      },
+      {
+        "name": "Keith Campbell",
+        "role": "Cell biologist"
+      },
+      {
+        "name": "PPL Therapeutics",
+        "role": "Company partner and funder"
+      }
+    ],
+    "whatChanged": "It showed that the genetic material of specialised adult cells can be reprogrammed to produce a complete animal.",
+    "whyItMattered": "It overturned a central assumption of developmental biology and opened the path to reprogramming adult cells for regenerative medicine, while prompting wide ethical debate about cloning.",
+    "limitations": [
+      "Dolly was one success among many failed attempts, and cloning remains inefficient.",
+      "Dolly was not the first cloned mammal: sheep had been cloned from embryo cells before."
+    ],
+    "sources": [
+      {
+        "citation": "Bartlett Z. 'Viable offspring derived from fetal and adult mammalian cells' (1997), by Ian Wilmut et al. Embryo Project Encyclopedia, Arizona State University.",
+        "url": "https://embryo.asu.edu/pages/viable-offspring-derived-fetal-and-adult-mammalian-cells-1997-ian-wilmut-et-al",
+        "kind": "university",
+        "supports": "Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia, Arizona State University. Entries on the Roslin cloning experiments (Megan and Morag; Dolly).",
+        "url": "https://embryo.asu.edu/taxonomy/term/145281",
+        "kind": "university",
+        "supports": "Megan and Morag cloned from embryo cells in 1995–96; Dolly cloned from fully differentiated adult cells; publication on 27 February 1997."
+      },
+      {
+        "citation": "University of Edinburgh. REF impact case study: Dolly the sheep, the first cloned mammal and a public icon for regenerative medicine.",
+        "url": "https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=23870",
+        "kind": "university",
+        "supports": "Born 5 July 1996; first cloning from an adult mammalian somatic cell by somatic cell nuclear transfer; led by Ian Wilmut; stepping stone between Gurdon's work and Yamanaka's induced pluripotent stem cells; ethical debate."
+      },
+      {
+        "citation": "Guinness World Records. First animal cloned from an adult cell.",
+        "url": "https://guinnessworldrecords.com/world-records/first-animal-cloned-from-an-adult-cell",
+        "kind": "institution",
+        "supports": "Finn Dorset ewe; udder cell from a six-year-old donor; announced in February 1997."
+      }
+    ],
+    "related": [
+      "human-embryonic-stem-cells"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "human-embryonic-stem-cells",
+    "title": "Human embryonic stem cells are grown in the laboratory",
+    "summary": "In November 1998 James Thomson's team at the University of Wisconsin–Madison reported five lines of human embryonic stem cells, derived from donated IVF embryos. The cells could multiply indefinitely and form tissues of all three germ layers.",
+    "explanation": "James Thomson, chief pathologist at the Wisconsin Regional Primate Research Center, began work on embryonic stem cells in 1995. His team took the inner cell mass from human blastocysts, embryos a few days old donated by couples who had undergone IVF, and established five cell lines with normal chromosomes and high telomerase activity. The cells could form tissues of all three germ layers, including gut lining, cartilage, bone, muscle and nerve tissue.\n\nA team led by John Gearhart published a related method from germ cells shortly afterwards. Human embryonic stem cells became a major tool for studying development and testing drugs, and the basis for experimental cell therapies.",
+    "date": {
+      "start": 1998,
+      "end": 1998,
+      "display": "6 November 1998",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Publication date in Science 282:1145–1147."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "stem cells",
+      "ethics"
+    ],
+    "locations": [
+      {
+        "name": "University of Wisconsin–Madison",
+        "modern": "Madison, Wisconsin, USA",
+        "lat": 43.07,
+        "lon": -89.4,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "James Thomson",
+        "role": "Developmental biologist; led the team"
+      },
+      {
+        "name": "Joseph Itskovitz-Eldor",
+        "role": "Co-author, Rambam Medical Center, Haifa"
+      }
+    ],
+    "whatChanged": "Human cells able to become any tissue could be grown and studied in quantity.",
+    "whyItMattered": "It opened research into human development, disease modelling and cell replacement, and led to sustained public debate over the use of human embryos.",
+    "limitations": [
+      "Deriving the cells destroys the embryo, which has made the research ethically and politically contested.",
+      "Treatments based on the cells have been slow to reach patients."
+    ],
+    "sources": [
+      {
+        "citation": "Thomson JA, Itskovitz-Eldor J, Shapiro SS, et al. Embryonic stem cell lines derived from human blastocysts. Science 282(5391):1145–1147 (1998).",
+        "url": "https://courses.grainger.illinois.edu/bioe476/fa2019/paper%20readings/thomson_science_1998.pdf",
+        "kind": "journal",
+        "supports": "Pluripotent cell lines from human blastocysts with normal karyotypes and high telomerase; tissues of all three germ layers; University of Wisconsin affiliations."
+      },
+      {
+        "citation": "Devitt T. Wisconsin scientists culture elusive embryonic stem cells. University of Wisconsin–Madison News, 6 November 1998.",
+        "url": "https://news.wisc.edu/?p=2368",
+        "kind": "university",
+        "supports": "Publication date; cells derived from the inner cell mass of donated human blastocysts; WARF patent application."
+      },
+      {
+        "citation": "Wu K. Human embryonic stem cells. Embryo Project Encyclopedia, Arizona State University.",
+        "url": "https://embryo.asu.edu/pages/human-embryonic-stem-cells",
+        "kind": "university",
+        "supports": "Two independent publications in November 1998 (Thomson; Gearhart); ethical concerns about destroying blastocysts; divided opinion."
+      },
+      {
+        "citation": "Wu K. 'Embryonic stem cell lines derived from human blastocysts' (1998), by James Thomson. Embryo Project Encyclopedia.",
+        "url": "https://embryo.asu.edu/pages/embryonic-stem-cell-lines-derived-human-blastocytes-1998-james-thomson",
+        "kind": "university",
+        "supports": "Embryos donated from IVF; five cell lines from five embryos."
+      }
+    ],
+    "related": [
+      "dolly-cloned-sheep",
+      "ivf-1978"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "ghrelin-discovered",
+    "title": "Ghrelin, a hunger hormone from the stomach, is identified",
+    "summary": "In 1999 Masayasu Kojima, Kenji Kangawa and colleagues in Osaka identified ghrelin, a 28-amino-acid peptide made in the stomach. It releases growth hormone and turned out to stimulate appetite.",
+    "explanation": "Synthetic drugs had been found to release growth hormone through a receptor whose natural signal was unknown. Kangawa's group at the National Cardiovascular Center Research Institute in Suita, Osaka, purified the missing natural signal from rat stomach. It was a peptide of 28 amino acids with an unusual fatty-acid modification, and they named it ghrelin.\n\nLater work showed that ghrelin also stimulates appetite, earning it the nickname 'hunger hormone'. It has since been studied in obesity, wasting and heart failure.",
+    "date": {
+      "start": 1999,
+      "end": 1999,
+      "display": "December 1999",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Published in Nature 402:656–660, December 1999."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "hormones",
+      "metabolism"
+    ],
+    "locations": [
+      {
+        "name": "National Cardiovascular Center Research Institute, Suita",
+        "modern": "Suita, Osaka Prefecture, Japan",
+        "lat": 34.79,
+        "lon": 135.51,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Masayasu Kojima",
+        "role": "Biochemist; first author"
+      },
+      {
+        "name": "Kenji Kangawa",
+        "role": "Head of the research group"
+      }
+    ],
+    "whatChanged": "The body's own signal for the growth-hormone secretagogue receptor was found, revealing a hormonal link between the stomach, growth hormone and appetite.",
+    "whyItMattered": "It changed understanding of how appetite and energy balance are regulated and opened new lines of research on obesity and wasting.",
+    "limitations": [
+      "The original discovery was made in rats; the hormone's role in human appetite was established by later studies.",
+      "Drugs targeting ghrelin have had limited clinical success so far."
+    ],
+    "sources": [
+      {
+        "citation": "Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature 402(6762):656–660 (1999).",
+        "url": "https://ideas.repec.org/a/nat/nature/v402y1999i6762d10.1038_45230.html",
+        "doi": "10.1038/45230",
+        "kind": "journal",
+        "supports": "Purification from rat stomach of an endogenous ligand for GHS-R; 28-amino-acid peptide; authors' affiliation at the National Cardiovascular Center Research Institute, Suita."
+      },
+      {
+        "citation": "The hunger hormone? Science News.",
+        "url": "https://www.sciencenews.org/?p=27931",
+        "kind": "journal",
+        "supports": "Kangawa's group in Osaka identified the natural signal in 1999; origin of the name ghrelin; appetite-stimulating role."
+      },
+      {
+        "citation": "Kangawa K. Ghrelin: from discovery to translational research. Pharmaceutical Society of Japan lecture abstract.",
+        "url": "https://www.pharm.or.jp/eng/128th/data/SL06.pdf",
+        "kind": "institution",
+        "supports": "Discovery in 1999 from rat stomach; roles in feeding, energy metabolism and the cardiovascular system; clinical trials in heart failure."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "capsule-endoscopy",
+    "title": "A swallowable camera pill images the small bowel",
+    "summary": "In 2000 Gavriel Iddan of Given Imaging in Israel and Paul Swain of the Royal London Hospital described a wireless capsule endoscope: a pill containing a camera, light and transmitter that photographs the gut as it passes through.",
+    "explanation": "Most of the small intestine was hard to reach with conventional endoscopes. Iddan, an electro-optical engineer, began working on a swallowable camera in Israel in the early 1990s, while Swain pursued similar ideas in London; the two groups joined forces from 1998, and Given Imaging was founded in Yokneam to develop the device. Swain was the first person to swallow it, in October 1999.\n\nThe team reported the device in Nature in May 2000, and in January 2001 published the first images of disease in the human small bowel taken with it, in patients with unexplained bleeding.",
+    "date": {
+      "start": 2000,
+      "end": 2000,
+      "display": "May 2000",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Published in Nature 405:417 on 25 May 2000; first human swallowing in October 1999."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [],
+    "themes": [
+      "devices",
+      "imaging"
+    ],
+    "locations": [
+      {
+        "name": "Given Imaging, Yokneam",
+        "modern": "Yokneam, Israel",
+        "lat": 32.66,
+        "lon": 35.11,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Company that developed the capsule"
+      },
+      {
+        "name": "Royal London Hospital",
+        "modern": "Whitechapel, London, UK",
+        "lat": 51.52,
+        "lon": -0.06,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Paul Swain's clinical research"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gavriel Iddan",
+        "role": "Electro-optical engineer; inventor"
+      },
+      {
+        "name": "Paul Swain",
+        "role": "Gastroenterologist"
+      },
+      {
+        "name": "Gavriel Meron",
+        "role": "Founder of Given Imaging"
+      },
+      {
+        "name": "Arkady Glukhovsky",
+        "role": "Engineer"
+      }
+    ],
+    "whatChanged": "The whole small intestine could be examined without sedation or a flexible tube.",
+    "whyItMattered": "It became a standard way to look for hidden bleeding and other disease in the small bowel.",
+    "limitations": [
+      "The capsule cannot take biopsies or treat what it finds.",
+      "Swain and Iddan had worked on the idea separately for years before combining efforts, so credit is shared."
+    ],
+    "sources": [
+      {
+        "citation": "Iddan G, Meron G, Glukhovsky A, Swain P. Wireless capsule endoscopy. Nature 405(6785):417 (2000).",
+        "url": "https://ideas.repec.org/a/nat/nature/v405y2000i6785d10.1038_35013140.html",
+        "doi": "10.1038/35013140",
+        "kind": "journal",
+        "supports": "Authors and affiliations (Given Imaging; Royal London Hospital); publication in Nature, May 2000."
+      },
+      {
+        "citation": "Iddan GJ, Swain CP. History and development of capsule endoscopy. Gastrointest Endosc Clin N Am 14:1–9 (2004).",
+        "url": "https://www.scribd.com/document/505633190/Historia-de-la-Capsula",
+        "kind": "journal",
+        "supports": "Iddan's work in Israel and Swain's parallel efforts in the UK; groups combined from 1998; Given Imaging in Yoqneam."
+      },
+      {
+        "citation": "The history of time for capsule endoscopy. Annals of Translational Medicine.",
+        "url": "https://atm.amegroups.org/article/view/14507/html",
+        "kind": "journal",
+        "supports": "Given Imaging founded in 1998; Swain first to swallow the capsule, October 1999."
+      },
+      {
+        "citation": "Appleyard M, Glukhovsky A, Swain P. Wireless-capsule diagnostic endoscopy for recurrent small-bowel bleeding. N Engl J Med 344:232–233 (2001).",
+        "url": "https://scilit.com/publications/b01910ddec35d745ec8ab373d68ccf15",
+        "doi": "10.1056/nejm200101183440316",
+        "kind": "journal",
+        "supports": "First images of pathology in the human small bowel; patients with obscure bleeding; January 2001."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "lindbergh-telesurgery",
+    "title": "Surgeons in New York operate on a patient in Strasbourg",
+    "summary": "On 7 September 2001 Jacques Marescaux's team in New York removed the gallbladder of a patient in Strasbourg using a surgical robot controlled over a transatlantic high-speed link. The 'Lindbergh operation' showed that long-distance surgery was technically feasible.",
+    "explanation": "Keyhole surgery already put a screen between surgeon and patient. The question was whether that distance could be thousands of kilometres without a dangerous delay between the surgeon's movement and the robot's response. Marescaux's institute in Strasbourg, IRCAD, founded in 1994 to link surgery and computing, set out to reduce that delay using the Zeus surgical robot and a high-speed telecommunications link.\n\nThe patient, fully informed, was operated on under general anaesthesia at Strasbourg's university hospital while the surgeons worked in New York. The operation was reported in Nature that month.",
+    "date": {
+      "start": 2001,
+      "end": 2001,
+      "display": "7 September 2001",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the operation; reported in Nature 413:379–380 (2001)."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "robotics",
+      "telemedicine"
+    ],
+    "locations": [
+      {
+        "name": "Hôpitaux universitaires de Strasbourg",
+        "modern": "Strasbourg, France",
+        "lat": 48.58,
+        "lon": 7.75,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Patient and robot"
+      },
+      {
+        "name": "New York",
+        "modern": "New York City, USA",
+        "lat": 40.71,
+        "lon": -74.01,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Surgeons' console"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jacques Marescaux",
+        "role": "Surgeon; head of IRCAD"
+      },
+      {
+        "name": "Michel Gagner and Joël Leroy",
+        "role": "Surgeons and co-authors"
+      }
+    ],
+    "whatChanged": "A complete operation was shown to be possible with the surgeon on another continent.",
+    "whyItMattered": "It demonstrated that a surgeon could operate across an ocean, a step towards bringing specialist surgery to places without specialist surgeons.",
+    "limitations": [
+      "It was a single demonstration on one patient; it did not by itself make remote surgery routine."
+    ],
+    "sources": [
+      {
+        "citation": "Marescaux J, Leroy J, Gagner M, et al. Transatlantic robot-assisted telesurgery. Nature 413:379–380 (2001), as catalogued in Garrison–Morton (HistoryofMedicine.com).",
+        "url": "https://historyofmedicine.com/id/10134",
+        "kind": "journal",
+        "supports": "Gallbladder operation by French surgeons in New York on a patient in Strasbourg; Zeus robot; 7 September 2001; IRCAD."
+      },
+      {
+        "citation": "Encyclopædia Universalis. Opération Lindbergh.",
+        "url": "https://www.universalis.fr/encyclopedie/operation-lindbergh/",
+        "kind": "book",
+        "supports": "Operation on 7 September 2001 between New York and Strasbourg; Zeus robot controlled remotely by Marescaux; IRCAD founded in Strasbourg in 1994; patient under general anaesthesia at Strasbourg's university hospital."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "urbani-sars-alert",
+    "title": "Carlo Urbani raises the alarm over SARS in Hanoi",
+    "summary": "In February–March 2003 Carlo Urbani, a WHO infectious disease specialist in Hanoi, recognised that a pneumonia spreading through the French Hospital was a new and dangerous disease. His warnings helped trigger isolation measures and a global alert. He died of SARS on 29 March 2003.",
+    "explanation": "A businessman with a high fever was admitted to the French Hospital in Hanoi on 26 February 2003. Urbani, asked to help on 28 February, saw hospital staff falling ill and concluded that this was a new and highly contagious disease. He alerted WHO headquarters and persuaded Vietnamese health officials to isolate patients, cordon off the hospital and screen travellers.\n\nOn 15 March WHO declared the disease Urbani had identified a worldwide health threat. Urbani developed symptoms on 11 March on a flight to Bangkok, and died there on 29 March after nearly three weeks in isolation. Viet Nam's quick containment of its outbreak is credited to resolute government action and to his early work.",
+    "date": {
+      "start": 2003,
+      "end": 2003,
+      "display": "February–March 2003",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Urbani was called to the hospital on 28 February 2003, alerted WHO in early March and died on 29 March 2003."
+    },
+    "type": "observation",
+    "evidence": [
+      "programme-records",
+      "eyewitness-account"
+    ],
+    "category": "public-health",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "epidemic response",
+      "health workers"
+    ],
+    "locations": [
+      {
+        "name": "French Hospital of Hanoi",
+        "modern": "Hanoi, Viet Nam",
+        "lat": 21.0,
+        "lon": 105.84,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Carlo Urbani",
+        "role": "WHO communicable disease specialist in Viet Nam"
+      },
+      {
+        "name": "Pascale Brudon",
+        "role": "WHO representative in Viet Nam"
+      }
+    ],
+    "whatChanged": "Early isolation and infection control in Hanoi, and an early warning to WHO, helped turn a hospital cluster into an international alert.",
+    "whyItMattered": "It is a prominent example of how one clinician's recognition of an unusual cluster can shape an epidemic response, and of the risks borne by health workers.",
+    "limitations": [
+      "The outbreak had begun in Guangdong, China; Urbani traced the Hanoi patient's movements back there. His warning concerned its spread to Hanoi, not its origin.",
+      "Accounts differ by a few days on the exact dates of his warnings."
+    ],
+    "sources": [
+      {
+        "citation": "World Health Organization. WHO remembers Dr Carlo Urbani as a hero who fought SARS (2018).",
+        "url": "https://www.who.int/news/item/28-03-2018-who-remembers-dr-carlo-urbani-as-a-hero-who-fought-sars",
+        "kind": "institution",
+        "supports": "Responded to a request from the French Hospital in Hanoi; developed symptoms on 11 March 2003 on a flight to Bangkok; died 29 March 2003."
+      },
+      {
+        "citation": "Photo quiz: Carlo Urbani. Emerging Infectious Diseases 29(9) (2023).",
+        "url": "https://wwwnc.cdc.gov/eid/article/29/9/21-2412_article",
+        "kind": "journal",
+        "supports": "WHO expert in Hanoi; identified the disease and alerted WHO; isolation and cordoning off of the hospital; call for urgent action with Pascale Brudon on 9 March; died after 19 days in isolation."
+      },
+      {
+        "citation": "Carlo Urbani and SARS (review). Journal of Preventive Medicine and Hygiene.",
+        "url": "https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540",
+        "kind": "journal",
+        "supports": "Examined the patient on 28 February 2003; alerted WHO headquarters on 7 March; persuaded the Health Ministry to isolate patients and screen travellers."
+      },
+      {
+        "citation": "Ryan J. A fallen hero. Viet Nam News.",
+        "url": "https://vietnamnews.vn/opinion/653948/a-fallen-hero.html",
+        "kind": "journal",
+        "supports": "Urbani died on 29 March 2003; Viet Nam's response depended on resolute government action and on Urbani tracing the businessman's movements back to Guangdong province."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "face-transplants",
+    "title": "Face transplants: partial in Amiens, full in Barcelona",
+    "summary": "In November 2005 surgeons in Amiens, France, transplanted the nose, lips and chin of a brain-dead donor onto Isabelle Dinoire, who had been disfigured in an animal attack. In March 2010 a team in Barcelona performed the first full face transplant.",
+    "explanation": "Transplanting a face, a composite of skin, muscle, nerves and sometimes bone, was debated for years because it requires lifelong immunosuppression for a procedure that is not life-saving. After the French national ethics committee accepted partial transplants while expressing reservations about full ones, Bernard Devauchelle and Jean-Michel Dubernard led the Amiens operation on 27 November 2005; Dubernard had performed the first hand transplant of the modern era in 1998.\n\nFurther partial transplants followed in China, France and the United States. In March 2010 a team led by Joan Pere Barret at Vall d'Hebron University Hospital in Barcelona replaced a man's whole face in one piece.",
+    "date": {
+      "start": 2005,
+      "end": 2010,
+      "display": "2005–2010",
+      "kind": "span",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Partial transplant on 27 November 2005; full face transplant in March 2010."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "transplantation",
+      "ethics"
+    ],
+    "locations": [
+      {
+        "name": "Amiens-Picardie University Hospital",
+        "modern": "Amiens, France",
+        "lat": 49.89,
+        "lon": 2.3,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "First partial face transplant, 2005"
+      },
+      {
+        "name": "Vall d'Hebron University Hospital, Barcelona",
+        "modern": "Barcelona, Spain",
+        "lat": 41.43,
+        "lon": 2.14,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "First full face transplant, 2010"
+      }
+    ],
+    "people": [
+      {
+        "name": "Bernard Devauchelle",
+        "role": "Maxillofacial surgeon, Amiens"
+      },
+      {
+        "name": "Jean-Michel Dubernard",
+        "role": "Transplant surgeon"
+      },
+      {
+        "name": "Joan Pere Barret",
+        "role": "Plastic surgeon; led the Barcelona team"
+      },
+      {
+        "name": "Isabelle Dinoire",
+        "role": "First recipient"
+      }
+    ],
+    "whatChanged": "Severe facial disfigurement could be reconstructed with donor tissue that moves, feels and looks like a face, rather than only with grafts from the patient's own body.",
+    "whyItMattered": "It extended transplantation to tissues that restore appearance, expression and function, with large effects on recipients' lives.",
+    "limitations": [
+      "Recipients need lifelong immunosuppression, with risks of infection, cancer and rejection; some recipients have died of complications.",
+      "Only small numbers have been performed, so long-term outcomes rest on few cases."
+    ],
+    "contested": "Wikipedia's timeline credits a 2008 full face transplant to Laurent Lantieri; the sources checked describe Lantieri's 2007–08 operation as a partial transplant and the Barcelona operation of March 2010 as the first full face transplant.",
+    "sources": [
+      {
+        "citation": "Arno A, Barret JP, Harrison RA, Jeschke MG. Face allotransplantation and burns: a review. PubMed Central (2012).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3438348",
+        "kind": "journal",
+        "supports": "Dubernard performed the first modern hand transplant in 1998 and the first face transplant in 2005; transplants in France (Amiens 2005), China (2006), the US and Spain; Barcelona the first full-face transplant, March 2010."
+      },
+      {
+        "citation": "Barret JP, Tomasello V. Face Transplantation: Principles, Techniques and Artistry, ch. 2. Springer (2015).",
+        "url": "https://springerlink.bibliotecabuap.elogim.com/chapter/10.1007/978-3-662-45444-2_2",
+        "kind": "book",
+        "supports": "French ethics committee position on partial transplants; Devauchelle and Dubernard's partial face transplant in Amiens."
+      },
+      {
+        "citation": "Facial transplantation: historical developments and future directions. Journal of Laryngology & Otology (2015).",
+        "url": "https://www-cambridge-org.ezproxyberklee.flo.org/core/services/aop-cambridge-core/content/view/C63BC030D52E1C8F013FADEB3A3E24B6/S0022215114003478a.pdf/facial-transplantation-historical-developments-and-future-directions.pdf",
+        "kind": "journal",
+        "supports": "Devauchelle et al. 2005, 38-year-old woman, animal attack, nose and lip; 12 partial and 5 full transplants in the literature; two deaths from transplant-related and infectious complications."
+      },
+      {
+        "citation": "World's first full-face transplant. Indian Transplant Newsletter 9(29) (2010).",
+        "url": "https://www.itnnews.co.in/article-print.asp?id=647",
+        "kind": "journal",
+        "supports": "First full-face transplant at Vall d'Hebron Hospital, Barcelona, March 2010, led by Joan Pere Barret."
+      },
+      {
+        "citation": "An update on face transplants performed between 2005 and 2010. In: The Know-How of Face Transplantation, Springer (2011), reference list.",
+        "url": "https://ouci.dntb.gov.ua/works/4Y8RP307",
+        "kind": "book",
+        "supports": "Lantieri et al., Lancet 2008: repair of the lower and middle parts of the face, i.e. a partial transplant; Dubernard et al., NEJM 2007, outcomes 18 months after the first partial face transplant."
+      }
+    ],
+    "related": [
+      "first-heart-transplant"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hpv-vaccine",
+    "title": "A vaccine against the virus behind cervical cancer",
+    "summary": "Ian Frazer and Jian Zhou at the University of Queensland made virus-like particles that mimic human papillomavirus (HPV) from 1991. The technology led to Gardasil, approved in Australia and the United States in 2006 to prevent infection with the HPV types that cause most cervical cancers.",
+    "explanation": "Certain HPV types cause cervical cancer; types 16 and 18 alone cause about 70% of cases. The live virus could not be grown in the laboratory to make a conventional vaccine. Frazer, an immunologist in Brisbane, met the virologist Jian Zhou in Cambridge in 1989 and invited him to Queensland. With Xiao-Yi Sun and others they produced HPV surface proteins that self-assembled into empty, non-infectious shells resembling the virus, which provoke a strong antibody response.\n\nIn 1995 the technology was licensed through CSL to Merck, whose vaccine Gardasil, covering HPV types 6, 11, 16 and 18, was approved in 2006; GSK's Cervarix, also based on virus-like particles, followed. Zhou died in 1999, before the vaccine reached use.",
+    "date": {
+      "start": 1991,
+      "end": 2006,
+      "display": "1991–2006",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Virus-like particles first assembled in 1991; vaccine approved in Australia and the United States in 2006."
+    },
+    "type": "invention",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "cancer prevention"
+    ],
+    "locations": [
+      {
+        "name": "University of Queensland, Brisbane",
+        "modern": "Brisbane, Queensland, Australia",
+        "lat": -27.5,
+        "lon": 153.01,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ian Frazer",
+        "role": "Immunologist, University of Queensland"
+      },
+      {
+        "name": "Jian Zhou",
+        "role": "Virologist; co-inventor (died 1999)"
+      },
+      {
+        "name": "Xiao-Yi Sun",
+        "role": "Researcher"
+      }
+    ],
+    "whatChanged": "Infection with the main cancer-causing HPV types could be prevented, rather than its consequences only detected by screening.",
+    "whyItMattered": "Vaccination programmes are expected to prevent most cervical cancers and some other HPV-related cancers.",
+    "limitations": [
+      "The vaccines are given before exposure, typically to adolescents; they prevent new infections rather than treating existing ones.",
+      "Most deaths from cervical cancer occur in low-income countries; the University of Queensland waived royalties in 72 developing countries to widen access."
+    ],
+    "sources": [
+      {
+        "citation": "National Health and Medical Research Council (Australia). Gardasil impact case study.",
+        "url": "https://nhmrc.gov.au/sites/default/files/documents/Case%20studies/GARDASIL-impact-case-study.pdf",
+        "kind": "institution",
+        "supports": "Frazer met Zhou and Sun in Cambridge in 1989 and invited them to UQ; development of virus-like particles; UQ's contribution to the first HPV vaccines."
+      },
+      {
+        "citation": "National Health and Medical Research Council (Australia). Gardasil research translation case study.",
+        "url": "https://www.nhmrc.gov.au/sites/default/files/documents/attachments/Research%20translation/Gardasil-Case-Study.docx",
+        "kind": "institution",
+        "supports": "Gardasil approved by the Therapeutic Goods Administration and the US FDA in 2006."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Ian Hector Frazer (1953– ).",
+        "url": "https://embryo.asu.edu/pages/ian-hector-frazer-1953",
+        "kind": "university",
+        "supports": "Met Zhou in Cambridge in 1989; Zhou came to Brisbane in 1990; research in 1991 at the University of Queensland."
+      },
+      {
+        "citation": "European Patent Office. Ian Frazer, Jian Zhou: European Inventor Award 2015.",
+        "url": "https://www.epo.org/learning-events/european-inventor/finalists/2015/frazer.html",
+        "kind": "institution",
+        "supports": "Virus-like particles; vaccine marketed by Merck from 2006; Cervarix; royalties waived in 72 developing countries."
+      },
+      {
+        "citation": "Nature Milestones: HPV vaccines.",
+        "url": "https://media.nature.com/original/magazine-assets/d42859-020-00019-2/d42859-020-00019-2.pdf",
+        "kind": "journal",
+        "supports": "VLPs of HPV16; Gardasil approved in the USA in 2006 containing VLPs of four HPV types; Cervarix followed."
+      },
+      {
+        "citation": "Translational Research Institute (Brisbane). Cervical cancer vaccine: Ian Frazer and Jian Zhou.",
+        "url": "https://tri.edu.au/node/4597",
+        "kind": "institution",
+        "supports": "Zhou died in 1999; virus-like particles self-assembling from HPV surface proteins; technology licensed in 1995 through CSL to Merck."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "rotavirus-vaccines",
+    "title": "Rotavirus vaccines return after an early setback",
+    "summary": "The original rotavirus vaccine, RotaShield, was withdrawn in 1999 after it was linked to a rare bowel blockage. Two new oral vaccines, RotaTeq and Rotarix, were each tested in 60,000–70,000 infants and introduced from 2006.",
+    "explanation": "Rotavirus causes severe diarrhoea in young children, some of whom become dangerously dehydrated. RotaShield, licensed in the United States in 1998, was withdrawn in 1999 when surveillance linked it to intussusception, a bowel blockage, in about 1 in 10,000 vaccinated infants.\n\nThe next vaccines were tested in exceptionally large trials designed to detect such a risk. RotaTeq, a bovine–human reassortant vaccine developed by H. Fred Clark, Stanley Plotkin and Paul Offit, was licensed in the United States in February 2006. Rotarix, an attenuated human strain from GSK, was reported effective in a large trial published the same year and licensed in the United States in 2008. Both are given as drops by mouth.",
+    "date": {
+      "start": 2006,
+      "end": 2006,
+      "display": "2006",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "RotaTeq licensed in the United States in February 2006; Rotarix trial results published in 2006. The withdrawn first vaccine dates from 1998–99."
+    },
+    "type": "implementation",
+    "evidence": [
+      "trial",
+      "programme-records"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "child health",
+      "vaccine safety"
+    ],
+    "locations": [],
+    "locationNote": "Both vaccines were tested in multinational trials and introduced in many countries; no single place is mapped.",
+    "people": [
+      {
+        "name": "H. Fred Clark, Stanley Plotkin and Paul Offit",
+        "role": "Developers of RotaTeq"
+      }
+    ],
+    "whatChanged": "Infants could be protected against severe rotavirus diarrhoea with oral vaccines whose safety had been tested in very large trials.",
+    "whyItMattered": "Both vaccines are now recommended for use worldwide, protecting infants against a major cause of severe childhood diarrhoea.",
+    "limitations": [
+      "A small increased risk of intussusception has been found after both newer vaccines, judged to be outweighed by their benefits."
+    ],
+    "sources": [
+      {
+        "citation": "Centers for Disease Control and Prevention. Rotavirus vaccine safety (archived 2012).",
+        "url": "https://webarchive.library.unt.edu/web/20120927120437/http://www.cdc.gov/vaccinesafety/Vaccines/RotaVSB.html",
+        "kind": "institution",
+        "supports": "RotaShield withdrawn in 1999 for risk of intussusception; RotaTeq licensed 2006; Rotarix licensed in the US 2008; each tested in about 60,000–70,000 infants before licensure."
+      },
+      {
+        "citation": "Children's Hospital of Philadelphia. Intussusception and rotavirus vaccination.",
+        "url": "https://www.chop.edu/news/intussusception-and-rotavirus-vaccination",
+        "kind": "institution",
+        "supports": "RotaShield withdrawn in 1999 with attributable risk of 10 per 100,000; RotaTeq licensed in 2006 and Rotarix in 2008."
+      },
+      {
+        "citation": "Shot@Life. History of the rotavirus vaccine.",
+        "url": "https://shotatlife.org/?p=39319",
+        "kind": "institution",
+        "supports": "RotaShield licensed 1998 and withdrawn 1999; RotaTeq developed by Clark, Plotkin and Offit; oral drops."
+      },
+      {
+        "citation": "Rotavirus vaccines and intussusception (review). PubMed Central, PMC12822841.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12822841",
+        "kind": "journal",
+        "supports": "Small increased risk of intussusception after Rotarix and RotaTeq in several countries, within the context of their benefits; large safety trials prompted by RotaShield."
+      },
+      {
+        "citation": "EBSCO Research Starters. Rotavirus vaccine.",
+        "url": "https://www.ebsco.com/research-starters/consumer-health/rotavirus-vaccine",
+        "kind": "institution",
+        "supports": "Rotavirus can cause severe dehydration requiring hospitalisation; RotaTeq three oral doses and Rotarix two; first licensing 1998, withdrawal, safer versions in 2006 and 2008."
+      },
+      {
+        "citation": "A new rotavirus vaccine (abstract and commentary on Ruiz-Palacios et al. and Vesikari et al., N Engl J Med 2006). Relias Media.",
+        "url": "https://www.reliasmedia.com/articles/122970-a-new-rotavirus-vaccine",
+        "kind": "journal",
+        "supports": "Both vaccines highly efficacious against severe rotavirus disease in 2006 trials; no increased risk of intussusception in the trials; RotaTeq approved by the FDA in February 2006."
+      }
+    ],
+    "related": [
+      "ors-oral-rehydration"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "argus-ii-retinal-prosthesis",
+    "title": "An approved retinal implant restores some sight",
+    "summary": "The Argus II retinal prosthesis, developed by Second Sight in California from work begun at Johns Hopkins, received European approval in 2011 and US approval in 2013. It gave some people blinded by retinitis pigmentosa limited, artificial vision.",
+    "explanation": "In retinitis pigmentosa the light-sensing cells of the retina die, but other retinal nerve cells survive. The Argus II stimulates those surviving cells with an array of 60 electrodes implanted on the retina.\n\nThe device received the CE mark in Europe in 2011 and US approval as a humanitarian use device in February 2013, after a trial in 30 patients. It was the first visual prosthesis to become commercially available; more than 350 people had been implanted by 2019.",
+    "date": {
+      "start": 2011,
+      "end": 2013,
+      "display": "2011–2013",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "European CE mark in 2011; US FDA approval on 14 February 2013."
+    },
+    "type": "invention",
+    "evidence": [
+      "trial"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "disability",
+      "neuroprosthetics"
+    ],
+    "locations": [
+      {
+        "name": "Second Sight Medical Products, Sylmar",
+        "modern": "Sylmar, Los Angeles, California, USA",
+        "lat": 34.31,
+        "lon": -118.45,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Mark Humayun and Robert Greenberg",
+        "role": "Began developing a retinal prosthesis at Johns Hopkins University"
+      }
+    ],
+    "whatChanged": "Some people with profound blindness from retinal degeneration could perceive light, shapes and movement again.",
+    "whyItMattered": "It showed that an electronic implant could provide useful, if limited, vision, and established a path for later visual prostheses.",
+    "limitations": [
+      "The vision provided is crude and far from normal sight.",
+      "US approval was as a humanitarian use device, which did not require proof of effectiveness.",
+      "In 2019 the company announced that it would concentrate on a brain implant instead."
+    ],
+    "sources": [
+      {
+        "citation": "Stronks HC, Dagnelie G. The functional performance of the Argus II retinal prosthesis. Expert Rev Med Devices 11(1):23–30 (2014).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652",
+        "doi": "10.1586/17434440.2014.862494",
+        "kind": "journal",
+        "supports": "First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa."
+      },
+      {
+        "citation": "American Academy of Ophthalmology. Retinal prostheses: what next after Argus approval? EyeNet.",
+        "url": "https://www.aao.org/eyenet/article/retinal-prostheses-what-next-after-argus-approval",
+        "kind": "institution",
+        "supports": "February 2013 FDA approval as a humanitarian use device, which does not require proof of effectiveness; European CE mark 2011."
+      },
+      {
+        "citation": "American Academy of Ophthalmology. Retinal implants for RP. EyeNet.",
+        "url": "https://aao.org/eyenet/article/retinal-implants-for-rp",
+        "kind": "institution",
+        "supports": "60 microelectrodes; approval based on 30 patients; more than 350 patients implanted worldwide."
+      },
+      {
+        "citation": "Innovation in retina. Retinal Physician (March 2015).",
+        "url": "https://retinalphysician.com/issues/2015/march/innovation-in-retina/",
+        "kind": "journal",
+        "supports": "Humayun and Greenberg's work at Johns Hopkins; Second Sight; CE mark 2011 and FDA approval February 2013."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "uterus-transplantation",
+    "title": "Uterus transplants lead to births",
+    "summary": "In 2011 surgeons in Antalya, Turkey, transplanted a uterus from a deceased donor, and the recipient later became pregnant. In 2014 a woman in Gothenburg, Sweden, gave birth after receiving a uterus from a living donor, the first live birth after uterus transplantation.",
+    "explanation": "Women born without a uterus or who have lost it could not carry a pregnancy. After a failed attempt in Jeddah, Saudi Arabia, in 2000 and years of animal research, a team at Akdeniz University Hospital in Antalya led by Ömer Özkan carried out a transplant from a deceased donor in 2011, and the recipient later became pregnant.\n\nIn Sweden, Mats Brännström's team at Sahlgrenska University Hospital began a trial of transplants from living donors in 2012. In 2014 one recipient, a 35-year-old woman born without a uterus, gave birth to a healthy boy, reported in The Lancet as proof of concept.",
+    "date": {
+      "start": 2011,
+      "end": 2014,
+      "display": "2011–2014",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Turkish deceased-donor transplant in 2011; Swedish birth in 2014 (published online 6 October 2014)."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "transplantation",
+      "fertility"
+    ],
+    "locations": [
+      {
+        "name": "Akdeniz University Hospital, Antalya",
+        "modern": "Antalya, Turkey",
+        "lat": 36.89,
+        "lon": 30.65,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Deceased-donor transplant, 2011"
+      },
+      {
+        "name": "Sahlgrenska University Hospital, Gothenburg",
+        "modern": "Gothenburg, Sweden",
+        "lat": 57.68,
+        "lon": 11.96,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "First live birth after transplantation, 2014"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ömer Özkan",
+        "role": "Plastic surgeon; led the Antalya team"
+      },
+      {
+        "name": "Mats Brännström",
+        "role": "Gynaecologist; led the Gothenburg team"
+      }
+    ],
+    "whatChanged": "Women with absolute uterine-factor infertility could carry their own pregnancy.",
+    "whyItMattered": "It created a new option for a form of infertility previously treatable only by adoption or surrogacy.",
+    "limitations": [
+      "The procedures involve major surgery for donor and recipient and temporary immunosuppression.",
+      "Numbers remain small; the first birth from a deceased-donor uterus was reported in Brazil only in 2017."
+    ],
+    "sources": [
+      {
+        "citation": "Brännström M, Johannesson L, Bokström H, et al. Livebirth after uterus transplantation. Lancet 385(9968):607–616 (2015; online 6 October 2014).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25301505/",
+        "doi": "10.1016/S0140-6736(14)61728-1",
+        "kind": "journal",
+        "supports": "Transplant in 2013 at Sahlgrenska University Hospital, Gothenburg; 35-year-old woman with Rokitansky syndrome; first livebirth after uterus transplantation; proof of concept."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. 'Livebirth after uterus transplantation' (2015), by Mats Brännström et al.",
+        "url": "https://embryo.asu.edu/pages/livebirth-after-uterus-transplantation-2015-mats-brannstrom-liza-johannesson-hans-bokstrom",
+        "kind": "university",
+        "supports": "Brännström at the University of Gothenburg; 2011 transplant at Akdeniz University Hospital, Antalya."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. 'First birth from a deceased donor uterus in the United States' (2020).",
+        "url": "https://embryo.asu.edu/pages/first-birth-deceased-donor-uterus-united-states-severe-graft-rejection-successful-cesarean",
+        "kind": "university",
+        "supports": "Failed attempt in Jeddah in 2000; Gothenburg trial from 2012; first live birth from a deceased donor in São Paulo in 2017."
+      },
+      {
+        "citation": "Özkan Ö, et al. The Özkan technique in current use in uterus transplantation. J Clin Med 12(8):2812 (2023).",
+        "url": "https://www.mdpi.com/2077-0383/12/8/2812/htm",
+        "kind": "journal",
+        "supports": "Akdeniz University team performed a surgically successful uterus transplant in 2011."
+      },
+      {
+        "citation": "Özkan O, Dogan NU, Özkan O, et al. Uterus transplantation: from animal models through the first heart beating pregnancy to the first human live birth. Women's Health 12(4):442–449 (2016).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5373276",
+        "doi": "10.1177/1745505716653849",
+        "kind": "journal",
+        "supports": "Deceased-donor uterus transplantation; pregnancy in the Antalya recipient; animal studies preceding human transplants."
+      }
+    ],
+    "related": [
+      "ivf-1978"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "bioengineered-organs",
+    "title": "Growing organs in the laboratory: kidney, liver and heart",
+    "summary": "In 2013 teams in Boston and Yokohama grew a working rat kidney on a stripped-down organ scaffold and a vascularised human liver bud from stem cells. In 2019 a team in Tel Aviv 3D-printed a small heart from a patient's own cells. None has yet been used in patients.",
+    "explanation": "The shortage of donor organs has driven efforts to build organs in the laboratory. At Massachusetts General Hospital, Harald Ott's team washed the cells out of rat kidneys, leaving a collagen scaffold, repopulated it with new cells and transplanted the result into rats, where it produced urine. At Yokohama City University, Takanori Takebe and Hideki Taniguchi's team grew 'liver buds' from human induced pluripotent stem cells that connected to the blood supply when transplanted into mice and rescued them from liver failure.\n\nIn 2019 Tal Dvir's group at Tel Aviv University printed a heart the size of a rabbit's, with blood vessels and chambers, from fatty tissue taken from patients.",
+    "date": {
+      "start": 2013,
+      "end": 2019,
+      "display": "2013–2019",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Kidney and liver studies published in April and July 2013; printed heart announced in April 2019."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "laboratory"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "regenerative medicine",
+      "transplantation",
+      "stem cells"
+    ],
+    "locations": [
+      {
+        "name": "Massachusetts General Hospital, Boston",
+        "modern": "Boston, Massachusetts, USA",
+        "lat": 42.36,
+        "lon": -71.07,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "Bioengineered rat kidney, 2013"
+      },
+      {
+        "name": "Yokohama City University",
+        "modern": "Yokohama, Japan",
+        "lat": 35.34,
+        "lon": 139.63,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Liver buds from stem cells, 2013"
+      },
+      {
+        "name": "Tel Aviv University",
+        "modern": "Tel Aviv, Israel",
+        "lat": 32.11,
+        "lon": 34.8,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "3D-printed heart from a patient's cells, 2019"
+      }
+    ],
+    "people": [
+      {
+        "name": "Harald Ott",
+        "role": "Surgeon-scientist, Massachusetts General Hospital"
+      },
+      {
+        "name": "Takanori Takebe",
+        "role": "Stem-cell biologist, Yokohama City University"
+      },
+      {
+        "name": "Tal Dvir",
+        "role": "Biomedical engineer, Tel Aviv University"
+      }
+    ],
+    "whatChanged": "Laboratory-built organ tissue was shown to connect to a living blood supply and perform some organ functions in animals.",
+    "whyItMattered": "These proofs of concept point towards organs made to order from a patient's own cells, which would avoid both donor shortages and rejection.",
+    "limitations": [
+      "All three were laboratory or animal studies; none produced an organ used in a person.",
+      "Producing such tissue in the quantities needed for human transplantation was not yet possible."
+    ],
+    "sources": [
+      {
+        "citation": "Song JJ, Guyette JP, Gilpin SE, Gonzalez G, Vacanti JP, Ott HC. Regeneration and experimental orthotopic transplantation of a bioengineered kidney. Nat Med 19(5):646–651 (2013).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650107",
+        "doi": "10.1038/nm.3154",
+        "kind": "journal",
+        "supports": "Perfusion decellularisation of rat kidneys; regenerated grafts transplanted in rats were perfused by the recipient's circulation and produced urine; Massachusetts General Hospital."
+      },
+      {
+        "citation": "Takebe T, Sekine K, Enomura M, et al. Vascularized and functional human liver from an iPSC-derived organ bud transplant. Nature 499:481–484 (2013).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23823721/",
+        "doi": "10.1038/nature12271",
+        "kind": "journal",
+        "supports": "Liver buds from human iPSCs; vessels connected within 48 hours; rescued a drug-induced lethal liver failure model."
+      },
+      {
+        "citation": "Liver buds made from stem cells restore function in mice. Nature News (2013).",
+        "url": "https://dx.doi.org/10.1038%2Fnature.2013.13324",
+        "kind": "journal",
+        "supports": "Takebe at Yokohama City University; testing in patients years away; not yet possible to make liver buds in sufficient quantities."
+      },
+      {
+        "citation": "Tel Aviv University. TAU scientists print first ever 3D heart using patient's own cells (16 April 2019).",
+        "url": "https://english.tau.ac.il/node/2442",
+        "kind": "university",
+        "supports": "Engineered heart with cells, blood vessels, ventricles and chambers; made from a biopsy of patients' fatty tissue; size of a rabbit's heart; led by Tal Dvir."
+      }
+    ],
+    "related": [
+      "human-embryonic-stem-cells"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "3d-printed-skull-implant",
+    "title": "A 3D-printed implant replaces the top of a skull",
+    "summary": "Surgeons at University Medical Center Utrecht replaced most of the skull of a 22-year-old woman, whose bone had thickened to compress her brain, with a custom 3D-printed plastic implant. The 23-hour operation was announced in March 2014.",
+    "explanation": "The patient had a rare condition in which her skull kept thickening, to about 5 cm, causing headaches, loss of vision and poor coordination. Skull defects had previously been repaired with cement shaped by hand during surgery. Led by the neurosurgeon Bon Verweij, the Utrecht team removed the top of her skull and fitted a plastic implant printed to the exact shape of her head by the Australian company Anatomics.\n\nThe hospital waited three months before announcing the operation in March 2014, by which time the patient was symptom-free and back at work.",
+    "date": {
+      "start": 2013,
+      "end": 2014,
+      "display": "Announced March 2014",
+      "kind": "point",
+      "approximate": true,
+      "precision": "month",
+      "basis": "Operation performed about three months before the announcement on 26 March 2014, so around December 2013."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "3D printing",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "University Medical Center Utrecht",
+        "modern": "Utrecht, Netherlands",
+        "lat": 52.09,
+        "lon": 5.18,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Bon Verweij",
+        "role": "Neurosurgeon; led the operation"
+      },
+      {
+        "name": "Anatomics",
+        "role": "Australian company that printed the implant"
+      }
+    ],
+    "whatChanged": "A large section of skull could be replaced with an implant printed to fit an individual patient exactly.",
+    "whyItMattered": "It illustrated how 3D printing can produce patient-specific implants, now widely used in skull and facial reconstruction.",
+    "limitations": [
+      "Smaller 3D-printed skull implants had been used before, including by the same surgeon; the novelty was replacing most of the cranium.",
+      "The sources available are press reports of the hospital's announcement; we did not find a peer-reviewed case report."
+    ],
+    "sources": [
+      {
+        "citation": "Woman gets 3D printed skull from UMC. NL Times, 26 March 2014.",
+        "url": "https://nltimes.nl/2014/03/26/woman-gets-3d-printed-skull-umc",
+        "kind": "journal",
+        "supports": "UMC Utrecht; 22-year-old woman; skull thickening; surgeon Bon Verweij; plastic implant made with a 3D printer; previous partial skull replacements; announcement delayed several months."
+      },
+      {
+        "citation": "Dutch hospital gives patient new plastic skull, made by 3D printer. DutchNews.nl, March 2014.",
+        "url": "https://www.dutchnews.nl/news/2014/03/dutch_hospital_gives_patient_n/",
+        "kind": "journal",
+        "supports": "Cranium 5 cm thick; 23-hour operation; implant produced by an Australian firm; earlier hand-made cement implants; operation three months before; patient symptom-free and back at work."
+      },
+      {
+        "citation": "3D-printed skull implanted into woman's head. New Atlas (2014).",
+        "url": "https://newatlas.com/3d-printed-skull-implant/31429",
+        "kind": "journal",
+        "supports": "Operation at UMC Utrecht took 23 hours; top portion of skull replaced; vision loss and motor impairment."
+      },
+      {
+        "citation": "3D printed skull implanted into female patient. Eureka Magazine (2014).",
+        "url": "https://eurekamagazine.co.uk/content/news/3d-printed-skull-implanted-into-female-patient",
+        "kind": "journal",
+        "supports": "Implant made in partnership with Anatomics; Verweij's description of symptoms; believed to be the first of its kind."
+      },
+      {
+        "citation": "3D printed skull successfully implanted in Dutch woman. ITPro (2014).",
+        "url": "https://www.itpro.com/printers/21928/3d-printed-skull-successfully-implanted-in-dutch-woman",
+        "kind": "journal",
+        "supports": "Not the first use of 3D printing for cranial implants; Verweij had used the method before for patients with part of the skull removed; 23-hour operation."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "artificial-pancreas-hybrid-loop",
+    "title": "An 'artificial pancreas' adjusts insulin automatically",
+    "summary": "In September 2016 the US FDA approved Medtronic's MiniMed 670G, the first hybrid closed-loop system for type 1 diabetes. A sensor measures glucose every five minutes and a pump adjusts background insulin automatically.",
+    "explanation": "People with type 1 diabetes must constantly check their glucose and dose insulin, usually with injections or a pump that they program themselves. A system in which a glucose sensor automatically controls an insulin pump, a 'closed loop', is often called an artificial pancreas.\n\nThe MiniMed 670G was approved on 28 September 2016 for people aged 14 and over, after a study of 123 participants. It measures glucose every five minutes and automatically sets background (basal) insulin; users still give mealtime doses themselves, which is why it is called a hybrid system and was seen as a step towards a fully closed loop.",
+    "date": {
+      "start": 2016,
+      "end": 2016,
+      "display": "28 September 2016",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of FDA approval."
+    },
+    "type": "implementation",
+    "evidence": [
+      "trial"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "diabetes"
+    ],
+    "locations": [],
+    "locationNote": "A regulatory approval of a device tested at several centres; no single place is mapped.",
+    "people": [
+      {
+        "name": "Medtronic",
+        "role": "Manufacturer"
+      }
+    ],
+    "whatChanged": "Part of the work of managing type 1 diabetes, adjusting background insulin day and night, could be handed to an automated system.",
+    "whyItMattered": "It was the first approved system to hand part of insulin dosing to an automated controller.",
+    "limitations": [
+      "Users still had to count carbohydrates and give mealtime doses.",
+      "Approval was based on a three-month study of 123 people.",
+      "'First' refers to approval by the US regulator, not to the first closed-loop system ever built or tested."
+    ],
+    "sources": [
+      {
+        "citation": "Brennan Z. FDA approves first automated insulin delivery device. Regulatory Affairs Professionals Society, 28 September 2016.",
+        "url": "https://www.raps.org/resource/fda-approves-first-automated-insulin-delivery-devi.html",
+        "kind": "institution",
+        "supports": "FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses."
+      },
+      {
+        "citation": "FDA approves artificial pancreas. Consultant360 (2016).",
+        "url": "https://www.consultant360.com/exclusives/fda-approves-artificial-pancreas",
+        "kind": "journal",
+        "supports": "Measures glucose every five minutes; study of 123 participants with a 3-month treatment period; risks of hypoglycaemia, hyperglycaemia and skin irritation."
+      },
+      {
+        "citation": "First automated insulin-delivery device approved for type 1 diabetes. Healio, 28 September 2016.",
+        "url": "https://cm.healio.com/news/endocrinology/20160928/first-automated-insulindelivery-device-approved-for-type-1-diabetes",
+        "kind": "journal",
+        "supports": "Date of approval; sensor, pump and infusion patch."
+      },
+      {
+        "citation": "Diabetes device a step closer to artificial pancreas. MDDI Online, 29 September 2016.",
+        "url": "https://mddionline.com/business/diabetes-device-a-step-closer-to-artificial-pancreas",
+        "kind": "journal",
+        "supports": "First hybrid closed-loop system for insulin delivery; described as incremental progress toward a full closed loop."
+      }
+    ],
+    "related": [
+      "insulin-toronto"
+    ],
+    "suggestedBy": "wikipedia-timeline"
   }
 ]

@@ -3056,9 +3056,9 @@
    "claim": "Capsule endoscopy",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "capsule-endoscopy",
+   "note": "Wikipedia credits capsule endoscopy to Tarun Mullick in 1985; we found no evidence for this. The wireless capsule endoscope was developed by Gavriel Iddan and Paul Swain and published in 2000."
   },
   {
    "wid": "w279",
@@ -3144,8 +3144,8 @@
    "claim": "Gamow bag",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "gamow-bag",
    "note": ""
   },
   {
@@ -3155,8 +3155,8 @@
    "claim": "Brugada syndrome described",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "brugada-syndrome",
    "note": ""
   },
   {
@@ -3166,9 +3166,9 @@
    "claim": "Hepatitis A vaccine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "hepatitis-a-vaccines",
+   "note": "Inactivated vaccine licensed in Europe in 1991 (some sources say 1992); live attenuated vaccine licensed in China in 1992."
   },
   {
    "wid": "w289",
@@ -3177,9 +3177,9 @@
    "claim": "Electroactive polymers (artificial muscle)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Electroactive polymers are a materials-science development; we found no specific medical use to record as a milestone."
   },
   {
    "wid": "w290",
@@ -3188,8 +3188,8 @@
    "claim": "ICSI",
    "place": "Brussels",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "icsi-brussels",
    "note": ""
   },
   {
@@ -3199,9 +3199,9 @@
    "claim": "Adult stem cells for tissue regeneration (patent)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "The claim rests on the inventor's own patent; we found no independent evidence that it was a medical milestone."
   },
   {
    "wid": "w292",
@@ -3210,8 +3210,8 @@
    "claim": "Dolly the sheep cloned",
    "place": "Roslin",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "dolly-cloned-sheep",
    "note": ""
   },
   {
@@ -3221,8 +3221,8 @@
    "claim": "Human embryonic stem cells",
    "place": "Madison",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "human-embryonic-stem-cells",
    "note": ""
   },
   {
@@ -3232,8 +3232,8 @@
    "claim": "Ghrelin identified",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "ghrelin-discovered",
    "note": ""
   },
   {
@@ -3254,8 +3254,8 @@
    "claim": "Transatlantic telesurgery",
    "place": "New York; Strasbourg",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "lindbergh-telesurgery",
    "note": ""
   },
   {
@@ -3265,8 +3265,8 @@
    "claim": "Alerts WHO to SARS",
    "place": "Hanoi",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "urbani-sars-alert",
    "note": ""
   },
   {
@@ -3276,8 +3276,8 @@
    "claim": "Partial face transplant",
    "place": "Amiens",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "face-transplants",
    "note": ""
   },
   {
@@ -3287,8 +3287,8 @@
    "claim": "First HPV vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "hpv-vaccine",
    "note": ""
   },
   {
@@ -3298,9 +3298,9 @@
    "claim": "Second rotavirus vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "rotavirus-vaccines",
+   "note": "The first rotavirus vaccine, RotaShield (1998), was withdrawn in 1999; the 2006 vaccines are the second generation."
   },
   {
    "wid": "w301",
@@ -3309,9 +3309,9 @@
    "claim": "Argus II retinal prosthesis",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "argus-ii-retinal-prosthesis",
+   "note": "Wikipedia gives 2007; the device was approved in Europe in 2011 and the US in 2013."
   },
   {
    "wid": "w302",
@@ -3320,9 +3320,9 @@
    "claim": "Full face transplant",
    "place": "Paris",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "face-transplants",
+   "note": "Wikipedia credits Laurent Lantieri with a full face transplant in 2008. His 2007–08 operation was partial; the first full face transplant was in Barcelona in March 2010."
   },
   {
    "wid": "w303",
@@ -3331,8 +3331,8 @@
    "claim": "Uterus transplant from deceased donor",
    "place": "Turkey",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "uterus-transplantation",
    "note": ""
   },
   {
@@ -3342,9 +3342,9 @@
    "claim": "Kidney grown in vitro",
    "place": "USA",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "bioengineered-organs",
+   "note": "Wikipedia says 'kidney grown in vitro in the U.S.'; it was a rat kidney regenerated on a scaffold and transplanted into rats."
   },
   {
    "wid": "w305",
@@ -3353,9 +3353,9 @@
    "claim": "Liver bud grown from stem cells",
    "place": "Japan",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "bioengineered-organs",
+   "note": "Liver buds grown from human stem cells and transplanted into mice, not a human liver."
   },
   {
    "wid": "w306",
@@ -3364,9 +3364,9 @@
    "claim": "3D-printed skull implant",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "3d-printed-skull-implant",
+   "note": "This was an implant, not a 'skull transplant'."
   },
   {
    "wid": "w307",
@@ -3375,9 +3375,9 @@
    "claim": "GentleWave root canal system",
    "place": "Laguna Hills",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "A commercial product launch; not an independently documented medical milestone."
   },
   {
    "wid": "w308",
@@ -3386,8 +3386,8 @@
    "claim": "Artificial pancreas (hybrid closed loop) approved",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "artificial-pancreas-hybrid-loop",
    "note": ""
   },
   {
@@ -3397,8 +3397,8 @@
    "claim": "3D-printed heart from patient cells",
    "place": "Tel Aviv",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "bioengineered-organs",
    "note": ""
   },
   {

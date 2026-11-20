@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 340 distinct sources across 83 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 417 distinct sources across 101 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -13,6 +13,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pubmed.ncbi.nlm.nih.gov/22510417/>  
   Type: journal.
   - `snellen-eye-chart`: Studied at Utrecht under Donders; assistant from 1858 and later first physician at Donders' eye hospital; published his optotypes in 1862, letters constructed in squares with 5 × 5 subdivisions; professor in 1877; director in 1884.
+
+- 3D printed skull implanted into female patient. Eureka Magazine (2014).  
+  <https://eurekamagazine.co.uk/content/news/3d-printed-skull-implanted-into-female-patient>  
+  Type: journal.
+  - `3d-printed-skull-implant`: Implant made in partnership with Anatomics; Verweij's description of symptoms; believed to be the first of its kind.
+
+- 3D printed skull successfully implanted in Dutch woman. ITPro (2014).  
+  <https://www.itpro.com/printers/21928/3d-printed-skull-successfully-implanted-in-dutch-woman>  
+  Type: journal.
+  - `3d-printed-skull-implant`: Not the first use of 3D printing for cranial implants; Verweij had used the method before for patients with part of the skull removed; 23-hour operation.
+
+- 3D-printed skull implanted into woman's head. New Atlas (2014).  
+  <https://newatlas.com/3d-printed-skull-implant/31429>  
+  Type: journal.
+  - `3d-printed-skull-implant`: Operation at UMC Utrecht took 23 hours; top portion of skull replaced; vision loss and motor impairment.
 
 - 50th anniversary of computed tomography: past and future applications in clinical neuroscience (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8523063/>  
@@ -28,6 +43,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3116347/>  
   Type: journal.
   - `laennec-stethoscope`: 1819 manual coined terms such as rales, egophony and pectoriloquy; correlation with autopsy findings.
+
+- A new rotavirus vaccine (abstract and commentary on Ruiz-Palacios et al. and Vesikari et al., N Engl J Med 2006). Relias Media.  
+  <https://www.reliasmedia.com/articles/122970-a-new-rotavirus-vaccine>  
+  Type: journal.
+  - `rotavirus-vaccines`: Both vaccines highly efficacious against severe rotavirus disease in 2006 trials; no increased risk of intussusception in the trials; RotaTeq approved by the FDA in February 2006.
 
 - A review on the development of healthcare infrastructure through the history of Islamic civilization (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8257058/>  
@@ -74,6 +94,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `al-razi-smallpox-measles`: Al-Razi's records of cases treated by him or his students; his personal observations on smallpox.
 
+- American Academy of Ophthalmology. Retinal implants for RP. EyeNet.  
+  <https://aao.org/eyenet/article/retinal-implants-for-rp>  
+  Type: institution.
+  - `argus-ii-retinal-prosthesis`: 60 microelectrodes; approval based on 30 patients; more than 350 patients implanted worldwide.
+
+- American Academy of Ophthalmology. Retinal prostheses: what next after Argus approval? EyeNet.  
+  <https://www.aao.org/eyenet/article/retinal-prostheses-what-next-after-argus-approval>  
+  Type: institution.
+  - `argus-ii-retinal-prosthesis`: February 2013 FDA approval as a humanitarian use device, which does not require proof of effectiveness; European CE mark 2011.
+
 - American Chemical Society. Discovery and development of penicillin. International Historic Chemical Landmark (1999).  
   <https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html>  
   Type: institution.
@@ -93,6 +123,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.5144/0256-4947.2007.305](https://doi.org/10.5144/0256-4947.2007.305), <https://pmc.ncbi.nlm.nih.gov/articles/PMC6074295/>  
   Type: journal.
   - `al-razi-smallpox-measles`: Dates (865–925), birth in Rayy, hospital directorships in Rayy and Baghdad under al-Muktafi, the treatise distinguishing smallpox from measles, Latin translations. Description of the treatise's content (signs and differences between the two diseases) is drawn from this and the case-history study.
+
+- An update on face transplants performed between 2005 and 2010. In: The Know-How of Face Transplantation, Springer (2011), reference list.  
+  <https://ouci.dntb.gov.ua/works/4Y8RP307>  
+  Type: book.
+  - `face-transplants`: Lantieri et al., Lancet 2008: repair of the lower and middle parts of the face, i.e. a partial transplant; Dubernard et al., NEJM 2007, outcomes 18 months after the first partial face transplant.
 
 - Andreas Vesalius: celebrating 500 years of dissecting nature (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4762440/>  
@@ -119,10 +154,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `liggins-antenatal-steroids`: First and largest double-blind, placebo-controlled trial; tertiary obstetric hospital in Auckland; long-term follow-up.
 
+- Appleyard M, Glukhovsky A, Swain P. Wireless-capsule diagnostic endoscopy for recurrent small-bowel bleeding. N Engl J Med 344:232–233 (2001).  
+  DOI: [10.1056/nejm200101183440316](https://doi.org/10.1056/nejm200101183440316), <https://scilit.com/publications/b01910ddec35d745ec8ab373d68ccf15>  
+  Type: journal.
+  - `capsule-endoscopy`: First images of pathology in the human small bowel; patients with obscure bleeding; January 2001.
+
 - Armitage P. A statistical note on the analysis of the 1948 MRC streptomycin trial. Journal of the Royal Society of Medicine 2016 (From the James Lind Library).  
   <https://www.jameslindlibrary.org/wp-data/uploads/2016/08/J-R-Soc-Med-2016-08-Armitage-312.pdf>  
   Type: journal.
   - `streptomycin-trial`: Difference in mortality between arms (ratio of death rates 3.70, imprecise); likely chi-square analysis.
+
+- Arno A, Barret JP, Harrison RA, Jeschke MG. Face allotransplantation and burns: a review. PubMed Central (2012).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3438348>  
+  Type: journal.
+  - `face-transplants`: Dubernard performed the first modern hand transplant in 1998 and the first face transplant in 2005; transplants in France (Amiens 2005), China (2006), the US and Spain; Barcelona the first full-face transplant, March 2010.
 
 - Ärzte Zeitung. Erforschung von Morphium und Mumifizierungsmethoden.  
   <https://www.aerztezeitung.de/Panorama/Erforschung-von-Morphium-und-Mumifizierungsmethoden-369072.html>  
@@ -149,6 +194,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `waller-einthoven-ecg`: First ECG from the intact human heart recorded by Waller with a capillary electrometer in May 1887 at St Mary's Hospital; poor tracings with two deflections; Einthoven's string galvanometer; Nobel Prize 1924.
 
+- Barret JP, Tomasello V. Face Transplantation: Principles, Techniques and Artistry, ch. 2. Springer (2015).  
+  <https://springerlink.bibliotecabuap.elogim.com/chapter/10.1007/978-3-662-45444-2_2>  
+  Type: book.
+  - `face-transplants`: French ethics committee position on partial transplants; Devauchelle and Dubernard's partial face transplant in Amiens.
+
+- Bartlett Z. 'Viable offspring derived from fetal and adult mammalian cells' (1997), by Ian Wilmut et al. Embryo Project Encyclopedia, Arizona State University.  
+  <https://embryo.asu.edu/pages/viable-offspring-derived-fetal-and-adult-mammalian-cells-1997-ian-wilmut-et-al>  
+  Type: university.
+  - `dolly-cloned-sheep`: Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells.
+
 - Bodleian Libraries, University of Oxford. Moments in Medicine: Micrographia, Robert Hooke, 1665.  
   <https://bodwhatson.web.ox.ac.uk/sites/default/files/bodwhatson/documents/media/mim-micrographia.pdf>  
   Type: university.
@@ -165,10 +220,50 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `variolation-traditions`: Chinese book first published 1549; tradition of invention 1567–1572; weak basis of the c. 1000 CE claim; doubts about Indian accounts; Timonius (1714) and Pylarini (1716); Greek woman c. 1660; Montagu's children; Onesimus described as from present-day southern Libya.
   - `boston-inoculation-1721`: Jurin's 1723 survey of mortality in variolated versus natural smallpox; early 'evidence-based medicine'.
 
+- Brännström M, Johannesson L, Bokström H, et al. Livebirth after uterus transplantation. Lancet 385(9968):607–616 (2015; online 6 October 2014).  
+  DOI: [10.1016/S0140-6736(14)61728-1](https://doi.org/10.1016/S0140-6736(14)61728-1), <https://pubmed.ncbi.nlm.nih.gov/25301505/>  
+  Type: journal.
+  - `uterus-transplantation`: Transplant in 2013 at Sahlgrenska University Hospital, Gothenburg; 35-year-old woman with Rokitansky syndrome; first livebirth after uterus transplantation; proof of concept.
+
+- Brennan Z. FDA approves first automated insulin delivery device. Regulatory Affairs Professionals Society, 28 September 2016.  
+  <https://www.raps.org/resource/fda-approves-first-automated-insulin-delivery-devi.html>  
+  Type: institution.
+  - `artificial-pancreas-hybrid-loop`: FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses.
+
+- Brugada J, Brugada P, Brugada R. Brugada syndrome: the syndrome of right bundle branch block, ST segment elevation in V1 to V3 and sudden death. PubMed Central (2001).  
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569891/>  
+  Type: journal.
+  - `brugada-syndrome`: Syndrome first described in 1992; structurally normal heart; drugs such as ajmaline and flecainide unmask concealed forms.
+
+- Brugada P, Brugada J. Right bundle branch block, persistent ST segment elevation and sudden cardiac death: a distinct clinical and electrocardiographic syndrome. A multicenter report. J Am Coll Cardiol 20(6):1391–6 (1992).  
+  DOI: [10.1016/0735-1097(92)90253-j](https://doi.org/10.1016/0735-1097(92)90253-j), <https://pubmed.ncbi.nlm.nih.gov/1309182/>  
+  Type: journal.
+  - `brugada-syndrome`: Eight patients (six male, two female) with recurrent aborted sudden death; ECG findings; polymorphic ventricular tachycardia; no structural heart disease; publication date.
+
+- Brugada syndrome: 30 years of scientific advances. Rev Esp Cardiol 75:988–91 (2022).  
+  <https://www.revespcardiol.org/en-brugada-syndrome-30-years-scientific-articulo-S1885585722002353>  
+  Type: journal.
+  - `brugada-syndrome`: 1992 report of eight patients with aborted sudden death from ventricular fibrillation; Brugada syndrome as a cause of sudden death in children; implantable cardioverter-defibrillators.
+
+- Brugada syndrome. CoreEM (Core Emergency Medicine).  
+  <https://coreem.net/core/brugada-syndrome>  
+  Type: institution.
+  - `brugada-syndrome`: Inherited disorder predisposing to sudden death; mutations in sodium, calcium and potassium channel genes; originally described in 1992 by Pedro and Josep Brugada.
+
 - Cade JFJ. Lithium salts in the treatment of psychotic excitement (Medical Journal of Australia, 1949). Reprinted in Bulletin of the World Health Organization 2000;78(4):518–520. (pp. 518–520)  
   <https://apps.who.int/iris/handle/10665/268117>  
   Type: primary.
   - `cade-lithium`: Cade's original 1949 report (reprint).
+
+- Carlo Urbani and SARS (review). Journal of Preventive Medicine and Hygiene.  
+  <https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540>  
+  Type: journal.
+  - `urbani-sars-alert`: Examined the patient on 28 February 2003; alerted WHO headquarters on 7 March; persuaded the Health Ministry to isolate patients and screen travellers.
+
+- Case report: treatment of high-altitude pulmonary oedema on Mount Everest with a portable hyperbaric chamber (Gamow bag). Hrčak repository.  
+  <https://hrcak.srce.hr/file/1029>  
+  Type: journal.
+  - `gamow-bag`: Climber with high-altitude pulmonary oedema treated in a Gamow bag for two hours at 7,060 m; recommended for severe acute mountain sickness and risky descents.
 
 - Centers for Disease Control and Prevention. 50th anniversary of the first effective polio vaccine. MMWR 2005;54(13).  
   <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5413a5.htm>  
@@ -184,6 +279,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.cdc.gov/world-tb-day/history/index.html>  
   Type: institution.
   - `koch-tuberculosis`: TB killed one in seven people in the US and Europe in 1882; discovery proved TB infectious, not hereditary; March 24 recognised as World TB Day in 1982.
+
+- Centers for Disease Control and Prevention. Rotavirus vaccine safety (archived 2012).  
+  <https://webarchive.library.unt.edu/web/20120927120437/http://www.cdc.gov/vaccinesafety/Vaccines/RotaVSB.html>  
+  Type: institution.
+  - `rotavirus-vaccines`: RotaShield withdrawn in 1999 for risk of intussusception; RotaTeq licensed 2006; Rotarix licensed in the US 2008; each tested in about 60,000–70,000 infants before licensure.
 
 - Chalmers A. General Biographical Dictionary: Desault, Peter Joseph (via words.fromoldbooks.org).  
   <https://words.fromoldbooks.org/Chalmers-Biography/d/desault-peter-joseph.html>  
@@ -204,6 +304,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.elsevier.es/es-revista-revista-mexicana-oftalmologia-321-pdf-download-X0187451916498073>  
   Type: journal.
   - `badianus-manuscript`: Martín de la Cruz, native of Xochimilco, physician at the Colegio de Santa Cruz de Tlatelolco; mid-16th century.
+
+- Children's Hospital of Philadelphia. Intussusception and rotavirus vaccination.  
+  <https://www.chop.edu/news/intussusception-and-rotavirus-vaccination>  
+  Type: institution.
+  - `rotavirus-vaccines`: RotaShield withdrawn in 1999 with attributable risk of 10 per 100,000; RotaTeq licensed in 2006 and Rotarix in 2008.
 
 - Church News. This Is the Place Heritage Park honors medical career of Ellis Reynolds Shipp with new statue (21 September 2023).  
   <https://www.thechurchnews.com/history/2023/9/21/23882750/this-is-the-place-heritage-park-honors-medical-career-of-ellis-reynolds-shipp-with-new-statue/>  
@@ -262,10 +367,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `kahun-gynaecological-papyrus`: The oldest known complete medical text, from about 2000 BC, is in Sumerian.
   - `babylonian-diagnostic-handbook`: Diagnostic Handbook by Esagil-kīn-apli during the reign of Adad-apla-iddina (1067–1046 BC); symptoms, disease names, prognosis and causation; casuistic formula; earlier Middle Babylonian diagnostic texts.
 
+- Current topics in assisted human reproduction, including the development of ICSI. International Journal of Developmental Biology.  
+  <https://ijdb.ehu.eus/article/pdf/9184332>  
+  Type: journal.
+  - `icsi-brussels`: Earlier microinjection attempts uncontrolled; the Brussels laboratory headed by Van Steirteghem and Devroey persisted and reported pregnancies and births (Palermo et al. 1992).
+
 - Development of anatomophysiologic knowledge regarding the cardiovascular system: from Egyptians to Harvey (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4290745/>  
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: His description seems more theoretical than practical; rest of circulation followed Galen.
+
+- Devitt T. Wisconsin scientists culture elusive embryonic stem cells. University of Wisconsin–Madison News, 6 November 1998.  
+  <https://news.wisc.edu/?p=2368>  
+  Type: university.
+  - `human-embryonic-stem-cells`: Publication date; cells derived from the inner cell mass of donated human blastocysts; WARF patent application.
+
+- Diabetes device a step closer to artificial pancreas. MDDI Online, 29 September 2016.  
+  <https://mddionline.com/business/diabetes-device-a-step-closer-to-artificial-pancreas>  
+  Type: journal.
+  - `artificial-pancreas-hybrid-loop`: First hybrid closed-loop system for insulin delivery; described as incremental progress toward a full closed loop.
 
 - Dictionary of National Biography: Priestley, Joseph (via The Victorian Web).  
   <https://victorianweb.org/history/dnb/3.html>  
@@ -317,10 +437,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bunyoro-caesarean`: Felkin's lecture to the Edinburgh Obstetrical Society, 9 January 1884 ('Notes on labour in Central Africa'); operation performed in 1879 at Kahura; both mother and child survived.
 
+- Dutch hospital gives patient new plastic skull, made by 3D printer. DutchNews.nl, March 2014.  
+  <https://www.dutchnews.nl/news/2014/03/dutch_hospital_gives_patient_n/>  
+  Type: journal.
+  - `3d-printed-skull-implant`: Cranium 5 cm thick; 23-hour operation; implant produced by an Australian firm; earlier hand-made cement implants; operation three months before; patient symptom-free and back at work.
+
 - Early limb amputation in Borneo. The Past (Current World Archaeology), 15 November 2022.  
   <https://the-past.com/news/early-limb-amputation-in-borneo/>  
   Type: journal.
   - `liang-tebo-amputation`: Reported date range 31,000–30,000 years ago; clean cut through tibia and fibula; excavation in 2020.
+
+- EBSCO Research Starters. Rotavirus vaccine.  
+  <https://www.ebsco.com/research-starters/consumer-health/rotavirus-vaccine>  
+  Type: institution.
+  - `rotavirus-vaccines`: Rotavirus can cause severe dehydration requiring hospitalisation; RotaTeq three oral doses and Rotarix two; first licensing 1998, withdrawal, safer versions in 2006 and 2008.
 
 - Educational paradigms in Islamic medical history: a review (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11000882/>  
@@ -342,6 +472,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `fabrici-venous-valves`: De venarum ostiolis published in Padua in 1603; valves always directed towards the heart; noted before but not described and figured in such detail; Fabricius followed Galen and thought they stopped blood flowing backwards; Harvey in Padua 1598–1602.
 
+- Embryo Project Encyclopedia, Arizona State University. Entries on the Roslin cloning experiments (Megan and Morag; Dolly).  
+  <https://embryo.asu.edu/taxonomy/term/145281>  
+  Type: university.
+  - `dolly-cloned-sheep`: Megan and Morag cloned from embryo cells in 1995–96; Dolly cloned from fully differentiated adult cells; publication on 27 February 1997.
+
+- Embryo Project Encyclopedia. 'First birth from a deceased donor uterus in the United States' (2020).  
+  <https://embryo.asu.edu/pages/first-birth-deceased-donor-uterus-united-states-severe-graft-rejection-successful-cesarean>  
+  Type: university.
+  - `uterus-transplantation`: Failed attempt in Jeddah in 2000; Gothenburg trial from 2012; first live birth from a deceased donor in São Paulo in 2017.
+
+- Embryo Project Encyclopedia. 'Livebirth after uterus transplantation' (2015), by Mats Brännström et al.  
+  <https://embryo.asu.edu/pages/livebirth-after-uterus-transplantation-2015-mats-brannstrom-liza-johannesson-hans-bokstrom>  
+  Type: university.
+  - `uterus-transplantation`: Brännström at the University of Gothenburg; 2011 transplant at Akdeniz University Hospital, Antalya.
+
+- Embryo Project Encyclopedia. Ian Hector Frazer (1953– ).  
+  <https://embryo.asu.edu/pages/ian-hector-frazer-1953>  
+  Type: university.
+  - `hpv-vaccine`: Met Zhou in Cambridge in 1989; Zhou came to Brisbane in 1990; research in 1991 at the University of Queensland.
+
 - Emory University. Ancient brewmasters tapped drug secrets. Emory Report, 31 August 2010.  
   <https://news.emory.edu/emory-report-archive/stories/2010/09/07/beer.html>  
   Type: university.
@@ -356,6 +506,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation>  
   Type: book.
   - `pasteur-spontaneous-generation`: In 1859 Pasteur decided to settle the dispute, believing his germ theory could not be substantiated while spontaneous generation was believed; swan-neck flask kept boiled broth sterile.
+
+- Encyclopædia Universalis. Opération Lindbergh.  
+  <https://www.universalis.fr/encyclopedie/operation-lindbergh/>  
+  Type: book.
+  - `lindbergh-telesurgery`: Operation on 7 September 2001 between New York and Strasbourg; Zeus robot controlled remotely by Marescaux; IRCAD founded in Strasbourg in 1994; patient under general anaesthesia at Strasbourg's university hospital.
 
 - Encyclopædia Universalis. Virchow Rudolf (1821–1902).  
   <https://www.universalis.fr/encyclopedie/rudolf-virchow/>  
@@ -397,15 +552,40 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ragusa-quarantine`: 1377 decree by the Great Council of Ragusa; 30-day trentino for visitors from plague-endemic areas; later extended to 40 days.
 
+- European Patent Office. EP0469071: Improved hyperbaric chamber (Gamow RI, Geer GA), priority 21 April 1989.  
+  <https://data.epo.org/publication-server/rest/v1.2/patents/EP0469071NWB1/document.pdf>  
+  Type: primary.
+  - `gamow-bag`: Inventor's address in Boulder, Colorado; embodiment for a climber with altitude sickness no larger than a sleeping bag.
+
+- European Patent Office. Ian Frazer, Jian Zhou: European Inventor Award 2015.  
+  <https://www.epo.org/learning-events/european-inventor/finalists/2015/frazer.html>  
+  Type: institution.
+  - `hpv-vaccine`: Virus-like particles; vaccine marketed by Merck from 2006; Cervarix; royalties waived in 72 developing countries.
+
 - Evaluating life in foster homes for persons with serious mental illness: resident and caregiver perspectives (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4865377/>  
   Type: journal.
   - `geel-family-care`: Over 600 years ago families in Geel took mentally ill persons into their homes.
 
+- Facial transplantation: historical developments and future directions. Journal of Laryngology & Otology (2015).  
+  <https://www-cambridge-org.ezproxyberklee.flo.org/core/services/aop-cambridge-core/content/view/C63BC030D52E1C8F013FADEB3A3E24B6/S0022215114003478a.pdf/facial-transplantation-historical-developments-and-future-directions.pdf>  
+  Type: journal.
+  - `face-transplants`: Devauchelle et al. 2005, 38-year-old woman, animal attack, nose and lip; 12 partial and 5 full transplants in the literature; two deaths from transplant-related and infectious complications.
+
 - Facts and ideas from anywhere: the Chamberlen forceps. Baylor University Medical Center Proceedings (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1906586/>  
   Type: journal.
   - `chamberlen-forceps`: Secret kept for 150 years; refusing to share condemned many to death; forceps gave male doctors the key to the previously all-female delivery room.
+
+- FDA approves artificial pancreas. Consultant360 (2016).  
+  <https://www.consultant360.com/exclusives/fda-approves-artificial-pancreas>  
+  Type: journal.
+  - `artificial-pancreas-hybrid-loop`: Measures glucose every five minutes; study of 123 participants with a 3-month treatment period; risks of hypoglycaemia, hyperglycaemia and skin irritation.
+
+- First automated insulin-delivery device approved for type 1 diabetes. Healio, 28 September 2016.  
+  <https://cm.healio.com/news/endocrinology/20160928/first-automated-insulindelivery-device-approved-for-type-1-diabetes>  
+  Type: journal.
+  - `artificial-pancreas-hybrid-loop`: Date of approval; sensor, pump and infusion patch.
 
 - First Ebola virus vaccine to protect human beings? (comment). Lancet 2017;389.  
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32618-6/fulltext>  
@@ -446,6 +626,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10431564/>  
   Type: journal.
   - `sushruta-samhita`: Example of the clinical literature dating Suśruta to c. 1000–800 BC and naming the pedicled flap the 'Indian method' (dates not adopted here).
+
+- Gamow RI, Geer GA. Hyperbaric chamber. US patent 4,974,829, granted 4 December 1990.  
+  <https://uspto.report/patent/grant/4974829>  
+  Type: primary.
+  - `gamow-bag`: Patent granted 4 December 1990 to Gamow and Geer for a lightweight, backpackable, inflatable hyperbaric chamber; earlier design for endurance exercise at raised pressure.
 
 - Garrison–Morton (HistoryofMedicine.com), entry 7011: The Petrie papyri. Hieratic papyri from Kahun and Gurob, ed. F. Ll. Griffith (1898).  
   <https://historyofmedicine.com/id/9177>  
@@ -492,6 +677,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.escrs.org/eurotimes/snellen-visual-acuity/>  
   Type: institution.
   - `snellen-eye-chart`: Snellen's work on visual acuity testing and the chart he introduced; professor of ophthalmology at Utrecht in 1877.
+
+- Guinness World Records. First animal cloned from an adult cell.  
+  <https://guinnessworldrecords.com/world-records/first-animal-cloned-from-an-adult-cell>  
+  Type: institution.
+  - `dolly-cloned-sheep`: Finn Dorset ewe; udder cell from a six-year-old donor; announced in February 1997.
 
 - Hajar R. The air of history (part IV): great Muslim physicians — Al Rhazes. Heart Views (PubMed Central record).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3752886/>  
@@ -543,6 +733,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ebola-ring-vaccination`: Open-label cluster-randomised ring vaccination in Conakry and eight surrounding prefectures (and in Sierra Leone); single dose; vaccine efficacy 100% (95% CI 68.9–100).
 
+- Hepatitis A vaccination in China (review). PubMed Central, PMC4000763.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC4000763>  
+  Type: journal.
+  - `hepatitis-a-vaccines`: Vaccines licensed in several countries in 1992; dramatic decreases after use in the United States, Israel and Argentina.
+
+- Hepatitis A vaccine in China and worldwide (review). PubMed Central, PMC7482852.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC7482852>  
+  Type: journal.
+  - `hepatitis-a-vaccines`: First licensed inactivated vaccine Havrix (GSK Biologicals, Rixensart, Belgium) developed in early 1992; first live attenuated H2-strain vaccine licensed in China in 1992; more than 7,000 deaths worldwide in 2016.
+
 - Highlights of historical events leading to national surveillance of vaccination coverage in the United States. Public Health Reports (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3113425/>  
   Type: journal.
@@ -588,6 +788,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `ors-oral-rehydration`: Untreated cholera mortality 30–40%; IV therapy hard to implement; SEATO Cholera Research Laboratory established in Dhaka in 1960; results in The Lancet 1968; Lancet (1978) 'potentially the most important medical advance of this century'.
 
+- Iddan G, Meron G, Glukhovsky A, Swain P. Wireless capsule endoscopy. Nature 405(6785):417 (2000).  
+  DOI: [10.1038/35013140](https://doi.org/10.1038/35013140), <https://ideas.repec.org/a/nat/nature/v405y2000i6785d10.1038_35013140.html>  
+  Type: journal.
+  - `capsule-endoscopy`: Authors and affiliations (Given Imaging; Royal London Hospital); publication in Nature, May 2000.
+
+- Iddan GJ, Swain CP. History and development of capsule endoscopy. Gastrointest Endosc Clin N Am 14:1–9 (2004).  
+  <https://www.scribd.com/document/505633190/Historia-de-la-Capsula>  
+  Type: journal.
+  - `capsule-endoscopy`: Iddan's work in Israel and Swain's parallel efforts in the UK; groups combined from 1998; Given Imaging in Yoqneam.
+
 - IEEE Spectrum. Forget electrodes, the first EKG machine used buckets of saline solution and telephone wire.  
   <https://spectrum.ieee.org/forget-electrodes-the-first-ekg-machine-used-buckets-of-saline-solution-and-telephone-wire>  
   Type: institution.
@@ -612,6 +822,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.icmr.gov.in/icmrobject/custom_data/pdf/icmr-bulletins/BUOCT03.pdf>  
   Type: institution.
   - `ivf-1978`: Both announcements met great scepticism; Mukerjee transferred to an eye hospital and could not pursue his work.
+
+- Innovation in retina. Retinal Physician (March 2015).  
+  <https://retinalphysician.com/issues/2015/march/innovation-in-retina/>  
+  Type: journal.
+  - `argus-ii-retinal-prosthesis`: Humayun and Greenberg's work at Johns Hopkins; Second Sight; CE mark 2011 and FDA approval February 2013.
 
 - Institut für Geschichte der Medizin der Robert Bosch Stiftung (Stuttgart). Samuel Hahnemann and the beginnings of homoeopathy.  
   <https://www.igm-bosch.de/samuel-hahnemann-and-the-beginnings-of-homoeopathy.html>  
@@ -704,6 +919,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `kangaroo-mother-care`: First introduced by Rey and Martínez in 1978; components skin-to-skin, exclusive breastfeeding and early discharge.
 
+- Kangawa K. Ghrelin: from discovery to translational research. Pharmaceutical Society of Japan lecture abstract.  
+  <https://www.pharm.or.jp/eng/128th/data/SL06.pdf>  
+  Type: institution.
+  - `ghrelin-discovered`: Discovery in 1999 from rat stomach; roles in feeding, energy metabolism and the cardiovascular system; clinical trials in heart failure.
+
 - Keys TE. Historical vignettes: Sir Humphry Davy. Anesthesia and Analgesia: Current Researches 1972;51(2):187 (University of Pittsburgh digital collection).  
   <https://dec.hsls.pitt.edu/files/original/c01e4cba408723bfc4134e90982d4a8b2e4d02ea.pdf>  
   Type: journal.
@@ -713,6 +933,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1636120>  
   Type: journal.
   - `aro-village-system`: Rehabilitation villages in Tanzania from 1969 modelled on Lambo's Aro village.
+
+- Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature 402(6762):656–660 (1999).  
+  DOI: [10.1038/45230](https://doi.org/10.1038/45230), <https://ideas.repec.org/a/nat/nature/v402y1999i6762d10.1038_45230.html>  
+  Type: journal.
+  - `ghrelin-discovered`: Purification from rat stomach of an endogenous ligand for GHS-R; 28-amino-acid peptide; authors' affiliation at the National Cardiovascular Center Research Institute, Suita.
 
 - Kotler DL. Dr. Seishu Hanaoka (1760–1835): surgeon, pharmacist, and anesthesiologist. Gibbon Society Historical Profiles, Thomas Jefferson University, 2014.  
   <https://core.ac.uk/download/129189266.pdf>  
@@ -809,6 +1034,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `andean-trepanation`: About half of patients in 400–200 BCE died; 17–25% of Inca-period patients died; no written records.
 
+- Liver buds made from stem cells restore function in mice. Nature News (2013).  
+  <https://dx.doi.org/10.1038%2Fnature.2013.13324>  
+  Type: journal.
+  - `bioengineered-organs`: Takebe at Yokohama City University; testing in patients years away; not yet possible to make liver buds in sufficient quantities.
+
 - London School of Hygiene & Tropical Medicine. About John Snow (John Snow bicentenary).  
   <https://johnsnowbicentenary.lshtm.ac.uk/about-john-snow/>  
   Type: university.
@@ -838,6 +1068,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2690737/>  
   Type: journal.
   - `edwin-smith-papyrus`: Copied circa 1600 BC; 48 cases topographically ordered from the skull to the chest and upper arm.
+
+- Marescaux J, Leroy J, Gagner M, et al. Transatlantic robot-assisted telesurgery. Nature 413:379–380 (2001), as catalogued in Garrison–Morton (HistoryofMedicine.com).  
+  <https://historyofmedicine.com/id/10134>  
+  Type: journal.
+  - `lindbergh-telesurgery`: Gallbladder operation by French surgeons in New York on a patient in Strasbourg; Zeus robot; 7 September 2001; IRCAD.
 
 - Massachusetts General Hospital, Paul S. Russell, MD Museum of Medical History and Innovation. The Ether Dome.  
   <https://www.massgeneral.org/museum/exhibits/ether-dome>  
@@ -884,6 +1119,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: Manuscript found around 1930 in Berlin by Muhyo al-Deen el-Tatawi; not cited in the West before the 20th century.
 
+- Military Infectious Diseases Research Program. Information paper: Hepatitis A vaccine (Havrix).  
+  <https://midrp.health.mil/pdf_files/INFO_PDF/HepA.pdf>  
+  Type: institution.
+  - `hepatitis-a-vaccines`: Human trials at WRAIR from 1986 with formalin-inactivated vaccine; phase 3 trial led by Bruce Innis with Thai collaborators; US licensure February 1995.
+
 - Minagar A, et al. The Edwin Smith surgical papyrus: description and analysis of the earliest case of aphasia. Journal of Medical Biography 2003;11(2):114–117. (pp. 114–117)  
   DOI: [10.1177/096777200301100214](https://doi.org/10.1177/096777200301100214), <https://pubmed.ncbi.nlm.nih.gov/12717541/>  
   Type: journal.
@@ -908,6 +1148,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.museumofhealthcare.ca/blog/a-mere-appendix>  
   Type: museum.
   - `amyand-appendicectomy`: First recorded removal of an appendix in London in 1735 by Amyand; the surgery was a success; the work fell into obscurity and the operation was not tried again until the 1880s, after anaesthesia and antisepsis.
+
+- National Health and Medical Research Council (Australia). Gardasil impact case study.  
+  <https://nhmrc.gov.au/sites/default/files/documents/Case%20studies/GARDASIL-impact-case-study.pdf>  
+  Type: institution.
+  - `hpv-vaccine`: Frazer met Zhou and Sun in Cambridge in 1989 and invited them to UQ; development of virus-like particles; UQ's contribution to the first HPV vaccines.
+
+- National Health and Medical Research Council (Australia). Gardasil research translation case study.  
+  <https://www.nhmrc.gov.au/sites/default/files/documents/attachments/Research%20translation/Gardasil-Case-Study.docx>  
+  Type: institution.
+  - `hpv-vaccine`: Gardasil approved by the Therapeutic Goods Administration and the US FDA in 2006.
 
 - National Health and Medical Research Council. NHMRC Statement: Statement on Homeopathy, March 2015, ref. CAM02 (copy hosted by P. Bowditch).  
   <https://mail.peterbowditch.com/writing/ausscience/ausscience1505_homeo_nhmrc_st.pdf>  
@@ -950,6 +1200,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `pasteur-attenuated-vaccines`: Chicken cholera cultures lost virulence in 1879 and protected chickens; 'attenuation'; Pouilly-le-Fort: 24 sheep, 1 goat and 6 cows vaccinated on 5 and 17 May 1881, controls, challenge on 31 May, results on 2 June; Chamberland's notebooks show potassium dichromate attenuation similar to Toussaint's; Jenner's inspiration.
   - `pasteur-rabies-vaccine`: Rabies agent weakened by air-drying infected rabbit spinal cord; Meister received 13 inoculations and survived; notebooks show two people vaccinated before Meister, one of whom died.
 
+- Nature Milestones: HPV vaccines.  
+  <https://media.nature.com/original/magazine-assets/d42859-020-00019-2/d42859-020-00019-2.pdf>  
+  Type: journal.
+  - `hpv-vaccine`: VLPs of HPV16; Gardasil approved in the USA in 2006 containing VLPs of four HPV types; Cervarix followed.
+
 - Nelson ML, et al. Brief communication: mass spectroscopic characterization of tetracycline in the skeletal remains of an ancient population from Sudanese Nubia 350–550 CE. American Journal of Physical Anthropology 2010 (abstract as quoted by Phys.org and others).  
   <https://phys.org/news/2010-08-ancient-brew-masters-drug-secrets.pdf>  
   Type: journal.
@@ -964,6 +1219,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4109615/>  
   Type: journal.
   - `kangaroo-mother-care`: Edgar Rey Sanabria established kangaroo care in 1978 in response to overcrowding and lack of resources; WHO Sasakawa Health Prize 1991.
+
+- NIH Office of Technology Transfer. Havrix: waging war against a common enemy. Case study (2002).  
+  <https://www.techtransfer.nih.gov/sites/default/files/documents/pdfs/HavrixCS.pdf>  
+  Type: institution.
+  - `hepatitis-a-vaccines`: Strain HM-175; development in Robert Purcell's NIAID laboratory; involvement of the NIH, US Army and CDC.
 
 - NIH Record (26 January 1999). NLM exhibit commemorates first woman physician (archived).  
   <https://webarchive.library.unt.edu/eot2008/20090116003905/http:/nihrecord.od.nih.gov/newsletters/01_26_99/story04.htm>  
@@ -1061,6 +1321,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `villabruna-dental`: Direct date 14,160–13,820 cal BP; Riparo Villabruna (Sovramonte, Belluno); ante-mortem striations from pointed flint tools; interpretation and limitations.
 
+- Özkan O, Dogan NU, Özkan O, et al. Uterus transplantation: from animal models through the first heart beating pregnancy to the first human live birth. Women's Health 12(4):442–449 (2016).  
+  DOI: [10.1177/1745505716653849](https://doi.org/10.1177/1745505716653849), <https://pmc.ncbi.nlm.nih.gov/articles/PMC5373276>  
+  Type: journal.
+  - `uterus-transplantation`: Deceased-donor uterus transplantation; pregnancy in the Antalya recipient; animal studies preceding human transplants.
+
+- Özkan Ö, et al. The Özkan technique in current use in uterus transplantation. J Clin Med 12(8):2812 (2023).  
+  <https://www.mdpi.com/2077-0383/12/8/2812/htm>  
+  Type: journal.
+  - `uterus-transplantation`: Akdeniz University team performed a surgically successful uterus transplant in 2011.
+
+- Palermo G, Joris H, Devroey P, Van Steirteghem AC. Pregnancies after intracytoplasmic injection of single spermatozoon into an oocyte. Lancet 340(8810):17–8 (1992).  
+  DOI: [10.1016/0140-6736(92)92425-f](https://doi.org/10.1016/0140-6736(92)92425-f), <https://pubmed.ncbi.nlm.nih.gov/1351601/>  
+  Type: journal.
+  - `icsi-brussels`: 47 eggs injected, 31 fertilised, four pregnancies, four healthy babies; publication date 4 July 1992.
+
 - Parks Canada. Cartier-Brébeuf National Historic Site: Wintering (1535–1536).  
   <https://parks.canada.ca/lhn-nhs/qc/cartierbrebeuf/culture/histoire-history/evenement-event/cartier/c>  
   Type: institution.
@@ -1085,6 +1360,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://cen.acs.org/articles/86/i36/Penicillin-Production.html>  
   Type: journal.
   - `penicillin`: Oxford work from 1939; first in vivo demonstration; Pfizer mass production from 1944; Fleming, Florey and Chain shared the 1945 Nobel Prize.
+
+- Photo quiz: Carlo Urbani. Emerging Infectious Diseases 29(9) (2023).  
+  <https://wwwnc.cdc.gov/eid/article/29/9/21-2412_article>  
+  Type: journal.
+  - `urbani-sars-alert`: WHO expert in Hanoi; identified the disease and alerted WHO; isolation and cordoning off of the hospital; call for urgent action with Pascale Brudon on 9 March; died after 19 days in isolation.
 
 - Pierre-Joseph Desault (1744–1795) and the Hôtel-Dieu. Timočki medicinski glasnik (abstract and PDF).  
   <https://tmg.org.rs/v460306e.htm>  
@@ -1161,6 +1441,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: Invention in 1816; diagnoses correlated with autopsy observations; De l'auscultation médiate.
 
+- Rotavirus vaccines and intussusception (review). PubMed Central, PMC12822841.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC12822841>  
+  Type: journal.
+  - `rotavirus-vaccines`: Small increased risk of intussusception after Rotarix and RotaTeq in several countries, within the context of their benefits; large safety trials prompted by RotaShield.
+
 - Royal Australian College of General Practitioners. Position statement: Homeopathy (October 2025).  
   <https://www.racgp.org.au/advocacy/position-statements/view-all-position-statements/clinical-and-practice-management/homeopathy>  
   Type: institution.
@@ -1185,6 +1470,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://makingscience.royalsociety.org/items/clp_12ii_69/paper-the-operation-of-a-hernia-scrotalis-occasioned-by-the-omentum-and-the-apendix-appendix-coeci-perforated-by-a-needle-incrusted-with-chalk-in-its-blunt-end-by-claude-amyand>  
   Type: archive.
   - `amyand-appendicectomy`: Read to the Royal Society on 11 December 1735 and published in Philosophical Transactions; a stone-encrusted pin found in the gut.
+
+- Ryan J. A fallen hero. Viet Nam News.  
+  <https://vietnamnews.vn/opinion/653948/a-fallen-hero.html>  
+  Type: journal.
+  - `urbani-sars-alert`: Urbani died on 29 March 2003; Viet Nam's response depended on resolute government action and on Urbani tracing the businessman's movements back to Guangdong province.
 
 - Saving lives, not sacrificing them: the inevitable clash between medical research and the protection of medical subjects (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3684307/>  
@@ -1236,6 +1526,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `semmelweis-handwashing`: Handwashing reduced mortality; cessation after Semmelweis left Vienna in 1850 associated with increased mortality.
 
+- Seven years of intracytoplasmic sperm injection and follow-up (Brussels Centres for Reproductive Medicine and Medical Genetics). Human Reproduction.  
+  <https://typeset.io/pdf/seven-years-of-intracytoplasmic-sperm-injection-and-follow-5dv6h0b4ri.pdf>  
+  Type: journal.
+  - `icsi-brussels`: ICSI first successful in 1992 and widely accepted for severe male-factor infertility; follow-up of children for genetic and malformation outcomes.
+
 - Severinghaus JW. Fire-air and dephlogistication: revisionisms of oxygen's discovery. Advances in Experimental Medicine and Biology 2003;543:7–19 (abstract).  
   <https://www.general-anaesthesia.com/oxygen.htm>  
   Type: journal.
@@ -1246,10 +1541,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `cade-lithium`: Bundoora Repatriation Hospital, Melbourne; 10 patients treated with lithium citrate and carbonate; earlier 19th-century use forgotten; Schou's randomised placebo trial published 1954; US approval 1970 as the 50th country.
 
+- Shot@Life. History of the rotavirus vaccine.  
+  <https://shotatlife.org/?p=39319>  
+  Type: institution.
+  - `rotavirus-vaccines`: RotaShield licensed 1998 and withdrawn 1999; RotaTeq developed by Clark, Plotkin and Offit; oral drops.
+
+- Shouval D. The history of hepatitis A. Clinical Liver Disease 16(Suppl 1):12–23 (2020).  
+  DOI: [10.1002/cld.1018](https://doi.org/10.1002/cld.1018), <https://pmc.ncbi.nlm.nih.gov/articles/PMC7538924>  
+  Type: journal.
+  - `hepatitis-a-vaccines`: Inactivated vaccines licensed in 1991 (Europe) and 1995 (United States); live attenuated vaccine available in China since 1992; virus identified by electron microscopy at the NIH.
+
 - Smallpox vaccines for biodefense: need and feasibility (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9709930/>  
   Type: journal.
   - `jenner-cowpox-vaccination`: History of vaccination dated from the 1798 publication of Jenner's experiments; Jenner the first to study the hypothesis systematically.
+
+- Song JJ, Guyette JP, Gilpin SE, Gonzalez G, Vacanti JP, Ott HC. Regeneration and experimental orthotopic transplantation of a bioengineered kidney. Nat Med 19(5):646–651 (2013).  
+  DOI: [10.1038/nm.3154](https://doi.org/10.1038/nm.3154), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3650107>  
+  Type: journal.
+  - `bioengineered-organs`: Perfusion decellularisation of rat kidneys; regenerated grafts transplanted in rats were perfused by the recipient's circulation and produced urine; Massachusetts General Hospital.
 
 - Spinal cord injury: past, present, and future (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2031949/>  
@@ -1271,6 +1581,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `kangaroo-mother-care`: Developed in 1978 in Bogotá; skin-to-skin contact, exclusive breastfeeding and follow-up; WHO recommends KMC for clinically stable newborns of 2,000 g or less.
 
+- Stronks HC, Dagnelie G. The functional performance of the Argus II retinal prosthesis. Expert Rev Med Devices 11(1):23–30 (2014).  
+  DOI: [10.1586/17434440.2014.862494](https://doi.org/10.1586/17434440.2014.862494), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652>  
+  Type: journal.
+  - `argus-ii-retinal-prosthesis`: First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa.
+
 - Sutton G. James Lind aboard Salisbury. JLL Bulletin: Commentaries on the history of treatment evaluation, 2004.  
   <https://www.jameslindlibrary.org/articles/james-lind-aboard-salisbury/>  
   Type: journal.
@@ -1281,6 +1596,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lind-scurvy-trial`: Experiment at sea between 20 May and 17 June 1747; ship returned to Plymouth in June; Navy introduced citrus rations in 1795; muster roll discrepancies.
 
+- Takebe T, Sekine K, Enomura M, et al. Vascularized and functional human liver from an iPSC-derived organ bud transplant. Nature 499:481–484 (2013).  
+  DOI: [10.1038/nature12271](https://doi.org/10.1038/nature12271), <https://pubmed.ncbi.nlm.nih.gov/23823721/>  
+  Type: journal.
+  - `bioengineered-organs`: Liver buds from human iPSCs; vessels connected within 48 hours; rescued a drug-induced lethal liver failure model.
+
 - Tarrago RE. The Balmis–Salvany smallpox expedition: the first public health vaccination campaign in South America. Pan American Health Organization.  
   <https://www3.paho.org/english/dd/pin/Number11_article6.htm>  
   Type: institution.
@@ -1290,6 +1610,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.technologystories.org/wp-content/uploads/2015/04/Wright_article.pdf>  
   Type: institution.
   - `davy-nitrous-oxide`: Beddoes opened the Pneumatic Institution in Clifton in 1798; Davy joined in October 1798; 580-page book published in summer 1800; Wells's nitrous oxide demonstration at MGH in January 1845 failed because the gas gave too light an unconsciousness.
+
+- Tel Aviv University. TAU scientists print first ever 3D heart using patient's own cells (16 April 2019).  
+  <https://english.tau.ac.il/node/2442>  
+  Type: university.
+  - `bioengineered-organs`: Engineered heart with cells, blood vessels, ventricles and chambers; made from a biopsy of patients' fatty tissue; size of a rabbit's heart; led by Tal Dvir.
 
 - Thank you, Edward. Merci, Louis. (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4713079/>  
@@ -1341,10 +1666,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `shipp-obstetrics-school-utah`: Diary entry of 14 March 1878 recording her graduation; in the autumn of 1878 she opened her School of Obstetrics and Nursing.
 
+- The history of time for capsule endoscopy. Annals of Translational Medicine.  
+  <https://atm.amegroups.org/article/view/14507/html>  
+  Type: journal.
+  - `capsule-endoscopy`: Given Imaging founded in 1998; Swain first to swallow the capsule, October 1999.
+
 - The human, societal, and scientific legacy of cholera (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC324550/>  
   Type: journal.
   - `ors-oral-rehydration`: 1960–1970 research in Dhaka and Calcutta; 1978 Lancet editorial 'Water with sugar and salt'.
+
+- The hunger hormone? Science News.  
+  <https://www.sciencenews.org/?p=27931>  
+  Type: journal.
+  - `ghrelin-discovered`: Kangawa's group in Osaka identified the natural signal in 1999; origin of the name ghrelin; appetite-stimulating role.
 
 - The Lister Lecture, 1964: wound sepsis, from carbolic acid to hyperbaric oxygen (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1928284/>  
@@ -1441,10 +1776,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `insulin-toronto`: Macleod's view that early presentations had not proved an internal secretion more definitely than previous investigators.
 
+- Thomson JA, Itskovitz-Eldor J, Shapiro SS, et al. Embryonic stem cell lines derived from human blastocysts. Science 282(5391):1145–1147 (1998).  
+  <https://courses.grainger.illinois.edu/bioe476/fa2019/paper%20readings/thomson_science_1998.pdf>  
+  Type: journal.
+  - `human-embryonic-stem-cells`: Pluripotent cell lines from human blastocysts with normal karyotypes and high telomerase; tissues of all three germ layers; University of Wisconsin affiliations.
+
 - Tognotti E. Lessons from the history of quarantine, from plague to influenza A. Emerging Infectious Diseases 2013;19(2):254–259.  
   DOI: [10.3201/eid1902.120312](https://doi.org/10.3201/eid1902.120312), <https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article>  
   Type: journal.
   - `ragusa-quarantine`: Quarantine first introduced in 1377 in Dubrovnik; first permanent lazaretto opened by Venice in 1423; social and ethical issues.
+
+- Translational Research Institute (Brisbane). Cervical cancer vaccine: Ian Frazer and Jian Zhou.  
+  <https://tri.edu.au/node/4597>  
+  Type: institution.
+  - `hpv-vaccine`: Zhou died in 1999; virus-like particles self-assembling from HPV surface proteins; technology licensed in 1995 through CSL to Merck.
 
 - Trudel M. Donnacona. Dictionary of Canadian Biography, vol. 1. University of Toronto/Université Laval.  
   <https://www.biographi.ca/en/bio/177>  
@@ -1495,6 +1840,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://health.uct.ac.za/cardiothoracic-surgery/historical/first-human-heart-transplant>  
   Type: university.
   - `first-heart-transplant`: Accident outside a bakery in Observatory; 25-year-old daughter declared brain dead; new heart shocked into action just before 6 a.m. on 3 December 1967 in Louis Washkansky.
+
+- University of Edinburgh. REF impact case study: Dolly the sheep, the first cloned mammal and a public icon for regenerative medicine.  
+  <https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=23870>  
+  Type: university.
+  - `dolly-cloned-sheep`: Born 5 July 1996; first cloning from an adult mammalian somatic cell by somatic cell nuclear transfer; led by Ian Wilmut; stepping stone between Gurdon's work and Yamanaka's induced pluripotent stem cells; ethical debate.
 
 - University of Iowa, John Martin Rare Book Room (HEIRS). Davy H. Researches, chemical and philosophical, chiefly concerning nitrous oxide. Bristol: Biggs & Cottle, 1800.  
   <https://heirs.lib.uiowa.edu/record.php?id=1338.5>  
@@ -1571,6 +1921,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `shipp-obstetrics-school-utah`: One of Utah's first female doctors; established a school of obstetrics and nursing (1878/1879) that trained five hundred women as licensed midwives; delivered more than 5,000 children.
 
+- Van Steirteghem A, quoted in: Celebrating ICSI's twentieth anniversary (summary of Human Reproduction editorial).  
+  <https://www.inviafertility.com/blog/blog/conception/drvkarande/celebrating-icsis-twentieth-anniversary-and-the-birth-of-more-than-2-5-million-children/>  
+  Type: institution.
+  - `icsi-brussels`: Centre for Reproductive Medicine at UZ Brussel; pregnancy in April 1991 after a single ICSI embryo; delivery on 14 January 1992; shift from SUZI to ICSI.
+
 - von Behring E, Kitasato S. Ueber das Zustandekommen der Diphtherie-Immunität und der Tetanus-Immunität bei Thieren. Deutsche Medizinische Wochenschrift 1890;16(49):1113–1114 (as cited in PubMed Central reviews). (pp. 1113–1114)  
   DOI: [10.1055/s-0029-1207589](https://doi.org/10.1055/s-0029-1207589), <https://pmc.ncbi.nlm.nih.gov/articles/PMC7151993/>  
   Type: primary.
@@ -1621,10 +1976,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `alma-ata-declaration`: Declaration embraced 'Health for All by the Year 2000' through comprehensive primary health care; chequered history after 1978.
 
+- Whonamedit? Brugada's syndrome.  
+  <https://www.whonamedit.com/synd.cfm/4048.html>  
+  Type: institution.
+  - `brugada-syndrome`: Martini et al. 1989 described six patients with similar ECG findings and subtle right-ventricular abnormalities; the Brugadas described eight further patients in 1992.
+
 - Withering W. An Account of the Foxglove, and Some of Its Medical Uses: with Practical Remarks on Dropsy, and Other Diseases. Birmingham: M. Swinney; 1785 (Project Gutenberg edition).  
   <https://www.gutenberg.org/ebooks/24886>  
   Type: primary.
   - `withering-foxglove`: Physician to the General Hospital at Birmingham; printed in Birmingham in 1785; about ten years' use; every case mentioned, proper or improper, successful or not.
+
+- Woman gets 3D printed skull from UMC. NL Times, 26 March 2014.  
+  <https://nltimes.nl/2014/03/26/woman-gets-3d-printed-skull-umc>  
+  Type: journal.
+  - `3d-printed-skull-implant`: UMC Utrecht; 22-year-old woman; skull thickening; surgeon Bon Verweij; plastic implant made with a 3D printer; previous partial skull replacements; announcement delayed several months.
 
 - Wood Library-Museum of Anesthesiology. Ether.  
   <https://www.woodlibrarymuseum.org/museum/ether/>  
@@ -1691,10 +2056,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `rts-s-malaria-vaccine`: Recommendation for broad use among children in sub-Saharan Africa and other moderate-to-high transmission regions; pilot in Ghana, Kenya and Malawi since 2019.
 
+- World Health Organization. WHO remembers Dr Carlo Urbani as a hero who fought SARS (2018).  
+  <https://www.who.int/news/item/28-03-2018-who-remembers-dr-carlo-urbani-as-a-hero-who-fought-sars>  
+  Type: institution.
+  - `urbani-sars-alert`: Responded to a request from the French Hospital in Hanoi; developed symptoms on 11 March 2003 on a flight to Bangkok; died 29 March 2003.
+
 - World Health Organization. World Malaria Day 2022.  
   <https://www.who.int/campaigns/world-malaria-day/2022>  
   Type: institution.
   - `rts-s-malaria-vaccine`: First vaccine recommended against a human parasitic disease of any kind; reduces deadly severe malaria.
+
+- World's first full-face transplant. Indian Transplant Newsletter 9(29) (2010).  
+  <https://www.itnnews.co.in/article-print.asp?id=647>  
+  Type: journal.
+  - `face-transplants`: First full-face transplant at Vall d'Hebron Hospital, Barcelona, March 2010, led by Joan Pere Barret.
+
+- Wu K. 'Embryonic stem cell lines derived from human blastocysts' (1998), by James Thomson. Embryo Project Encyclopedia.  
+  <https://embryo.asu.edu/pages/embryonic-stem-cell-lines-derived-human-blastocytes-1998-james-thomson>  
+  Type: university.
+  - `human-embryonic-stem-cells`: Embryos donated from IVF; five cell lines from five embryos.
+
+- Wu K. Human embryonic stem cells. Embryo Project Encyclopedia, Arizona State University.  
+  <https://embryo.asu.edu/pages/human-embryonic-stem-cells>  
+  Type: university.
+  - `human-embryonic-stem-cells`: Two independent publications in November 1998 (Thomson; Gearhart); ethical concerns about destroying blastocysts; divided opinion.
 
 - Wujastyk D, Birch J, Klebanov A, et al. On the Plastic Surgery of the Ears and Nose: The Nepalese Version of the Suśrutasaṃhitā. Heidelberg Asian Studies Publishing, 2023.  
   DOI: [10.11588/hasp.1203](https://doi.org/10.11588/hasp.1203), <https://soas-repository.worktribe.com/OutputFile/453104>  
