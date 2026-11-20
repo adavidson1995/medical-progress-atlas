@@ -773,5 +773,685 @@
       "mehrgarh-dental",
       "snow-broad-street"
     ]
+  },
+  {
+    "id": "otzi-birch-fungus",
+    "title": "Ötzi the Iceman carried a medicinal fungus",
+    "summary": "Ötzi, a man who died in the Alps around 3300 BCE, carried two pieces of birch polypore fungus strung on a leather thong. His gut contained whipworm eggs, and some researchers argue he used the fungus, which has antibacterial and anti-parasite properties, as medicine.",
+    "explanation": "Ötzi's body was found in 1991 in a glacier on the border between Austria and Italy, preserved with his clothing and equipment. Examination showed that he had been infected with whipworm, an intestinal parasite, as well as other ailments.\n\nAmong his belongings were two fragments of the birch polypore (Fomitopsis betulina), pierced and threaded on a strip of leather. In 1998 the palaeopathologist Luigi Capasso suggested in The Lancet that Ötzi used it as a natural laxative and antibiotic, perhaps against the worms. The fungus has a long history in European folk medicine, and laboratory studies have found antibacterial and anti-inflammatory compounds in it.",
+    "date": {
+      "start": -3350,
+      "end": -3100,
+      "display": "c. 3350–3100 BCE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "century",
+      "basis": "Radiocarbon dating of the body."
+    },
+    "type": "practice",
+    "evidence": [
+      "archaeological"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "prehistoric medicine",
+      "medicinal fungi",
+      "parasites"
+    ],
+    "locations": [
+      {
+        "name": "Tisenjoch, Ötztal Alps",
+        "modern": "South Tyrol, Italy (Austrian border)",
+        "lat": 46.78,
+        "lon": 10.84,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ötzi",
+        "role": "The man found in the ice"
+      },
+      {
+        "name": "Luigi Capasso",
+        "role": "Palaeopathologist who proposed the medicinal interpretation"
+      }
+    ],
+    "whatChanged": "It offers a possible glimpse of a prehistoric person carrying a natural remedy for his own ailments.",
+    "whyItMattered": "Ötzi's equipment is among the oldest direct evidence that people may have carried medicines with them.",
+    "limitations": [
+      "There is no direct evidence of how Ötzi used the fungus; other purposes are possible.",
+      "Fungi with medicinal properties may have been used much earlier, but such evidence rarely survives."
+    ],
+    "contested": "Whether the fungus was medicine is debated: some researchers see a 'medicine kit', while others doubt that it was used for treatment at all.",
+    "sources": [
+      {
+        "citation": "Life and diseases of the Neolithic glacier mummy 'Ötzi'. Springer living reference work (2020).",
+        "url": "https://link.springer.com/content/pdf/10.1007/978-981-15-1614-6_19-1.pdf",
+        "kind": "book",
+        "supports": "Dated to c. 3350–3100 BCE; infected with whipworm (Trichuris trichiura); references to Capasso L, Lancet 352:1864 (1998), 'the Ice Man used natural laxatives and antibiotics'."
+      },
+      {
+        "citation": "Pleszczyńska M, et al. Fomitopsis betulina (formerly Piptoporus betulinus): the Iceman's polypore fungus with modern biotechnological potential. World J Microbiol Biotechnol (2017).",
+        "url": "https://distantreader.org/stacks/cord/cord-0002650-ugpc7fow.txt",
+        "kind": "journal",
+        "supports": "Ötzi, who lived 5,300 years ago, carried two fragments of F. betulina; some scientists believe he used it medically (Capasso 1998), though the idea is controversial (Pöder 2005); long tradition of folk-medicine use."
+      },
+      {
+        "citation": "Nature's first aid kit: a fungus growing on the side of birch trees. The Conversation (2019).",
+        "url": "https://theconversation.com/natures-first-aid-kit-a-fungus-growing-on-the-side-of-birch-trees-117290",
+        "kind": "journal",
+        "supports": "Hikers found Ötzi in an alpine glacier on the Austrian–Italian border in 1991; pieces of fungus on leather cords; the scientists who identified it speculated about medical use."
+      },
+      {
+        "citation": "Hunt P. Ötzi the Iceman's putative 'medicine kit'. Electrum Magazine (2019).",
+        "url": "https://www.electrummagazine.com/2019/06/otzi-the-icemans-medicine-kit-included-sloe-berries-prunus-spinosa/",
+        "kind": "journal",
+        "supports": "The scientific community is not unanimous in considering the items a deliberate medical kit; possible medical issues including whipworm."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "egyptian-specialist-physicians",
+    "title": "Specialist physicians at the Egyptian royal court",
+    "summary": "Inscriptions from Egypt's Old Kingdom give physicians specialised titles. Iry, a Sixth Dynasty court doctor (c. 2300 BCE), was physician of the eyes and of the belly and 'shepherd of the king's rectum'. Two thousand years later Herodotus wrote that every Egyptian physician treated a single disease.",
+    "explanation": "Egyptian physicians (swnw) held ranked titles, and some were associated with particular parts of the body. Iry's inscriptions describe him as senior physician of the palace, physician of the eyes and of the belly, and guardian of the royal rectum, a role that included giving enemas to the king.\n\nA study of known Egyptian physicians found that 12 of 42 from the Old Kingdom held titles indicating a speciality, and some claimed several. When Herodotus visited Egypt in the fifth century BCE he reported that medicine was divided so that each physician treated one disorder only, although historians treat this claim with caution.",
+    "date": {
+      "start": -2300,
+      "end": -2300,
+      "display": "c. 2300 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "Iry served under the Sixth Dynasty (c. 2345–2181 BCE); Herodotus wrote in the fifth century BCE."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "Egyptian medicine",
+      "medical profession"
+    ],
+    "locations": [
+      {
+        "name": "Giza",
+        "modern": "Giza, Egypt",
+        "lat": 29.98,
+        "lon": 31.13,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "locationNote": "Mapped to Giza, where a door inscribed with the titles of a physician of this kind was found.",
+    "people": [
+      {
+        "name": "Iry",
+        "role": "Court physician"
+      },
+      {
+        "name": "Herodotus",
+        "role": "Greek historian who described Egyptian medicine"
+      }
+    ],
+    "whatChanged": "Medical work was divided among practitioners with recognised areas of expertise.",
+    "whyItMattered": "Egypt offers some of the earliest evidence of an organised medical profession with specialists.",
+    "limitations": [
+      "Titles may describe court roles rather than specialist training in the modern sense.",
+      "Herodotus visited about two thousand years later, and his claim that each doctor treated only one disease is exaggerated: many physicians held several titles."
+    ],
+    "sources": [
+      {
+        "citation": "Fischer H. Pharaoh's proctologist: the Shepherd of the Rectum. Hektoen International (2023).",
+        "url": "https://hekint.org/2023/09/28/pharaohs-proctologist-the-shepherd-of-the-rectum/",
+        "kind": "journal",
+        "supports": "The physician (swnw) was typically a specialist; in the Sixth Dynasty (2345–2181 BC) Iry was awarded the title 'Shepherd of the King's Rectum'; enemas given to the pharaoh; Scholtz on Iry as an early eye doctor."
+      },
+      {
+        "citation": "Early specialization in ancient Egyptian medicine and its possible relation to an archetypal image of the human organism. Medical History (Cambridge Core).",
+        "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/78332FDED46968C17FA65F356BE945D9/S0025727300014812a.pdf/early-specialization-in-ancient-egyptian-medicine-and-its-possible-relation-to-an-archetypal-image-of-the-human-organism.pdf",
+        "kind": "journal",
+        "supports": "Old Kingdom: 42 known physicians, 12 with specialist titles, 3 with more than one; Herodotus's statement that each physician treats a single disorder should be treated with suspicion."
+      },
+      {
+        "citation": "Ancient Egyptian pharaohs had a Shepherd of the Royal Anus. Ancient Origins.",
+        "url": "https://www.ancient-origins.net/weird-facts/shepherd-anus-0017177",
+        "kind": "journal",
+        "supports": "Inscriptions describing a senior physician of the great house, physician of the belly, physician of the eyes and protector of the anus; Irynachet's titles found on a door at a Giza shaft tomb."
+      },
+      {
+        "citation": "Hafez SM. Titles of dentists in ancient Egypt. Journal of Tourism, Hotels and Heritage.",
+        "url": "https://sjs.journals.ekb.eg/article_272479_ca2f1c5469d4873b2b03232f459d8ac6.pdf",
+        "kind": "journal",
+        "supports": "Herodotus wrote that the practice of medicine was so divided that each physician was a healer of one disease; specialist titles for dentists."
+      }
+    ],
+    "related": [
+      "edwin-smith-papyrus",
+      "sais-house-of-life"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "nineveh-medical-encyclopaedia",
+    "title": "The Nineveh Medical Encyclopaedia in Ashurbanipal's library",
+    "summary": "In the seventh century BCE scholars of the Assyrian king Ashurbanipal assembled at Nineveh a structured medical handbook of about fifty tablets, arranged in treatises from head to foot, with thousands of symptoms and prescriptions drawn from older Babylonian tradition.",
+    "explanation": "Mesopotamian medicine had been written down for more than a thousand years, and Ashurbanipal, who reigned from 669 to about 630 BCE, set out to collect all scholarly knowledge in his library. His scholars edited existing medical texts into new standard editions and arranged them, according to a surviving ancient catalogue, into a series of twelve treatises.\n\nThe tablets were broken when Nineveh was sacked in 612 BCE and lay buried until excavated in the nineteenth century; many are now in the British Museum. Only recently have researchers reconstructed the whole encyclopaedia from its fragments.",
+    "date": {
+      "start": -669,
+      "end": -631,
+      "display": "c. 669–631 BCE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Compiled during the reign of Ashurbanipal."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "Mesopotamian medicine",
+      "medical texts"
+    ],
+    "locations": [
+      {
+        "name": "Library of Ashurbanipal, Nineveh",
+        "modern": "Mosul, Iraq",
+        "lat": 36.36,
+        "lon": 43.15,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "text-origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ashurbanipal",
+        "role": "King of Assyria"
+      }
+    ],
+    "whatChanged": "Medical knowledge was gathered into a single systematic, organised reference work.",
+    "whyItMattered": "It is described as the most standardised and systematic body of medical writing known before Galen.",
+    "limitations": [
+      "It drew on earlier Babylonian texts; much of its content is older than the library.",
+      "Remedies were combined with incantations and ritual."
+    ],
+    "sources": [
+      {
+        "citation": "British Museum blog. Ancient healthcare fit for a king.",
+        "url": "https://www.britishmuseum.org/blog/ancient-healthcare-fit-king",
+        "kind": "museum",
+        "supports": "A 2,600-year-old handbook with thousands of descriptions of diseases and symptoms and prescriptions; compiled in the library of Ashurbanipal; made up of 12 sections."
+      },
+      {
+        "citation": "Wellcome. Introducing Assyrian medicine: healthcare fit for a king (2019 award).",
+        "url": "https://wellcome.org/research-funding/funding-portfolio/funded-grants/introducing-assyrian-medicine-healthcare-fit-king",
+        "kind": "institution",
+        "supports": "The world's most standardised, structured and systematised corpus of pre-Galenic medical literature; from the library of Ashurbanipal (669–c. 630 BCE); existence recognised only recently through a reconstructed ancient catalogue."
+      },
+      {
+        "citation": "UCL. Introducing Assyrian Medicine: healthcare fit for a king.",
+        "url": "https://www.ucl.ac.uk/arts-humanities/hebrew-jewish/research/research-projects/introducing-assyrian-medicine-healthcare-fit-king",
+        "kind": "university",
+        "supports": "Tablets broken into fragments during the sack of Nineveh in 612 BC; seventh-century BCE Royal Library of Ashurbanipal."
+      },
+      {
+        "citation": "Simkó K. Weaving together loose threads: on the serialisation of the therapeutic corpus at Nineveh. KASKAL (2024).",
+        "url": "https://edizionicafoscari.it/media/pdf/article/kaskal/2024/1/art-10.30687-KASKAL-5235-1939-2024-01-018_0WiBqiS.pdf",
+        "kind": "journal",
+        "supports": "Editorial steps producing new standard editions of the therapeutic texts for the library; 'Babylonian group' of tablets."
+      },
+      {
+        "citation": "McIntosh MA. Reconstructing the Nineveh Medical Encyclopedia. Brewminate.",
+        "url": "https://brewminate.com/reconstructing-the-nineveh-medical-encyclopedia-and-its-place-in-ancient-near-eastern-healing/",
+        "kind": "journal",
+        "supports": "Roughly fifty tablets with over 10,000 lines arranged into twelve treatises from scalp to sole; fragments joined in the British Museum and other collections."
+      }
+    ],
+    "related": [
+      "babylonian-diagnostic-handbook"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hammurabi-medical-laws",
+    "title": "Hammurabi's laws set surgeons' fees and penalties",
+    "summary": "The law code of Hammurabi, king of Babylon around 1755 BCE, fixed what a physician could charge for a successful operation with a bronze lancet, according to the patient's status, and decreed that a surgeon whose operation killed a free man should lose his hand.",
+    "explanation": "Among the code's 282 laws, a group from §215 deals with healers. A physician who saved a free man's life by a major operation, or saved his eye by opening it with a bronze lancet, received ten shekels of silver; less was paid for a commoner or a slave. Setting a broken bone earned five shekels from a free man.\n\nIf the operation killed a free man or destroyed his eye, the physician's hand was to be cut off; if a slave died, he had to replace the slave.",
+    "date": {
+      "start": -1755,
+      "end": -1755,
+      "display": "c. 1755 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Hammurabi reigned c. 1792–1750 BCE; the code dates from late in his reign."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "Mesopotamian medicine",
+      "medical law and ethics"
+    ],
+    "locations": [
+      {
+        "name": "Babylon",
+        "modern": "Hillah, Babil Governorate, Iraq",
+        "lat": 32.54,
+        "lon": 44.42,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "text-origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Hammurabi",
+        "role": "King of Babylon"
+      }
+    ],
+    "whatChanged": "Medical treatment was regulated by law, with fixed fees and penalties for harm.",
+    "whyItMattered": "It is among the earliest known legal rules on medical fees and liability for harm to patients.",
+    "limitations": [
+      "The laws show how surgery was regulated, not how often operations were done or how they were performed.",
+      "Penalties and fees depended on social class, so patients were not treated equally."
+    ],
+    "sources": [
+      {
+        "citation": "NinMed (ORACC, University of Pennsylvania). Surgery: information from texts, quoting Roth 1995.",
+        "url": "https://oracc.museum.upenn.edu/asbp/ninmed/surgery/informationfromtexts/index.html",
+        "kind": "university",
+        "supports": "§215: a physician who heals a person after a serious wound with a bronze lancet, or saves an eye, takes 10 shekels; §218: if he causes death or blinds the eye, they shall cut off his hand; patients paid healers."
+      },
+      {
+        "citation": "Document 1.1: Hammurabi's laws for physicians. Bedford/St Martin's (Hunt, The Making of the West).",
+        "url": "https://digfir-published.macmillanusa.com/hunt5e/hunt5e_ch01_31.html",
+        "kind": "book",
+        "supports": "In Hammurabi's 282 laws, fees for successful operations and punishment for errors; law 218, cutting off the hand."
+      },
+      {
+        "citation": "Managed Care magazine. Here are sections of the code and the fees prescribed.",
+        "url": "https://www.managedcaremag.com/?p=14571",
+        "kind": "journal",
+        "supports": "§§215–217 fees of 10 shekels for a gentleman; §§221–223 five shekels for setting a broken bone, three for a commoner."
+      },
+      {
+        "citation": "University of Pittsburgh lecture notes. Hammurabi's code of laws, c. 1780 BC.",
+        "url": "https://sites.pitt.edu/~super1/lecture/lec37791/040.htm",
+        "kind": "university",
+        "supports": "Hammurabi's code as a source for surgery; the profitable and dangerous side of surgery."
+      },
+      {
+        "citation": "Center for Online Judaic Studies. The Code of Hammurabi, c. 1760 BCE.",
+        "url": "https://cojs.org/?p=7907",
+        "kind": "institution",
+        "supports": "Dating of the code; a collection of reform laws."
+      },
+      {
+        "citation": "EDSITEment (NEH). Medicine in Babylonia activity sheet.",
+        "url": "https://webarchive.library.unt.edu/web/20090511171859/http://edsitement.neh.gov/lesson_images/lesson633/Activity4_G01.pdf",
+        "kind": "institution",
+        "supports": "A surgeon's compensation and liability were determined by status; replacing a slave who died."
+      }
+    ],
+    "related": [
+      "babylonian-diagnostic-handbook"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "ebers-papyrus",
+    "title": "The Ebers Papyrus and Egypt's other medical papyri",
+    "summary": "The Ebers Papyrus, a 20-metre scroll written in Egypt around 1550 BCE, is the most extensive surviving record of ancient Egyptian medicine. It gathers some 700 remedies and spells and a treatise on the heart and its vessels. Other papyri, such as the Hearst, London and Berlin papyri, preserve related texts.",
+    "explanation": "The scroll's 110 pages hold some 700 magical formulas and folk remedies, for complaints ranging from crocodile bites to toenail pain, as well as a treatise on the heart and its vessels and a chapter on disorders such as depression. A calendar on the back mentions the ninth year of King Amenhotep I. It was reportedly found in a tomb in the Assasif area of the Theban necropolis and was bought by the Egyptologist Georg Ebers, who published it in 1875.\n\nLater medical papyri overlap with it: the Hearst Papyrus from the reign of Thutmose III; the London Medical Papyrus, dated to Tutankhamun's reign; and the Berlin or Brugsch Papyrus of about 1300 BCE.",
+    "date": {
+      "start": -1550,
+      "end": -1550,
+      "display": "c. 1550 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Dated by a calendar referring to year 9 of Amenhotep I; the other papyri date from c. 1450 to 1300 BCE."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "mechanisms",
+      "diagnosis"
+    ],
+    "themes": [
+      "Egyptian medicine",
+      "medical texts",
+      "pharmacy"
+    ],
+    "locations": [
+      {
+        "name": "Theban necropolis (Assasif)",
+        "modern": "Luxor, Egypt",
+        "lat": 25.73,
+        "lon": 32.61,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "text-origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Georg Ebers",
+        "role": "Egyptologist who bought and published the papyrus"
+      },
+      {
+        "name": "Edwin Smith",
+        "role": "American dealer in Luxor who owned it first"
+      }
+    ],
+    "whatChanged": "It preserves the fullest picture of how Egyptian doctors understood and treated disease.",
+    "whyItMattered": "The Egyptian medical papyri are among the oldest medical books to survive, giving a detailed picture of a medical tradition that combined practical remedies with magic.",
+    "limitations": [
+      "It is believed to be copied from earlier texts, so its contents are older than the scroll.",
+      "Its circumstances of discovery rest on a dealer's account and are uncertain."
+    ],
+    "sources": [
+      {
+        "citation": "Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache (Saxon Academy of Sciences, Leipzig). Papyrus Edwin Smith: metadata and provenance.",
+        "url": "https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith",
+        "kind": "university",
+        "supports": "The Ebers papyrus's find spot unknown, but the seller told Ebers it came from a tomb in the Assasif, in a coffin between the legs of a mummy; Edwin Smith in Luxor."
+      },
+      {
+        "citation": "Saxon Academy of Sciences, Leipzig. Papyrus Edwin Smith (version 34).",
+        "url": "https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith?version=34",
+        "kind": "university",
+        "supports": "The Ebers papyrus contains a calendar from year 9 of Amenhotep I; both papyri likely from the Theban necropolis."
+      },
+      {
+        "citation": "Whonamedit? A dictionary of medical eponyms. Ebers' papyrus.",
+        "url": "https://www.whonamedit.com/synd.cfm/443.html",
+        "kind": "institution",
+        "supports": "About 1552 BC; 20.23 m long and 30 cm high; 110 pages with 700 magical formulas and folk remedies; description of the heart as centre of the blood supply with vessels; now in the University of Leipzig library; Ebers and Stern's 1875 facsimile."
+      },
+      {
+        "citation": "HistoryofInformation.com. The Ebers Papyrus, the most extensive record of ancient Egyptian medicine.",
+        "url": "https://historyofinformation.com/detail.php?entryid=1657",
+        "kind": "book",
+        "supports": "110 pages in hieratic; a chapter on mental disorders; Edwin Smith bought it in 1862; said to have been found in the Assasif district of the Theban necropolis; purchased by Georg Ebers and kept in Leipzig."
+      },
+      {
+        "citation": "Savona-Ventura C. Ancient Egyptian medicine part IV: medical papyri. University of Malta (CME30).",
+        "url": "https://cme30.eu/ancient-egyptian-medicine-part-iv-medical-papyri/",
+        "kind": "university",
+        "supports": "Hearst Papyrus given to the University of California expedition in 1901; Berlin Papyrus acquired by Passalacqua at Saqqara; London Medical Papyrus in the British Museum, dated to the reign of Tutankhamun."
+      },
+      {
+        "citation": "Garrison–Morton. Egyptian medical papyri (subject listing).",
+        "url": "https://historyofmedicine.com/subject?id=1008",
+        "kind": "book",
+        "supports": "The Ebers Papyrus dates from about 1552 BCE and, with the Edwin Smith Papyrus, is one of the two most important; the Greater Berlin (Brugsch) Papyrus dates from about 1300 BCE; Reisner's 1905 edition of the Hearst Papyrus."
+      }
+    ],
+    "related": [
+      "edwin-smith-papyrus",
+      "kahun-gynaecological-papyrus"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "thera-saffron-frescoes",
+    "title": "Saffron frescoes at Akrotiri on Thera",
+    "summary": "Wall paintings in the building called Xeste 3 at Akrotiri, a Bronze Age town on Thera (Santorini) buried by a volcanic eruption around 1600 BCE, show women gathering saffron crocus flowers and offering them to a goddess. Some scholars interpret them as the earliest images of a medicinal plant being prepared.",
+    "explanation": "The frescoes show girls and women picking crocuses in a rocky landscape and bringing them in baskets to a seated goddess, flanked by a griffin and a monkey. Xeste 3 was a large, richly decorated building, probably used for rituals.\n\nIn 2004 the art historian Susan Ferrence and the cardiologist Gordon Bendersky argued that the scenes depict the stages of producing saffron as a drug and show a goddess of healing. Saffron was later used in medicine, appearing in the Ebers Papyrus and in Dioscorides' first-century herbal.",
+    "date": {
+      "start": -1600,
+      "end": -1600,
+      "display": "c. 1600 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "century",
+      "basis": "The town flourished around 1600 BCE before it was buried by the eruption of Thera."
+    },
+    "type": "practice",
+    "evidence": [
+      "archaeological"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "medicinal plants",
+      "Bronze Age Aegean"
+    ],
+    "locations": [
+      {
+        "name": "Xeste 3, Akrotiri",
+        "modern": "Santorini, Greece",
+        "lat": 36.35,
+        "lon": 25.4,
+        "radiusKm": 2,
+        "precision": "site",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Susan Ferrence and Gordon Bendersky",
+        "role": "Researchers who proposed the medicinal interpretation"
+      }
+    ],
+    "whatChanged": "If the interpretation is right, the frescoes show a plant being gathered and processed for its healing value.",
+    "whyItMattered": "They are cited as possible early visual evidence for the medicinal use of plants in the Mediterranean.",
+    "limitations": [
+      "Earlier studies of the frescoes relied mainly on the images themselves, which can support several readings.",
+      "Saffron was also valued as a dye, food and ritual offering."
+    ],
+    "contested": "Whether the frescoes show medicine is disputed: they have also been read as scenes of ritual and fertility, or of perfume and spice production.",
+    "sources": [
+      {
+        "citation": "Day J. Crocuses in context: a diachronic survey of the crocus motif in the Aegean Bronze Age. Hesperia 80(3):337 (2011).",
+        "url": "https://ascsa.edu.gr/uploads/media/hesperia/hesperia.80.3.0337.pdf",
+        "kind": "journal",
+        "supports": "Discoveries at Akrotiri in the 1960s added frescoes featuring the crocus; potential medicinal powers and ritual roles debated; Xeste 3 frescoes the sole basis for Ferrence and Bendersky (2004) and others."
+      },
+      {
+        "citation": "Stone Pages archaeology news. Ancient frescoes show early medicinal use of saffron.",
+        "url": "https://www.stonepages.com/news/archives/000602.html",
+        "kind": "journal",
+        "supports": "Frescoes once thought to show perfume or spice production; Ferrence and Bendersky's view that they show stages of saffron production and a goddess of healing."
+      },
+      {
+        "citation": "Saffron: an oxytocic? O&G Magazine (RANZCOG).",
+        "url": "https://www.ogmagazine.org.au/?p=5937",
+        "kind": "journal",
+        "supports": "Xeste 3 frescoes depict women in ritual scenes with Crocus sativus; a goddess flanked by a griffin and a blue monkey; medicinal use of saffron noted in the Ebers Papyrus and by Dioscorides."
+      },
+      {
+        "citation": "Museum of Cycladic Art. The fresco of women from the 'adyton' of Xeste 3, Akrotiri, Thera.",
+        "url": "https://cycladic.gr/en/?p=66243",
+        "kind": "museum",
+        "supports": "Xeste 3 at Akrotiri flourished in 1600 BC; saffron-gatherers collecting crocuses to offer to Potnia, goddess of nature and fertility."
+      }
+    ],
+    "related": [
+      "ebers-papyrus"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "sais-house-of-life",
+    "title": "Udjahorresnet restores the medical 'House of Life' at Sais",
+    "summary": "Around 519 BCE the Persian king Darius I sent the Egyptian chief physician Udjahorresnet back to Egypt to restore the 'House of Life' at Sais, a temple institution where physicians were trained and texts kept. His inscribed statue, now in the Vatican, records the commission.",
+    "explanation": "Udjahorresnet, whose titles included chief physician, treasurer and commander of the king's fleet, served the Persian kings who conquered Egypt in 525 BCE. According to the inscription on his naophorous statue (a figure holding a small shrine), Darius ordered him to return home and restore the houses of life that had fallen into ruin.\n\nOne recent study links the order to Darius's dissatisfaction with Egyptian physicians, who, according to Herodotus, had failed to cure his injured ankle.",
+    "date": {
+      "start": -522,
+      "end": -519,
+      "display": "c. 522–519 BCE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Darius I came to the throne in 522 BCE; the statue was probably made soon after Udjahorresnet's return."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "Egyptian medicine",
+      "medical education"
+    ],
+    "locations": [
+      {
+        "name": "Temple of Neith, Sais",
+        "modern": "Sa el-Hagar, Gharbia, Egypt",
+        "lat": 30.96,
+        "lon": 30.77,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Udjahorresnet",
+        "role": "Chief physician and priest of Neith"
+      },
+      {
+        "name": "Darius I",
+        "role": "King of Persia and Egypt"
+      }
+    ],
+    "whatChanged": "A royal order restored an institution for training physicians and keeping medical texts.",
+    "whyItMattered": "It is one of the clearest records of an ancient state supporting medical education.",
+    "limitations": [
+      "The nature of the House of Life is debated; it was a temple scriptorium and school, not a medical school in the modern sense.",
+      "The statue's provenance is assumed rather than known."
+    ],
+    "sources": [
+      {
+        "citation": "Livius.org. Wedjahor-Resne (Udjahorresnet) and his inscription.",
+        "url": "https://www.livius.org/articles/person/wedjahor-resne/",
+        "kind": "institution",
+        "supports": "Naophoros statue about 70 cm high, brought to Italy by Hadrian, now in the Vatican Museums; Darius allowed him to return and ordered him to supervise the destroyed 'houses of life'; statue probably made soon after his return."
+      },
+      {
+        "citation": "Vatican Museums. The 'Vatican Naophorous'.",
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-egizio/sala-i--reperti-epigrafici/_naoforo-vaticano.html",
+        "kind": "museum",
+        "supports": "Statue of Udjahorresnet, chief physician and commander of the king's fleet, holding a naos; provenance unknown but assumed to be Sais."
+      },
+      {
+        "citation": "Udjahorresnet, Democedes and Darius I: the reform of the House of Life as consequence of the Egyptian physicians' failure to heal the Achaemenid ruler. Journal of the Egyptian Expedition.",
+        "url": "https://egyptianexpedition.org/articles/udjahorresnet-democedes-and-darius-i-the-reform-of-the-house-of-life-as-consequence-of-the-egyptian-physicians-failure-to-heal-the-achaemenid-ruler/",
+        "kind": "journal",
+        "supports": "Comparison of Herodotus III.129–130 with the statue; Darius's dislocated ankle healed by Democedes; the king ordered Udjahorresnet to restore the House of Life at Sais and/or throughout Egypt; 522–519 BCE."
+      }
+    ],
+    "related": [
+      "egyptian-specialist-physicians"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pozzino-medicinal-tablets",
+    "title": "Medicinal tablets survive in a Roman-era shipwreck",
+    "summary": "A ship that sank off Populonia in Tuscany around 140 BCE carried a physician's supplies, including a tin box of flat grey tablets. Chemical analysis published in 2013 showed they were mainly zinc compounds mixed with starch, fats and pine resin, probably an eye medicine.",
+    "explanation": "The Pozzino wreck, found in 1974 in the Gulf of Baratti and excavated in 1989–90, held a small mortar, a bronze cupping vessel, an iron probe, 136 wooden vials and many tin boxes, evidently a medical kit.\n\nResearchers analysed the discoid tablets, each about 4 cm across, and found that the zinc minerals hydrozincite and smithsonite made up most of their mineral content. Pliny the Elder and Dioscorides describe zinc compounds being used for the eyes and skin, and the tablets' shape matches the Latin collyrium, from a Greek word for small round loaves, used for eye remedies.",
+    "date": {
+      "start": -140,
+      "end": -140,
+      "display": "c. 140 BCE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "The wreck is dated to the second century BCE, about 140 BCE."
+    },
+    "type": "practice",
+    "evidence": [
+      "archaeological",
+      "laboratory"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "pharmacy",
+      "Roman medicine"
+    ],
+    "locations": [
+      {
+        "name": "Pozzino shipwreck, Gulf of Baratti",
+        "modern": "Piombino, Tuscany, Italy",
+        "lat": 42.99,
+        "lon": 10.51,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "archaeological-findspot"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gianna Giachi",
+        "role": "Lead author of the 2013 analysis"
+      }
+    ],
+    "whatChanged": "It provides physical evidence of a manufactured medicine in measured, portable doses.",
+    "whyItMattered": "Ancient medicines rarely survive; these tablets let researchers compare ancient recipes with an actual preparation.",
+    "limitations": [
+      "Written recipes for pills and tablets are known from earlier sources; this is a rare surviving example, not the first use.",
+      "How the tablets were used is inferred from their composition and from ancient texts."
+    ],
+    "sources": [
+      {
+        "citation": "Giachi G, Pallecchi P, Romualdi A, et al. Ingredients of a 2,000-y-old medicine revealed by chemical, mineralogical, and botanical investigations. PNAS 110(4):1193–1196 (2013).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3557061",
+        "doi": "10.1073/pnas.1216776110",
+        "kind": "journal",
+        "supports": "Tin pyxis from the Pozzino shipwreck (second century BC) with six flat grey discoid tablets; hydrozincite and smithsonite the most abundant ingredients, with starch, lipids and pine resin; probably ophthalmic, the collyrium."
+      },
+      {
+        "citation": "Mariotti Lippi M, Giachi G. Pollen content in a II century BC remedy from the Pozzino shipwreck. Palynology 45(1) (2021).",
+        "url": "https://bioone.org/journals/palynology/volume-45/issue-1/01916122.2020.1721376/Pollen-Content-in-a-II-Century-BC-Remedy-from-the/10.1080/01916122.2020.1721376.full",
+        "kind": "journal",
+        "supports": "Wreck in the Gulf of Baratti near Piombino at about 18 m, near Etruscan Populonia; mortar, bronze cupping vessel, iron probe, tin pyxides and 136 wooden vials."
+      },
+      {
+        "citation": "Digging up ancient drug formulations. Chemistry World (2013).",
+        "url": "https://chemistryworld.com/news/digging-up-ancient-drug-formulations-/5780.article",
+        "kind": "journal",
+        "supports": "Discovered in 1974 and excavated in 1989–1990; zinc around 75% of the sample; Pliny the Elder and Dioscorides describe zinc compounds for eyes and skin."
+      },
+      {
+        "citation": "Ancient shipwreck reveals 2,000-year-old eye medicine. CBS News / LiveScience (2013).",
+        "url": "https://www.cbsnews.com/news/ancient-shipwreck-reveals-2000-year-old-eye-medicine",
+        "kind": "journal",
+        "supports": "The hull dated to about 140 BC; tablets may have been eye medicine."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
   }
 ]

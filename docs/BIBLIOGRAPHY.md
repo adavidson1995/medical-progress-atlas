@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 792 distinct sources across 183 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 828 distinct sources across 191 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -219,6 +219,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `face-transplants`: Lantieri et al., Lancet 2008: repair of the lower and middle parts of the face, i.e. a partial transplant; Dubernard et al., NEJM 2007, outcomes 18 months after the first partial face transplant.
 
+- Ancient Egyptian pharaohs had a Shepherd of the Royal Anus. Ancient Origins.  
+  <https://www.ancient-origins.net/weird-facts/shepherd-anus-0017177>  
+  Type: journal.
+  - `egyptian-specialist-physicians`: Inscriptions describing a senior physician of the great house, physician of the belly, physician of the eyes and protector of the anus; Irynachet's titles found on a door at a Giza shaft tomb.
+
+- Ancient shipwreck reveals 2,000-year-old eye medicine. CBS News / LiveScience (2013).  
+  <https://www.cbsnews.com/news/ancient-shipwreck-reveals-2000-year-old-eye-medicine>  
+  Type: journal.
+  - `pozzino-medicinal-tablets`: The hull dated to about 140 BC; tablets may have been eye medicine.
+
 - Andreas Vesalius: celebrating 500 years of dissecting nature (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4762440/>  
   Type: journal.
@@ -420,6 +430,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `artificial-pancreas-hybrid-loop`: FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses.
 
+- British Museum blog. Ancient healthcare fit for a king.  
+  <https://www.britishmuseum.org/blog/ancient-healthcare-fit-king>  
+  Type: museum.
+  - `nineveh-medical-encyclopaedia`: A 2,600-year-old handbook with thousands of descriptions of diseases and symptoms and prescriptions; compiled in the library of Ashurbanipal; made up of 12 sections.
+
 - Brodie BB, Axelrod J. The fate of acetanilide in man. J Pharmacol Exp Ther 94:29–38 (1948). NLM Profiles in Science record.  
   <https://profiles.nlm.nih.gov/101584577X4>  
   Type: primary.
@@ -499,6 +514,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://case.edu/think/fall2018/beat.html>  
   Type: university.
   - `beck-defibrillation`: Beck squeezed the dying boy's heart by hand; a colleague fetched an experimental device; paddles on the heart; first successful defibrillation; Beck later built his own machine.
+
+- Center for Online Judaic Studies. The Code of Hammurabi, c. 1760 BCE.  
+  <https://cojs.org/?p=7907>  
+  Type: institution.
+  - `hammurabi-medical-laws`: Dating of the code; a collection of reform laws.
 
 - Centers for Disease Control and Prevention. 50th anniversary of the first effective polio vaccine. MMWR 2005;54(13).  
   <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5413a5.htm>  
@@ -687,6 +707,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `icsi-brussels`: Earlier microinjection attempts uncontrolled; the Brussels laboratory headed by Van Steirteghem and Devroey persisted and reported pregnancies and births (Palermo et al. 1992).
 
+- Day J. Crocuses in context: a diachronic survey of the crocus motif in the Aegean Bronze Age. Hesperia 80(3):337 (2011).  
+  <https://ascsa.edu.gr/uploads/media/hesperia/hesperia.80.3.0337.pdf>  
+  Type: journal.
+  - `thera-saffron-frescoes`: Discoveries at Akrotiri in the 1960s added frescoes featuring the crocus; potential medicinal powers and ritual roles debated; Xeste 3 frescoes the sole basis for Ferrence and Bendersky (2004) and others.
+
 - De Roover A, et al. Pancreas transplantation (review). ORBi, University of Liège.  
   <https://orbi.uliege.be/bitstream/2268/12061/1/deroover%281%29.pdf>  
   Type: journal.
@@ -727,6 +752,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `malmstrom-vacuum-extractor`: The first practicable device was proposed by Malmström in Sweden in 1954; forceps carry about five times the odds of levator trauma compared with vacuum.
 
+- Digging up ancient drug formulations. Chemistry World (2013).  
+  <https://chemistryworld.com/news/digging-up-ancient-drug-formulations-/5780.article>  
+  Type: journal.
+  - `pozzino-medicinal-tablets`: Discovered in 1974 and excavated in 1989–1990; zinc around 75% of the sample; Pliny the Elder and Dioscorides describe zinc compounds for eyes and skin.
+
 - Diop S, et al. Overview of surgical and anesthesia practice in sub-Saharan Africa during the 19th century: the example of the people of Bunyoro. Pan African Medical Journal 2021;40:120.  
   DOI: [10.11604/pamj.2021.40.120.32092](https://doi.org/10.11604/pamj.2021.40.120.32092), <https://www.panafrican-med-journal.com/content/article/40/120/full>  
   Type: journal.
@@ -746,6 +776,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://doctordoctress.org/islandora/object/islandora:1496/record/islandora:1691>  
   Type: archive.
   - `women-medical-degrees-us`: Before 1850 women practised as healers, nurses and midwives without formal training as physicians; the college was the first in the United States to train women as physicians and grant them degrees.
+
+- Document 1.1: Hammurabi's laws for physicians. Bedford/St Martin's (Hunt, The Making of the West).  
+  <https://digfir-published.macmillanusa.com/hunt5e/hunt5e_ch01_31.html>  
+  Type: book.
+  - `hammurabi-medical-laws`: In Hammurabi's 282 laws, fees for successful operations and punishment for errors; law 218, cutting off the hand.
 
 - Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clinical Microbiology Reviews 2009.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2620631/>  
@@ -801,6 +836,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://the-past.com/news/early-limb-amputation-in-borneo/>  
   Type: journal.
   - `liang-tebo-amputation`: Reported date range 31,000–30,000 years ago; clean cut through tibia and fibula; excavation in 2020.
+
+- Early specialization in ancient Egyptian medicine and its possible relation to an archetypal image of the human organism. Medical History (Cambridge Core).  
+  <https://cambridge.org/core/services/aop-cambridge-core/content/view/78332FDED46968C17FA65F356BE945D9/S0025727300014812a.pdf/early-specialization-in-ancient-egyptian-medicine-and-its-possible-relation-to-an-archetypal-image-of-the-human-organism.pdf>  
+  Type: journal.
+  - `egyptian-specialist-physicians`: Old Kingdom: 42 known physicians, 12 with specialist titles, 3 with more than one; Herodotus's statement that each physician treats a single disorder should be treated with suspicion.
 
 - EBSCO Research Starters. Aciclovir (ACV).  
   <https://ebsco.com/research-starters/health-and-medicine/aciclovir-acv>  
@@ -866,6 +906,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/consumer-health/rotavirus-vaccine>  
   Type: institution.
   - `rotavirus-vaccines`: Rotavirus can cause severe dehydration requiring hospitalisation; RotaTeq three oral doses and Rotarix two; first licensing 1998, withdrawal, safer versions in 2006 and 2008.
+
+- EDSITEment (NEH). Medicine in Babylonia activity sheet.  
+  <https://webarchive.library.unt.edu/web/20090511171859/http://edsitement.neh.gov/lesson_images/lesson633/Activity4_G01.pdf>  
+  Type: institution.
+  - `hammurabi-medical-laws`: A surgeon's compensation and liability were determined by status; replacing a slave who died.
 
 - Educational paradigms in Islamic medical history: a review (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11000882/>  
@@ -1152,6 +1197,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `malaria-therapy-paresis`: Tuberculin alone or with mercury or arsenic was not clinically satisfactory (1909); in 1917 nine neurosyphilis patients inoculated with blood from a soldier with malaria.
 
+- Fischer H. Pharaoh's proctologist: the Shepherd of the Rectum. Hektoen International (2023).  
+  <https://hekint.org/2023/09/28/pharaohs-proctologist-the-shepherd-of-the-rectum/>  
+  Type: journal.
+  - `egyptian-specialist-physicians`: The physician (swnw) was typically a specialist; in the Sixth Dynasty (2345–2181 BC) Iry was awarded the title 'Shepherd of the King's Rectum'; enemas given to the pharaoh; Scholtz on Iry as an early eye doctor.
+
 - Fodor SPA, et al. Light-directed, spatially addressable parallel chemical synthesis. Science 251(4995):767–773 (15 February 1991).  
   <https://www.scilit.net/publications/a8ca15e5e8aca0f540afde3b61d695ce>  
   Type: journal.
@@ -1227,6 +1277,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `paracetamol-brodie-axelrod`: Paracetamol the major metabolite of acetanilide in human blood and an effective analgesic; unlike its precursors it does not cause methaemoglobinaemia.
 
+- Garrison–Morton. Egyptian medical papyri (subject listing).  
+  <https://historyofmedicine.com/subject?id=1008>  
+  Type: book.
+  - `ebers-papyrus`: The Ebers Papyrus dates from about 1552 BCE and, with the Edwin Smith Papyrus, is one of the two most important; the Greater Berlin (Brugsch) Papyrus dates from about 1300 BCE; Reisner's 1905 edition of the Hearst Papyrus.
+
 - Gavi. 75 years later: the birth of the World Health Organization (2023).  
   <https://www.gavi.org/vaccineswork/75-years-later-birth-world-health-organization>  
   Type: institution.
@@ -1241,6 +1296,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://keep.lib.asu.edu/system/files/2024-10/peeliongbea.pdf>  
   Type: university.
   - `aciclovir-antiviral`: Before acyclovir there were no effective antiviral treatments for oral and genital herpes.
+
+- Giachi G, Pallecchi P, Romualdi A, et al. Ingredients of a 2,000-y-old medicine revealed by chemical, mineralogical, and botanical investigations. PNAS 110(4):1193–1196 (2013).  
+  DOI: [10.1073/pnas.1216776110](https://doi.org/10.1073/pnas.1216776110), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3557061>  
+  Type: journal.
+  - `pozzino-medicinal-tablets`: Tin pyxis from the Pozzino shipwreck (second century BC) with six flat grey discoid tablets; hydrozincite and smithsonite the most abundant ingredients, with starch, lipids and pine resin; probably ophthalmic, the collyrium.
 
 - Gibbon's open-heart surgery, 70 years on. WHYY (2023).  
   <https://whyy.org/articles/philadelphia-open-heart-surgery-70th-anniversary-dr-john-gibbon/amp>  
@@ -1297,6 +1357,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.history.com/articles/measles-vaccine-disease>  
   Type: journal.
   - `measles-vaccine`: Most children given the first vaccine developed high fevers and rashes; FDA licensed the first live measles vaccine on 21 March 1963.
+
+- Hafez SM. Titles of dentists in ancient Egypt. Journal of Tourism, Hotels and Heritage.  
+  <https://sjs.journals.ekb.eg/article_272479_ca2f1c5469d4873b2b03232f459d8ac6.pdf>  
+  Type: journal.
+  - `egyptian-specialist-physicians`: Herodotus wrote that the practice of medicine was so divided that each physician was a healer of one disease; specialist titles for dentists.
 
 - Hajar R. The air of history (part IV): great Muslim physicians — Al Rhazes. Heart Views (PubMed Central record).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3752886/>  
@@ -1505,6 +1570,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `women-medical-degrees-us`: In 2017, for the first time, a majority of medical students in the United States were women.
 
+- HistoryofInformation.com. The Ebers Papyrus, the most extensive record of ancient Egyptian medicine.  
+  <https://historyofinformation.com/detail.php?entryid=1657>  
+  Type: book.
+  - `ebers-papyrus`: 110 pages in hieratic; a chapter on mental disorders; Edwin Smith bought it in 1862; said to have been found in the Assasif district of the Theban necropolis; purchased by Georg Ebers and kept in Leipzig.
+
 - Holland B. The 'father of modern gynecology' performed shocking experiments on enslaved women. History.com (A&E Television Networks).  
   <https://www.history.com/articles/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves>  
   Type: institution.
@@ -1549,6 +1619,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/>  
   Type: journal.
   - `mumps-mmr-vaccine`: Jeryl Lynn's illness in March 1963; Hilleman at the Merck Institute, West Point; studies showing MMR does not increase the risk of autism.
+
+- Hunt P. Ötzi the Iceman's putative 'medicine kit'. Electrum Magazine (2019).  
+  <https://www.electrummagazine.com/2019/06/otzi-the-icemans-medicine-kit-included-sloe-berries-prunus-spinosa/>  
+  Type: journal.
+  - `otzi-birch-fungus`: The scientific community is not unanimous in considering the items a deliberate medical kit; possible medical issues including whipworm.
 
 - Hurley S. A visionary innovation: Harold Ridley and the first intra-ocular surgery. Science Museum blog (2024).  
   <https://blog.sciencemuseum.org.uk/a-visionary-innovation-harold-ridley-and-the-first-intra-ocular-surgery/>  
@@ -1956,6 +2031,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `waller-einthoven-ecg`: Waller's 1887 recording with the capillary electrometer; Waller's 1911 remark doubting extensive hospital use; Ader's earlier instrument acknowledged by Einthoven.
 
+- Life and diseases of the Neolithic glacier mummy 'Ötzi'. Springer living reference work (2020).  
+  <https://link.springer.com/content/pdf/10.1007/978-981-15-1614-6_19-1.pdf>  
+  Type: book.
+  - `otzi-birch-fungus`: Dated to c. 3350–3100 BCE; infected with whipworm (Trichuris trichiura); references to Capasso L, Lancet 352:1864 (1998), 'the Ice Man used natural laxatives and antibiotics'.
+
 - Life in the Fast Lane (LITFL). Claude Beck.  
   <https://litfl.com/claude-beck/>  
   Type: institution.
@@ -2051,6 +2131,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bioengineered-organs`: Takebe at Yokohama City University; testing in patients years away; not yet possible to make liver buds in sufficient quantities.
 
+- Livius.org. Wedjahor-Resne (Udjahorresnet) and his inscription.  
+  <https://www.livius.org/articles/person/wedjahor-resne/>  
+  Type: institution.
+  - `sais-house-of-life`: Naophoros statue about 70 cm high, brought to Italy by Hadrian, now in the Vatican Museums; Darius allowed him to return and ordered him to supervise the destroyed 'houses of life'; statue probably made soon after his return.
+
 - London School of Hygiene & Tropical Medicine. About John Snow (John Snow bicentenary).  
   <https://johnsnowbicentenary.lshtm.ac.uk/about-john-snow/>  
   Type: university.
@@ -2101,6 +2186,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `liang-tebo-amputation`: Date (at least 31,000 years ago), location (Liang Tebo, East Kalimantan), amputation of distal third of left lower leg, survival 6–9 years, previous oldest case c. 7,000 years ago.
 
+- Managed Care magazine. Here are sections of the code and the fees prescribed.  
+  <https://www.managedcaremag.com/?p=14571>  
+  Type: journal.
+  - `hammurabi-medical-laws`: §§215–217 fees of 10 shekels for a gentleman; §§221–223 five shekels for setting a broken bone, three for a commoner.
+
 - Management of fractures of the humerus in ancient Egypt, Greece, and Rome: an historical review (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2690737/>  
   Type: journal.
@@ -2110,6 +2200,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://historyofmedicine.com/id/10134>  
   Type: journal.
   - `lindbergh-telesurgery`: Gallbladder operation by French surgeons in New York on a patient in Strasbourg; Zeus robot; 7 September 2001; IRCAD.
+
+- Mariotti Lippi M, Giachi G. Pollen content in a II century BC remedy from the Pozzino shipwreck. Palynology 45(1) (2021).  
+  <https://bioone.org/journals/palynology/volume-45/issue-1/01916122.2020.1721376/Pollen-Content-in-a-II-Century-BC-Remedy-from-the/10.1080/01916122.2020.1721376.full>  
+  Type: journal.
+  - `pozzino-medicinal-tablets`: Wreck in the Gulf of Baratti near Piombino at about 18 m, near Etruscan Populonia; mortar, bronze cupping vessel, iron probe, tin pyxides and 136 wooden vials.
 
 - Mass General Brigham news. How a landmark operation opened the door for organ transplantation.  
   <https://news.massgeneralbrigham.org/en/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation>  
@@ -2165,6 +2260,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://muttermuseum.org/stories/posts/james-marion-sims-father-modern-gynecology-or-abuser/>  
   Type: museum.
   - `sims-fistula-repair`: About twelve enslaved women 'loaned' by enslavers, 1845–1849; Betsy, Lucy and Anarcha named; no anaesthesia even after it was available; belief that Black patients felt less pain; women served as nurses and assistants; no first-person accounts; statue moved in 2018.
+
+- McIntosh MA. Reconstructing the Nineveh Medical Encyclopedia. Brewminate.  
+  <https://brewminate.com/reconstructing-the-nineveh-medical-encyclopedia-and-its-place-in-ancient-near-eastern-healing/>  
+  Type: journal.
+  - `nineveh-medical-encyclopaedia`: Roughly fifty tablets with over 10,000 lines arranged into twelve treatises from scalp to sole; fragments joined in the British Museum and other collections.
 
 - Medela. Dr de Jong's guidelines on vacuum extraction.  
   <https://pimd.medela.com/200-surgical-and-woundcare/articles/pvs-insights/dr.-de-jong-s-guidelines.pdf>  
@@ -2240,6 +2340,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1079329/>  
   Type: journal.
   - `laennec-stethoscope`: Chef de service at the Necker Hospital in 1816 where he described the stethoscope; published 1819; over 300 foreign students.
+
+- Museum of Cycladic Art. The fresco of women from the 'adyton' of Xeste 3, Akrotiri, Thera.  
+  <https://cycladic.gr/en/?p=66243>  
+  Type: museum.
+  - `thera-saffron-frescoes`: Xeste 3 at Akrotiri flourished in 1600 BC; saffron-gatherers collecting crocuses to offer to Potnia, goddess of nature and fertility.
 
 - Museum of Health Care at Kingston. A mere appendix: pioneering surgery in Grand Valley, Ontario.  
   <https://www.museumofhealthcare.ca/blog/a-mere-appendix>  
@@ -2357,6 +2462,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hpv-vaccine`: VLPs of HPV16; Gardasil approved in the USA in 2006 containing VLPs of four HPV types; Cervarix followed.
 
+- Nature's first aid kit: a fungus growing on the side of birch trees. The Conversation (2019).  
+  <https://theconversation.com/natures-first-aid-kit-a-fungus-growing-on-the-side-of-birch-trees-117290>  
+  Type: journal.
+  - `otzi-birch-fungus`: Hikers found Ötzi in an alpine glacier on the Austrian–Italian border in 1991; pieces of fungus on leather cords; the scientists who identified it speculated about medical use.
+
 - Nelson ML, et al. Brief communication: mass spectroscopic characterization of tetracycline in the skeletal remains of an ancient population from Sudanese Nubia 350–550 CE. American Journal of Physical Anthropology 2010 (abstract as quoted by Phys.org and others).  
   <https://phys.org/news/2010-08-ancient-brew-masters-drug-secrets.pdf>  
   Type: journal.
@@ -2396,6 +2506,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://webarchive.library.unt.edu/eot2008/20090116003905/http:/nihrecord.od.nih.gov/newsletters/01_26_99/story04.htm>  
   Type: institution.
   - `women-medical-degrees-us`: On 23 January 1849, in the Presbyterian church in Geneva, NY, the president of Geneva Medical College conferred the MD on Blackwell.
+
+- NinMed (ORACC, University of Pennsylvania). Surgery: information from texts, quoting Roth 1995.  
+  <https://oracc.museum.upenn.edu/asbp/ninmed/surgery/informationfromtexts/index.html>  
+  Type: university.
+  - `hammurabi-medical-laws`: §215: a physician who heals a person after a serious wound with a bronze lancet, or saves an eye, takes 10 shekels; §218: if he causes death or blinds the eye, they shall cut off his hand; patients paid healers.
 
 - Nobel Prize biography of Paul Ehrlich (University of Wisconsin course copy).  
   <https://www2.chem.wisc.edu/deptfiles/genchem/Chm346/pdf/26.pdf>  
@@ -2617,6 +2732,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://tmg.org.rs/v460306e.htm>  
   Type: journal.
   - `desault-clinical-surgery`: First French professor of clinical surgery; clinical school at the Hôtel-Dieu attracted students from France and abroad; in 1791 established a Journal de chirurgie, a record of the most interesting clinical cases; taught in French with demonstration and practice; surgeon at the Hôtel-Dieu from 1785.
+
+- Pleszczyńska M, et al. Fomitopsis betulina (formerly Piptoporus betulinus): the Iceman's polypore fungus with modern biotechnological potential. World J Microbiol Biotechnol (2017).  
+  <https://distantreader.org/stacks/cord/cord-0002650-ugpc7fow.txt>  
+  Type: journal.
+  - `otzi-birch-fungus`: Ötzi, who lived 5,300 years ago, carried two fragments of F. betulina; some scientists believe he used it medically (Capasso 1998), though the idea is controversial (Pöder 2005); long tradition of folk-medicine use.
 
 - Prabhu M. Scrutiny or public spectacle? How Louis Pasteur put the anthrax vaccine on trial. Gavi VaccinesWork, 8 July 2026.  
   <https://www.gavi.org/vaccineswork/scrutiny-or-public-spectacle-how-louis-pasteur-put-anthrax-vaccine-trial>  
@@ -2843,10 +2963,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `grey-walter-toposcope`: Berger's electrodes too large for topographical studies; Grey Walter invented the toposcope in 1957 with tubes arranged in a two-dimensional array matching the electrodes.
 
+- Saffron: an oxytocic? O&G Magazine (RANZCOG).  
+  <https://www.ogmagazine.org.au/?p=5937>  
+  Type: journal.
+  - `thera-saffron-frescoes`: Xeste 3 frescoes depict women in ritual scenes with Crocus sativus; a goddess flanked by a griffin and a blue monkey; medicinal use of saffron noted in the Ebers Papyrus and by Dioscorides.
+
 - Saving lives, not sacrificing them: the inevitable clash between medical research and the protection of medical subjects (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3684307/>  
   Type: journal.
   - `first-heart-transplant`: Washkansky lived 18 days; Blaiberg survived 19 months; ethical tensions in transplant research.
+
+- Savona-Ventura C. Ancient Egyptian medicine part IV: medical papyri. University of Malta (CME30).  
+  <https://cme30.eu/ancient-egyptian-medicine-part-iv-medical-papyri/>  
+  Type: university.
+  - `ebers-papyrus`: Hearst Papyrus given to the University of California expedition in 1901; Berlin Papyrus acquired by Passalacqua at Saqqara; London Medical Papyrus in the British Museum, dated to the reign of Tutankhamun.
+
+- Saxon Academy of Sciences, Leipzig. Papyrus Edwin Smith (version 34).  
+  <https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith?version=34>  
+  Type: university.
+  - `ebers-papyrus`: The Ebers papyrus contains a calendar from year 9 of Amenhotep I; both papyri likely from the Theban necropolis.
 
 - Schmidt PJ, Leacock AG. Forgotten transfusion history: John Leacock of Barbados. BMJ 2002;325(7378):1485–1487.  
   DOI: [10.1136/bmj.325.7378.1485](https://doi.org/10.1136/bmj.325.7378.1485), <https://pmc.ncbi.nlm.nih.gov/articles/PMC139049>  
@@ -2963,6 +3098,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `edler-hertz-echocardiography`: In May 1953 Hertz borrowed an ultrasound materials-testing device; it was unsuitable for advanced examinations; Siemens contacts provided a medical device.
 
+- Simkó K. Weaving together loose threads: on the serialisation of the therapeutic corpus at Nineveh. KASKAL (2024).  
+  <https://edizionicafoscari.it/media/pdf/article/kaskal/2024/1/art-10.30687-KASKAL-5235-1939-2024-01-018_0WiBqiS.pdf>  
+  Type: journal.
+  - `nineveh-medical-encyclopaedia`: Editorial steps producing new standard editions of the therapeutic texts for the library; 'Babylonian group' of tablets.
+
 - Singh S, Goyal A. The origin of echocardiography: a tribute to Inge Edler. Tex Heart Inst J (2007).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3673607/>  
   Type: journal.
@@ -3033,6 +3173,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `berger-eeg`: Earlier animal recordings by Neminsky and Cybulski; Adrian's role in confirming Berger's work.
 
+- Stone Pages archaeology news. Ancient frescoes show early medicinal use of saffron.  
+  <https://www.stonepages.com/news/archives/000602.html>  
+  Type: journal.
+  - `thera-saffron-frescoes`: Frescoes once thought to show perfume or spice production; Ferrence and Bendersky's view that they show stages of saffron production and a goddess of healing.
+
 - STORZ MEDICAL. 40 years of ESWL (2020).  
   <https://www.storzmedical.com/en/news-press/40-years-of-eswl-shock-waves-replaced-open-renal-surgery/>  
   Type: institution.
@@ -3047,6 +3192,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1586/17434440.2014.862494](https://doi.org/10.1586/17434440.2014.862494), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652>  
   Type: journal.
   - `argus-ii-retinal-prosthesis`: First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa.
+
+- Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache (Saxon Academy of Sciences, Leipzig). Papyrus Edwin Smith: metadata and provenance.  
+  <https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith>  
+  Type: university.
+  - `ebers-papyrus`: The Ebers papyrus's find spot unknown, but the seller told Ebers it came from a tomb in the Assasif, in a coffin between the legs of a mummy; Edwin Smith in Luxor.
 
 - Styles R. Did you know trans-affirming surgery began in Berlin? The Berliner.  
   <https://www.the-berliner.com/berlin/trans-affirming-care-history-in-berlin/>  
@@ -3468,10 +3618,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `badianus-manuscript`: First illustrated text of Nahua medicine, 185 illustrations; composed by Martín de la Cruz in Nahuatl, translated by Juan Badiano at the Colegio de Santa Cruz de Tlatelolco; commissioned by Jacobo de Grado for Francisco de Mendoza; returned in 1990; now at INAH.
 
+- UCL. Introducing Assyrian Medicine: healthcare fit for a king.  
+  <https://www.ucl.ac.uk/arts-humanities/hebrew-jewish/research/research-projects/introducing-assyrian-medicine-healthcare-fit-king>  
+  Type: university.
+  - `nineveh-medical-encyclopaedia`: Tablets broken into fragments during the sack of Nineveh in 612 BC; seventh-century BCE Royal Library of Ashurbanipal.
+
 - UCLA Fielding School of Public Health. Map, myth and error making in the Broad Street pump outbreak.  
   <https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_f.html>  
   Type: university.
   - `snow-broad-street`: Snow's own words that the handle was removed the following day; myth about the map's role; errors in later maps.
+
+- Udjahorresnet, Democedes and Darius I: the reform of the House of Life as consequence of the Egyptian physicians' failure to heal the Achaemenid ruler. Journal of the Egyptian Expedition.  
+  <https://egyptianexpedition.org/articles/udjahorresnet-democedes-and-darius-i-the-reform-of-the-house-of-life-as-consequence-of-the-egyptian-physicians-failure-to-heal-the-achaemenid-ruler/>  
+  Type: journal.
+  - `sais-house-of-life`: Comparison of Herodotus III.129–130 with the statue; Darius's dislocated ankle healed by Democedes; the king ordered Udjahorresnet to restore the House of Life at Sais and/or throughout Egypt; 522–519 BCE.
 
 - UK Kidney Association. The early evolution of kidney transplantation in the United Kingdom (75 years).  
   <https://www.ukkidney.org/75-years/march>  
@@ -3598,6 +3758,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `fabrici-venous-valves`: Professor of anatomy and surgery at Padua from 1565; anatomy theatre opened 1594; demonstrated vein valves in 1579; priority recently contested; supervised William Harvey, who learned about the valves in Padua.
 
+- University of Pittsburgh lecture notes. Hammurabi's code of laws, c. 1780 BC.  
+  <https://sites.pitt.edu/~super1/lecture/lec37791/040.htm>  
+  Type: university.
+  - `hammurabi-medical-laws`: Hammurabi's code as a source for surgery; the profitable and dangerous side of surgery.
+
 - University of Toronto Heritage. Discovery of insulin at University of Toronto (timeline).  
   <https://heritage.utoronto.ca/exhibits/insulin>  
   Type: university.
@@ -3678,6 +3843,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `icsi-brussels`: Centre for Reproductive Medicine at UZ Brussel; pregnancy in April 1991 after a single ICSI embryo; delivery on 14 January 1992; shift from SUZI to ICSI.
 
+- Vatican Museums. The 'Vatican Naophorous'.  
+  <https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-gregoriano-egizio/sala-i--reperti-epigrafici/_naoforo-vaticano.html>  
+  Type: museum.
+  - `sais-house-of-life`: Statue of Udjahorresnet, chief physician and commander of the king's fleet, holding a naos; provenance unknown but assumed to be Sais.
+
 - Velázquez Rivera I. Aproximación a la obra científica del Comandante Médico Fidel Pagés Miravé. Sanidad Militar 67(Supl 1) (2011).  
   <https://scielo.isciii.es/pdf/sm/v67s1/humanidades3.pdf>  
   Type: journal.
@@ -3702,6 +3872,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2944152/>  
   Type: journal.
   - `cinchona-bark`: Story of the countess, wife of the viceroy of Peru (treated here as legend); Jesuits the main importers to Europe.
+
+- Wellcome. Introducing Assyrian medicine: healthcare fit for a king (2019 award).  
+  <https://wellcome.org/research-funding/funding-portfolio/funded-grants/introducing-assyrian-medicine-healthcare-fit-king>  
+  Type: institution.
+  - `nineveh-medical-encyclopaedia`: The world's most standardised, structured and systematised corpus of pre-Galenic medical literature; from the library of Ashurbanipal (669–c. 630 BCE); existence recognised only recently through a reconstructed ancient catalogue.
 
 - West JB. Ibn al-Nafis, the pulmonary circulation, and the Islamic Golden Age. Journal of Applied Physiology 2008;105(6):1877–1880. (pp. 1877–1880)  
   DOI: [10.1152/japplphysiol.91171.2008](https://doi.org/10.1152/japplphysiol.91171.2008), <https://pmc.ncbi.nlm.nih.gov/articles/PMC2612469/>  
@@ -3752,6 +3927,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.emro.who.int/emhj-volume-14-2008/volume-14-supplement/primary-health-care-health-policies-and-planning-lessons-for-the-future.html>  
   Type: journal.
   - `alma-ata-declaration`: Declaration embraced 'Health for All by the Year 2000' through comprehensive primary health care; chequered history after 1978.
+
+- Whonamedit? A dictionary of medical eponyms. Ebers' papyrus.  
+  <https://www.whonamedit.com/synd.cfm/443.html>  
+  Type: institution.
+  - `ebers-papyrus`: About 1552 BC; 20.23 m long and 30 cm high; 110 pages with 700 magical formulas and folk remedies; description of the heart as centre of the blood supply with vessels; now in the University of Leipzig library; Ebers and Stern's 1875 facsimile.
 
 - Whonamedit? Brugada's syndrome.  
   <https://www.whonamedit.com/synd.cfm/4048.html>  

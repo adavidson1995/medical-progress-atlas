@@ -1,0 +1,150 @@
+{
+  "entries": [],
+  "queue": {
+    "w015": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Asklepios is a healing god of myth and cult; there is no datable medical advance."
+    },
+    "w016": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Hesiod's Pandora myth explains the origin of disease; it is not a medical advance."
+    },
+    "w017": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Homeric epic describes wound care and healing drugs as literature; there is no datable event."
+    },
+    "w022": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Empedocles' theory of four elements is philosophy; its medical use, humoral theory, has no single datable event."
+    },
+    "w027": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A line in a Sophocles tragedy, not a medical event."
+    },
+    "w042": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Pliny's Natural History is a general encyclopedia whose medical books compile earlier knowledge."
+    },
+    "w049": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A compilation of remedies from vegetables and fruit, with no new advance."
+    },
+    "w050": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A lost book on urine, known only from later references."
+    },
+    "w056": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A Latin adaptation of the Greek physician Soranus, not a new advance."
+    },
+    "w057": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A Latin handbook compiled from Greek sources."
+    },
+    "w058": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "'Monastic medicine' is a broad tradition, not a datable event."
+    },
+    "w061": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "An encyclopedia compiling earlier Greek medicine."
+    },
+    "w065": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A commentary on Galen's work."
+    },
+    "w069": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A Byzantine summary of earlier medicine."
+    },
+    "w083": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "General writings that include medicine, without a specific advance."
+    },
+    "w085": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Translation of Arabic medical works into Greek; the translation movement is represented by Hunayn ibn Ishaq."
+    },
+    "w098": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "'Scholastic medicine' is a broad movement, not a datable event."
+    },
+    "w107": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A late Byzantine compendium of earlier knowledge."
+    },
+    "w111": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "A philosophical work reconciling medicine and philosophy, not a medical advance."
+    },
+    "w124": {
+      "status": "no-event",
+      "atlasId": "",
+      "note": "Clowes's surgical writings are not tied to a specific advance; the surgeon's chest belongs with John Woodall (w132)."
+    },
+    "w004": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "The date of 3000 BCE has no historical basis. The earliest Ayurvedic texts, the compendia of Charaka and Sushruta, date from the last centuries BCE and are covered separately."
+    },
+    "w005": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "Imhotep's reputation as a physician comes from his deification more than 2,000 years after he lived; there is no contemporary evidence that he practised medicine."
+    },
+    "w020": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "Bian Que is a semi-legendary figure; the attributions of acupuncture and pulse diagnosis come from much later writings."
+    },
+    "w064": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "The story that Nestorian institutions at Gondishapur became the model for Islamic hospitals is not supported by current scholarship."
+    },
+    "w067": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "Aaron's Pandects survive only in fragments quoted by later writers, so the claimed first mention of smallpox and measles cannot be verified. Al-Razi's distinction of the two diseases is in the atlas."
+    },
+    "w079": {
+      "status": "rejected",
+      "atlasId": "",
+      "note": "The claim that Donnolo founded the school of Salerno is a legend; his Hebrew pharmacological writing is not tied to a specific advance."
+    },
+    "w018": {
+      "status": "duplicate",
+      "atlasId": "hippocratic-sacred-disease",
+      "note": "The Hippocratic tradition associated with Cos is represented by the Sacred Disease entry; the idea of rival medical schools at Cnidos and Cos is largely a later construction."
+    },
+    "w052": {
+      "status": "duplicate",
+      "atlasId": "basileias-hospital",
+      "note": "Julian's order for xenones is described in the entry on Basil's Basileias."
+    },
+    "w129": {
+      "status": "duplicate",
+      "atlasId": "fabrici-venous-valves",
+      "note": "Earlier observations of the venous valves, such as Amato Lusitano's, are noted in the Fabrici entry."
+    }
+  }
+}

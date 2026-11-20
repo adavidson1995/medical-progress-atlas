@@ -31,9 +31,9 @@
    "claim": "Carried birch fungus, possibly against whipworm",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "otzi-birch-fungus",
+   "note": "The medicinal interpretation is contested."
   },
   {
    "wid": "w004",
@@ -42,9 +42,9 @@
    "claim": "Origins of Ayurveda placed around 3000 BCE",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "The date of 3000 BCE has no historical basis. The earliest Ayurvedic texts, the compendia of Charaka and Sushruta, date from the last centuries BCE and are covered separately."
   },
   {
    "wid": "w005",
@@ -53,9 +53,9 @@
    "claim": "Priest-physician later deified as god of medicine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "Imhotep's reputation as a physician comes from his deification more than 2,000 years after he lived; there is no contemporary evidence that he practised medicine."
   },
   {
    "wid": "w006",
@@ -64,9 +64,9 @@
    "claim": "Inscription describes a palace physician's roles",
    "place": "Egypt",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "egyptian-specialist-physicians",
+   "note": "Merged with Herodotus's report on Egyptian specialists (w026)."
   },
   {
    "wid": "w007",
@@ -75,9 +75,9 @@
    "claim": "Akkadian medical tablets, copies in Ashurbanipal's Nineveh library",
    "place": "Nineveh",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "nineveh-medical-encyclopaedia",
+   "note": "Wikipedia dates the Akkadian medical tablets to 1900–1600 BC; the entry covers their best-known form, the Nineveh Medical Encyclopaedia of the seventh century BCE, which drew on older Babylonian texts."
   },
   {
    "wid": "w008",
@@ -86,9 +86,9 @@
    "claim": "Code sets surgeons' fees and penalties for malpractice",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "hammurabi-medical-laws",
+   "note": "Wikipedia gives 1800 BC; Hammurabi's code dates from about 1755 BCE."
   },
   {
    "wid": "w009",
@@ -108,9 +108,9 @@
    "claim": "Hearst papyrus",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "ebers-papyrus",
+   "note": "The Hearst papyrus is described in the Ebers entry."
   },
   {
    "wid": "w011",
@@ -119,8 +119,8 @@
    "claim": "Ebers Papyrus",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "ebers-papyrus",
    "note": ""
   },
   {
@@ -130,9 +130,9 @@
    "claim": "Saffron used as medicine on Thera",
    "place": "Thera",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "thera-saffron-frescoes",
+   "note": "The medicinal reading of the frescoes is contested."
   },
   {
    "wid": "w013",
@@ -152,9 +152,9 @@
    "claim": "Brugsch and London medical papyri",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "ebers-papyrus",
+   "note": "The Brugsch (Berlin) and London papyri are described in the Ebers entry."
   },
   {
    "wid": "w015",
@@ -163,9 +163,9 @@
    "claim": "Asklepios appears in the medical record",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Asklepios is a healing god of myth and cult; there is no datable medical advance."
   },
   {
    "wid": "w016",
@@ -174,9 +174,9 @@
    "claim": "Disease as independent yet divine, Pandora myth",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Hesiod's Pandora myth explains the origin of disease; it is not a medical advance."
   },
   {
    "wid": "w017",
@@ -185,9 +185,9 @@
    "claim": "Healing drugs and battlefield surgery in Homer",
    "place": "Troy",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Homeric epic describes wound care and healing drugs as literature; there is no datable event."
   },
   {
    "wid": "w018",
@@ -196,9 +196,9 @@
    "claim": "Medical schools at Cnidos and Cos",
    "place": "Cnidos; Cos",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "duplicate",
+   "atlasId": "hippocratic-sacred-disease",
+   "note": "The Hippocratic tradition associated with Cos is represented by the Sacred Disease entry; the idea of rival medical schools at Cnidos and Cos is largely a later construction."
   },
   {
    "wid": "w019",
@@ -207,9 +207,9 @@
    "claim": "Orders restoration of the House of Life (Sais)",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "sais-house-of-life",
+   "note": "Wikipedia credits Darius I; the work was carried out by his chief physician, Udjahorresnet."
   },
   {
    "wid": "w020",
@@ -218,9 +218,9 @@
    "claim": "Physician associated with acupuncture and pulse diagnosis",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "Bian Que is a semi-legendary figure; the attributions of acupuncture and pulse diagnosis come from much later writings."
   },
   {
    "wid": "w021",
@@ -240,9 +240,9 @@
    "claim": "Theory of four elements",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Empedocles' theory of four elements is philosophy; its medical use, humoral theory, has no single datable event."
   },
   {
    "wid": "w023",
@@ -251,9 +251,9 @@
    "claim": "Pills used for measured doses",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "pozzino-medicinal-tablets",
+   "note": "Wikipedia says pills were used for measured doses by 500 BC. No physical evidence that early was found; the entry describes the oldest well-analysed surviving tablets, from the Pozzino shipwreck of about 140 BCE."
   },
   {
    "wid": "w024",
@@ -284,9 +284,9 @@
    "claim": "Reports Egyptian doctors specialised",
    "place": "Egypt",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "egyptian-specialist-physicians",
+   "note": "Merged with Iry (w006)."
   },
   {
    "wid": "w027",
@@ -295,9 +295,9 @@
    "claim": "Surgical problems not to be treated with incantations",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A line in a Sophocles tragedy, not a medical event."
   },
   {
    "wid": "w028",
@@ -460,9 +460,9 @@
    "claim": "Natural History",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Pliny's Natural History is a general encyclopedia whose medical books compile earlier knowledge."
   },
   {
    "wid": "w043",
@@ -537,9 +537,9 @@
    "claim": "Latin handbook on medicines from vegetables and fruit",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A compilation of remedies from vegetables and fruit, with no new advance."
   },
   {
    "wid": "w050",
@@ -548,9 +548,9 @@
    "claim": "Book on urine",
    "place": "Alexandria",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A lost book on urine, known only from later references."
   },
   {
    "wid": "w051",
@@ -570,9 +570,9 @@
    "claim": "Orders xenones built (proto-hospitals)",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "duplicate",
+   "atlasId": "basileias-hospital",
+   "note": "Julian's order for xenones is described in the entry on Basil's Basileias."
   },
   {
    "wid": "w053",
@@ -614,9 +614,9 @@
    "claim": "Latin handbook on acute and chronic diseases",
    "place": "Sicca Veneria",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A Latin adaptation of the Greek physician Soranus, not a new advance."
   },
   {
    "wid": "w057",
@@ -625,9 +625,9 @@
    "claim": "Latin medical handbook from Greek sources",
    "place": "Cirta",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A Latin handbook compiled from Greek sources."
   },
   {
    "wid": "w058",
@@ -636,9 +636,9 @@
    "claim": "\"Monastic medicine\"",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "'Monastic medicine' is a broad tradition, not a datable event."
   },
   {
    "wid": "w059",
@@ -669,9 +669,9 @@
    "claim": "Medical encyclopedia in 16 books",
    "place": "Amida",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "An encyclopedia compiling earlier Greek medicine."
   },
   {
    "wid": "w062",
@@ -702,9 +702,9 @@
    "claim": "Xenodochia/bimaristans that became Islamic hospitals",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "The story that Nestorian institutions at Gondishapur became the model for Islamic hospitals is not supported by current scholarship."
   },
   {
    "wid": "w065",
@@ -713,9 +713,9 @@
    "claim": "Commentary on Galen's Therapeutics",
    "place": "Athens",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A commentary on Galen's work."
   },
   {
    "wid": "w066",
@@ -735,9 +735,9 @@
    "claim": "Pandects; first mention of smallpox and measles",
    "place": "Alexandria",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "Aaron's Pandects survive only in fragments quoted by later writers, so the claimed first mention of smallpox and measles cannot be verified. Al-Razi's distinction of the two diseases is in the atlas."
   },
   {
    "wid": "w068",
@@ -757,9 +757,9 @@
    "claim": "Epitome of Medicine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A Byzantine summary of earlier medicine."
   },
   {
    "wid": "w070",
@@ -867,9 +867,9 @@
    "claim": "Hebrew medical writing; alleged Salerno founder",
    "place": "Salerno",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "The claim that Donnolo founded the school of Salerno is a legend; his Hebrew pharmacological writing is not tied to a specific advance."
   },
   {
    "wid": "w080",
@@ -911,9 +911,9 @@
    "claim": "Books on medicine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "General writings that include medicine, without a specific advance."
   },
   {
    "wid": "w084",
@@ -933,9 +933,9 @@
    "claim": "Translates Arabic medicine into Greek",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Translation of Arabic medical works into Greek; the translation movement is represented by Hunayn ibn Ishaq."
   },
   {
    "wid": "w086",
@@ -1076,9 +1076,9 @@
    "claim": "Scholastic medicine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "'Scholastic medicine' is a broad movement, not a datable event."
   },
   {
    "wid": "w099",
@@ -1175,9 +1175,9 @@
    "claim": "Last great Byzantine medical compendium",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A late Byzantine compendium of earlier knowledge."
   },
   {
    "wid": "w108",
@@ -1219,9 +1219,9 @@
    "claim": "Conciliator",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "A philosophical work reconciling medicine and philosophy, not a medical advance."
   },
   {
    "wid": "w112",
@@ -1362,9 +1362,9 @@
    "claim": "Surgical chest for military surgeons",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Clowes's surgical writings are not tied to a specific advance; the surgeon's chest belongs with John Woodall (w132)."
   },
   {
    "wid": "w125",
@@ -1417,9 +1417,9 @@
    "claim": "Venous valves in the azygos vein",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "duplicate",
+   "atlasId": "fabrici-venous-valves",
+   "note": "Earlier observations of the venous valves, such as Amato Lusitano's, are noted in the Fabrici entry."
   },
   {
    "wid": "w130",
