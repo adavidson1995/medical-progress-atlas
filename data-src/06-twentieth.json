@@ -4261,7 +4261,9 @@
         "supports": "1936 patient with abnormal EEG found to have a cerebral tumour; many novel instruments built at the Burden Neurological Institute."
       }
     ],
-    "related": [],
+    "related": [
+      "berger-eeg"
+    ],
     "suggestedBy": "wikipedia-timeline"
   },
   {
@@ -7071,7 +7073,8 @@
       }
     ],
     "related": [
-      "lindbergh-telesurgery"
+      "lindbergh-telesurgery",
+      "horsley-clarke-stereotaxy"
     ],
     "suggestedBy": "wikipedia-timeline"
   },
@@ -8085,6 +8088,1414 @@
     "related": [
       "artificial-skin",
       "bioengineered-organs"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "landsteiner-blood-groups",
+    "title": "Landsteiner discovers the human blood groups",
+    "summary": "In 1901 Karl Landsteiner, at the University of Vienna's Institute of Pathological Anatomy, showed that serum from some healthy people clumps the red blood cells of others, and sorted human blood into groups later called A, B and O. The discovery made safe blood transfusion possible.",
+    "explanation": "Transfusions between people were dangerous and unpredictable, and the clumping of red cells when blood was mixed was generally put down to disease. In a footnote to a paper in 1900, Landsteiner noted that serum from healthy people clumped the red cells of other healthy people. In 1901 he published the evidence: the reaction came from antibodies in the serum acting on the cells, and it reflected normal differences between individuals.\n\nHe identified three groups, and in 1902 his colleagues Alfred von Decastello and Adriano Sturli described a fourth, AB. In 1910 Emil von Dungern and Ludwik Hirszfeld proposed that blood groups are inherited, which led to their use in paternity cases. Landsteiner received the 1930 Nobel Prize.",
+    "date": {
+      "start": 1901,
+      "end": 1901,
+      "display": "1901",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Published in 1901, after a preliminary footnote in 1900."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "therapeutics",
+      "surgery"
+    ],
+    "themes": [
+      "blood transfusion",
+      "immunology"
+    ],
+    "locations": [
+      {
+        "name": "Institute of Pathological Anatomy, University of Vienna",
+        "modern": "Vienna, Austria",
+        "lat": 48.22,
+        "lon": 16.35,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Karl Landsteiner",
+        "role": "Pathologist and immunologist"
+      },
+      {
+        "name": "Alfred von Decastello and Adriano Sturli",
+        "role": "Described the AB group in 1902"
+      }
+    ],
+    "whatChanged": "The reactions that made many transfusions fatal could be explained, and later tested for before blood was given.",
+    "whyItMattered": "Blood typing made transfusion a routine medical practice, underpinning modern surgery, trauma care and blood banks.",
+    "limitations": [
+      "Leonard Landois had earlier described clumping when animal blood was mixed with human blood; Landsteiner showed that it also happened between humans.",
+      "Landsteiner described three groups; the fourth, AB, and the Rh system were found later."
+    ],
+    "sources": [
+      {
+        "citation": "Encyclopaedia Britannica. Karl Landsteiner.",
+        "url": "https://britannica.com/biography/Karl-Landsteiner",
+        "kind": "book",
+        "supports": "Returned to the University of Vienna in 1897 and in 1901 published the discovery of the human ABO blood groups; 1930 Nobel Prize; blood typing made transfusion routine."
+      },
+      {
+        "citation": "The Rockefeller University. Karl Landsteiner: Nobel Prize.",
+        "url": "https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/",
+        "kind": "university",
+        "supports": "Identification of blood groups in 1901; went against the view equating incompatibility with pathology; groups A, B and C (later O); von Dungern and Hirschfeld's 1910 inheritance hypothesis and use in paternity cases."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). Karl Landsteiner.",
+        "url": "https://litfl.com/karl-landsteiner/",
+        "kind": "institution",
+        "supports": "Assistant to Weichselbaum at the Institute of Pathological Anatomy, Vienna; discovered the ABO system in 1900–1901; Decastello and Sturli identified the AB group in 1902; later Rh factor discovery."
+      },
+      {
+        "citation": "Karl Landsteiner (anniversary article). Iranian Journal of Public Health 47(5):777 (2018).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077641",
+        "kind": "journal",
+        "supports": "The clumping reaction reported by Landois for animal blood transfused to humans could occur between human individuals; Landsteiner's 1901 paper."
+      }
+    ],
+    "related": [
+      "blundell-transfusion"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "alzheimer-disease-described",
+    "title": "Alzheimer links a patient's dementia to changes in her brain",
+    "summary": "In 1901 the psychiatrist Alois Alzheimer began following Auguste Deter, a 51-year-old patient at the Frankfurt asylum with memory loss and confusion. After her death he examined her brain and, on 3 November 1906, described the plaques and tangles he found there. The condition was later named after him.",
+    "explanation": "Auguste Deter's family had noticed that she had become confused, forgetful and jealous, and often got lost. Alzheimer, who moved to Emil Kraepelin's laboratory in Munich, arranged to receive her brain when she died, in 1906.\n\nUsing a new silver stain, he found a shrunken brain containing fibre-like tangles inside nerve cells and deposits he called 'miliary foci', now known as amyloid plaques. He presented the case at the meeting of South-West German Psychiatrists in Tübingen on 3 November 1906, where it met with little interest, and published it in 1907. Kraepelin later named the condition after him.",
+    "date": {
+      "start": 1901,
+      "end": 1906,
+      "display": "1901–1906",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Patient admitted in November 1901; died in 1906; case presented on 3 November 1906."
+    },
+    "type": "observation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "dementia",
+      "neuropathology"
+    ],
+    "locations": [
+      {
+        "name": "Asylum for the Insane and Epileptic, Frankfurt",
+        "modern": "Frankfurt am Main, Germany",
+        "lat": 50.11,
+        "lon": 8.68,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Care and observation of Auguste Deter"
+      },
+      {
+        "name": "Royal Psychiatric Hospital, Munich",
+        "modern": "Munich, Germany",
+        "lat": 48.13,
+        "lon": 11.56,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Examination of her brain"
+      },
+      {
+        "name": "Psychiatric Clinic, Tübingen",
+        "modern": "Tübingen, Germany",
+        "lat": 48.52,
+        "lon": 9.06,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "First presentation of the case"
+      }
+    ],
+    "people": [
+      {
+        "name": "Alois Alzheimer",
+        "role": "Psychiatrist and neuropathologist"
+      },
+      {
+        "name": "Auguste Deter",
+        "role": "Patient"
+      },
+      {
+        "name": "Emil Kraepelin",
+        "role": "Psychiatrist who named the disease"
+      }
+    ],
+    "whatChanged": "A progressive dementia was tied to specific, visible changes in brain tissue.",
+    "whyItMattered": "Alzheimer's disease is now recognised as the most common cause of dementia, and the plaques and tangles he described remain central to research on it.",
+    "limitations": [
+      "For decades the name was used mainly for dementia beginning before old age.",
+      "The lecture met with little interest, and the disease was recognised only slowly."
+    ],
+    "sources": [
+      {
+        "citation": "Alzforum. Alzheimer: 100 years and beyond (2006).",
+        "url": "https://alzforum.org/node/39003",
+        "kind": "institution",
+        "supports": "Oral presentation on 3 November 1906 in Tübingen, printed in 1907; correlation of the patient's behaviour with pathology; description of neurofibrillary tangles and 'miliary foci', now known as amyloid plaques."
+      },
+      {
+        "citation": "Alzforum. 3 November 1906: Alzheimer's lecture in Tübingen.",
+        "url": "https://alzforum.org/node/37908",
+        "kind": "institution",
+        "supports": "Alzheimer travelled from Munich; Kraepelin later named the disease; images of plaques and tangles; the brain shipped to Munich; the lecture met with silence."
+      },
+      {
+        "citation": "Hektoen International. Alois Alzheimer and Auguste Deter.",
+        "url": "https://hekint.org/?p=36242",
+        "kind": "journal",
+        "supports": "Fifty-one-year-old Auguste Deter, admitted in November 1901, was jealous, confused, forgetful and frequently lost; her brain was sent to Munich; report to the Tübingen conference; Bielschowsky silver stain; atrophic brain."
+      },
+      {
+        "citation": "Jensen T. Origins of Alzheimer's: the life and research of Dr Alois Alzheimer. Being Patient (2019).",
+        "url": "https://www.beingpatient.com/?p=9237",
+        "kind": "journal",
+        "supports": "Lecture at the 37th meeting of South-West German Psychiatrists in Tübingen in 1906; thinner cortex, tangles and senile plaques; poorly received."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "hopkins-accessory-food-factors",
+    "title": "Hopkins shows that food contains vital 'accessory factors'",
+    "summary": "In a 1906 lecture Frederick Gowland Hopkins of Cambridge argued that diets need small amounts of unknown substances besides protein, fat and carbohydrate. His 1912 feeding experiments in rats showed it, helping found the study of vitamins.",
+    "explanation": "Physiologists assumed that a diet supplying enough protein, fat, carbohydrate and minerals was complete. In his 1906 address to the Society of Public Analysts, Hopkins suggested that diseases such as rickets and scurvy might be caused by a lack of other trace substances in food.\n\nHis experiments, begun in 1906–07 and published in the Journal of Physiology in 1912, fed young rats a purified diet. They stopped growing, but a tiny daily addition of milk, making up only a few per cent of the food eaten, restored normal growth. Hopkins shared the 1929 Nobel Prize with Christiaan Eijkman, whose work on beriberi had pointed in the same direction.",
+    "date": {
+      "start": 1906,
+      "end": 1912,
+      "display": "1906–1912",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Proposal in a lecture of 1906; experiments begun in 1906–07 and published in 1912."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "prevention"
+    ],
+    "themes": [
+      "nutrition",
+      "vitamins"
+    ],
+    "locations": [
+      {
+        "name": "Physiological Laboratory, University of Cambridge",
+        "modern": "Cambridge, England, UK",
+        "lat": 52.2,
+        "lon": 0.12,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Frederick Gowland Hopkins",
+        "role": "Biochemist"
+      },
+      {
+        "name": "Christiaan Eijkman",
+        "role": "Dutch physician who shared the 1929 Nobel Prize"
+      },
+      {
+        "name": "Casimir Funk",
+        "role": "Biochemist who coined the term 'vitamine' in 1912"
+      }
+    ],
+    "whatChanged": "Diet came to be understood as needing tiny amounts of specific substances, not just enough calories and protein.",
+    "whyItMattered": "The idea led to the identification of the vitamins and to the prevention of deficiency diseases such as rickets, scurvy, beriberi and pellagra.",
+    "limitations": [
+      "Others, including Eijkman, Funk, Stepp, and Osborne and Mendel, reached similar conclusions in the same period, so priority is shared.",
+      "Hopkins did not identify the substances themselves."
+    ],
+    "sources": [
+      {
+        "citation": "EBSCO Research Starters. Hopkins postulates the presence of vitamins.",
+        "url": "https://ebsco.com/research-starters/history/hopkins-postulates-presence-vitamins",
+        "kind": "institution",
+        "supports": "Date 1906, Cambridge; trace ingredients other than carbohydrates, proteins and fat essential; key figures Hopkins, Eijkman and Funk; 1906 address to the Society of Public Analysts."
+      },
+      {
+        "citation": "Linda Hall Library. Scientist of the Day: F. Gowland Hopkins (2019).",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/f-gowland-hopkins/",
+        "kind": "institution",
+        "supports": "1912 Journal of Physiology paper; rats on a purified diet lost weight and needed minute 'food factors'; later called vitamins; shared the 1929 Nobel Prize."
+      },
+      {
+        "citation": "Hopkins FG. Feeding experiments illustrating the importance of accessory factors in normal dietaries. J Physiol 44:425 (1912).",
+        "url": "https://umaryland.cloud-cme.com/assets/umaryland/activities/15768/HoM%20Syllabus%20(Hopkins%20-%20Feeding%20experiments).pdf",
+        "kind": "primary",
+        "supports": "Results first obtained in 1906–07; reference to work by Stepp and by Osborne and Mendel; milk additions to synthetic diets; results communicated in October 1911."
+      },
+      {
+        "citation": "Hopkins FG (1912), abstract reprinted in Nutrition Reviews (1973).",
+        "url": "https://www.mv.helsinki.fi/home/hemila/History/NR_1973_19.pdf",
+        "kind": "journal",
+        "supports": "A milk addition amounting to 4% or less of the food eaten induced normal and continued growth."
+      }
+    ],
+    "related": [
+      "lind-scurvy-trial",
+      "mellanby-rickets"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "salvarsan",
+    "title": "Salvarsan, the first 'magic bullet' drug, treats syphilis",
+    "summary": "In 1909 Paul Ehrlich and Sahachiro Hata at the Georg-Speyer-Haus in Frankfurt found that an arsenic compound, number 606, cured syphilis in rabbits. Marketed in 1910 as Salvarsan, it was the first effective treatment for syphilis and a model for chemotherapy.",
+    "explanation": "Ehrlich sought chemicals that would bind to and kill microbes without harming the patient, an idea he called the 'magic bullet'. From 1906 his chemotherapy institute in Frankfurt systematically made and tested hundreds of arsenic compounds. Compound 606, arsphenamine, had been set aside as useless in 1907, but Hata, who had learned to infect rabbits with syphilis, retested it and found it highly effective.\n\nFirst given to patients in spring 1909, it was reported later that year and sold as Salvarsan from 1910; some 65,000 doses had been used by the end of that year. Until then syphilis had been treated mainly with mercury. The less toxic Neosalvarsan followed, and the drugs were used until penicillin replaced them in the 1940s.",
+    "date": {
+      "start": 1909,
+      "end": 1910,
+      "display": "1909–1910",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Effect found and first tested in patients in 1909; marketed as Salvarsan in 1910."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "drug discovery",
+      "chemotherapy",
+      "sexually transmitted infections"
+    ],
+    "locations": [
+      {
+        "name": "Georg-Speyer-Haus, Frankfurt",
+        "modern": "Frankfurt am Main, Germany",
+        "lat": 50.09,
+        "lon": 8.66,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Paul Ehrlich",
+        "role": "Physician and scientist; director of the institute"
+      },
+      {
+        "name": "Sahachiro Hata",
+        "role": "Bacteriologist who tested the compound"
+      },
+      {
+        "name": "Alfred Bertheim",
+        "role": "Chemist"
+      }
+    ],
+    "whatChanged": "Syphilis could be treated with a drug designed to attack the infecting organism.",
+    "whyItMattered": "Salvarsan showed that systematic chemical screening could produce drugs against specific microbes, a model for modern drug discovery.",
+    "limitations": [
+      "Salvarsan was difficult to prepare and give and had serious side effects.",
+      "Calling it the first chemotherapy drug reflects Ehrlich's own definition; earlier remedies such as quinine and mercury had also acted against disease."
+    ],
+    "sources": [
+      {
+        "citation": "James Lind Library. Paul Ehrlich and studies of the effects of dyes on infectious organisms (the introduction of arsphenamine).",
+        "url": "https://www.jameslindlibrary.org/articles/the-introduction-of-chemotherapy-using-arsphenamine-the-first-magic-bullet/",
+        "kind": "institution",
+        "supports": "Laboratory moved to the Georg Speyer Haus in 1906; compound 606 first dismissed by assistants and retested by Hata; tested in patients in spring 1909; Alt's 1909 report; marketed as Salvarsan in 1910; some 65,000 doses by end of 1910."
+      },
+      {
+        "citation": "Science History Institute. Paul Ehrlich (scientific biography).",
+        "url": "https://sciencehistory.org/education/scientific-biographies/paul-ehrlich/",
+        "kind": "institution",
+        "supports": "Beginning with atoxyl, three years and 300 syntheses later they discovered Salvarsan (1909)."
+      },
+      {
+        "citation": "Nobel Prize biography of Paul Ehrlich (University of Wisconsin course copy).",
+        "url": "https://www2.chem.wisc.edu/deptfiles/genchem/Chm346/pdf/26.pdf",
+        "kind": "university",
+        "supports": "The drug had been set aside in 1907 as ineffective; Hata had infected rabbits with syphilis and found the discarded drug very effective."
+      },
+      {
+        "citation": "EBSCO Research Starters. Ehrlich introduces Salvarsan as a cure for syphilis.",
+        "url": "https://www.ebsco.com/research-starters/history/ehrlich-introduces-salvarsan-cure-syphilis",
+        "kind": "institution",
+        "supports": "April 1910; the first successful chemotherapeutic for syphilis; before 1910 treatment mainly with mercury or potassium iodide."
+      },
+      {
+        "citation": "Science History Institute. Paul Ehrlich (historical profile).",
+        "url": "https://sciencehistory.org/historical-profile/paul-ehrlich",
+        "kind": "institution",
+        "supports": "Georg-Speyer-Haus established in 1906 under Ehrlich; Salvarsan, the 'magic bullet', used to treat syphilis until the 1940s."
+      },
+      {
+        "citation": "Bundeszentrale für politische Bildung. Salvarsan-Ampulle (Shared History Projekt).",
+        "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/geteilte-geschichte/340570/salvarsan-ampulle/",
+        "kind": "institution",
+        "supports": "Salvarsan developed in 1909 by Paul Ehrlich and the chemist Alfred Bertheim at the Georg-Speyer-Haus in Frankfurt; later Neosalvarsan."
+      }
+    ],
+    "related": [
+      "serum-therapy",
+      "penicillin"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "plummer-medical-record",
+    "title": "Mayo Clinic introduces the single patient medical record",
+    "summary": "In 1907 Henry Plummer and Mabel Root at the Mayo Clinic in Rochester, Minnesota, replaced doctors' separate ledgers with one numbered record for each patient, held centrally so that any doctor could see the patient's whole history.",
+    "explanation": "Before then, each physician at the clinic kept his own ledger, recording patients in whatever way he preferred, so information about one patient was scattered. Plummer spent more than a year studying record-keeping at other medical centres and in business before designing a system with Root in which each patient received a number and a single dossier filed in a central index.\n\nThe first patient was registered in July 1907. The system was soon adopted elsewhere and became a model for hospital medical records; by about 1935 a detailed diagnostic index had to be added as patient numbers grew.",
+    "date": {
+      "start": 1907,
+      "end": 1907,
+      "display": "1907",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First patient registered in July 1907 (Mayo Clinic sources give 1 or 19 July)."
+    },
+    "type": "implementation",
+    "evidence": [
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "medical records",
+      "hospital organisation"
+    ],
+    "locations": [
+      {
+        "name": "Mayo Clinic, Rochester",
+        "modern": "Rochester, Minnesota, USA",
+        "lat": 44.02,
+        "lon": -92.47,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Henry Plummer",
+        "role": "Physician and designer of the system"
+      },
+      {
+        "name": "Mabel Root",
+        "role": "Co-designer of the registration and record system"
+      }
+    ],
+    "whatChanged": "A patient's whole history was kept in one place and could be read by every doctor treating them.",
+    "whyItMattered": "The unit record became the model for hospital medical records, and its principle underlies electronic health records.",
+    "limitations": [
+      "Mayo Clinic sources differ on the exact day in July 1907 that the first patient was registered.",
+      "Integrated records spread gradually; many hospitals kept separate departmental files for decades."
+    ],
+    "sources": [
+      {
+        "citation": "Mayo Clinic Laboratories. 1907: the first Plummer project (#ThrowbackThursday).",
+        "url": "https://news.mayocliniclabs.com/?p=34050",
+        "kind": "institution",
+        "supports": "On 19 July 1907 patient no. 1 registered in the new system designed by Plummer with Mabel Root; previously each physician kept a ledger; Plummer studied record-keeping at other centres and in business for more than a year."
+      },
+      {
+        "citation": "Mayo Clinic History & Heritage. Henry Plummer.",
+        "url": "https://history.mayoclinic.org/?p=49322",
+        "kind": "institution",
+        "supports": "Patient number one on 1 July 1907; the medical record, a paper dossier with the patient's history in one place."
+      },
+      {
+        "citation": "Dr Henry Stanley Plummer (biographical article). University of Pittsburgh Health Sciences Library digital collection.",
+        "url": "https://dec.hsls.pitt.edu/files/original/cd5dfa7d3b78a449c28fa9b0e707433be0fe1492.pdf",
+        "kind": "journal",
+        "supports": "Previously each physician maintained his own ledger; a system in which each patient's record was a unit, all in a single index, introduced in 1907 and a model for medical records; cross-index developed about 1935."
+      },
+      {
+        "citation": "Henry S. Plummer (chapter). Springer.",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-13662-2_7",
+        "kind": "book",
+        "supports": "Plummer designed the clinic buildings, modernised the laboratory, introduced X-rays and created the modern medical record."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "horsley-clarke-stereotaxy",
+    "title": "The Horsley–Clarke apparatus targets deep brain structures",
+    "summary": "In 1908 the surgeon Victor Horsley and the physiologist Robert Clarke in London described a frame that used three-dimensional coordinates to guide an electrode to precise points deep in an animal's brain. Their stereotaxic method became the basis of stereotactic neurosurgery.",
+    "explanation": "Horsley wanted to make small lesions in the cerebellum of monkeys and cats to study its function. Clarke applied mathematical principles: a frame fixed to the skull defined each target by distances from three planes at right angles, and an atlas of photographed brain sections gave the coordinates of each structure.\n\nThe apparatus was built in 1905 and described in the journal Brain in 1908. It was used for animal research for decades, because the position of structures in the human brain varies too much relative to the skull; stereotaxic surgery on people began only in the 1940s.",
+    "date": {
+      "start": 1908,
+      "end": 1908,
+      "display": "1908",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Described in Brain in 1908; the apparatus was built in 1905."
+    },
+    "type": "invention",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [
+      "mind-brain",
+      "mechanisms"
+    ],
+    "themes": [
+      "neurosurgery",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "University College London",
+        "modern": "London, England, UK",
+        "lat": 51.52,
+        "lon": -0.13,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Victor Horsley",
+        "role": "Neurosurgeon and physiologist"
+      },
+      {
+        "name": "Robert Henry Clarke",
+        "role": "Physiologist who designed the apparatus"
+      }
+    ],
+    "whatChanged": "Points deep in the brain could be reached accurately using coordinates rather than direct sight.",
+    "whyItMattered": "Stereotaxy underlies modern brain biopsy, deep brain stimulation, radiosurgery and much of experimental neuroscience.",
+    "limitations": [
+      "The original frame was designed for animals and could not be used reliably in humans.",
+      "Aubrey Mussen designed a frame for humans in 1918, but stereotaxic operations on people began only in the 1940s."
+    ],
+    "sources": [
+      {
+        "citation": "Clarke RH, Horsley V. The structure and functions of the cerebellum examined by a new method. Brain 31:45–124 (1908). Garrison–Morton entry.",
+        "url": "https://www.historyofmedicine.com/author/d/robert-henry-clarke",
+        "kind": "book",
+        "supports": "The 1908 paper in Brain describing the new method; stereotactic surgery."
+      },
+      {
+        "citation": "The Horsley–Clarke stereotaxic apparatus (abstract). Scilit record.",
+        "url": "https://www.scilit.net/publications/2b75fa028a4f0856296e5e8bce99ea83",
+        "kind": "journal",
+        "supports": "Clarke applied mathematical principles to an apparatus allowing Horsley to make lesions in the cerebellum; atlas of photographed sections; original apparatus made in 1905; papers in 1908, 1911 and 1914; basis of modern stereotaxic surgery."
+      },
+      {
+        "citation": "Remarks upon the term stereotaxy. Stereotactic and Functional Neurosurgery 93(1):42 (Karger).",
+        "url": "https://karger.com/sfn/article/93/1/42/293482/Remarks-upon-the-Term-Stereotaxy-A-Linguistic-and",
+        "kind": "journal",
+        "supports": "Terms introduced by Clarke and Horsley in 1908 for precise positioning of electrodes in the deep cerebellar nuclei of apes; target defined by distances from three orthogonal planes."
+      },
+      {
+        "citation": "Encyclopaedia Britannica. Stereotaxic surgery.",
+        "url": "https://www.britannica.com/print/article/565672",
+        "kind": "book",
+        "supports": "First stereotaxic device described in 1908 by Horsley and Clarke; atlases of animal brains; Mussen's human apparatus of 1918; human stereotaxic surgery from the 1940s."
+      }
+    ],
+    "related": [
+      "robot-assisted-surgery"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "richter-iud",
+    "title": "Richter describes an intrauterine device for contraception",
+    "summary": "In 1909 Richard Richter, a doctor in Waldenburg in Silesia (now Wałbrzych, Poland), reported preventing pregnancy with a ring of silkworm gut placed inside the uterus. Developed by Ernst Gräfenberg in the 1920s, intrauterine devices became one of the world's most widely used contraceptives.",
+    "explanation": "Earlier pessaries placed in the cervix often caused infection. Richter's device was a flexible ring of silkworm-gut suture with threads for removal, inserted with a notched instrument. Writing in the Deutsche Medizinische Wochenschrift, he described it as a simple, safe contraceptive that most women did not feel, and reported women who had used it for almost four years.\n\nIn the 1920s the Berlin gynaecologist Ernst Gräfenberg developed rings of silkworm gut and metal wire. Plastic IUDs followed in the 1960s, and copper was added in 1969, greatly improving their effectiveness.",
+    "date": {
+      "start": 1909,
+      "end": 1909,
+      "display": "1909",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Published in the Deutsche Medizinische Wochenschrift, no. 39, 1909."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [
+      "prevention"
+    ],
+    "themes": [
+      "contraception",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Waldenburg, Silesia",
+        "modern": "Wałbrzych, Poland",
+        "lat": 50.77,
+        "lon": 16.28,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Richard Richter",
+        "role": "Physician"
+      },
+      {
+        "name": "Ernst Gräfenberg",
+        "role": "Gynaecologist who developed later rings"
+      }
+    ],
+    "whatChanged": "Women gained a long-acting, reversible contraceptive that did not need to be used at each act of intercourse.",
+    "whyItMattered": "IUDs are now among the most widely used reversible contraceptives in the world.",
+    "limitations": [
+      "Early intrauterine devices could cause infection, and later designs such as the Dalkon Shield caused serious harm.",
+      "Richter's is the first documented intrauterine device for contraception; folk practices may be earlier."
+    ],
+    "sources": [
+      {
+        "citation": "Intrauterine devices (chapter). Springer.",
+        "url": "https://link.springer.com/content/pdf/10.1007/978-94-009-8872-9_21.pdf",
+        "kind": "book",
+        "supports": "In 1909 Richter published his experience with the first intrauterine device, a ring of silkworm gut; translation of his description of a simple, safe contraceptive used for almost four years."
+      },
+      {
+        "citation": "Dittrick Medical History Center. Intrauterine device (IUD), History of Birth Control exhibit.",
+        "url": "https://artsci.case.edu/dittrick/?p=1901",
+        "kind": "museum",
+        "supports": "In 1909 Richter claimed success with an intrauterine ring; earlier stem pessaries caused infections; Gräfenberg's coiled metal wire rings in the 1920s–30s; IUD the most popular reversible method with 160 million users; Dalkon Shield harms."
+      },
+      {
+        "citation": "Richter. Über Fremdkörper im Uterus als Mittel zur Verhütung der Konzeption (reply). Deutsche Medizinische Wochenschrift, 11 January 1912.",
+        "url": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0029-1189232.pdf",
+        "kind": "primary",
+        "supports": "Dr Richter of Waldenburg (Silesia) refers to his first communication in no. 39 of the 1909 volume."
+      },
+      {
+        "citation": "Contraception (chapter). Taylor & Francis.",
+        "url": "https://www.taylorfrancis.com/books/9780203074596/chapters/10.4324/9780203074596-17",
+        "kind": "book",
+        "supports": "First IUD designed to prevent conception was Richter's silkworm-gut ring in 1909; Graefenberg ring in the 1920s; copper added in 1969."
+      }
+    ],
+    "related": [
+      "oral-contraceptive-pill"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "jacobaeus-laparoscopy",
+    "title": "Jacobaeus looks inside the human abdomen and chest",
+    "summary": "In 1910 Hans Christian Jacobaeus, an internist in Stockholm, reported examining the abdominal and chest cavities of patients through a cystoscope, a technique he called laparoscopy and thoracoscopy. It was the start of minimally invasive examination of body cavities.",
+    "explanation": "In 1901 the Dresden surgeon Georg Kelling had looked into the abdomen of a dog with a cystoscope after inflating it with air. Jacobaeus, who worked on treating tuberculosis by introducing air into body cavities, applied the idea to people, at first to examine patients with fluid in the abdomen.\n\nHe published his first experience in 1910, including laparoscopy in 17 patients with ascites, and by 1912 described 97 abdominal examinations. He also used the method to look inside the chest of patients with tuberculosis, and stressed the need for special instruments and for training on animals and cadavers.",
+    "date": {
+      "start": 1910,
+      "end": 1910,
+      "display": "1910",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Published in the Münchener Medizinische Wochenschrift in 1910."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "endoscopy",
+      "minimally invasive surgery"
+    ],
+    "locations": [
+      {
+        "name": "Stockholm",
+        "modern": "Stockholm, Sweden",
+        "lat": 59.33,
+        "lon": 18.07,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Hans Christian Jacobaeus",
+        "role": "Internist"
+      },
+      {
+        "name": "Georg Kelling",
+        "role": "Surgeon who examined a dog's abdomen in 1901"
+      }
+    ],
+    "whatChanged": "Doctors could see inside the abdomen and chest of a living patient without a large incision.",
+    "whyItMattered": "Laparoscopy and thoracoscopy grew into keyhole surgery, now used for many operations in the abdomen and chest.",
+    "limitations": [
+      "Kelling performed the technique earlier, in a dog, in 1901.",
+      "For decades laparoscopy was used mainly for diagnosis; operative keyhole surgery spread only from the 1980s."
+    ],
+    "sources": [
+      {
+        "citation": "Hatzinger M, Kwon ST, Langbein S, et al. Hans Christian Jacobaeus: inventor of human laparoscopy and thoracoscopy. J Endourol 20(11):848–50 (2006).",
+        "url": "https://pesquisa.bvsalud.org/controlecancer/resource/pt/mdl-17144849",
+        "doi": "10.1089/end.2006.20.848",
+        "kind": "journal",
+        "supports": "First clinical laparoscopy in Stockholm; based on Kelling's 1901 experiments in a dog; 1910 publication in the Münchener Medizinische Wochenschrift; diagnostic use."
+      },
+      {
+        "citation": "Hans Christian Jacobaeus: inventor of human laparoscopy and thoracoscopy (summary). Bohrium.",
+        "url": "https://www.bohrium.com/paper-details/hans-christian-jacobaeus-inventor-of-human-laparoscopy-and-thoracoscopy/812036874888544256-9195",
+        "doi": "10.1089/end.2006.20.848",
+        "kind": "journal",
+        "supports": "Research on artificial pneumothorax and pneumoperitoneum; laparoscopy in 17 patients with ascites in 1910; 97 operations described in a monograph covering 1910–1912."
+      },
+      {
+        "citation": "Litynski GS. Laparoscopy – the early attempts: spotlighting Georg Kelling and Hans Christian Jacobaeus. JSLS (1997).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3015224",
+        "kind": "journal",
+        "supports": "Kelling of Dresden and Jacobaeus of Stockholm as early pioneers; Kelling's 1901 coelioscopy."
+      },
+      {
+        "citation": "Hatzinger M, et al. Hans-Christian Jacobaeus (1879–1937): the inventor of human laparoscopy and thoracoscopy. Der Urologe A 45(9):1184–6 (2006).",
+        "url": "https://searchworks.jioinstitute.edu.in/articles/cmedm__16773384",
+        "kind": "journal",
+        "supports": "First clinical laparoscopic surgery in Stockholm in 1910; recognised the need for training on animals and corpses."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "malaria-therapy-paresis",
+    "title": "Malaria fever is used to treat syphilis of the brain",
+    "summary": "On 14 June 1917 the Vienna psychiatrist Julius Wagner-Jauregg injected blood from a soldier with malaria into nine patients with general paresis, a fatal syphilis of the brain. The fevers halted the disease in some, and he won the 1927 Nobel Prize.",
+    "explanation": "General paresis of the insane, a late stage of syphilis, filled many asylum beds and was always fatal. Wagner-Jauregg had noticed that some psychiatric patients improved after feverish infections, and had tried tuberculin and other fever-inducing agents with little lasting success.\n\nIn 1917 he deliberately infected patients with tertian malaria, letting the fevers run before curing the malaria with quinine. Many patients improved, and malaria therapy was widely adopted in the following decades. Wagner-Jauregg became the first psychiatrist to win a Nobel Prize. Penicillin replaced the treatment in the 1940s.",
+    "date": {
+      "start": 1917,
+      "end": 1917,
+      "display": "14 June 1917",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first inoculations, as given in the American Journal of Psychiatry."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "psychiatry",
+      "sexually transmitted infections",
+      "research ethics"
+    ],
+    "locations": [
+      {
+        "name": "Psychiatric and Neurological Clinic, University of Vienna",
+        "modern": "Vienna, Austria",
+        "lat": 48.22,
+        "lon": 16.35,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Julius Wagner-Jauregg",
+        "role": "Psychiatrist"
+      }
+    ],
+    "whatChanged": "A disease that had always been fatal was brought under partial medical control.",
+    "whyItMattered": "It was the first effective physical treatment in psychiatry and encouraged the view that mental illness could have physical causes and cures.",
+    "limitations": [
+      "The treatment was never tested in a controlled trial, and its benefit is hard to judge.",
+      "Wagner-Jauregg had earlier tried other fever-inducing agents, such as tuberculin, without lasting success."
+    ],
+    "harms": "Deliberately infecting patients with malaria was dangerous: between 2% and 13% of those treated died, depending on severity. Many of the patients, who had dementia, could not give meaningful consent.",
+    "sources": [
+      {
+        "citation": "Whitrow M. Julius Wagner-Jauregg (images in psychiatry). Am J Psychiatry 165(10) (2008).",
+        "url": "https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08081271",
+        "kind": "journal",
+        "supports": "Observation that patients with general paresis recovered during febrile infections; on 14 June 1917 he injected malarial blood from a soldier into nine patients; Nobel Prize 1927; death in 2%–13% of cases."
+      },
+      {
+        "citation": "Tsay CJ. Julius Wagner-Jauregg and the legacy of malarial therapy for the treatment of general paresis of the insane. Yale J Biol Med (2013).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3670443",
+        "kind": "journal",
+        "supports": "Nobel Prize in 1927 for malaria therapy for neurosyphilis; the first Nobel Prize awarded to a psychiatrist."
+      },
+      {
+        "citation": "Encyclopaedia Britannica. Julius Wagner-Jauregg.",
+        "url": "https://www.britannica.com/EBchecked/topic/633983/Julius-Wagner-Jauregg",
+        "kind": "book",
+        "supports": "Treatment of general paresis by artificial induction of malaria brought a previously incurable fatal disease under partial control; observed improvement after febrile infections; 1917 at the University of Vienna."
+      },
+      {
+        "citation": "First psychiatrist accepts Nobel Prize in medicine: December 1927. Psychiatric Times.",
+        "url": "https://psychiatrictimes.com/view/first-psychiatrist-accepts-nobel-prize-medicine-december-1927",
+        "kind": "journal",
+        "supports": "Tuberculin alone or with mercury or arsenic was not clinically satisfactory (1909); in 1917 nine neurosyphilis patients inoculated with blood from a soldier with malaria."
+      }
+    ],
+    "related": [
+      "salvarsan",
+      "malaria-mosquito-transmission"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "mellanby-rickets",
+    "title": "Mellanby shows that rickets is a dietary deficiency",
+    "summary": "In experiments reported in 1919, Edward Mellanby gave puppies at Cambridge diets that produced rickets, then prevented and cured the disease with fats such as cod-liver oil and butter. He concluded that rickets was caused by lack of a fat-soluble dietary factor, later named vitamin D.",
+    "explanation": "Rickets, which softens and deforms children's bones, was very common in British cities, especially in Scotland. At the suggestion of Frederick Gowland Hopkins, the Medical Research Committee asked Mellanby to investigate. In hundreds of feeding experiments with puppies, a diet based largely on oatmeal porridge produced rickets, while cod-liver oil, butter and suet were most strongly protective.\n\nMellanby first thought the factor was the known fat-soluble vitamin A; Elmer McCollum later showed it was a separate substance, vitamin D. Harriette Chick's team in Vienna confirmed in 1922 that cod-liver oil prevented and cured rickets in children.",
+    "date": {
+      "start": 1919,
+      "end": 1919,
+      "display": "1919",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Results published in 1919, from experiments carried out between 1918 and 1921."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "nutrition",
+      "vitamins",
+      "child health"
+    ],
+    "locations": [
+      {
+        "name": "Field Laboratories, University of Cambridge",
+        "modern": "Cambridge, England, UK",
+        "lat": 52.2,
+        "lon": 0.12,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Edward Mellanby",
+        "role": "Physiologist and pharmacologist"
+      },
+      {
+        "name": "Elmer McCollum",
+        "role": "Biochemist who identified vitamin D as distinct"
+      },
+      {
+        "name": "Harriette Chick",
+        "role": "Nutritionist who confirmed the effect in children"
+      }
+    ],
+    "whatChanged": "Rickets was understood as a preventable deficiency disease rather than an effect of poverty or infection alone.",
+    "whyItMattered": "Cod-liver oil, food fortification and later vitamin D supplements largely eliminated rickets in many countries.",
+    "limitations": [
+      "Many clinicians had already linked rickets empirically with diet and with lack of sunshine.",
+      "Mellanby at first attributed the effect to the known fat-soluble vitamin A."
+    ],
+    "sources": [
+      {
+        "citation": "Mellanby, Edward. Complete Dictionary of Scientific Biography (Encyclopedia.com).",
+        "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/edward-mellanby",
+        "kind": "book",
+        "supports": "Hundreds of feeding experiments on puppies in the Field Laboratories of Cambridge University; cod-liver oil, butter and suet most strongly preventive; fat-soluble A then known; immediate impact on rickets in England; clinicians had already linked rickets with deficiency."
+      },
+      {
+        "citation": "Mellanby, Edward (Encyclopedia.com topic entry).",
+        "url": "https://www.encyclopedia.com/topic/Edward_Mellanby.aspx/",
+        "kind": "book",
+        "supports": "Hopkins urged that rickets be studied and Mellanby undertake it; non-dietary factors secondary; experiments between 1918 and 1921."
+      },
+      {
+        "citation": "Academy of Nutrition Sciences. Vitamin D: one hundred years on (2022).",
+        "url": "https://academynutritionsciences.org.uk/outputs/vitamin-d-one-hundred-years-on",
+        "kind": "institution",
+        "supports": "Mellanby (1919) concerned about the high incidence of rickets in the UK, especially Scotland; Chick and co-workers in Vienna (1922) showed rickets in children prevented or cured by cod-liver oil."
+      },
+      {
+        "citation": "Rajakumar K. Vitamin D, cod-liver oil, sunlight, and rickets: a historical perspective. Pediatrics 112:e132 (2003).",
+        "url": "https://www.direct-ms.org/wp-content/uploads/2018/01/RicketsHistory.pdf",
+        "kind": "journal",
+        "supports": "History of rickets and the discovery of vitamin D, cod-liver oil and sunlight; animal experiments and the anti-rachitic properties of cod-liver oil."
+      },
+      {
+        "citation": "Rickets and vitamin D history (review). J Biomed Sci 17(Suppl 1):S36 (2010).",
+        "url": "https://biomedcentral-jbiomedsci.publicaciones.saludcastillayleon.es/counter/pdf/10.1186/1423-0127-17-S1-S36.pdf",
+        "kind": "journal",
+        "supports": "Certain fats could reverse rickets; McCollum ultimately 'discovered' vitamin D by showing that oxidised cod-liver oil retained the antirachitic activity."
+      }
+    ],
+    "related": [
+      "hopkins-accessory-food-factors"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pages-epidural",
+    "title": "Fidel Pagés describes lumbar epidural anaesthesia",
+    "summary": "In March 1921 the Spanish military surgeon Fidel Pagés published 'Anestesia metamérica', describing the injection of local anaesthetic into the epidural space of the lower back to numb parts of the body for surgery. His work was overlooked until Achille Dogliotti described the technique again in 1931.",
+    "explanation": "Spinal anaesthesia, injecting anaesthetic into the fluid around the spinal cord, was already in use but carried risks. Pagés, a surgeon in Madrid, injected anaesthetic into the space just outside the membrane surrounding the cord, blocking nerves to particular segments of the body. He published the method in the Revista Española de Cirugía, a journal he had co-founded, and it was reprinted in the Revista de Sanidad Militar that June.\n\nPagés died in a road accident in 1923. In 1931 the Italian surgeon Dogliotti described the same approach, with the 'loss of resistance' technique used to find the epidural space, and was long credited as its originator.",
+    "date": {
+      "start": 1921,
+      "end": 1921,
+      "display": "March 1921",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Published in the Revista Española de Cirugía in March 1921."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "anaesthesia"
+    ],
+    "locations": [
+      {
+        "name": "Madrid",
+        "modern": "Madrid, Spain",
+        "lat": 40.42,
+        "lon": -3.7,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Fidel Pagés Miravé",
+        "role": "Military surgeon"
+      },
+      {
+        "name": "Achille Mario Dogliotti",
+        "role": "Italian surgeon who described the technique independently in 1931"
+      }
+    ],
+    "whatChanged": "Surgeons gained a way to numb a band of the body without general anaesthesia or entering the spinal fluid.",
+    "whyItMattered": "Epidural anaesthesia and analgesia are now widely used for childbirth, surgery and pain relief after operations.",
+    "limitations": [
+      "Pagés's paper had little influence at the time; the technique spread after Dogliotti's 1931 work.",
+      "Caudal injections into the epidural space at the base of the spine had been described earlier."
+    ],
+    "contested": "Dogliotti was long credited as the originator of epidural anaesthesia; Spanish historians have argued that priority belongs to Pagés.",
+    "sources": [
+      {
+        "citation": "Beleña JM, Núñez M. Fidel Pagés, the true discoverer of epidural anesthesia, on the centenary of his publication Anestesia metamérica (1921–2021). Cirugía y Cirujanos / Medigraphic (2023).",
+        "url": "https://www.medigraphic.com/pdfs/rma/cma-2023/cma231l.pdf",
+        "kind": "journal",
+        "supports": "Pagés called it 'metameric anaesthesia' in his March 1921 article in the Revista Española de Cirugía, founded by himself; Dogliotti published in 1931."
+      },
+      {
+        "citation": "Fidel Pagés: centenary of the discovery of epidural anesthesia. Revista da Sociedade Portuguesa de Anestesiologia.",
+        "url": "https://revistas.rcaap.pt/anestesiologia/article/download/23688/17858/93388",
+        "kind": "journal",
+        "supports": "Published in March 1921 and reprinted in June in the Revista de Sanidad Militar; first description of lumbar epidural puncture for surgery; death in a road accident in 1923; Dogliotti's 1931 work quickly recognised."
+      },
+      {
+        "citation": "Clínica Universidad de Navarra. Diccionario médico: anestesia epidural.",
+        "url": "https://www.cun.es/diccionario-medico/terminos/anestesia-epidural",
+        "kind": "university",
+        "supports": "Pagés's 1921 article described injecting local anaesthetic into the lumbar epidural space; Dogliotti described the same technique independently in 1931 with the loss-of-resistance manoeuvre; Pagés recognised posthumously."
+      },
+      {
+        "citation": "Velázquez Rivera I. Aproximación a la obra científica del Comandante Médico Fidel Pagés Miravé. Sanidad Militar 67(Supl 1) (2011).",
+        "url": "https://scielo.isciii.es/pdf/sm/v67s1/humanidades3.pdf",
+        "kind": "journal",
+        "supports": "Pagés a true pioneer of epidural anaesthesia; Dogliotti's segmental peridural anaesthesia ignored Pagés's work published ten years earlier; earlier intradural and caudal techniques."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "toxoid-vaccines",
+    "title": "Toxoid vaccines against diphtheria and tetanus",
+    "summary": "In 1923 Gaston Ramon at the Pasteur Institute's annex near Paris treated diphtheria toxin with formaldehyde and heat, making a harmless 'anatoxin' that still produced immunity. The same method gave a tetanus toxoid, tested in soldiers from 1926–27.",
+    "explanation": "Diphtheria and tetanus are caused by bacterial toxins. Antitoxin serum from horses could treat them but gave only short protection. Ramon, a veterinarian in charge of serum production at Garches, noticed that formaldehyde added to preserve sera weakened toxins; diphtheria toxin treated with formaldehyde and warmed no longer killed guinea pigs but still triggered immunity. Émile Roux presented the findings to the French Academy of Sciences on 10 December 1923.\n\nIn 1924 Pierre Descombey applied the method to tetanus toxin, and in 1926–27 Ramon and the army doctor Christian Zoeller reported vaccinating several hundred people. In London, Alexander Glenny at the Wellcome laboratories had also studied formaldehyde-treated toxin and from 1926 added aluminium salts to strengthen the response.",
+    "date": {
+      "start": 1923,
+      "end": 1927,
+      "display": "1923–1927",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Diphtheria toxoid reported on 10 December 1923; tetanus toxoid described in 1924 and given to people in 1926–27."
+    },
+    "type": "invention",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "vaccines",
+      "child health"
+    ],
+    "locations": [
+      {
+        "name": "Pasteur Institute annex, Garches and Marnes-la-Coquette",
+        "modern": "Garches, Hauts-de-Seine, France",
+        "lat": 48.84,
+        "lon": 2.17,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Ramon's development of diphtheria and tetanus toxoids"
+      },
+      {
+        "name": "Wellcome Physiological Research Laboratories, London",
+        "modern": "London, England, UK",
+        "lat": 51.51,
+        "lon": -0.13,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Glenny's toxoid and alum adjuvant work"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gaston Ramon",
+        "role": "Veterinarian and immunologist"
+      },
+      {
+        "name": "Pierre Descombey",
+        "role": "Applied the method to tetanus toxin"
+      },
+      {
+        "name": "Christian Zoeller",
+        "role": "Army doctor who tested tetanus toxoid in people"
+      },
+      {
+        "name": "Alexander Glenny",
+        "role": "Immunologist, Wellcome laboratories"
+      }
+    ],
+    "whatChanged": "People could be actively immunised against diphtheria and tetanus with a safe, stable vaccine.",
+    "whyItMattered": "Toxoids, combined with pertussis vaccine, became a core childhood vaccine; diphtheria virtually disappeared from France and many other countries, and tetanus toxoid protected soldiers in the Second World War.",
+    "limitations": [
+      "Glenny had described formaldehyde-treated diphtheria toxoid earlier, in 1921, so credit for the discovery is shared.",
+      "Early toxoids caused reactions that delayed their use in Britain."
+    ],
+    "sources": [
+      {
+        "citation": "Institut Pasteur. Diphtheria: a hundred years ago, the first toxoid vaccine (2023).",
+        "url": "https://www.pasteur.fr/en/research-journal/news/diphtheria-hundred-years-ago-first-toxoid-vaccine",
+        "kind": "institution",
+        "supports": "In 1923 Ramon discovered the diphtheria toxoid; diphtheria vaccine compulsory for young children in France from 1938, until the disease had virtually disappeared."
+      },
+      {
+        "citation": "Institut Pasteur. Diphtérie: il y a 100 ans, le premier vaccin à base d'anatoxines bactériennes (2023).",
+        "url": "https://www.pasteur.fr/fr/journal-recherche/actualites/diphterie-il-y-100-ans-premier-vaccin-base-anatoxines-bacteriennes",
+        "kind": "institution",
+        "supports": "Toxins treated with formaldehyde and heat; on 10 December 1923 Roux presented Ramon's results to the Academy of Sciences."
+      },
+      {
+        "citation": "Institut Pasteur newsletter. A hundred years ago: Gaston Ramon (2025).",
+        "url": "https://newsletter.pasteur.fr/en/newsletters/bip-institut-pasteur-newsletter-october-3-2025/museum/hundred-years-ago-gaston-ramon",
+        "kind": "institution",
+        "supports": "Joined in 1911 in the serum production department at Garches; principle of toxoids (1923); diphtheria vaccine (1923) and tetanus vaccine (1924)."
+      },
+      {
+        "citation": "La Revue du Praticien. Gaston Ramon, artisan de la vaccinologie moderne.",
+        "url": "https://www.larevuedupraticien.fr/article/gaston-ramon-artisan-de-la-vaccinologie-moderne",
+        "kind": "journal",
+        "supports": "Treated toxin no longer killed guinea pigs; tetanus anatoxin; first vaccinated were soldiers, with Christian Zoeller; results in the first hundred reported in 1926."
+      },
+      {
+        "citation": "Tetanus toxoid (review), noting Descombey F, C R Soc Biol 1924 and Zoeller C, Ramon G, Presse Med 1926.",
+        "url": "https://www.ebm-journal.org/journals/experimental-biology-and-medicine/articles/10.3181/00379727-30-6783/full",
+        "kind": "journal",
+        "supports": "References to Descombey's 1924 tetanus toxoid and Zoeller and Ramon's 1926 paper."
+      },
+      {
+        "citation": "Baxby D. Appreciation of Glenny AT, Südmersen HJ, J Hyg 1921. Epidemiology and Infection (2005).",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44B20AEA600187C6E0BC38A5B63702EF/S0950268805004267a.pdf/6_the_discovery_of_diphtheria_toxoid_and_the_primary_and_secondary_immune_response_glenny_at_sudmersen_hj_j_hyg_1921_20_176220.pdf",
+        "kind": "journal",
+        "supports": "Brief 1921 description of diphtheria toxoid; first toxoids produced reactions unacceptable in Britain; alum-precipitated toxoid from 1926; now in diphtheria–tetanus–pertussis vaccine."
+      }
+    ],
+    "related": [
+      "serum-therapy",
+      "pertussis-vaccine"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "berger-eeg",
+    "title": "Hans Berger records the human electroencephalogram",
+    "summary": "In 1924 the Jena psychiatrist Hans Berger recorded electrical activity from the human brain through the scalp. Uncertain of his results, he waited until 1929 to publish them, coining the term electroencephalogram (EEG) and describing the alpha rhythm.",
+    "explanation": "Electrical activity had been recorded from the exposed brains of animals since the late nineteenth century. Berger, working at the psychiatric clinic of the University of Jena, began recording from patients with skull defects in 1924, using a galvanometer attached to electrodes, and later from intact scalps.\n\nHis 1929 paper, 'On the electroencephalogram of man', described regular waves of about ten per second, now called alpha waves, which disappeared when the subject opened their eyes or concentrated. The work was met with scepticism until Edgar Adrian confirmed it in Cambridge in 1934.",
+    "date": {
+      "start": 1924,
+      "end": 1929,
+      "display": "1924–1929",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First recordings in 1924; published in the Archiv für Psychiatrie und Nervenkrankheiten in 1929."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mind-brain",
+      "mechanisms"
+    ],
+    "themes": [
+      "neurophysiology",
+      "epilepsy"
+    ],
+    "locations": [
+      {
+        "name": "Psychiatric Clinic, University of Jena",
+        "modern": "Jena, Germany",
+        "lat": 50.93,
+        "lon": 11.59,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Hans Berger",
+        "role": "Psychiatrist"
+      }
+    ],
+    "whatChanged": "The electrical activity of a living human brain could be recorded without surgery.",
+    "whyItMattered": "EEG became essential for diagnosing epilepsy, studying sleep and assessing brain function.",
+    "limitations": [
+      "Richard Caton and others had earlier recorded brain electricity in animals.",
+      "Early recordings were made in patients with defects in the skull, where signals were easier to pick up."
+    ],
+    "sources": [
+      {
+        "citation": "Science Museum Group Collection. Berger, Hans 1873–1941.",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/ap28739/berger-hans",
+        "kind": "museum",
+        "supports": "Joined the University of Jena psychiatric clinic; in June 1924 attached electrodes to a galvanometer, providing the first EEG recording; published in 1929."
+      },
+      {
+        "citation": "International League Against Epilepsy. History of EEG.",
+        "url": "https://ilae.org/09376721-7CFF-11E7-BE53141877632E8F",
+        "kind": "institution",
+        "supports": "First human EEG recordings made in 1924 and published in 1929, in subjects with pre-existing scalp defects, by Hans Berger."
+      },
+      {
+        "citation": "Hans Berger und die Erfindung des EEG. Spektrum der Wissenschaft (2024).",
+        "url": "https://www.spektrum.de/news/hans-berger-und-die-erfindung-des-eeg/2222106",
+        "kind": "journal",
+        "supports": "First EEG of a human brain recorded in Jena in July 1924; Berger was not the first to record brain electricity; five years' delay before the 1929 paper; involvement in Nazi eugenics."
+      },
+      {
+        "citation": "EBSCO Research Starters. Berger studies the human electroencephalogram.",
+        "url": "https://www.ebsco.com/research-starters/history/berger-studies-human-electroencephalogram",
+        "kind": "institution",
+        "supports": "Findings published in 1929 and largely ignored at first; Jena; Richard Caton as an earlier key figure."
+      },
+      {
+        "citation": "Stone JL, Hughes JR. Early history of electroencephalography and establishment of the American Clinical Neurophysiology Society. J Clin Neurophysiol (2013).",
+        "url": "https://www.aset.org/wp-content/uploads/2021/12/Early_History_of_Electroencephalography_and_2.pdf",
+        "kind": "journal",
+        "supports": "Earlier animal recordings by Neminsky and Cybulski; Adrian's role in confirming Berger's work."
+      }
+    ],
+    "related": [
+      "grey-walter-toposcope"
+    ],
+    "contested": "Berger's later involvement in Nazi eugenics has led to reassessment of how he is commemorated.",
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pertussis-vaccine",
+    "title": "Whooping cough vaccines are developed and tested",
+    "summary": "In the 1920s Thorvald Madsen of the Danish State Serum Institute reported that a vaccine made from whooping cough bacteria gave some protection in the Faroe Islands. In 1934–35 Pearl Kendrick and Grace Eldering in Grand Rapids, Michigan, ran a large controlled trial showing that their vaccine worked.",
+    "explanation": "Whooping cough killed more than 6,000 American children a year in the 1920s; its bacterium had been identified by Jules Bordet and Octave Gengou in 1906. Many commercial vaccines were sold, but none had been shown to work. Madsen's studies in the Faroe Islands in 1923–24 and 1929 suggested protection.\n\nKendrick and Eldering, at the Michigan Department of Health laboratory in Grand Rapids, began work during an outbreak in 1932. With the help of the community and local doctors they vaccinated more than 1,500 children and compared them with unvaccinated children, showing that the vaccine protected them. They helped combine the vaccine with diphtheria and tetanus toxoids into the DTP vaccine.",
+    "date": {
+      "start": 1923,
+      "end": 1938,
+      "display": "1923–1938",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Madsen's studies from 1923; Kendrick and Eldering's field trial in 1934–35, with follow-up trials to 1938."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "trial",
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "child health",
+      "clinical trials"
+    ],
+    "locations": [
+      {
+        "name": "State Serum Institute, Copenhagen",
+        "modern": "Copenhagen, Denmark",
+        "lat": 55.67,
+        "lon": 12.59,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Madsen's vaccine, tested in the Faroe Islands"
+      },
+      {
+        "name": "Michigan Department of Health laboratory, Grand Rapids",
+        "modern": "Grand Rapids, Michigan, USA",
+        "lat": 42.96,
+        "lon": -85.67,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "trial-site",
+        "role": "Kendrick and Eldering's controlled field trial"
+      }
+    ],
+    "people": [
+      {
+        "name": "Thorvald Madsen",
+        "role": "Director of the Danish State Serum Institute"
+      },
+      {
+        "name": "Pearl Kendrick",
+        "role": "Bacteriologist"
+      },
+      {
+        "name": "Grace Eldering",
+        "role": "Bacteriologist"
+      },
+      {
+        "name": "Loney Clinton Gordon",
+        "role": "Laboratory scientist who helped develop the vaccine strain"
+      }
+    ],
+    "whatChanged": "Whooping cough could be prevented with a vaccine whose effect had been measured in a controlled trial.",
+    "whyItMattered": "Pertussis vaccination, usually in the combined DTP vaccine, greatly reduced deaths of infants from whooping cough.",
+    "limitations": [
+      "Commercial pertussis vaccines were sold earlier, in the 1920s, without proof that they worked.",
+      "Whole-cell vaccines caused frequent side effects and were later largely replaced by acellular vaccines, which give shorter-lasting protection."
+    ],
+    "sources": [
+      {
+        "citation": "Shapiro-Shapin CG. Pearl Kendrick, Grace Eldering, and the pertussis vaccine. Emerg Infect Dis 16(8):1273–1278 (2010).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3298325",
+        "doi": "10.3201/eid1608.100288",
+        "kind": "journal",
+        "supports": "Kendrick brought Eldering to Grand Rapids in 1932 and began research during a virulent outbreak; Madsen's Faroe Islands studies in the 1920s; Bordet and Gengou identified the bacterium in 1906; many commercial vaccines in the 1920s; successful, large-scale, controlled trial."
+      },
+      {
+        "citation": "Zhou M. Pearl Luella Kendrick (1890–1980). Embryo Project Encyclopedia.",
+        "url": "https://embryo.asu.edu/pages/pearl-luella-kendrick-1890-1980",
+        "kind": "university",
+        "supports": "More than 6,000 US children died from pertussis each year in the 1920s; Madsen developed a vaccine; Kendrick and Eldering began in 1932."
+      },
+      {
+        "citation": "Cherry JD. Epidemic pertussis and acellular pertussis vaccine failure (review). Current Epidemiology Reports (2015).",
+        "url": "https://link.springer.com/doi/10.1007/s40471-015-0041-9",
+        "kind": "journal",
+        "supports": "Madsen's studies in the Faroe Islands in 1923–1924 and 1929 showed some protection; early US investigators Sauer, Kendrick and Eldering."
+      },
+      {
+        "citation": "Bentley Historical Library, University of Michigan. The trailblazer (Snapshots of U-M History).",
+        "url": "https://bentley.umich.edu/?p=2238",
+        "kind": "university",
+        "supports": "Kendrick proposed a controlled field study enlisting doctors, nurses, schools and families in Grand Rapids; Eldering and Gordon helped pioneer a combined diphtheria, pertussis and tetanus vaccine."
+      },
+      {
+        "citation": "Famous Scientists. Pearl Kendrick.",
+        "url": "https://www.famousscientists.org/pearl-kendrick/",
+        "kind": "institution",
+        "supports": "1934–35 field trial of more than 1,500 children; trials in 1936 and follow-up in 1938."
+      }
+    ],
+    "related": [
+      "toxoid-vaccines"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "bcg-vaccine",
+    "title": "BCG, the tuberculosis vaccine, is first given to a baby",
+    "summary": "On 18 July 1921, at the Charité hospital in Paris, Benjamin Weill-Hallé and Raymond Turpin gave a newborn whose mother had tuberculosis an oral dose of BCG, a weakened bovine tuberculosis bacillus developed by Albert Calmette and Camille Guérin. It remains the only licensed tuberculosis vaccine.",
+    "explanation": "At the Pasteur Institute in Lille, Calmette and Guérin spent more than a decade repeatedly culturing a bovine tuberculosis bacillus until it was too weak to cause disease. Trials in cattle were interrupted by the First World War.\n\nThe first infant, at high risk of infection at home, suffered no ill effects and lived free of tuberculosis. By the end of 1924 more than 600 infants had been vaccinated by mouth. In 1930 babies in Lübeck, Germany, died after receiving contaminated vaccine, a disaster later traced to negligence in a local laboratory. More than 4 billion doses of BCG have since been given.",
+    "date": {
+      "start": 1921,
+      "end": 1921,
+      "display": "18 July 1921",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first human dose, given by several sources."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "tuberculosis",
+      "child health"
+    ],
+    "locations": [
+      {
+        "name": "Pasteur Institute, Lille",
+        "modern": "Lille, France",
+        "lat": 50.63,
+        "lon": 3.06,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Development of the vaccine strain"
+      },
+      {
+        "name": "Hôpital de la Charité, Paris",
+        "modern": "Paris, France",
+        "lat": 48.86,
+        "lon": 2.33,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "trial-site",
+        "role": "First dose given to an infant"
+      }
+    ],
+    "people": [
+      {
+        "name": "Albert Calmette",
+        "role": "Physician and bacteriologist"
+      },
+      {
+        "name": "Camille Guérin",
+        "role": "Veterinarian"
+      },
+      {
+        "name": "Benjamin Weill-Hallé",
+        "role": "Paediatrician who gave the first dose"
+      },
+      {
+        "name": "Raymond Turpin",
+        "role": "Physician"
+      }
+    ],
+    "whatChanged": "Children could be protected against tuberculosis, especially its most severe forms, by vaccination.",
+    "whyItMattered": "BCG has reduced deaths from severe childhood tuberculosis such as meningitis, and is still given to infants in many countries.",
+    "limitations": [
+      "Calmette and Guérin had tested the vaccine earlier in animals; the 1921 dose was the first given to a person.",
+      "BCG protects young children well against severe tuberculosis but gives variable protection against lung tuberculosis in adults.",
+      "BCG vaccination of babies began before rigorous trials of its effectiveness."
+    ],
+    "harms": "In Lübeck, Germany, in 1930, vaccine contaminated in a local laboratory caused the deaths of many infants, a disaster that damaged trust in BCG for years.",
+    "sources": [
+      {
+        "citation": "BCG turns 100. Medicina (Buenos Aires) 81(6) (2021).",
+        "url": "https://www.medicinabuenosaires.com/revistas/vol81-21/n6/1007eng.pdf",
+        "kind": "journal",
+        "supports": "On 18 July 1921 in the maternity nursery of the Hôpital de la Charité in Paris, Weill-Hallé and Turpin administered BCG to a newborn of a mother with tuberculosis; consultation with Calmette."
+      },
+      {
+        "citation": "Bacillus Calmette-Guérin (chapter). Springer (2023).",
+        "url": "https://link.springer.com/10.1007/978-3-031-24355-4_8",
+        "kind": "book",
+        "supports": "Developed at the Pasteur Institute in Lille; cattle trial interrupted by the war; on 18 July 1921 the infant became the first human to receive BCG with no ill effects; over 600 infants vaccinated orally by the end of 1924; only licensed TB vaccine; debate on efficacy."
+      },
+      {
+        "citation": "CNRS News. A century on, does BCG have a future?",
+        "url": "https://news.cnrs.fr/articles/a-century-on-does-bcg-have-a-future",
+        "kind": "institution",
+        "supports": "In July 1921 the first tuberculosis vaccine given to a newborn at the Hôpital de la Charité; BCG vaccination of babies has reduced infant mortality."
+      },
+      {
+        "citation": "Luca S, Mihaescu T. History of BCG vaccine. Maedica 8(1):53 (2013).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3749764/",
+        "kind": "journal",
+        "supports": "BCG given to more than 4 billion people with a strong safety record; efficacy remains controversial."
+      },
+      {
+        "citation": "BBC Mundo. BCG: 100 años de la vacuna más antigua aún en uso (2021).",
+        "url": "https://www.mdzol.com/bbc-mundo/2021/7/18/bcg-100-anos-de-la-vacuna-mas-antigua-aun-en-uso-y-por-que-es-un-dolor-de-cabeza-para-la-ciencia-173428.html",
+        "kind": "journal",
+        "supports": "More than a decade to attenuate the bacillus; the Lübeck deaths affected Calmette deeply and were traced to negligence."
+      }
+    ],
+    "related": [
+      "koch-tuberculosis",
+      "streptomycin-trial"
     ],
     "suggestedBy": "wikipedia-timeline"
   }

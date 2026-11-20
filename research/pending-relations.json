@@ -1,9 +1,5 @@
 [
  [
-  "grey-walter-toposcope",
-  "berger-eeg"
- ],
- [
   "modern-cpr",
   "beck-defibrillation"
  ],
@@ -14,9 +10,5 @@
  [
   "pantridge-mobile-defibrillator",
   "beck-defibrillation"
- ],
- [
-  "robot-assisted-surgery",
-  "horsley-clarke-stereotaxy"
  ]
 ]

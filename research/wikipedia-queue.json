@@ -2022,8 +2022,8 @@
    "claim": "Blood groups",
    "place": "Vienna",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "landsteiner-blood-groups",
    "note": ""
   },
   {
@@ -2033,9 +2033,9 @@
    "claim": "First case of Alzheimer's disease",
    "place": "Frankfurt",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "alzheimer-disease-described",
+   "note": "Wikipedia gives 1901 as the 'first case'; 1901 is when Alzheimer began observing the patient, and he described the disease in 1906."
   },
   {
    "wid": "w186",
@@ -2044,8 +2044,8 @@
    "claim": "Accessory food factors (vitamins)",
    "place": "Cambridge",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "hopkins-accessory-food-factors",
    "note": ""
   },
   {
@@ -2055,9 +2055,9 @@
    "claim": "Chemotherapy for sleeping sickness",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "salvarsan",
+   "note": "Wikipedia gives 'chemotherapy for sleeping sickness, 1907'. Ehrlich's trypanosome dye work was a step towards it; his landmark chemotherapy was Salvarsan for syphilis, found in 1909 and marketed in 1910."
   },
   {
    "wid": "w188",
@@ -2066,8 +2066,8 @@
    "claim": "Unit patient record",
    "place": "Mayo Clinic",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "plummer-medical-record",
    "note": ""
   },
   {
@@ -2077,8 +2077,8 @@
    "claim": "Stereotactic method",
    "place": "London",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "horsley-clarke-stereotaxy",
    "note": ""
   },
   {
@@ -2088,8 +2088,8 @@
    "claim": "Intrauterine device described",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "richter-iud",
    "note": ""
   },
   {
@@ -2099,8 +2099,8 @@
    "claim": "Laparoscopy in humans",
    "place": "Stockholm",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "jacobaeus-laparoscopy",
    "note": ""
   },
   {
@@ -2110,8 +2110,8 @@
    "claim": "Malaria therapy for general paresis",
    "place": "Vienna",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "malaria-therapy-paresis",
    "note": ""
   },
   {
@@ -2121,9 +2121,9 @@
    "claim": "Vitamin D deficiency causes rickets",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "mellanby-rickets",
+   "note": "Wikipedia gives 1921; Mellanby's results were first published in 1919."
   },
   {
    "wid": "w194",
@@ -2143,8 +2143,8 @@
    "claim": "Epidural anaesthesia",
    "place": "Madrid",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "pages-epidural",
    "note": ""
   },
   {
@@ -2154,9 +2154,9 @@
    "claim": "First diphtheria vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "toxoid-vaccines",
+   "note": "Combined with the tetanus vaccine (w200) in one entry, as both came from Ramon's toxoid method."
   },
   {
    "wid": "w197",
@@ -2165,8 +2165,8 @@
    "claim": "Human EEG",
    "place": "Jena",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "berger-eeg",
    "note": ""
   },
   {
@@ -2176,9 +2176,9 @@
    "claim": "First pertussis vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "pertussis-vaccine",
+   "note": "Wikipedia gives 1926 for the 'first pertussis vaccine'; commercial vaccines existed earlier, Madsen's studies began in 1923, and the decisive controlled trial was in 1934–35."
   },
   {
    "wid": "w199",
@@ -2187,9 +2187,9 @@
    "claim": "First tuberculosis vaccine (BCG)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "bcg-vaccine",
+   "note": "Wikipedia gives 1927; BCG was first given to a person on 18 July 1921."
   },
   {
    "wid": "w200",
@@ -2198,9 +2198,9 @@
    "claim": "First tetanus vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "toxoid-vaccines",
+   "note": "Tetanus toxoid was described in 1924 and given to people in 1926–27."
   },
   {
    "wid": "w201",

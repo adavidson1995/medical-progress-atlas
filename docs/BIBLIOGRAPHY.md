@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 610 distinct sources across 147 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 677 distinct sources across 162 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -79,6 +79,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `tissue-engineering`: 1987 Granlibakken conference defined the term; 1993 review introduced it to a wide audience; 1988 Langer/Vacanti paper on resorbable polymer matrices for cell transplantation the most influential.
 
+- Academy of Nutrition Sciences. Vitamin D: one hundred years on (2022).  
+  <https://academynutritionsciences.org.uk/outputs/vitamin-d-one-hundred-years-on>  
+  Type: institution.
+  - `mellanby-rickets`: Mellanby (1919) concerned about the high incidence of rickets in the UK, especially Scotland; Chick and co-workers in Vienna (1922) showed rickets in children prevented or cured by cod-liver oil.
+
 - Achan J, Talisuna AO, Erhart A, et al. Quinine, an old anti-malarial drug in a modern world: role in the treatment of malaria. Malaria Journal 2011;10:144.  
   DOI: [10.1186/1475-2875-10-144](https://doi.org/10.1186/1475-2875-10-144), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3121651/>  
   Type: journal.
@@ -133,6 +138,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/alza-corp>  
   Type: book.
   - `alza-controlled-drug-delivery`: Founded in 1968 by Zaffaroni in Palo Alto; transdermal patent application in 1969; Ocusert Pilo-20/40 for glaucoma the first ALZA product approved, in 1974; Ciba-Geigy controlling interest in 1977.
+
+- Alzforum. 3 November 1906: Alzheimer's lecture in Tübingen.  
+  <https://alzforum.org/node/37908>  
+  Type: institution.
+  - `alzheimer-disease-described`: Alzheimer travelled from Munich; Kraepelin later named the disease; images of plaques and tangles; the brain shipped to Munich; the lecture met with silence.
+
+- Alzforum. Alzheimer: 100 years and beyond (2006).  
+  <https://alzforum.org/node/39003>  
+  Type: institution.
+  - `alzheimer-disease-described`: Oral presentation on 3 November 1906 in Tübingen, printed in 1907; correlation of the patient's behaviour with pathology; description of neurofibrillary tangles and 'miliary foci', now known as amyloid plaques.
 
 - American Academy of Ophthalmology. Retinal implants for RP. EyeNet.  
   <https://aao.org/eyenet/article/retinal-implants-for-rp>  
@@ -264,6 +279,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `insulin-pump`: Kadish described the first wearable insulin delivery system in 1963, 'The Backpack', an impractical proof of concept; commercial wearable subcutaneous pumps from 1978 onward.
 
+- Bacillus Calmette-Guérin (chapter). Springer (2023).  
+  <https://link.springer.com/10.1007/978-3-031-24355-4_8>  
+  Type: book.
+  - `bcg-vaccine`: Developed at the Pasteur Institute in Lille; cattle trial interrupted by the war; on 18 July 1921 the infant became the first human to receive BCG with no ill effects; over 600 infants vaccinated orally by the end of 1924; only licensed TB vaccine; debate on efficacy.
+
 - Ban TA. Educational Series 2, Bulletin 9, Vignette 4: The isolation of morphine. International Network for the History of Neuropsychopharmacology (INHN), 15 March 2018.  
   <https://inhn.org/index.php?id=1403>  
   Type: institution.
@@ -283,6 +303,31 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/viable-offspring-derived-fetal-and-adult-mammalian-cells-1997-ian-wilmut-et-al>  
   Type: university.
   - `dolly-cloned-sheep`: Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells.
+
+- Baxby D. Appreciation of Glenny AT, Südmersen HJ, J Hyg 1921. Epidemiology and Infection (2005).  
+  <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44B20AEA600187C6E0BC38A5B63702EF/S0950268805004267a.pdf/6_the_discovery_of_diphtheria_toxoid_and_the_primary_and_secondary_immune_response_glenny_at_sudmersen_hj_j_hyg_1921_20_176220.pdf>  
+  Type: journal.
+  - `toxoid-vaccines`: Brief 1921 description of diphtheria toxoid; first toxoids produced reactions unacceptable in Britain; alum-precipitated toxoid from 1926; now in diphtheria–tetanus–pertussis vaccine.
+
+- BBC Mundo. BCG: 100 años de la vacuna más antigua aún en uso (2021).  
+  <https://www.mdzol.com/bbc-mundo/2021/7/18/bcg-100-anos-de-la-vacuna-mas-antigua-aun-en-uso-y-por-que-es-un-dolor-de-cabeza-para-la-ciencia-173428.html>  
+  Type: journal.
+  - `bcg-vaccine`: More than a decade to attenuate the bacillus; the Lübeck deaths affected Calmette deeply and were traced to negligence.
+
+- BCG turns 100. Medicina (Buenos Aires) 81(6) (2021).  
+  <https://www.medicinabuenosaires.com/revistas/vol81-21/n6/1007eng.pdf>  
+  Type: journal.
+  - `bcg-vaccine`: On 18 July 1921 in the maternity nursery of the Hôpital de la Charité in Paris, Weill-Hallé and Turpin administered BCG to a newborn of a mother with tuberculosis; consultation with Calmette.
+
+- Beleña JM, Núñez M. Fidel Pagés, the true discoverer of epidural anesthesia, on the centenary of his publication Anestesia metamérica (1921–2021). Cirugía y Cirujanos / Medigraphic (2023).  
+  <https://www.medigraphic.com/pdfs/rma/cma-2023/cma231l.pdf>  
+  Type: journal.
+  - `pages-epidural`: Pagés called it 'metameric anaesthesia' in his March 1921 article in the Revista Española de Cirugía, founded by himself; Dogliotti published in 1931.
+
+- Bentley Historical Library, University of Michigan. The trailblazer (Snapshots of U-M History).  
+  <https://bentley.umich.edu/?p=2238>  
+  Type: university.
+  - `pertussis-vaccine`: Kendrick proposed a controlled field study enlisting doctors, nurses, schools and families in Grand Rapids; Eldering and Gordon helped pioneer a combined diphtheria, pertussis and tetanus vaccine.
 
 - Best JM. Rubella vaccines: past, present and future. Epidemiology and Infection.  
   <https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/F740ABC2F5BE5418DCFEE7F1667E91A2/S0950268800048640a.pdf/rubella-vaccines-past-present-and-future.pdf>  
@@ -344,6 +389,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/min-chueh-chang-1908-1991>  
   Type: university.
   - `chang-ivf-rabbits`: 1959 experiment with black rabbits' eggs and sperm, transfer to a white female, black offspring; later studies in hamsters, mice and rats; basis for human IVF by Steptoe and Edwards.
+
+- Bundeszentrale für politische Bildung. Salvarsan-Ampulle (Shared History Projekt).  
+  <https://www.bpb.de/themen/zeit-kulturgeschichte/geteilte-geschichte/340570/salvarsan-ampulle/>  
+  Type: institution.
+  - `salvarsan`: Salvarsan developed in 1909 by Paul Ehrlich and the chemist Alfred Bertheim at the Georg-Speyer-Haus in Frankfurt; later Neosalvarsan.
 
 - Cade JFJ. Lithium salts in the treatment of psychotic excitement (Medical Journal of Australia, 1949). Reprinted in Bulletin of the World Health Organization 2000;78(4):518–520. (pp. 518–520)  
   <https://apps.who.int/iris/handle/10665/268117>  
@@ -425,6 +475,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `badianus-manuscript`: Martín de la Cruz, native of Xochimilco, physician at the Colegio de Santa Cruz de Tlatelolco; mid-16th century.
 
+- Cherry JD. Epidemic pertussis and acellular pertussis vaccine failure (review). Current Epidemiology Reports (2015).  
+  <https://link.springer.com/doi/10.1007/s40471-015-0041-9>  
+  Type: journal.
+  - `pertussis-vaccine`: Madsen's studies in the Faroe Islands in 1923–1924 and 1929 showed some protection; early US investigators Sauer, Kendrick and Eldering.
+
 - Children's Hospital of Philadelphia. Intussusception and rotavirus vaccination.  
   <https://www.chop.edu/news/intussusception-and-rotavirus-vaccination>  
   Type: institution.
@@ -450,6 +505,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: Alternative account dating the invention to February 1816.
 
+- Clarke RH, Horsley V. The structure and functions of the cerebellum examined by a new method. Brain 31:45–124 (1908). Garrison–Morton entry.  
+  <https://www.historyofmedicine.com/author/d/robert-henry-clarke>  
+  Type: book.
+  - `horsley-clarke-stereotaxy`: The 1908 paper in Brain describing the new method; stereotactic surgery.
+
+- Clínica Universidad de Navarra. Diccionario médico: anestesia epidural.  
+  <https://www.cun.es/diccionario-medico/terminos/anestesia-epidural>  
+  Type: university.
+  - `pages-epidural`: Pagés's 1921 article described injecting local anaesthetic into the lumbar epidural space; Dogliotti described the same technique independently in 1931 with the loss-of-resistance manoeuvre; Pagés recognised posthumously.
+
+- CNRS News. A century on, does BCG have a future?  
+  <https://news.cnrs.fr/articles/a-century-on-does-bcg-have-a-future>  
+  Type: institution.
+  - `bcg-vaccine`: In July 1921 the first tuberculosis vaccine given to a newborn at the Hôpital de la Charité; BCG vaccination of babies has reduced infant mortality.
+
 - Cold Spring Harbor Laboratory DNA Learning Center. Biography 36: Stephen P. A. Fodor.  
   <https://dnaftb.org/36/bio-4.html>  
   Type: institution.
@@ -474,6 +544,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.5802/crbiol.83](https://doi.org/10.5802/crbiol.83), <https://comptes-rendus.academie-sciences.fr/biologies/item/10.5802/crbiol.83.pdf>  
   Type: journal.
   - `pasteur-attenuated-vaccines`: Ageing cultures of the chicken cholera bacterium lost virulence and protected chickens; Pasteur's first vaccines were chicken cholera (1879) and anthrax (1881).
+
+- Contraception (chapter). Taylor & Francis.  
+  <https://www.taylorfrancis.com/books/9780203074596/chapters/10.4324/9780203074596-17>  
+  Type: book.
+  - `richter-iud`: First IUD designed to prevent conception was Richter's silkworm-gut ring in 1909; Graefenberg ring in the 1920s; copper added in 1969.
 
 - Cooley DA. In memoriam: tribute to René Favaloro, pioneer of coronary bypass. Tex Heart Inst J 27(3):231–232 (2000).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC101069>  
@@ -562,6 +637,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bunyoro-caesarean`: Patient aged 21, first pregnancy; banana alcohol used; wound closed with iron spikes; mother and baby followed for 11 days; Bunyoro kingdom.
 
+- Dittrick Medical History Center. Intrauterine device (IUD), History of Birth Control exhibit.  
+  <https://artsci.case.edu/dittrick/?p=1901>  
+  Type: museum.
+  - `richter-iud`: In 1909 Richter claimed success with an intrauterine ring; earlier stem pessaries caused infections; Gräfenberg's coiled metal wire rings in the 1920s–30s; IUD the most popular reversible method with 160 million users; Dalkon Shield harms.
+
 - DNA sequencing with the Applied Biosystems Model 373A. Springer Protocols.  
   <https://link.springer.com/protocol/10.1385/0-89603-402-X:425>  
   Type: book.
@@ -576,6 +656,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2620631/>  
   Type: journal.
   - `malaria-mosquito-transmission`: Ross identified oocysts in mosquitoes in India in 1897; Grassi and colleagues confirmed anopheline mosquitoes as the vector of human malaria in 1900.
+
+- Dr Henry Stanley Plummer (biographical article). University of Pittsburgh Health Sciences Library digital collection.  
+  <https://dec.hsls.pitt.edu/files/original/cd5dfa7d3b78a449c28fa9b0e707433be0fe1492.pdf>  
+  Type: journal.
+  - `plummer-medical-record`: Previously each physician maintained his own ledger; a system in which each patient's record was a unit, all in a single index, introduced in 1907 and a model for medical records; cross-index developed about 1935.
 
 - Dr. Dilip Mahalanabis (1934–2022): trailblazer in diarrheal disease management (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11244720/>  
@@ -627,10 +712,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `aciclovir-antiviral`: Discovered in 1974, by this account at Wellcome laboratories near London; FDA approval for herpes infections in 1982; Elion and Hitchings' Nobel Prize.
 
+- EBSCO Research Starters. Berger studies the human electroencephalogram.  
+  <https://www.ebsco.com/research-starters/history/berger-studies-human-electroencephalogram>  
+  Type: institution.
+  - `berger-eeg`: Findings published in 1929 and largely ignored at first; Jena; Richard Caton as an earlier key figure.
+
 - EBSCO Research Starters. Birth control pills are tested in Puerto Rico.  
   <https://www.ebsco.com/research-starters/history/birth-control-pills-are-tested-puerto-rico>  
   Type: institution.
   - `oral-contraceptive-pill`: Pincus directed the first large-scale test in Puerto Rico, 1956–57; Edris Rice-Wray's role; some participants experienced side effects.
+
+- EBSCO Research Starters. Ehrlich introduces Salvarsan as a cure for syphilis.  
+  <https://www.ebsco.com/research-starters/history/ehrlich-introduces-salvarsan-cure-syphilis>  
+  Type: institution.
+  - `salvarsan`: April 1910; the first successful chemotherapeutic for syphilis; before 1910 treatment mainly with mercury or potassium iodide.
 
 - EBSCO Research Starters. FDA approves a genetically engineered vaccine for hepatitis B.  
   <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-genetically-engineered-vaccine-hepatitis-b>  
@@ -646,6 +741,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-first-cholesterol-lowering-drug>  
   Type: institution.
   - `statins`: Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck.
+
+- EBSCO Research Starters. Hopkins postulates the presence of vitamins.  
+  <https://ebsco.com/research-starters/history/hopkins-postulates-presence-vitamins>  
+  Type: institution.
+  - `hopkins-accessory-food-factors`: Date 1906, Cambridge; trace ingredients other than carbohydrates, proteins and fat essential; key figures Hopkins, Eijkman and Funk; 1906 address to the Society of Public Analysts.
 
 - EBSCO Research Starters. M. C. Chang.  
   <https://ebsco.com/research-starters/history/m-c-chang>  
@@ -742,6 +842,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `desault-clinical-surgery`: Opened a school of anatomy in Paris in winter 1766 with about 300 pupils; opposition from established teachers; surgeon-major to the Charité in 1782.
 
+- Encyclopaedia Britannica. Julius Wagner-Jauregg.  
+  <https://www.britannica.com/EBchecked/topic/633983/Julius-Wagner-Jauregg>  
+  Type: book.
+  - `malaria-therapy-paresis`: Treatment of general paresis by artificial induction of malaria brought a previously incurable fatal disease under partial control; observed improvement after febrile infections; 1917 at the University of Vienna.
+
+- Encyclopaedia Britannica. Karl Landsteiner.  
+  <https://britannica.com/biography/Karl-Landsteiner>  
+  Type: book.
+  - `landsteiner-blood-groups`: Returned to the University of Vienna in 1897 and in 1901 published the discovery of the human ABO blood groups; 1930 Nobel Prize; blood typing made transfusion routine.
+
 - Encyclopædia Britannica. Louis Pasteur: spontaneous generation.  
   <https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation>  
   Type: book.
@@ -751,6 +861,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.britannica.com/biography/Patricia-Bath>  
   Type: book.
   - `bath-laserphaco`: Invented the laserphaco probe for cataract surgery; patented in 1988, the first African American woman physician to receive a US medical patent; advocate for eye care in underserved communities; first woman on the faculty of the Jules Stein Eye Institute.
+
+- Encyclopaedia Britannica. Stereotaxic surgery.  
+  <https://www.britannica.com/print/article/565672>  
+  Type: book.
+  - `horsley-clarke-stereotaxy`: First stereotaxic device described in 1908 by Horsley and Clarke; atlases of animal brains; Mussen's human apparatus of 1918; human stereotaxic surgery from the 1940s.
 
 - Encyclopædia Universalis. Opération Lindbergh.  
   <https://www.universalis.fr/encyclopedie/operation-lindbergh/>  
@@ -842,10 +957,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `chamberlen-forceps`: Secret kept for 150 years; refusing to share condemned many to death; forceps gave male doctors the key to the previously all-female delivery room.
 
+- Famous Scientists. Pearl Kendrick.  
+  <https://www.famousscientists.org/pearl-kendrick/>  
+  Type: institution.
+  - `pertussis-vaccine`: 1934–35 field trial of more than 1,500 children; trials in 1936 and follow-up in 1938.
+
 - FDA approves artificial pancreas. Consultant360 (2016).  
   <https://www.consultant360.com/exclusives/fda-approves-artificial-pancreas>  
   Type: journal.
   - `artificial-pancreas-hybrid-loop`: Measures glucose every five minutes; study of 123 participants with a 3-month treatment period; risks of hypoglycaemia, hyperglycaemia and skin irritation.
+
+- Fidel Pagés: centenary of the discovery of epidural anesthesia. Revista da Sociedade Portuguesa de Anestesiologia.  
+  <https://revistas.rcaap.pt/anestesiologia/article/download/23688/17858/93388>  
+  Type: journal.
+  - `pages-epidural`: Published in March 1921 and reprinted in June in the Revista de Sanidad Militar; first description of lumbar epidural puncture for surgery; death in a road accident in 1923; Dogliotti's 1931 work quickly recognised.
 
 - Fifty years of coronary artery bypass grafting. PubMed Central, PMC5563669.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC5563669>  
@@ -861,6 +986,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32618-6/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: Rings of contacts and contacts of contacts vaccinated immediately or delayed 21 days; likely contributed to controlling the 2013–16 outbreak in Guinea.
+
+- First psychiatrist accepts Nobel Prize in medicine: December 1927. Psychiatric Times.  
+  <https://psychiatrictimes.com/view/first-psychiatrist-accepts-nobel-prize-medicine-december-1927>  
+  Type: journal.
+  - `malaria-therapy-paresis`: Tuberculin alone or with mercury or arsenic was not clinically satisfactory (1909); in 1917 nine neurosyphilis patients inoculated with blood from a soldier with malaria.
 
 - Fodor SPA, et al. Light-directed, spatially addressable parallel chemical synthesis. Science 251(4995):767–773 (15 February 1991).  
   <https://www.scilit.net/publications/a8ca15e5e8aca0f540afde3b61d695ce>  
@@ -999,6 +1129,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `preimplantation-genetic-diagnosis`: Biopsy of a single cell at the six- to eight-cell stage; sexing by amplification of a Y-specific repeat; female embryos transferred; five couples at risk of X-linked disease; first established pregnancies.
   - `preimplantation-genetic-diagnosis`: Both women confirmed as carrying normal female twins; earlier 1989 Lancet paper on biopsy and sexing.
 
+- Hans Berger und die Erfindung des EEG. Spektrum der Wissenschaft (2024).  
+  <https://www.spektrum.de/news/hans-berger-und-die-erfindung-des-eeg/2222106>  
+  Type: journal.
+  - `berger-eeg`: First EEG of a human brain recorded in Jena in July 1924; Berger was not the first to record brain electricity; five years' delay before the 1929 paper; involvement in Nazi eugenics.
+
 - Harappa.com (J. M. Kenoyer and colleagues). Mohenjo-daro street with drains.  
   <https://www.harappa.com/blog/mohenjo-daro-street-drains>  
   Type: university.
@@ -1024,6 +1159,17 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `measles-vaccine`: Boston Children's Hospital as the birthplace of the measles vaccine; live-attenuated vaccine released in 1963; Peebles and Enders isolated the virus in cell cultures.
 
+- Hatzinger M, et al. Hans-Christian Jacobaeus (1879–1937): the inventor of human laparoscopy and thoracoscopy. Der Urologe A 45(9):1184–6 (2006).  
+  <https://searchworks.jioinstitute.edu.in/articles/cmedm__16773384>  
+  Type: journal.
+  - `jacobaeus-laparoscopy`: First clinical laparoscopic surgery in Stockholm in 1910; recognised the need for training on animals and corpses.
+
+- Hatzinger M, Kwon ST, Langbein S, et al. Hans Christian Jacobaeus: inventor of human laparoscopy and thoracoscopy. J Endourol 20(11):848–50 (2006).  
+  DOI: [10.1089/end.2006.20.848](https://doi.org/10.1089/end.2006.20.848), <https://pesquisa.bvsalud.org/controlecancer/resource/pt/mdl-17144849>  
+  Type: journal.
+  - `jacobaeus-laparoscopy`: First clinical laparoscopy in Stockholm; based on Kelling's 1901 experiments in a dog; 1910 publication in the Münchener Medizinische Wochenschrift; diagnostic use.
+  - `jacobaeus-laparoscopy`: Research on artificial pneumothorax and pneumoperitoneum; laparoscopy in 17 patients with ascites in 1910; 97 operations described in a monograph covering 1910–1912.
+
 - Hearing aid evolution, part V. Hearing Health Matters (Wayne's World).  
   <https://hearinghealthmatters.org/waynesworld/2014/hearing-aid-evolution-v>  
   Type: journal.
@@ -1038,6 +1184,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC12524528/>  
   Type: journal.
   - `first-heart-transplant`: Shumway and Kantrowitz ready for clinical transplantation; Washkansky aged 54 with ischaemic cardiomyopathy.
+
+- Hektoen International. Alois Alzheimer and Auguste Deter.  
+  <https://hekint.org/?p=36242>  
+  Type: journal.
+  - `alzheimer-disease-described`: Fifty-one-year-old Auguste Deter, admitted in November 1901, was jealous, confused, forgetful and frequently lost; her brain was sent to Munich; report to the Tübingen conference; Bielschowsky silver stain; atrophic brain.
 
 - Hektoen International. Article on the history of leukaemia (weisses Blut).  
   <https://hekint.org/?p=49208>  
@@ -1058,6 +1209,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1016/S0140-6736(16)32621-6](https://doi.org/10.1016/S0140-6736(16)32621-6), <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32621-6/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: Open-label cluster-randomised ring vaccination in Conakry and eight surrounding prefectures (and in Sierra Leone); single dose; vaccine efficacy 100% (95% CI 68.9–100).
+
+- Henry S. Plummer (chapter). Springer.  
+  <https://link.springer.com/chapter/10.1007/978-3-319-13662-2_7>  
+  Type: book.
+  - `plummer-medical-record`: Plummer designed the clinic buildings, modernised the laboratory, introduced X-rays and created the modern medical record.
 
 - Hepatitis A vaccination in China (review). PubMed Central, PMC4000763.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4000763>  
@@ -1159,6 +1315,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: Invention dated 13 September 1816; rolled quire of paper; occasion witnessed by Augustus Granville; paper replaced by wood.
 
+- Hopkins FG (1912), abstract reprinted in Nutrition Reviews (1973).  
+  <https://www.mv.helsinki.fi/home/hemila/History/NR_1973_19.pdf>  
+  Type: journal.
+  - `hopkins-accessory-food-factors`: A milk addition amounting to 4% or less of the food eaten induced normal and continued growth.
+
+- Hopkins FG. Feeding experiments illustrating the importance of accessory factors in normal dietaries. J Physiol 44:425 (1912).  
+  <https://umaryland.cloud-cme.com/assets/umaryland/activities/15768/HoM%20Syllabus%20(Hopkins%20-%20Feeding%20experiments).pdf>  
+  Type: primary.
+  - `hopkins-accessory-food-factors`: Results first obtained in 1906–07; reference to work by Stepp and by Osborne and Mendel; milk additions to synthetic diets; results communicated in October 1911.
+
 - Houghton Library, Harvard University. Onesimus and the discovery of inoculation (exhibition text).  
   <https://library.harvard.edu/exhibits/houghton-library-lobby-gallery-0>  
   Type: university.
@@ -1234,6 +1400,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `hahnemann-homeopathy`: Translation of Cullen's Materia Medica and cinchona self-experiments near Leipzig, 1789–1790; Simile Principle first published in 1796 in the Journal der practischen Arzneykunde; Organon published 1810.
 
+- Institut Pasteur newsletter. A hundred years ago: Gaston Ramon (2025).  
+  <https://newsletter.pasteur.fr/en/newsletters/bip-institut-pasteur-newsletter-october-3-2025/museum/hundred-years-ago-gaston-ramon>  
+  Type: institution.
+  - `toxoid-vaccines`: Joined in 1911 in the serum production department at Garches; principle of toxoids (1923); diphtheria vaccine (1923) and tetanus vaccine (1924).
+
 - Institut Pasteur. A rabies vaccine center should be set up (history of the Institut Pasteur).  
   <https://www.pasteur.fr/en/node/6679>  
   Type: institution.
@@ -1243,6 +1414,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.pasteur.fr/en/about-us/alphonse-laveran-1845-1922>  
   Type: institution.
   - `laveran-malaria-parasite`: Discovery at Constantine hospital in 1880; descriptions published 1880–1882.
+
+- Institut Pasteur. Diphtérie: il y a 100 ans, le premier vaccin à base d'anatoxines bactériennes (2023).  
+  <https://www.pasteur.fr/fr/journal-recherche/actualites/diphterie-il-y-100-ans-premier-vaccin-base-anatoxines-bacteriennes>  
+  Type: institution.
+  - `toxoid-vaccines`: Toxins treated with formaldehyde and heat; on 10 December 1923 Roux presented Ramon's results to the Academy of Sciences.
+
+- Institut Pasteur. Diphtheria: a hundred years ago, the first toxoid vaccine (2023).  
+  <https://www.pasteur.fr/en/research-journal/news/diphtheria-hundred-years-ago-first-toxoid-vaccine>  
+  Type: institution.
+  - `toxoid-vaccines`: In 1923 Ramon discovered the diphtheria toxoid; diphtheria vaccine compulsory for young children in France from 1938, until the disease had virtually disappeared.
 
 - Institut Pasteur. The final years, 1877–1887.  
   <https://www.pasteur.fr/en/node/1686>  
@@ -1274,10 +1455,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `human-genome-project`: Draft sequence published 15 February 2001; collaboration of 20 groups from the US, UK, Japan, France, Germany and China; sequencing centres listed in order of sequence contributed, with the Whitehead Institute first; Washington University and the Beijing Genomics Institute among the centres.
 
+- International League Against Epilepsy. History of EEG.  
+  <https://ilae.org/09376721-7CFF-11E7-BE53141877632E8F>  
+  Type: institution.
+  - `berger-eeg`: First human EEG recordings made in 1924 and published in 1929, in subjects with pre-existing scalp defects, by Hans Berger.
+
 - Interventional cardiology: where it all began and where it might be going. Interventional Cardiology Review.  
   <https://www.icrjournal.com/articles/interventional-cardiology-where-it-all-began-and-where-it-might-be-going>  
   Type: journal.
   - `fogarty-balloon-catheter`: First used in a live patient in the early 1960s with Fogarty as scrub technician; patented in 1963; not the first catheter with a balloon.
+
+- Intrauterine devices (chapter). Springer.  
+  <https://link.springer.com/content/pdf/10.1007/978-94-009-8872-9_21.pdf>  
+  Type: book.
+  - `richter-iud`: In 1909 Richter published his experience with the first intrauterine device, a ring of silkworm gut; translation of his description of a simple, safe contraceptive used for almost four years.
 
 - Introducing the *Wu ze you xing tu manuscript from Mawangdui. Early China (Cambridge University Press), 2020.  
   <https://www.cambridge.org/core/journals/early-china/article/introducing-the-wu-ze-you-xing-tu-manuscript-from-mawangdui/8B31FB01F5E501DACE140F8ABEACF8AB/share/62fdb2249a2c5f859385f713d686eb3c72914d16>  
@@ -1304,6 +1495,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lind-scurvy-trial`: The Treatise's therapeutic recommendations had little impact.
 
+- James Lind Library. Paul Ehrlich and studies of the effects of dyes on infectious organisms (the introduction of arsphenamine).  
+  <https://www.jameslindlibrary.org/articles/the-introduction-of-chemotherapy-using-arsphenamine-the-first-magic-bullet/>  
+  Type: institution.
+  - `salvarsan`: Laboratory moved to the Georg Speyer Haus in 1906; compound 606 first dismissed by assistants and retested by Hata; tested in patients in spring 1909; Alt's 1909 report; marketed as Salvarsan in 1910; some 65,000 doses by end of 1910.
+
 - Jamieson N. In memoriam Sir Roy Yorke Calne. Transplant International 37:12692 (2024).  
   DOI: [10.3389/ti.2024.12692](https://doi.org/10.3389/ti.2024.12692), <https://pmc.ncbi.nlm.nih.gov/articles/PMC10922001>  
   Type: journal.
@@ -1319,6 +1515,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `jenner-cowpox-vaccination`: James Phipps was the son of Jenner's gardener; material from milkmaid Sarah Nelmes; Jenner born in Berkeley, Gloucestershire.
   - `balmis-expedition`: Expedition 1803–1806 through the Americas, the Philippines and Macao.
+
+- Jensen T. Origins of Alzheimer's: the life and research of Dr Alois Alzheimer. Being Patient (2019).  
+  <https://www.beingpatient.com/?p=9237>  
+  Type: journal.
+  - `alzheimer-disease-described`: Lecture at the 37th meeting of South-West German Psychiatrists in Tübingen in 1906; thinner cortex, tangles and senile plaques; poorly received.
 
 - John Snow, cholera, the Broad Street pump; waterborne diseases then and now (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/>  
@@ -1359,6 +1560,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.pharm.or.jp/eng/128th/data/SL06.pdf>  
   Type: institution.
   - `ghrelin-discovered`: Discovery in 1999 from rat stomach; roles in feeding, energy metabolism and the cardiovascular system; clinical trials in heart failure.
+
+- Karl Landsteiner (anniversary article). Iranian Journal of Public Health 47(5):777 (2018).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC6077641>  
+  Type: journal.
+  - `landsteiner-blood-groups`: The clumping reaction reported by Landois for animal blood transfused to humans could occur between human individuals; Landsteiner's 1901 paper.
 
 - Kentake Page. Patricia E. Bath.  
   <https://www.kentakepage.com/?p=18326>  
@@ -1404,6 +1610,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi.dedup.....01a05454baddd8a3184d868cd8b872b6>  
   Type: journal.
   - `andean-trepanation`: More prehistoric trepanned crania in Peru than anywhere; nearly 2,000 years of practice from 400 BC; survival rates analysed.
+
+- La Revue du Praticien. Gaston Ramon, artisan de la vaccinologie moderne.  
+  <https://www.larevuedupraticien.fr/article/gaston-ramon-artisan-de-la-vaccinologie-moderne>  
+  Type: journal.
+  - `toxoid-vaccines`: Treated toxin no longer killed guinea pigs; tetanus anatoxin; first vaccinated were soldiers, with Christian Zoeller; results in the first hundred reported in 1926.
 
 - Lakhtakia R. A trio of exemplars of medieval Islamic medicine: al-Razi, Avicenna and Ibn al-Nafis. Sultan Qaboos University Medical Journal (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4205055/>  
@@ -1505,6 +1716,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `sims-fistula-repair`: Sims speculum developed in 1845; first successful repair in 1849; women named as Anarcha, Betsy and Lucy; 'Mothers of Gynecology' monument in Montgomery in 2021.
 
+- Life in the Fast Lane (LITFL). Karl Landsteiner.  
+  <https://litfl.com/karl-landsteiner/>  
+  Type: institution.
+  - `landsteiner-blood-groups`: Assistant to Weichselbaum at the Institute of Pathological Anatomy, Vienna; discovered the ABO system in 1900–1901; Decastello and Sturli identified the AB group in 1902; later Rh factor discovery.
+
 - Life-threatening antibodies: the discovery of anaphylaxis (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC13459517/>  
   Type: journal.
@@ -1525,6 +1741,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `european-trepanation`: Vasilyevka II location (Dnieper Rapids, c. 400 km south-east of Kyiv), calibrated dates 7300–6220 BCE, complete closure of the aperture; Ensisheim dated to 5100 BCE.
 
+- Linda Hall Library. Scientist of the Day: F. Gowland Hopkins (2019).  
+  <https://www.lindahall.org/about/news/scientist-of-the-day/f-gowland-hopkins/>  
+  Type: institution.
+  - `hopkins-accessory-food-factors`: 1912 Journal of Physiology paper; rats on a purified diet lost weight and needed minute 'food factors'; later called vitamins; shared the 1929 Nobel Prize.
+
 - Liposuction overview (abstract). Cleveland Clinic Journal of Medicine.  
   <https://www.ccjm.org/node/10133>  
   Type: journal.
@@ -1539,6 +1760,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ccjm.org/content/87/6/367>  
   Type: journal.
   - `liposuction`: Illouz's wet technique of 1977 reduced haemorrhagic risk; Fournier's syringe technique of 1983; Klein's tumescent technique by 1987.
+
+- Litynski GS. Laparoscopy – the early attempts: spotlighting Georg Kelling and Hans Christian Jacobaeus. JSLS (1997).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3015224>  
+  Type: journal.
+  - `jacobaeus-laparoscopy`: Kelling of Dresden and Jacobaeus of Stockholm as early pioneers; Kelling's 1901 coelioscopy.
 
 - Live Science. The Incas mastered the grisly practice of drilling holes in people's skulls (2018).  
   <https://www.foxnews.com/science/incas-mastered-the-grisly-practice-of-drilling-holes-in-peoples-skulls>  
@@ -1569,6 +1795,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/>  
   Type: journal.
   - `semmelweis-handwashing`: Two clinics with alternate-day admission; 1840–1846 mortality 98.4 vs 36.2 per 1,000; almost all deaths from puerperal fever; chloride of lime handwashing introduced 1847.
+
+- Luca S, Mihaescu T. History of BCG vaccine. Maedica 8(1):53 (2013).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3749764/>  
+  Type: journal.
+  - `bcg-vaccine`: BCG given to more than 4 billion people with a strong safety record; efficacy remains controversial.
 
 - Maloney TR, Dilkes-Hall IE, Vlok M, et al. Surgical amputation of a limb 31,000 years ago in Borneo. Nature 2022;609(7927):547–551.  
   DOI: [10.1038/s41586-022-05160-8](https://doi.org/10.1038/s41586-022-05160-8), <https://research-repository.uwa.edu.au/en/publications/surgical-amputation-of-a-limb-31000-years-ago-in-borneo/>  
@@ -1615,6 +1846,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `oral-contraceptive-pill`: Searle submitted Enovid in 1957; first approved for menstrual disorders; FDA announced approval for contraception on 9 May 1960.
 
+- Mayo Clinic History & Heritage. Henry Plummer.  
+  <https://history.mayoclinic.org/?p=49322>  
+  Type: institution.
+  - `plummer-medical-record`: Patient number one on 1 July 1907; the medical record, a paper dossier with the patient's history in one place.
+
+- Mayo Clinic Laboratories. 1907: the first Plummer project (#ThrowbackThursday).  
+  <https://news.mayocliniclabs.com/?p=34050>  
+  Type: institution.
+  - `plummer-medical-record`: On 19 July 1907 patient no. 1 registered in the new system designed by Plummer with Mabel Root; previously each physician kept a ledger; Plummer studied record-keeping at other centres and in business for more than a year.
+
 - McCall A. James Marion Sims: father of modern gynecology or abuser? Mütter Museum of the College of Physicians of Philadelphia, 24 September 2020.  
   <https://muttermuseum.org/stories/posts/james-marion-sims-father-modern-gynecology-or-abuser/>  
   Type: museum.
@@ -1624,6 +1865,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.jameslindlibrary.org/medical-research-council-1948b/>  
   Type: primary.
   - `streptomycin-trial`: Original trial report (record and full text at the James Lind Library).
+
+- Mellanby, Edward (Encyclopedia.com topic entry).  
+  <https://www.encyclopedia.com/topic/Edward_Mellanby.aspx/>  
+  Type: book.
+  - `mellanby-rickets`: Hopkins urged that rickets be studied and Mellanby undertake it; non-dietary factors secondary; experiments between 1918 and 1921.
+
+- Mellanby, Edward. Complete Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/edward-mellanby>  
+  Type: book.
+  - `mellanby-rickets`: Hundreds of feeding experiments on puppies in the Field Laboratories of Cambridge University; cod-liver oil, butter and suet most strongly preventive; fat-soluble A then known; immediate impact on rickets in England; clinicians had already linked rickets with deficiency.
 
 - Melling L. Inventing the MDI: a history in modern inhalation therapy. Contract Pharma, 19 April 2017.  
   <https://www.contractpharma.com/contents/view_online-exclusives/2017-04-19/inventing-the-mdi-a-history-in-modern-inhalation-therapy/>  
@@ -1795,6 +2046,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://webarchive.library.unt.edu/eot2008/20090116003905/http:/nihrecord.od.nih.gov/newsletters/01_26_99/story04.htm>  
   Type: institution.
   - `women-medical-degrees-us`: On 23 January 1849, in the Presbyterian church in Geneva, NY, the president of Geneva Medical College conferred the MD on Blackwell.
+
+- Nobel Prize biography of Paul Ehrlich (University of Wisconsin course copy).  
+  <https://www2.chem.wisc.edu/deptfiles/genchem/Chm346/pdf/26.pdf>  
+  Type: university.
+  - `salvarsan`: The drug had been set aside in 1907 as ineffective; Hata had infected rabbits with syphilis and found the discarded drug very effective.
 
 - Nobel Prize in Physiology or Medicine 1902: Ronald Ross, biographical.  
   <https://www.nobelprize.org/prizes/medicine/1902/ross/biographical/>  
@@ -2047,6 +2303,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ct-scanning`: By 1971, scan time of about 5 minutes per slice and reconstruction time of 7 minutes.
 
+- Rajakumar K. Vitamin D, cod-liver oil, sunlight, and rickets: a historical perspective. Pediatrics 112:e132 (2003).  
+  <https://www.direct-ms.org/wp-content/uploads/2018/01/RicketsHistory.pdf>  
+  Type: journal.
+  - `mellanby-rickets`: History of rickets and the discovery of vitamin D, cod-liver oil and sunlight; animal experiments and the anti-rachitic properties of cod-liver oil.
+
 - Raphals L. Review of Donald Harper, Early Chinese Medical Literature: The Mawangdui Medical Manuscripts (London: Kegan Paul, 1998). Project MUSE.  
   <https://muse.jhu.edu/article/8677/summary>  
   Type: journal.
@@ -2066,6 +2327,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10987036>  
   Type: journal.
   - `first-heart-transplant`: Recipient died of pneumonia with a missed diagnosis of rejection; Zerbini began preparing a transplant programme on 4 December 1967.
+
+- Remarks upon the term stereotaxy. Stereotactic and Functional Neurosurgery 93(1):42 (Karger).  
+  <https://karger.com/sfn/article/93/1/42/293482/Remarks-upon-the-Term-Stereotaxy-A-Linguistic-and>  
+  Type: journal.
+  - `horsley-clarke-stereotaxy`: Terms introduced by Clarke and Horsley in 1908 for precise positioning of electrodes in the deep cerebellar nuclei of apes; target defined by distances from three orthogonal planes.
 
 - Reproductive politics in twentieth-century France and Britain (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6434651/>  
@@ -2091,6 +2357,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://rjme.ro/RJME/resources/files/60041913811382.pdf>  
   Type: journal.
   - `virchow-cellular-pathology`: Established omnis cellula e cellula and considered for the first time that alterations of cell organisation were the basis of disease; studied in Berlin; moved to Würzburg in 1849; recalled to Berlin in 1856.
+
+- Richter. Über Fremdkörper im Uterus als Mittel zur Verhütung der Konzeption (reply). Deutsche Medizinische Wochenschrift, 11 January 1912.  
+  <https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0029-1189232.pdf>  
+  Type: primary.
+  - `richter-iud`: Dr Richter of Waldenburg (Silesia) refers to his first communication in no. 39 of the 1909 volume.
+
+- Rickets and vitamin D history (review). J Biomed Sci 17(Suppl 1):S36 (2010).  
+  <https://biomedcentral-jbiomedsci.publicaciones.saludcastillayleon.es/counter/pdf/10.1186/1423-0127-17-S1-S36.pdf>  
+  Type: journal.
+  - `mellanby-rickets`: Certain fats could reverse rickets; McCollum ultimately 'discovered' vitamin D by showing that oxidised cod-liver oil retained the antirachitic activity.
 
 - Riedel S. Edward Jenner and the history of smallpox and vaccination. Proceedings (Baylor University Medical Center) 2005;18(1):21–25. (pp. 21–25)  
   DOI: [10.1080/08998280.2005.11928028](https://doi.org/10.1080/08998280.2005.11928028), <https://pmc.ncbi.nlm.nih.gov/articles/PMC1200696/>  
@@ -2217,10 +2493,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pasteur-attenuated-vaccines`: Worked with Roux and Chamberland; widely publicised 1881 anthrax trial at Pouilly-le-Fort; Pasteur's explanation of the chicken vaccine later found to be wrong; Koch recognised as discoverer of the anthrax bacterium.
 
+- Science History Institute. Paul Ehrlich (historical profile).  
+  <https://sciencehistory.org/historical-profile/paul-ehrlich>  
+  Type: institution.
+  - `salvarsan`: Georg-Speyer-Haus established in 1906 under Ehrlich; Salvarsan, the 'magic bullet', used to treat syphilis until the 1940s.
+
+- Science History Institute. Paul Ehrlich (scientific biography).  
+  <https://sciencehistory.org/education/scientific-biographies/paul-ehrlich/>  
+  Type: institution.
+  - `salvarsan`: Beginning with atoxyl, three years and 300 syntheses later they discovered Salvarsan (1909).
+
 - Science in Ancient Egypt (Saxon Academy of Sciences, Leipzig). Kahun Gynaecological Papyrus (UC 32057), with bibliography including Collier M, Quirke S. The UCL Lahun Papyri (BAR International Series 1209, 2004), 58–64.  
   <https://sae.saw-leipzig.de/en/documents/kahun-gynaecological-papyrus>  
   Type: university.
   - `kahun-gynaecological-papyrus`: Inventory UC 32057 at the Petrie Museum; findspot el-Lahun; Middle Kingdom, 12th Dynasty; text type handbook.
+
+- Science Museum Group Collection. Berger, Hans 1873–1941.  
+  <https://collection.sciencemuseumgroup.org.uk/people/ap28739/berger-hans>  
+  Type: museum.
+  - `berger-eeg`: Joined the University of Jena psychiatric clinic; in June 1924 attached electrodes to a galvanometer, providing the first EEG recording; published in 1929.
 
 - Science Museum Group Collection. Walter, William Grey (1910–1977).  
   <https://collection.sciencemuseumgroup.org.uk/people/ap28659/walter-william-grey>  
@@ -2256,6 +2547,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.general-anaesthesia.com/oxygen.htm>  
   Type: journal.
   - `priestley-oxygen`: Scheele's earlier (1772) discovery and the dispute over credit; Lavoisier failed to credit Priestley or Scheele.
+
+- Shapiro-Shapin CG. Pearl Kendrick, Grace Eldering, and the pertussis vaccine. Emerg Infect Dis 16(8):1273–1278 (2010).  
+  DOI: [10.3201/eid1608.100288](https://doi.org/10.3201/eid1608.100288), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3298325>  
+  Type: journal.
+  - `pertussis-vaccine`: Kendrick brought Eldering to Grand Rapids in 1932 and began research during a virulent outbreak; Madsen's Faroe Islands studies in the 1920s; Bordet and Gengou identified the bacterium in 1906; many commercial vaccines in the 1920s; successful, large-scale, controlled trial.
 
 - Shorter E. The history of lithium therapy. Bipolar Disorders 2009;11(Suppl 2):4–9. (pp. 4–9)  
   DOI: [10.1111/j.1399-5618.2009.00706.x](https://doi.org/10.1111/j.1399-5618.2009.00706.x), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3712976/>  
@@ -2322,6 +2618,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `edwin-smith-papyrus`: Discovered in 1862 outside Luxor; a copy of an earlier text; 48 cases, mostly traumatic injuries.
 
+- Stone JL, Hughes JR. Early history of electroencephalography and establishment of the American Clinical Neurophysiology Society. J Clin Neurophysiol (2013).  
+  <https://www.aset.org/wp-content/uploads/2021/12/Early_History_of_Electroencephalography_and_2.pdf>  
+  Type: journal.
+  - `berger-eeg`: Earlier animal recordings by Neminsky and Cybulski; Adrian's role in confirming Berger's work.
+
 - STORZ MEDICAL. 40 years of ESWL (2020).  
   <https://www.storzmedical.com/en/news-press/40-years-of-eswl-shock-waves-replaced-open-renal-surgery/>  
   Type: institution.
@@ -2376,6 +2677,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://english.tau.ac.il/node/2442>  
   Type: university.
   - `bioengineered-organs`: Engineered heart with cells, blood vessels, ventricles and chambers; made from a biopsy of patients' fatty tissue; size of a rabbit's heart; led by Tal Dvir.
+
+- Tetanus toxoid (review), noting Descombey F, C R Soc Biol 1924 and Zoeller C, Ramon G, Presse Med 1926.  
+  <https://www.ebm-journal.org/journals/experimental-biology-and-medicine/articles/10.3181/00379727-30-6783/full>  
+  Type: journal.
+  - `toxoid-vaccines`: References to Descombey's 1924 tetanus toxoid and Zoeller and Ramon's 1926 paper.
 
 - Thank you, Edward. Merci, Louis. (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4713079/>  
@@ -2492,6 +2798,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `capsule-endoscopy`: Given Imaging founded in 1998; Swain first to swallow the capsule, October 1999.
 
+- The Horsley–Clarke stereotaxic apparatus (abstract). Scilit record.  
+  <https://www.scilit.net/publications/2b75fa028a4f0856296e5e8bce99ea83>  
+  Type: journal.
+  - `horsley-clarke-stereotaxy`: Clarke applied mathematical principles to an apparatus allowing Horsley to make lesions in the cerebellum; atlas of photographed sections; original apparatus made in 1905; papers in 1908, 1911 and 1914; basis of modern stereotaxic surgery.
+
 - The human, societal, and scientific legacy of cholera (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC324550/>  
   Type: journal.
@@ -2571,6 +2882,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.jameslindlibrary.org/articles/the-problematic-history-of-randomised-controlled-trials-part-1-presumption-and-confusion-on-the-road-to-randomisation/>  
   Type: journal.
   - `streptomycin-trial`: Published 1948; random allocation designed by Austin Bradford Hill of the London School of Hygiene; status as origin of the RCT 'gold standard'.
+
+- The Rockefeller University. Karl Landsteiner: Nobel Prize.  
+  <https://www.rockefeller.edu/our-scientists/karl-landsteiner/2554-nobel-prize/>  
+  Type: university.
+  - `landsteiner-blood-groups`: Identification of blood groups in 1901; went against the view equating incompatibility with pathology; groups A, B and C (later O); von Dungern and Hirschfeld's 1910 inheritance hypothesis and use in paternity cases.
 
 - The role of Vesalius and his contemporaries in the transfiguration of human anatomical science (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9877481/>  
@@ -2656,6 +2972,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.biographi.ca/en/bio/177>  
   Type: university.
   - `annedda-scurvy`: Cartier learned the secret of annedda (white cedar) from Domagaya; Donnacona taken into exile with his sons and died in France, probably 1539.
+
+- Tsay CJ. Julius Wagner-Jauregg and the legacy of malarial therapy for the treatment of general paresis of the insane. Yale J Biol Med (2013).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3670443>  
+  Type: journal.
+  - `malaria-therapy-paresis`: Nobel Prize in 1927 for malaria therapy for neurosyphilis; the first Nobel Prize awarded to a psychiatrist.
 
 - Tu Youyou. Artemisinin: a gift from traditional Chinese medicine to the world. Nobel Lecture slides, 7 December 2015.  
   <https://www.nobelprize.org/uploads/2018/06/tu-lecture-slides.pdf>  
@@ -2842,6 +3163,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `icsi-brussels`: Centre for Reproductive Medicine at UZ Brussel; pregnancy in April 1991 after a single ICSI embryo; delivery on 14 January 1992; shift from SUZI to ICSI.
 
+- Velázquez Rivera I. Aproximación a la obra científica del Comandante Médico Fidel Pagés Miravé. Sanidad Militar 67(Supl 1) (2011).  
+  <https://scielo.isciii.es/pdf/sm/v67s1/humanidades3.pdf>  
+  Type: journal.
+  - `pages-epidural`: Pagés a true pioneer of epidural anaesthesia; Dogliotti's segmental peridural anaesthesia ignored Pagés's work published ten years earlier; earlier intradural and caudal techniques.
+
 - von Behring E, Kitasato S. Ueber das Zustandekommen der Diphtherie-Immunität und der Tetanus-Immunität bei Thieren. Deutsche Medizinische Wochenschrift 1890;16(49):1113–1114 (as cited in PubMed Central reviews). (pp. 1113–1114)  
   DOI: [10.1055/s-0029-1207589](https://doi.org/10.1055/s-0029-1207589), <https://pmc.ncbi.nlm.nih.gov/articles/PMC7151993/>  
   Type: primary.
@@ -2871,6 +3197,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11609463/>  
   Type: journal.
   - `liggins-antenatal-steroids`: Reduction in respiratory distress syndrome; remaining questions on timing, dose and setting.
+
+- Whitrow M. Julius Wagner-Jauregg (images in psychiatry). Am J Psychiatry 165(10) (2008).  
+  <https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08081271>  
+  Type: journal.
+  - `malaria-therapy-paresis`: Observation that patients with general paresis recovered during febrile infections; on 14 June 1917 he injected malarial blood from a soldier into nine patients; Nobel Prize 1927; death in 2%–13% of cases.
 
 - WHO Regional Office for Europe. Commemorating the impact of Semmelweis' work on global health. 19 June 2018.  
   <https://www.who.int/europe/news/item/19-06-2018-commemorating-the-impact-of-semmelweis-work-on-global-health>  
@@ -3061,3 +3392,8 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.yourgenome.org/theme/the-dawn-of-dna-profiling-the-eureka-moment-that-revolutionised-crime-solving/>  
   Type: institution.
   - `dna-fingerprinting`: Developed in 1984 at the University of Leicester; revolutionised police investigation.
+
+- Zhou M. Pearl Luella Kendrick (1890–1980). Embryo Project Encyclopedia.  
+  <https://embryo.asu.edu/pages/pearl-luella-kendrick-1890-1980>  
+  Type: university.
+  - `pertussis-vaccine`: More than 6,000 US children died from pertussis each year in the 1920s; Madsen developed a vaccine; Kendrick and Eldering began in 1932.
