@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 417 distinct sources across 101 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 504 distinct sources across 122 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -33,6 +33,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8523063/>  
   Type: journal.
   - `ct-scanning`: First clinical head CT in 1971 on a patient with a suspected frontal lobe tumour; surgeon confirmed the lesion looked like the picture; rapid international interest.
+
+- A brief history of the sonogram. Smithsonian Magazine.  
+  <https://www.smithsonianmag.com/innovation/a-brief-history-of-the-sonogram-180978732/>  
+  Type: journal.
+  - `donald-obstetric-ultrasound`: Donald as Regius Professor; nearly a decade of prototypes with MacVicar and Brown; the Diasonograph of 1963 as the first commercial ultrasound scanner.
 
 - A century of medicinal molecules. Chemical & Engineering News.  
   <https://cen.acs.org/synthesis/medicinal-chemistry/A-century-of-medicinal-molecules/101/i26>  
@@ -94,6 +99,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `al-razi-smallpox-measles`: Al-Razi's records of cases treated by him or his students; his personal observations on smallpox.
 
+- ALZA Corporation. Encyclopedia.com (company history).  
+  <https://encyclopedia.com/books/politics-and-business-magazines/alza-corporation>  
+  Type: book.
+  - `alza-controlled-drug-delivery`: FDA approved Transderm Scop in August 1981 and Transderm-Nitro two months later; patches resembling adhesive bandages.
+
+- ALZA Corporation. International Directory of Company Histories (Encyclopedia.com).  
+  <https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/alza-corp>  
+  Type: book.
+  - `alza-controlled-drug-delivery`: Founded in 1968 by Zaffaroni in Palo Alto; transdermal patent application in 1969; Ocusert Pilo-20/40 for glaucoma the first ALZA product approved, in 1974; Ciba-Geigy controlling interest in 1977.
+
 - American Academy of Ophthalmology. Retinal implants for RP. EyeNet.  
   <https://aao.org/eyenet/article/retinal-implants-for-rp>  
   Type: institution.
@@ -118,6 +133,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.acs.org/education/whatischemistry/landmarks/penicillin.html>  
   Type: institution.
   - `penicillin`: Fleming's return in September 1928; Penicillium contamination; remained a laboratory curiosity until Florey's Oxford team; production difficulties.
+
+- American College of Surgeons. Timeline: 1961, balloon embolectomy catheter debuts.  
+  <https://timeline.facs.org/1960.html>  
+  Type: institution.
+  - `fogarty-balloon-catheter`: Fogarty used the device to remove an embolus from a patient; design of a balloon-tipped tube; conceived while a medical student at the University of Cincinnati.
+
+- American Heart Association. History of CPR.  
+  <https://cpr.heart.org/en/resources/history-of-cpr>  
+  Type: institution.
+  - `modern-cpr`: Johns Hopkins researchers led by Kouwenhoven rediscover external compressions in dog experiments; Elam and Safar prove mouth-to-mouth resuscitation effective; Kouwenhoven, Safar and Jude combine compressions and breathing into CPR; 1957 Hopkins closed-chest defibrillator.
 
 - Amr SS, Tbakhi A. Abu Bakr Muhammad Ibn Zakariya Al Razi (Rhazes): philosopher, physician and alchemist. Annals of Saudi Medicine 2007;27(4):305–307.  
   DOI: [10.5144/0256-4947.2007.305](https://doi.org/10.5144/0256-4947.2007.305), <https://pmc.ncbi.nlm.nih.gov/articles/PMC6074295/>  
@@ -159,6 +184,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `capsule-endoscopy`: First images of pathology in the human small bowel; patients with obscure bleeding; January 2001.
 
+- Archives of IT. Professor Frank Pantridge (article).  
+  <https://archivesit.org.uk/wp-content/uploads/2022/02/Professor-Frank-Pantridge-Article.pdf>  
+  Type: archive.
+  - `pantridge-mobile-defibrillator`: First portable defibrillator in 1965 powered from a car battery, weighing 70 kg; 3 kg version by 1968; became the AED; 1967 Lancet editorial.
+
 - Armitage P. A statistical note on the analysis of the 1948 MRC streptomycin trial. Journal of the Royal Society of Medicine 2016 (From the James Lind Library).  
   <https://www.jameslindlibrary.org/wp-data/uploads/2016/08/J-R-Soc-Med-2016-08-Armitage-312.pdf>  
   Type: journal.
@@ -178,6 +208,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00437-7/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: Later real-world data found the vaccine highly effective (overall effectiveness 84%).
+
+- Atkins H. Mother's little helper: the history of Valium. History Hit (2022).  
+  <https://www.historyhit.com/?p=5182633>  
+  Type: journal.
+  - `benzodiazepines-diazepam`: Valium America's best-selling medication from 1968 to 1982, when use declined because of its addictive properties; story of the forgotten compound.
 
 - Atlas Obscura. Student life at the world's first medical school for women.  
   <https://atlasobscura.com/articles/student-life-worlds-first-medical-school-for-women-feminism-health>  
@@ -203,6 +238,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/viable-offspring-derived-fetal-and-adult-mammalian-cells-1997-ian-wilmut-et-al>  
   Type: university.
   - `dolly-cloned-sheep`: Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells.
+
+- Best JM. Rubella vaccines: past, present and future. Epidemiology and Infection.  
+  <https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/F740ABC2F5BE5418DCFEE7F1667E91A2/S0950268800048640a.pdf/rubella-vaccines-past-present-and-future.pdf>  
+  Type: journal.
+  - `rubella-vaccine`: HPV77.DE5 and Cendehill strains licensed in the USA in 1969; HPV77.DK12 discontinued for adverse reactions; RA27/3 licensed in the UK in 1972 and replaced HPV77 in the USA in 1979; MMR licensed 1971.
+
+- Black JW. Biographical. The Nobel Prize in Physiology or Medicine 1988. NobelPrize.org.  
+  <https://www.nobelprize.org/nobel_prizes/medicine/laureates/1988/black-bio.html>  
+  Type: institution.
+  - `propranolol-beta-blocker`: Employed by ICI at Alderley Park, Cheshire, 1958–1964; chemist John Stephenson; Bert Crowther and Brian Pritchard's roles in bringing the first beta-receptor antagonist to market.
 
 - Bodleian Libraries, University of Oxford. Moments in Medicine: Micrographia, Robert Hooke, 1665.  
   <https://bodwhatson.web.ox.ac.uk/sites/default/files/bodwhatson/documents/media/mim-micrographia.pdf>  
@@ -250,6 +295,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `brugada-syndrome`: Inherited disorder predisposing to sudden death; mutations in sodium, calcium and potassium channel genes; originally described in 1992 by Pedro and Josep Brugada.
 
+- Buettner KA. Min Chueh Chang (1908–1991). Embryo Project Encyclopedia, Arizona State University.  
+  <https://embryo.asu.edu/pages/min-chueh-chang-1908-1991>  
+  Type: university.
+  - `chang-ivf-rabbits`: 1959 experiment with black rabbits' eggs and sperm, transfer to a white female, black offspring; later studies in hamsters, mice and rats; basis for human IVF by Steptoe and Edwards.
+
 - Cade JFJ. Lithium salts in the treatment of psychotic excitement (Medical Journal of Australia, 1949). Reprinted in Bulletin of the World Health Organization 2000;78(4):518–520. (pp. 518–520)  
   <https://apps.who.int/iris/handle/10665/268117>  
   Type: primary.
@@ -259,6 +309,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540>  
   Type: journal.
   - `urbani-sars-alert`: Examined the patient on 28 February 2003; alerted WHO headquarters on 7 March; persuaded the Health Ministry to isolate patients and screen travellers.
+
+- Carstens A. Birth of the pill, 1956–1960. The Scientist.  
+  <https://www.the-scientist.com/birth-of-the-pill-1956-1960-70475>  
+  Type: journal.
+  - `oral-contraceptive-pill`: First large-scale trial began in Puerto Rico in 1956; participants consented but locals questioned outsiders recruiting women from a public housing project; critics alleged exploitation; trials led to FDA approval in 1960.
 
 - Case report: treatment of high-altitude pulmonary oedema on Mount Everest with a portable hyperbaric chamber (Gamow bag). Hrčak repository.  
   <https://hrcak.srce.hr/file/1029>  
@@ -274,6 +329,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm>  
   Type: institution.
   - `koch-tuberculosis`: Announcement on 24 March 1882 to the Berlin Physiological Society; publication on 10 April; Koch's postulates in 1884; bacillus observed in all cases, grown outside the host and disease reproduced.
+
+- Centers for Disease Control and Prevention. History of measles.  
+  <https://www.cdc.gov/measles/about/history.html?hl=en-US>  
+  Type: institution.
+  - `measles-vaccine`: 1954 outbreak in Boston; Enders and Peebles isolated measles from 13-year-old David Edmonston; Edmonston-B vaccine licensed in the US in 1963; improved vaccine in 1968, the only one used in the US since.
 
 - Centers for Disease Control and Prevention. History of World TB Day.  
   <https://www.cdc.gov/world-tb-day/history/index.html>  
@@ -335,10 +395,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `pasteur-attenuated-vaccines`: Ageing cultures of the chicken cholera bacterium lost virulence and protected chickens; Pasteur's first vaccines were chicken cholera (1879) and anthrax (1881).
 
+- Cooley DA. In memoriam: tribute to René Favaloro, pioneer of coronary bypass. Tex Heart Inst J 27(3):231–232 (2000).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC101069>  
+  Type: journal.
+  - `favaloro-coronary-bypass`: Favaloro hesitant to be called the father of bypass surgery but credited with introducing it clinically; joined the Cleveland Clinic in 1962 and studied Sones's cineangiograms.
+
+- Cooper R. Walter, (William) Grey (1910–1977), neurophysiologist (text of Oxford DNB entry). Cyberneticzoo.  
+  <https://cyberneticzoo.com/cyberneticanimals/30/>  
+  Type: book.
+  - `grey-walter-toposcope`: 1936 patient with abnormal EEG found to have a cerebral tumour; many novel instruments built at the Burden Neurological Institute.
+
 - Coppa A, Bondioli L, Cucina A, et al. Early Neolithic tradition of dentistry. Nature 2006;440(7085):755–756.  
   DOI: [10.1038/440755a](https://doi.org/10.1038/440755a), <https://carta.anthropogeny.org/node/311021>  
   Type: journal.
   - `mehrgarh-dental`: Eleven drilled molar crowns from nine adults; Neolithic graveyard in Pakistan dated 7,500–9,000 years ago; a long tradition of proto-dentistry.
+
+- Coronary bypass pioneer (profile of René Favaloro). University of Pittsburgh Health Sciences Library, digital collection.  
+  <https://dec.hsls.pitt.edu/files/original/5f53a80bb549404b7a8c81d0467d2ad785dc2115.pdf>  
+  Type: archive.
+  - `favaloro-coronary-bypass`: On 9 May 1967 an Argentinian surgeon at the Cleveland Clinic grafted a segment of saphenous vein to bypass a blocked right coronary artery; surgeons did not agree on indications; collaborative studies of long-term results.
 
 - Cotton Mather visits Yard. Harvard Gazette, May 2001.  
   <https://news.harvard.edu/gazette/story/2001/05/cotton-mather-visits-yard/>  
@@ -371,6 +446,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://ijdb.ehu.eus/article/pdf/9184332>  
   Type: journal.
   - `icsi-brussels`: Earlier microinjection attempts uncontrolled; the Brussels laboratory headed by Van Steirteghem and Devroey persisted and reported pregnancies and births (Palermo et al. 1992).
+
+- De Roover A, et al. Pancreas transplantation (review). ORBi, University of Liège.  
+  <https://orbi.uliege.be/bitstream/2268/12061/1/deroover%281%29.pdf>  
+  Type: journal.
+  - `pancreas-transplant`: Insulin independence first achieved in December 1966 when Kelly and Lillehei transplanted a segmental pancreas with a kidney into a 28-year-old uraemic woman.
 
 - Development of anatomophysiologic knowledge regarding the cardiovascular system: from Egyptians to Harvey (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4290745/>  
@@ -447,6 +527,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `liang-tebo-amputation`: Reported date range 31,000–30,000 years ago; clean cut through tibia and fibula; excavation in 2020.
 
+- EBSCO Research Starters. Birth control pills are tested in Puerto Rico.  
+  <https://www.ebsco.com/research-starters/history/birth-control-pills-are-tested-puerto-rico>  
+  Type: institution.
+  - `oral-contraceptive-pill`: Pincus directed the first large-scale test in Puerto Rico, 1956–57; Edris Rice-Wray's role; some participants experienced side effects.
+
+- EBSCO Research Starters. M. C. Chang.  
+  <https://ebsco.com/research-starters/history/m-c-chang>  
+  Type: institution.
+  - `chang-ivf-rabbits`: Fellowship at the Worcester Foundation, Shrewsbury, in 1945; work on the oral contraceptive and in-vitro fertilisation.
+
 - EBSCO Research Starters. Rotavirus vaccine.  
   <https://www.ebsco.com/research-starters/consumer-health/rotavirus-vaccine>  
   Type: institution.
@@ -467,10 +557,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `virchow-cellular-pathology`: Founder of cellular pathology; most diseases understood as dysfunction of cells; omnis cellula e cellula proposed in 1855; Die Cellularpathologie transcribes lectures given in 1858 at the Pathological Institute of Berlin.
 
+- Elema-Schönander and the very first human implants of a pacemaker in Sweden (1958) and Uruguay (1960). Implantable-device.com, after the Siemens historical archive.  
+  <https://www.implantable-device.com/2012/01/23/elema-schoenander-and-the-very-first-human-implants-of-a-pacemaker-in-sweden-1958-and-uruguay-1960/>  
+  Type: archive.
+  - `implantable-pacemaker`: Elmqvist's design with silicon transistors; developed with Senning at the Karolinska; implants in Uruguay in 1960.
+
 - Ellis H. Hieronymus Fabricius: professor of anatomy at Padua in Vesalius' footsteps. British Journal of Hospital Medicine 2019;80(2):109.  
   DOI: [10.12968/hmed.2019.80.2.109](https://doi.org/10.12968/hmed.2019.80.2.109), <https://storage.imrpress.com/IMR/hmed/application/10.12968/hmed.2019.80.2.109.pdf>  
   Type: journal.
   - `fabrici-venous-valves`: De venarum ostiolis published in Padua in 1603; valves always directed towards the heart; noted before but not described and figured in such detail; Fabricius followed Galen and thought they stopped blood flowing backwards; Harvey in Padua 1598–1602.
+
+- Embryo Project Encyclopedia (Arizona State University Library). Min Chueh Chang, PDF version.  
+  <https://keep.lib.asu.edu/system/files/embryo/pdfs/embryo123922.xhtml.pdf>  
+  Type: university.
+  - `chang-ivf-rabbits`: Joined Pincus at the Worcester Foundation; 1959 demonstration; later IVF of human ova by Steptoe and Edwards and birth of Louise Brown on 25 July 1978.
 
 - Embryo Project Encyclopedia, Arizona State University. Entries on the Roslin cloning experiments (Megan and Morag; Dolly).  
   <https://embryo.asu.edu/taxonomy/term/145281>  
@@ -491,6 +591,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/ian-hector-frazer-1953>  
   Type: university.
   - `hpv-vaccine`: Met Zhou in Cambridge in 1989; Zhou came to Brisbane in 1990; research in 1991 at the University of Queensland.
+
+- Embryo Project Encyclopedia. Stanley Alan Plotkin (1932– ).  
+  <https://embryo.asu.edu/pages/stanley-alan-plotkin-1932>  
+  Type: university.
+  - `rubella-vaccine`: Congenital rubella syndrome causes miscarriage or defects of the heart, brain, eyes and ears; 1964–65 US epidemic caused birth defects in thousands of infants.
+
+- Embryo Project Encyclopedia. Stanley Alan Plotkin's development of a rubella vaccine (1969).  
+  <https://embryo.asu.edu/pages/stanley-alan-plotkins-development-rubella-vaccine-1969>  
+  Type: university.
+  - `rubella-vaccine`: RA 27/3 strain weakened in WI-38 human cells developed by Hayflick at the Wistar Institute; prevented congenital rubella syndrome; epidemic in Europe in 1963 and the US in 1964–65.
+
+- Embryo Project Encyclopedia. The birth control pill.  
+  <https://embryo.asu.edu/pages/birth-control-pill>  
+  Type: university.
+  - `oral-contraceptive-pill`: FDA approved Enovid in 1960; Sanger and McCormick recruited Pincus at the Worcester Foundation; Rock and Pincus's tests; trials in San Juan, Puerto Rico from 1956 because of anti-birth-control laws in Massachusetts; trials in Haiti and Mexico City from 1957.
 
 - Emory University. Ancient brewmasters tapped drug secrets. Emory Report, 31 August 2010.  
   <https://news.emory.edu/emory-report-archive/stories/2010/09/07/beer.html>  
@@ -562,10 +677,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `hpv-vaccine`: Virus-like particles; vaccine marketed by Merck from 2006; Cervarix; royalties waived in 72 developing countries.
 
+- European Resuscitation Council. Frank Pantridge (biographical article).  
+  <https://www.erc.edu/assets/other-documents/Frank_Pantridge.pdf>  
+  Type: institution.
+  - `pantridge-mobile-defibrillator`: Mobile cardiac care in Belfast in 1966; team travelled from the Royal Victoria Hospital at a GP's request; mobile units later set up in New York in 1967 and elsewhere.
+
 - Evaluating life in foster homes for persons with serious mental illness: resident and caregiver perspectives (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4865377/>  
   Type: journal.
   - `geel-family-care`: Over 600 years ago families in Geel took mentally ill persons into their homes.
+
+- Evolution of cemented stems. Orthopedics Today (Healio), 2005.  
+  <https://cm.healio.com/news/orthopedics/20120331/evolution-of-cemented-stems>  
+  Type: journal.
+  - `charnley-hip-replacement`: Charnley pioneered cemented hip arthroplasty; unfavourable experience with polytetrafluoroethylene led to high-density polyethylene sockets.
 
 - Facial transplantation: historical developments and future directions. Journal of Laryngology & Otology (2015).  
   <https://www-cambridge-org.ezproxyberklee.flo.org/core/services/aop-cambridge-core/content/view/C63BC030D52E1C8F013FADEB3A3E24B6/S0022215114003478a.pdf/facial-transplantation-historical-developments-and-future-directions.pdf>  
@@ -582,6 +707,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `artificial-pancreas-hybrid-loop`: Measures glucose every five minutes; study of 123 participants with a 3-month treatment period; risks of hypoglycaemia, hyperglycaemia and skin irritation.
 
+- Fifty years of coronary artery bypass grafting. PubMed Central, PMC5563669.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC5563669>  
+  Type: journal.
+  - `favaloro-coronary-bypass`: First CABG by Favaloro on 9 May 1967; over 1,000 operations by 1970; Kolesov's internal thoracic artery bypass in February 1964; innovation as a continuous process.
+
 - First automated insulin-delivery device approved for type 1 diabetes. Healio, 28 September 2016.  
   <https://cm.healio.com/news/endocrinology/20160928/first-automated-insulindelivery-device-approved-for-type-1-diabetes>  
   Type: journal.
@@ -591,6 +721,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32618-6/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: Rings of contacts and contacts of contacts vaccinated immediately or delayed 21 days; likely contributed to controlling the 2013–16 outbreak in Guinea.
+
+- Fogarty TJ, Cranley JJ, Krause RJ, Strasser ES, Hafner CD. A method for extraction of arterial emboli and thrombi. Surg Gynecol Obstet 116:241–44 (1963). Garrison–Morton entry.  
+  <https://www.historyofmedicine.com/author/d/thomas-j-fogarty>  
+  Type: journal.
+  - `fogarty-balloon-catheter`: Publication of the method in 1963 with Cranley and colleagues.
 
 - Fool's-gold science: the ethical and scientific perils of testing most vaccines using placebo-controlled randomized trials (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC12373718/>  
@@ -683,6 +818,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `dolly-cloned-sheep`: Finn Dorset ewe; udder cell from a six-year-old donor; announced in February 1997.
 
+- Haefely W. The chemical pedigree of flumazenil. Chimia (1993).  
+  <https://chimia.ch/chimia/article/download/1993_141/1552/12207>  
+  Type: journal.
+  - `benzodiazepines-diazepam`: Chlordiazepoxide synthesised in 1955 and submitted for testing by Sternbach in 1957 at Roche, Nutley; market introduction two and a half years later; diazepam reached the market in 1963.
+
+- Haelle T. Why it took so long to eliminate measles. History.com.  
+  <https://www.history.com/articles/measles-vaccine-disease>  
+  Type: journal.
+  - `measles-vaccine`: Most children given the first vaccine developed high fevers and rashes; FDA licensed the first live measles vaccine on 21 March 1963.
+
 - Hajar R. The air of history (part IV): great Muslim physicians — Al Rhazes. Heart Views (PubMed Central record).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3752886/>  
   Type: journal.
@@ -707,6 +852,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.harappa.com/blog/mohenjo-daro-great-bath-diagram>  
   Type: university.
   - `mohenjo-daro-drainage`: Great Bath's waste water carried off through a covered drain.
+
+- Harvard Virology PhD Program. From moon shot to arm shot: the story of the measles vaccine (2026).  
+  <https://virologyphd.hms.harvard.edu/news/2026/08/moon-shot-arm-shot-story-measles-vaccine>  
+  Type: university.
+  - `measles-vaccine`: Boston Children's Hospital as the birthplace of the measles vaccine; live-attenuated vaccine released in 1963; Peebles and Enders isolated the virus in cell cultures.
+
+- Hearing aid evolution, part V. Hearing Health Matters (Wayne's World).  
+  <https://hearinghealthmatters.org/waynesworld/2014/hearing-aid-evolution-v>  
+  Type: journal.
+  - `cochlear-implant`: William House performed his first cochlear implants in 1961 after reading about earlier attempts in France in the late 1950s.
+
+- Hearing aid evolution: a ride through history. Hearing Health Matters.  
+  <https://hearinghealthmatters.org/?p=3906>  
+  Type: journal.
+  - `cochlear-implant`: More than 1,000 single-channel devices implanted into the mid-1980s; first cochlear implant commercially marketed; FDA approval in November 1984; criticism of House's single-channel approach.
 
 - Heart transplant: a never-ending story (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC12524528/>  
@@ -753,6 +913,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `blundell-transfusion`: Blundell, obstetrician at Guy's Hospital, transfused a man dying of stomach cancer on 25 September 1818.
 
+- History of cardiopulmonary resuscitation. Life in the Fast Lane (LITFL).  
+  <https://litfl.com/history-of-cardiopulmonary-resuscitation>  
+  Type: institution.
+  - `modern-cpr`: 1960 demonstration of closed-chest cardiac massage in 20 in-hospital arrests with 70% survival; technique described in the nineteenth century; mouth-to-mouth promoted in 1958.
+
+- History of cochlear implants (timeline). PubMed Central, PMC6139747.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC6139747>  
+  Type: journal.
+  - `cochlear-implant`: 1961 House and Doyle perform first true cochlear implants; 1964 Simmons multichannel implant; 1967 House and Urban induction coil; 1976–77 NIH Bilger report; 1984 FDA approves the 3M/House single-channel device for adults.
+
+- History of the cochlear implant. ENTtoday (April 2013).  
+  <https://www.enttoday.org/?p=12995>  
+  Type: journal.
+  - `cochlear-implant`: 1960–61 House and Doyle implant three patients in Los Angeles; 1972 first wearable device; multichannel work in Paris from 1973.
+
+- History of Vaccines (College of Physicians of Philadelphia). Maurice Hilleman timeline.  
+  <https://historyofvaccines.org/history/maurice-hilleman-phd/timeline/>  
+  Type: institution.
+  - `mumps-mmr-vaccine`: Hilleman isolates mumps virus on 23 March 1963; testing of mumps vaccine from 1965; MMR licensed in 1971.
+
 - History of Vaccines (College of Physicians of Philadelphia). Vaccine timeline: massive polio vaccine trial begins in US, 25 April 1954.  
   <https://historyofvaccines.org/history/vaccine-timeline/timeline/>  
   Type: museum.
@@ -762,6 +942,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://historyofvaccines.org/history/jonas-salk-md/timeline/>  
   Type: museum.
   - `polio-vaccine-trials`: Results announced by Thomas Francis Jr. at the University of Michigan on 12 April 1955; licensed later the same day.
+
+- History tells us splitting MMR could do real harm. STAT.  
+  <https://www.statnews.com/?p=1508866>  
+  Type: journal.
+  - `mumps-mmr-vaccine`: Before the vaccine, mumps was the leading cause of deafness in children; Hilleman combined mumps with measles and rubella vaccines into MMR, licensed in 1971.
 
 - HISTORY.com (A&E Television Networks). First woman M.D. (This Day in History).  
   <https://www.history.com/this-day-in-history/first-woman-m-d>  
@@ -782,6 +967,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://library.harvard.edu/exhibits/houghton-library-lobby-gallery-0>  
   Type: university.
   - `variolation-traditions`: Onesimus described as an enslaved West African man whose testimony persuaded Mather.
+
+- House Institute Foundation. History.  
+  <https://hifla.org/about/history/>  
+  Type: institution.
+  - `cochlear-implant`: Los Angeles Foundation of Otology founded 1946; House and Urban develop the first cochlear implant system for long-term use from 1965; single-channel system of 1972; 1984 FDA approval of the 3M/House device.
+
+- How we know splitting up the MMR vaccine could be dangerous. STAT, 11 August 2026.  
+  <https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/>  
+  Type: journal.
+  - `mumps-mmr-vaccine`: Jeryl Lynn's illness in March 1963; Hilleman at the Merck Institute, West Point; studies showing MMR does not increase the risk of autism.
+
+- Ian Donald publishes the first obstetrical or gynecological sonograms. HistoryofInformation.com (after Morton's Medical Bibliography no. 2682).  
+  <https://historyofinformation.com/detail.php?id=1495>  
+  Type: book.
+  - `donald-obstetric-ultrasound`: 100 patients; illustrations of ovarian cysts and fibroids and of the fetal skull.
 
 - icddr,b. Oral rehydration therapy.  
   <https://www.icddrb.org/oral-rehydration-therapy>  
@@ -812,6 +1012,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC13450909/>  
   Type: journal.
   - `balmis-expedition`: Use of enslaved children's bodies to transport vaccine in the Portuguese world.
+
+- In memoriam: Thomas E. Starzl. PubMed Central, PMC5549009.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC5549009>  
+  Type: journal.
+  - `liver-transplant`: Joined the University of Colorado in 1962; kidney transplants from 1962; liver transplantation from 1963 and first successful liver transplant in 1967 at the University of Colorado and Denver VA Hospitals; steroids added to azathioprine; later cyclosporine and tacrolimus.
 
 - In the wake of Alphonse Laveran. Article in PubMed Central (in French with English abstract).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10387307/>  
@@ -863,6 +1068,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `human-genome-project`: Draft sequence published 15 February 2001; collaboration of 20 groups from the US, UK, Japan, France, Germany and China; sequencing centres listed in order of sequence contributed, with the Whitehead Institute first; Washington University and the Beijing Genomics Institute among the centres.
 
+- Interventional cardiology: where it all began and where it might be going. Interventional Cardiology Review.  
+  <https://www.icrjournal.com/articles/interventional-cardiology-where-it-all-began-and-where-it-might-be-going>  
+  Type: journal.
+  - `fogarty-balloon-catheter`: First used in a live patient in the early 1960s with Fogarty as scrub technician; patented in 1963; not the first catheter with a balloon.
+
 - Introducing the *Wu ze you xing tu manuscript from Mawangdui. Early China (Cambridge University Press), 2020.  
   <https://www.cambridge.org/core/journals/early-china/article/introducing-the-wu-ze-you-xing-tu-manuscript-from-mawangdui/8B31FB01F5E501DACE140F8ABEACF8AB/share/62fdb2249a2c5f859385f713d686eb3c72914d16>  
   Type: journal.
@@ -877,6 +1087,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://collections.lib.utah.edu/details?id=1229832>  
   Type: university.
   - `shipp-obstetrics-school-utah`: Margaret Curtis Shipp left for the Women's Medical College in 1875; Ellis Shipp's announcement of practice in obstetrics and diseases of women with free scholarships, the beginning of a school for nurses and midwives.
+
+- James Black. Famous Scientists.  
+  <https://www.famousscientists.org/?p=24825>  
+  Type: institution.
+  - `propranolol-beta-blocker`: Joined ICI in 1958; research group at Alderley Park; propranolol patented in 1962 and approved for medical use in 1964; Nobel Prize 1988.
 
 - James Lind and scurvy: 1747 to 1795. JLL Bulletin: Commentaries on the history of treatment evaluation.  
   <https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/>  
@@ -929,6 +1144,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `davy-nitrous-oxide`: Davy joined the Pneumatic Institution at Bristol in 1798; the 1800 Researches discussed nitrous oxide as a possible anaesthetic.
 
+- King Faisal Prize. Professor Thomas Starzl.  
+  <https://kingfaisalprize.org/professor-thomas-starzl/>  
+  Type: institution.
+  - `liver-transplant`: World's first liver transplant in 1963 and first successful liver transplant in 1967, both at the University of Colorado.
+
 - Kinyanda E. Psychiatric rehabilitation today: an African perspective. World Psychiatry (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1636120>  
   Type: journal.
@@ -953,6 +1173,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4205055/>  
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: Trained in Damascus; wrote the commentary at about 29 years of age.
+
+- Lankford KD. More than a way station: field trials of oral contraceptives and IUDs in Puerto Rico, 1956–1966. PhD dissertation, Michigan State University.  
+  <https://d.lib.msu.edu/etd/50172/OBJ/download>  
+  Type: university.
+  - `oral-contraceptive-pill`: Largest trials of Enovid occurred in Río Piedras; trials as part of broader population-control history.
 
 - Laveran and the French Academy of Medicine. Article in PubMed Central.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10387297/>  
@@ -1099,6 +1324,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hanaoka-general-anaesthesia`: Date 13 October 1804; patient Kan Aiya, aged 60; uncertainty over who transcribed the case manuscript.
 
+- May 9, 1960: FDA approves first birth control pill. ABA Journal.  
+  <https://www.abajournal.com/magazine/article/960-fda-birth-control-pill>  
+  Type: journal.
+  - `oral-contraceptive-pill`: Searle submitted Enovid in 1957; first approved for menstrual disorders; FDA announced approval for contraception on 9 May 1960.
+
 - McCall A. James Marion Sims: father of modern gynecology or abuser? Mütter Museum of the College of Physicians of Philadelphia, 24 September 2020.  
   <https://muttermuseum.org/stories/posts/james-marion-sims-father-modern-gynecology-or-abuser/>  
   Type: museum.
@@ -1108,6 +1338,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.jameslindlibrary.org/medical-research-council-1948b/>  
   Type: primary.
   - `streptomycin-trial`: Original trial report (record and full text at the James Lind Library).
+
+- Melling L. Inventing the MDI: a history in modern inhalation therapy. Contract Pharma, 19 April 2017.  
+  <https://www.contractpharma.com/contents/view_online-exclusives/2017-04-19/inventing-the-mdi-a-history-in-modern-inhalation-therapy/>  
+  Type: journal.
+  - `metered-dose-inhaler`: Thiel on the Riker team in 1956; squeeze-bulb glass nebuliser; CFC propellants used in early formulations.
 
 - Microscopy reveals early Neolithic dentistry. Microscopy Today (Cambridge University Press), published online 14 March 2018.  
   <https://cambridge.org/core/journals/microscopy-today/article/microscopy-reveals-early-neolithic-dentistry/2715BDEA100ACFA5AB6898CA0B8FF571>  
@@ -1123,6 +1358,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://midrp.health.mil/pdf_files/INFO_PDF/HepA.pdf>  
   Type: institution.
   - `hepatitis-a-vaccines`: Human trials at WRAIR from 1986 with formalin-inactivated vaccine; phase 3 trial led by Bruce Innis with Thai collaborators; US licensure February 1995.
+
+- Military Infectious Diseases Research Program. Information paper: rubella vaccine.  
+  <https://midrp.health.mil/pdf_files/INFO_PDF/Rubella.pdf>  
+  Type: institution.
+  - `rubella-vaccine`: Parkman and colleagues at WRAIR isolated rubella virus; with Harry Meyer developed HPV-77 vaccine, one of three rubella vaccines licensed in the US in 1969; RA 27/3 used from 1979.
 
 - Minagar A, et al. The Edwin Smith surgical papyrus: description and analysis of the earliest case of aphasia. Journal of Medical Biography 2003;11(2):114–117. (pp. 114–117)  
   DOI: [10.1177/096777200301100214](https://doi.org/10.1177/096777200301100214), <https://pubmed.ncbi.nlm.nih.gov/12717541/>  
@@ -1183,6 +1423,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.nih.gov/news-events/news-releases/researchers-generate-first-complete-gapless-sequence-human-genome>  
   Type: institution.
   - `t2t-complete-human-genome`: Publication date; leadership from NHGRI, UC Santa Cruz and the University of Washington; NHGRI as primary funder; cell line with one copy of each chromosome; longer sequence reads; more than 2 million additional variants; six papers in Science; the last 8% comparable in size to a chromosome.
+
+- National Inventors Hall of Fame. Alejandro Zaffaroni: bandage for administering drugs.  
+  <https://www.invent.org/inductees/alejandro-zaffaroni>  
+  Type: institution.
+  - `alza-controlled-drug-delivery`: Founded ALZA in 1968 for controlled drug delivery; early eye film for glaucoma; patents on transdermal delivery in the early 1970s; FDA approved the first transdermal system with scopolamine, Transderm-Scop, followed by Transderm-Nitro.
+
+- National Inventors Hall of Fame. Fact sheet: George Maison.  
+  <https://www.invent.org/sites/default/files/2026-01/Fact-Sheet-Maison.pdf>  
+  Type: institution.
+  - `metered-dose-inhaler`: Porush consulted Rexall's cosmetics laboratory before developing a prototype; FDA approval in March 1956.
+
+- National Inventors Hall of Fame. George Maison: Metered Dose Inhaler (MDI). Inductee page and fact sheet.  
+  <https://www.invent.org/inductees/george-maison>  
+  Type: institution.
+  - `metered-dose-inhaler`: Developed at Riker Laboratories, a subsidiary of Rexall, and introduced in 1956; Susie Maison's question about a spray like hairspray; Maison's role as president.
 
 - National MagLab (National High Magnetic Field Laboratory). Electrocardiograph – 1903.  
   <https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/electrocardiograph-1903/>  
@@ -1306,6 +1561,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `human-genome-project`: Reference genome traces to the publicly funded Human Genome Project, alongside a competing Celera effort; it covered only the euchromatic fraction.
   - `t2t-complete-human-genome`: Complete 3.055-billion-base-pair sequence (T2T-CHM13); gapless assemblies for all chromosomes except Y; remaining 8% of the genome; reference since 2000 covered only the euchromatic fraction; errors corrected; nearly 200 million base pairs of new sequence; ribosomal DNA arrays; NHGRI affiliation of lead authors.
 
+- Obituary: Sir James Black. Pharmafile, 6 April 2010.  
+  <https://pharmafile.com/appointments/obituary-sir-james-black/>  
+  Type: journal.
+  - `propranolol-beta-blocker`: Propranolol the first successful beta blocker (Inderal); cimetidine; 1988 Nobel Prize shared with Elion and Hitchings.
+
 - OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).  
   <https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation>  
   Type: university.
@@ -1336,6 +1596,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `icsi-brussels`: 47 eggs injected, 31 fertilised, four pregnancies, four healthy babies; publication date 4 July 1992.
 
+- Park K, et al. Historical introduction to the field of controlled drug delivery. J Control Release 342:157–159 (2022), lecture slides.  
+  <https://hoangson0787.github.io/Presentation/BaoCheCacDangDacBiet/PDF/DDS-history-9-12.pdf>  
+  Type: journal.
+  - `alza-controlled-drug-delivery`: Judah Folkman and Zaffaroni as pioneers of controlled drug delivery; ALZA founded in 1968 as the first company dedicated to the field.
+
 - Parks Canada. Cartier-Brébeuf National Historic Site: Wintering (1535–1536).  
   <https://parks.canada.ca/lhn-nhs/qc/cartierbrebeuf/culture/histoire-history/evenement-event/cartier/c>  
   Type: institution.
@@ -1365,6 +1630,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://wwwnc.cdc.gov/eid/article/29/9/21-2412_article>  
   Type: journal.
   - `urbani-sars-alert`: WHO expert in Hanoi; identified the disease and alerted WHO; isolation and cordoning off of the hospital; call for urgent action with Pascale Brudon on 9 March; died after 19 days in isolation.
+
+- Physician inventors pioneer new devices. MDedge.  
+  <https://mdedge.com/internalmedicine/article/14223/health-policy/physician-inventors-pioneer-new-devices>  
+  Type: journal.
+  - `fogarty-balloon-catheter`: Fourth-year student at the University of Cincinnati in 1960; initial scepticism because touching the vessel wall was thought to cause thrombosis; Cranley's mentorship at Good Samaritan Hospital.
 
 - Pierre-Joseph Desault (1744–1795) and the Hôtel-Dieu. Timočki medicinski glasnik (abstract and PDF).  
   <https://tmg.org.rs/v460306e.htm>  
@@ -1401,6 +1671,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `mawangdui-medical-manuscripts`: Seven medical manuscripts on three sheets of silk from Mawangdui Tomb 3, recovered in 1973; burial dated 168 BCE; first published 1983.
 
+- Recalling how fetal ultrasound transformed pregnancy care. AuntMinnieEurope (2013).  
+  <https://www.auntminnieeurope.com/clinical-news/article/15646079/recalling-how-fetal-ultrasound-transformed-pregnancy-care>  
+  Type: journal.
+  - `donald-obstetric-ultrasound`: Donald's visit to Babcock & Wilcox's industrial ultrasound flaw detector; the heavy Diasonograph.
+
 - Reflections upon 55 years of the first human heart transplant in Brazil (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10987036>  
   Type: journal.
@@ -1411,10 +1686,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ivf-1978`: Louise Brown born at Oldham General Hospital on 25 July 1978 after years of experimentation and hundreds of failed attempts; ethical questions around the research.
 
+- Research: volunteers behind bars. Time magazine.  
+  <https://content.time.com/time/magazine/article/0,9171,940317,00.html>  
+  Type: journal.
+  - `lung-transplant-hardy`: Russell was serving a life sentence at Parchman; received the left lung of a patient who died of a heart attack; much US medical research relied on prisoner volunteers.
+
 - Review of Heaton M. Black Skin, White Coats: Nigerian Psychiatrists, Decolonization, and the Globalization of Psychiatry (Ohio University Press, 2013). Medical History (Cambridge Core).  
   <https://www.cambridge.org/core/journals/medical-history/article/matthew-heaton-black-skin-white-coats-nigerian-psychiatrists-decolonization-and-the-globalization-of-psychiatry-ohio-ohio-university-press-2013-pp-288-3295-paperback-isbn-9780821420706/A48C3924A180DE546B87ECA8DABDC200>  
   Type: book.
   - `aro-village-system`: Aro Village Scheme treated patients in a village setting; Lambo trained at the Maudsley; Cornell–Aro project with Alexander Leighton.
+
+- Reynolds LA, Tansey EM (eds). Early Development of Total Hip Replacement. Wellcome Witnesses to Twentieth Century Medicine, vol. 29 (2007).  
+  <https://iiif.wellcomecollection.org/file/b16598465_Vol.%2029.pdf>  
+  Type: book.
+  - `charnley-hip-replacement`: Charnley low-friction arthroplasty in use from November 1962; clean-air greenhouse enclosure of 1960.
 
 - Ribatti D. Rudolf Virchow, the founder of cellular pathology. Romanian Journal of Morphology and Embryology 2019;60(4):1381–1382.  
   <https://rjme.ro/RJME/resources/files/60041913811382.pdf>  
@@ -1436,10 +1721,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hahnemann-homeopathy`: Homeopathy Research Institute's criticism of the NHMRC's definition of reliable evidence.
 
+- Rocha EAV. Fifty years of coronary artery bypass graft surgery. Braz J Cardiovasc Surg (2017).  
+  DOI: [10.21470/1678-9741-2017-0104](https://doi.org/10.21470/1678-9741-2017-0104), <https://rbccv.org.br/article/2699/en-US/fifty-years-of-coronary-artery-bypass-graft-surgery>  
+  Type: journal.
+  - `favaloro-coronary-bypass`: Favaloro performed the first saphenous vein anastomosis on 9 May 1967 with 13 more cases by October, publishing in April 1968; paternity of the procedure debatable; earlier operations by Kolesov and Goetz.
+
 - Roguin A. Rene Theophile Hyacinthe Laënnec (1781–1826): the man behind the stethoscope. Clinical Medicine & Research (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1570491/>  
   Type: journal.
   - `laennec-stethoscope`: Invention in 1816; diagnoses correlated with autopsy observations; De l'auscultation médiate.
+
+- Roos D. The mumps vaccine and World War II. History.com.  
+  <https://www.history.com/news/mumps-vaccine-world-war-ii>  
+  Type: journal.
+  - `mumps-mmr-vaccine`: Merck licensed Mumpsvax four years after isolation; virus weakened in chicken embryos; still used in MMR.
+
+- Ross CH. The measles, mumps, and rubella (MMR) vaccine. Embryo Project Encyclopedia.  
+  <https://embryo.asu.edu/pages/measles-mumps-and-rubella-mmr-vaccine>  
+  Type: university.
+  - `mumps-mmr-vaccine`: In 1971 Hilleman at the Merck Institute of Therapeutic Research, West Point, created MMR; mumps vaccine developed in 1967 from virus isolated from his daughter.
 
 - Rotavirus vaccines and intussusception (review). PubMed Central, PMC12822841.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC12822841>  
@@ -1461,6 +1761,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `lister-antisepsis`: 1867 Lancet articles; open fracture dressed in carbolic acid; full recovery; carbolic spray mainly used in Edinburgh.
 
+- Royal College of Physicians. Inspiring physicians: James Francis Pantridge.  
+  <https://history.rcp.ac.uk/inspiring-physicians/james-francis-pantridge>  
+  Type: institution.
+  - `pantridge-mobile-defibrillator`: With John Geddes initiated the world's first prehospital cardiac care unit at the Royal Victoria Hospital in 1966; coronary care unit opened in late 1963.
+
+- Royal College of Physicians. Inspiring physicians: Sir James Whyte Black.  
+  <https://history.rcplondon.ac.uk/inspiring-physicians/sir-james-whyte-black>  
+  Type: institution.
+  - `propranolol-beta-blocker`: Used Ahlquist's work to seek a beta-receptor antagonist; joined ICI at Alderley Park; propranolol by 1963; revolutionised treatment of ischaemic heart disease; cimetidine.
+
 - Royal Society Archives. Amyand C. Paper, 'Of an inguinal rupture with a pin in the appendix coeci incrusted with stone; with some observations of wounds in the gutts', 1735. CLP/12ii/70.  
   <https://makingscience.royalsociety.org/items/clp_12ii_70/paper-of-an-inguinal-rupture-with-a-pin-in-the-appendix-coeci-incrusted-with-stone-with-some-observations-of-wounds-in-the-gutts-by-claudius-claude-amyand>  
   Type: archive.
@@ -1471,10 +1781,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: archive.
   - `amyand-appendicectomy`: Read to the Royal Society on 11 December 1735 and published in Philosophical Transactions; a stone-encrusted pin found in the gut.
 
+- Rune Elmqvist. IEEE Spectrum.  
+  <https://spectrum.ieee.org/rune-elmqvist>  
+  Type: journal.
+  - `implantable-pacemaker`: Elmqvist, qualified as a doctor, developed the fully implantable pacemaker with Senning at the Karolinska Hospital; Larsson's wife read about the experimental device.
+
 - Ryan J. A fallen hero. Viet Nam News.  
   <https://vietnamnews.vn/opinion/653948/a-fallen-hero.html>  
   Type: journal.
   - `urbani-sars-alert`: Urbani died on 29 March 2003; Viet Nam's response depended on resolute government action and on Urbani tracing the businessman's movements back to Guangdong province.
+
+- Sabbatini RME. The history of the electroencephalogram. Brain & Mind (Cérebro & Mente), State University of Campinas.  
+  <https://cerebromente.org.br/n03/tecnologia/historia.htm>  
+  Type: university.
+  - `grey-walter-toposcope`: Berger's electrodes too large for topographical studies; Grey Walter invented the toposcope in 1957 with tubes arranged in a two-dimensional array matching the electrodes.
 
 - Saving lives, not sacrificing them: the inevitable clash between medical research and the protection of medical subjects (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3684307/>  
@@ -1505,6 +1825,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://sae.saw-leipzig.de/en/documents/kahun-gynaecological-papyrus>  
   Type: university.
   - `kahun-gynaecological-papyrus`: Inventory UC 32057 at the Petrie Museum; findspot el-Lahun; Middle Kingdom, 12th Dynasty; text type handbook.
+
+- Science Museum Group Collection. Walter, William Grey (1910–1977).  
+  <https://collection.sciencemuseumgroup.org.uk/people/ap28659/walter-william-grey>  
+  Type: museum.
+  - `grey-walter-toposcope`: Worked under Frederick Golla at the Maudsley Hospital laboratory; first detection of a cerebral tumour with EEG in 1936; moved to the Burden Neurological Institute, Bristol, in 1939.
 
 - Science Museum. Brought to Life: CT/CAT scanner.  
   <http://www.sciencemuseum.org.uk/broughttolife/techniques/ctcatscanner.aspx>  
@@ -1566,6 +1891,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `edwin-smith-papyrus`: Purchased by Edwin Smith in Luxor in 1862; translated by Breasted, published 1930; six cervical spine cases, two with spinal cord injury.
 
+- Squifflet JP, Gruessner RWG, Sutherland DER. The history of pancreas transplantation: past, present and future. Acta Chir Belg 108(3):367–378 (2008).  
+  <https://experts.azregents.edu/en/publications/the-history-of-pancreas-transplantation-past-present-and-future/>  
+  Type: journal.
+  - `pancreas-transplant`: First attempt to cure type 1 diabetes by pancreas transplantation at the University of Minnesota on 17 December 1966.
+
+- St. Jude Medical celebrates 50th anniversary of the world's first implantable pacemaker. Diagnostic and Interventional Cardiology, 7 October 2008.  
+  <https://www.dicardiology.com/node/25537>  
+  Type: journal.
+  - `implantable-pacemaker`: Arne Larsson received the implant on 8 October 1958; developed by Rune Elmqvist of Elema-Schönander; implanted by Åke Senning at the Karolinska Hospital; first device failed after the first night and was replaced the next day.
+
 - Stanford University, History 13 course readings. William Harvey (1578–1657).  
   <https://web.stanford.edu/class/history13/Readings/harvey.html>  
   Type: university.
@@ -1585,6 +1920,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1586/17434440.2014.862494](https://doi.org/10.1586/17434440.2014.862494), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652>  
   Type: journal.
   - `argus-ii-retinal-prosthesis`: First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa.
+
+- Sutherland DER, et al. Lessons learned from more than 1,000 pancreas transplants at a single institution. Ann Surg (2001), PubMed Central PMC1421277.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421277>  
+  Type: journal.
+  - `pancreas-transplant`: World's first clinical pancreas transplant, with a kidney, on 16 December 1966 at the University of Minnesota Hospital; high initial failure rate.
 
 - Sutton G. James Lind aboard Salisbury. JLL Bulletin: Commentaries on the history of treatment evaluation, 2004.  
   <https://www.jameslindlibrary.org/articles/james-lind-aboard-salisbury/>  
@@ -1621,10 +1961,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `jenner-cowpox-vaccination`: Six weeks later, Phipps challenged with smallpox material without developing disease.
 
+- The accidental inventor of chest compressions: interview with Guy Knickerbocker. JEMS.  
+  <https://www.jems.com/patient-care/cardiac-resuscitation/interview-with-guy-knickerboker/>  
+  Type: journal.
+  - `modern-cpr`: Dog revived by chest pressure; Jude's role at Johns Hopkins; 1960 JAMA publication; Safar at Baltimore City Hospital.
+
+- The advent of cardiopulmonary resuscitation (CPR). Encyclopedia.com (Science and Its Times).  
+  <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/advent-cardiopulmonary-resuscitation-cpr>  
+  Type: book.
+  - `modern-cpr`: Safar's experiments on volunteers from 1956 showed mouth-to-mouth superior to manual methods; published 1958; Kouwenhoven, Knickerbocker and Jude's discovery of the circulation component.
+
 - The birth of forceps (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3704058/>  
   Type: journal.
   - `chamberlen-forceps`: Births conducted under blankets with only the Chamberlens present; secret kept for nearly a century; original forceps found at Woodham Mortimer, Essex. Cites Dunn P, Arch Dis Child Fetal Neonatal Ed 1999;81:F232–5.
+
+- The birth of Sir James Black. PMLiVE.  
+  <https://pmlive.com/pharma_news/this_month_in_1924_the_birth_of_sir_james_black_579329>  
+  Type: journal.
+  - `propranolol-beta-blocker`: Propranolol revolutionised treatment of hypertension; sold as Inderal by ICI.
 
 - The Cutter incident: how America's first polio vaccine led to the growing vaccine crisis (book review, PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1410842/>  
@@ -1661,10 +2016,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `first-heart-transplant`: Open-heart programme established in 1958; operation on the night of 2/3 December 1967; South African Medical Journal report three weeks later.
 
+- The first human lung transplantation (figure legend). J Thorac Dis 9(12):5458–5471 (2017).  
+  DOI: [10.21037/jtd.2017.11.84](https://doi.org/10.21037/jtd.2017.11.84), <https://pmc.ncbi.nlm.nih.gov/articles/PMC5757055/figure/f2>  
+  Type: journal.
+  - `lung-transplant-hardy`: First human lung transplantation on 11 June 1963 at University Hospital, Jackson; 58-year-old John Russell with an obstructive tumour in the left main bronchus died 18 days later of renal failure.
+
 - The Friend (Church of Jesus Christ of Latter-day Saints), April 1984. Ellis Reynolds Shipp: mother and doctor.  
   <https://lds.org/friend/1984/04/ellis-reynolds-shipp-mother-and-doctor?lang=eng>  
   Type: institution.
   - `shipp-obstetrics-school-utah`: Diary entry of 14 March 1878 recording her graduation; in the autumn of 1878 she opened her School of Obstetrics and Nursing.
+
+- The history of sonography in obstetrics and gynaecology. PubMed Central, PMC3987368.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3987368>  
+  Type: journal.
+  - `donald-obstetric-ultrasound`: Sonography in obstetrics and gynaecology dates from the 1958 Lancet paper of Donald, MacVicar and Brown.
+
+- The history of the asthma inhaler. Smithsonian Magazine.  
+  <https://www.smithsonianmag.com/innovation/history-asthma-inhaler-180975511/>  
+  Type: journal.
+  - `metered-dose-inhaler`: Riker Laboratories in Los Angeles; earlier nebulisers; Porush assigned to develop a pressurised device; Medihaler advertisements.
 
 - The history of time for capsule endoscopy. Annals of Translational Medicine.  
   <https://atm.amegroups.org/article/view/14507/html>  
@@ -1766,6 +2136,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `chamberlen-forceps`: Multiple lineage of invention: reinvented in Flanders by Jan Palfyn and in Holland by Rogier Roonhuyse.
 
+- This month in 1924: the birth of Sir James Black. Pharmafile.  
+  <https://pharmafile.com/?p=757>  
+  Type: journal.
+  - `propranolol-beta-blocker`: Propranolol derived from dichloroisoprenaline and pronethalol; marketed by ICI as Inderal; became a major success.
+
 - Thomas Fisher Rare Book Library, University of Toronto. The discovery of insulin at the University of Toronto: Leonard Thompson.  
   <https://fisherdigitus.library.utoronto.ca/exhibits/show/insulin100/early-patients/leonard-thompson>  
   Type: university.
@@ -1816,6 +2191,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `snow-broad-street`: Snow's own words that the handle was removed the following day; myth about the map's role; errors in later maps.
 
+- Ulster Transport Museum. The father of emergency medicine.  
+  <https://www.ulstertransportmuseum.org/stories/father-emergency-medicine>  
+  Type: museum.
+  - `pantridge-mobile-defibrillator`: Collaboration with Mawhinney, Geddes and engineer John Anderson; defibrillator installed in Belfast ambulances as the 'Pantridge plan'.
+
 - UNESCO World Heritage Centre. Archaeological Ruins at Moenjodaro (List no. 138).  
   <https://whc.unesco.org/en/list/138/>  
   Type: institution.
@@ -1846,6 +2226,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `dolly-cloned-sheep`: Born 5 July 1996; first cloning from an adult mammalian somatic cell by somatic cell nuclear transfer; led by Ian Wilmut; stepping stone between Gurdon's work and Yamanaka's induced pluripotent stem cells; ethical debate.
 
+- University of Glasgow. Marking 50 years of ultrasound. News, 5 June 2008.  
+  <https://www.gla.ac.uk/news/archiveofnews/2008/june/headline_80163_en.html>  
+  Type: university.
+  - `donald-obstetric-ultrasound`: Lancet paper in June 1958; Donald and McVicar, obstetricians at the Western Infirmary, and Tom Brown of Kelvin Hughes; more than 100 patients scanned.
+
 - University of Iowa, John Martin Rare Book Room (HEIRS). Davy H. Researches, chemical and philosophical, chiefly concerning nitrous oxide. Bristol: Biggs & Cottle, 1800.  
   <https://heirs.lib.uiowa.edu/record.php?id=1338.5>  
   Type: university.
@@ -1866,6 +2251,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `andean-trepanation`: Over 800 skulls mostly collected in the late 1800s and early 1900s; survival up to 91% in some samples 1000–1400 CE; Verano's book Holes in the Head.
 
+- University of Minnesota. Free again. Discovery magazine.  
+  <https://discoverymag.umn.edu/stories/free-again>  
+  Type: university.
+  - `pancreas-transplant`: World's first pancreas transplant in December 1966 by Lillehei and Kelly; more than 50,000 pancreas transplants since.
+
+- University of Mississippi Medical Center: original hospital operating room #10. Clio.  
+  <https://theclio.com/entry/130424>  
+  Type: institution.
+  - `lung-transplant-hardy`: Operation from the night of 11 June to the morning of 12 June 1963; ethico-legal significance of the patient being a prisoner; right lung weakened by emphysema.
+
+- University of Mississippi Medical Center. UMMC marks 50th anniversary of world's first lung transplant (2013).  
+  <https://umc.edu/news/News_Articles/2013/June/UMMC-marks-50th-anniversary-of-world-s-first-lung-transplant.html>  
+  Type: institution.
+  - `lung-transplant-hardy`: Hardy's team performed the first human-to-human lung transplant on 11 June 1963; dean Robert Marston granted permission under agreed conditions; Russell offered a transplant of his left lung.
+
 - University of Oxford, Cabinet. Harvey's teacher in Padua: Hieronymus Fabricius of Aquapendente (commentary).  
   <https://www.cabinet.ox.ac.uk/node/836>  
   Type: university.
@@ -1885,6 +2285,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://collections.library.utoronto.ca/explore/insulin/about/best>  
   Type: archive.
   - `insulin-toronto`: Dog experiments; 11 January extract lowered blood sugar with little clinical effect; Collip's extract successful on 23 January; Connaught Laboratories.
+
+- US Department of Veterans Affairs. First transplantation at VA hospital (VA Eastern Colorado Health Care).  
+  <https://www.va.gov/eastern-colorado-health-care/programs/first-transplantation-at-va-hospital/>  
+  Type: institution.
+  - `liver-transplant`: Starzl's 1963 liver transplant at the Denver VA hospital on a patient who survived the operation; kidney transplantation programme in the early 1960s.
+
+- US Health Resources and Services Administration. Transplant milestones (organdonor.gov).  
+  <https://www.hrsa.gov/es/node/30167>  
+  Type: institution.
+  - `lung-transplant-hardy`: First successful single lung transplant in 1983; first successful heart–lung transplant in 1981; first successful kidney–pancreas transplant in 1966.
 
 - US National Library of Medicine. Changing the Face of Medicine: Dr. Elizabeth Blackwell.  
   <https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_elizabeth_blackwell.html>  
@@ -1981,6 +2391,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `brugada-syndrome`: Martini et al. 1989 described six patients with similar ECG findings and subtle right-ventricular abnormalities; the Brugadas described eight further patients in 1992.
 
+- Wick JY. The history of benzodiazepines. Consult Pharm 28(9):538–48 (2013).  
+  DOI: [10.4140/TCP.n.2013.538](https://doi.org/10.4140/TCP.n.2013.538), <https://pubmed.ncbi.nlm.nih.gov/24007886/>  
+  Type: journal.
+  - `benzodiazepines-diazepam`: Sternbach identified chlordiazepoxide in 1955; marketed as Librium by 1960; Valium followed in 1963; initially appeared less toxic and less likely to cause dependence than older drugs.
+
 - Withering W. An Account of the Foxglove, and Some of Its Medical Uses: with Practical Remarks on Dropsy, and Other Diseases. Birmingham: M. Swinney; 1785 (Project Gutenberg edition).  
   <https://www.gutenberg.org/ebooks/24886>  
   Type: primary.
@@ -2005,6 +2420,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://apps.who.int/gb/ebwha/pdf_files/WHA56/ea5627.pdf>  
   Type: institution.
   - `alma-ata-declaration`: Primary health care became a core concept for WHO as a result of the declaration.
+
+- World Health Organization (Google Arts & Culture). History of measles vaccination.  
+  <https://artsandculture.google.com/story/hwVRpd7MxQrtmA>  
+  Type: institution.
+  - `measles-vaccine`: Peebles obtained the culture from David Edmonston; Enders developed the Edmonston-B vaccine; tests in small groups of children 1958–60, then in New York City and Nigeria; Hilleman's improved vaccine of 1968.
 
 - World Health Organization. Commemorating the 40th anniversary of smallpox eradication. 8 May 2020.  
   <https://www.who.int/news-room/events/detail/2020/05/08/default-calendar/commemorating-the-40th-anniversary-of-smallpox-eradication>  
@@ -2071,6 +2491,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `face-transplants`: First full-face transplant at Vall d'Hebron Hospital, Barcelona, March 2010, led by Joan Pere Barret.
 
+- Wrightington, Wigan and Leigh NHS Foundation Trust. Pioneer of hip replacement surgery: Professor Sir John Charnley.  
+  <https://www.wwl.nhs.uk/pioneer-of-hip-replacement-surgery>  
+  Type: institution.
+  - `charnley-hip-replacement`: First total hip replacement at Wrightington in 1962; moved his practice there in 1962; Charnley hip a practical reality in November 1962.
+
+- Wroblewski BM, et al. Charnley low-friction arthroplasty of the hip: survival to 38 years. J Bone Joint Surg Br 89-B(8) (2007).  
+  DOI: [10.1302/0301-620X.89B8.18387](https://doi.org/10.1302/0301-620X.89B8.18387), <https://boneandjoint.org.uk/Article/10.1302/0301-620X.89B8.18387>  
+  Type: journal.
+  - `charnley-hip-replacement`: 22,066 primary low-friction arthroplasties at Wrightington between November 1962 and June 2005; wear and loosening of the polyethylene socket the main long-term problems.
+
 - Wu K. 'Embryonic stem cell lines derived from human blastocysts' (1998), by James Thomson. Embryo Project Encyclopedia.  
   <https://embryo.asu.edu/pages/embryonic-stem-cell-lines-derived-human-blastocytes-1998-james-thomson>  
   Type: university.
@@ -2095,3 +2525,8 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://sushrutaproject.org/?p=1706>  
   Type: university.
   - `sushruta-samhita`: Evidence used to argue that the Suśrutasaṃhitā is later than the Carakasaṃhitā.
+
+- Wyllie E. Benzodiazepines in neurology: overview. Cleveland Clinic Journal of Medicine 57(Suppl 1).  
+  <https://www.ccjm.org/content/57/1_suppl_1/S-4.full.pdf>  
+  Type: journal.
+  - `benzodiazepines-diazepam`: Sternbach at Roche's Medicinal Chemistry Research Department, Nutley, from 1941; chlordiazepoxide introduced in 1960 as the first clinically marketed benzodiazepine.

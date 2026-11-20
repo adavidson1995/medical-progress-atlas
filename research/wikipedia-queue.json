@@ -2484,9 +2484,9 @@
    "claim": "Metered-dose inhaler",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "metered-dose-inhaler",
+   "note": "Developed by Riker Laboratories (later part of 3M)."
   },
   {
    "wid": "w227",
@@ -2495,8 +2495,8 @@
    "claim": "Toposcope (EEG topography)",
    "place": "Bristol",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "grey-walter-toposcope",
    "note": ""
   },
   {
@@ -2506,8 +2506,8 @@
    "claim": "Implanted pacemaker",
    "place": "Stockholm",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "implantable-pacemaker",
    "note": ""
   },
   {
@@ -2517,8 +2517,8 @@
    "claim": "In vitro fertilisation (rabbits)",
    "place": "Shrewsbury, Massachusetts",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "chang-ivf-rabbits",
    "note": ""
   },
   {
@@ -2528,8 +2528,8 @@
    "claim": "Cardiopulmonary resuscitation",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "modern-cpr",
    "note": ""
   },
   {
@@ -2539,8 +2539,8 @@
    "claim": "Combined oral contraceptive approved by FDA",
    "place": "USA",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "oral-contraceptive-pill",
    "note": ""
   },
   {
@@ -2550,8 +2550,8 @@
    "claim": "Hip replacement",
    "place": "Wrightington",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "charnley-hip-replacement",
    "note": ""
   },
   {
@@ -2561,8 +2561,8 @@
    "claim": "Beta blocker",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "propranolol-beta-blocker",
    "note": ""
   },
   {
@@ -2583,9 +2583,9 @@
    "claim": "Artificial heart (patent)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "A 1963 patent for an artificial heart design; we found no evidence it was used clinically. The first permanent total artificial heart implant (1982) is a separate queue entry."
   },
   {
    "wid": "w236",
@@ -2594,9 +2594,9 @@
    "claim": "Liver transplant",
    "place": "Denver",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "liver-transplant",
+   "note": "Starzl's first liver transplants (1963) failed; the first successful one was in 1967."
   },
   {
    "wid": "w237",
@@ -2605,8 +2605,8 @@
    "claim": "Lung transplant",
    "place": "Jackson, Mississippi",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "lung-transplant-hardy",
    "note": ""
   },
   {
@@ -2616,8 +2616,8 @@
    "claim": "Diazepam",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "benzodiazepines-diazepam",
    "note": ""
   },
   {
@@ -2627,8 +2627,8 @@
    "claim": "First measles vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "measles-vaccine",
    "note": ""
   },
   {
@@ -2638,8 +2638,8 @@
    "claim": "Portable defibrillator",
    "place": "Belfast",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "pantridge-mobile-defibrillator",
    "note": ""
   },
   {
@@ -2649,9 +2649,9 @@
    "claim": "First commercial ultrasound",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "donald-obstetric-ultrasound",
+   "note": "Wikipedia gives '1965 first commercial ultrasound'. Obstetric ultrasound dates from Ian Donald's 1958 Lancet paper; his team's Diasonograph of 1963 was the first commercial scanner."
   },
   {
    "wid": "w242",
@@ -2660,9 +2660,9 @@
    "claim": "Pancreas transplant",
    "place": "Minneapolis",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "pancreas-transplant",
+   "note": "Performed by William Kelly and Richard Lillehei; Wikipedia credits C. Walton Lillehei, Richard's brother."
   },
   {
    "wid": "w243",
@@ -2671,9 +2671,9 @@
    "claim": "Rubella vaccine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "rubella-vaccine",
+   "note": "Wikipedia gives 1966; the vaccines were licensed in 1969."
   },
   {
    "wid": "w244",
@@ -2682,8 +2682,8 @@
    "claim": "First mumps vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "mumps-mmr-vaccine",
    "note": ""
   },
   {
@@ -2693,8 +2693,8 @@
    "claim": "Coronary bypass surgery",
    "place": "Cleveland",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "favaloro-coronary-bypass",
    "note": ""
   },
   {
@@ -2715,9 +2715,9 @@
    "claim": "Powered prosthesis",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "We found no reliable source documenting a powered prosthesis by Samuel Alderson as a medical milestone."
   },
   {
    "wid": "w248",
@@ -2726,8 +2726,8 @@
    "claim": "Controlled drug delivery",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "alza-controlled-drug-delivery",
    "note": ""
   },
   {
@@ -2737,9 +2737,9 @@
    "claim": "Balloon catheter",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "fogarty-balloon-catheter",
+   "note": "Wikipedia gives 1969; the balloon embolectomy catheter was first used around 1961 and published in 1963."
   },
   {
    "wid": "w250",
@@ -2748,9 +2748,9 @@
    "claim": "Cochlear implant",
    "place": "Los Angeles",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "cochlear-implant",
+   "note": "First implants by William House in 1961; FDA approval of his device in 1984."
   },
   {
    "wid": "w251",
@@ -2770,8 +2770,8 @@
    "claim": "MMR vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "mumps-mmr-vaccine",
    "note": ""
   },
   {
@@ -2781,9 +2781,9 @@
    "claim": "Genetically modified organism (patent)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "no-event",
+   "atlasId": "",
+   "note": "Chakrabarty's oil-eating bacterium led to a landmark 1980 US Supreme Court ruling on patenting living organisms; it was not a medical advance."
   },
   {
    "wid": "w254",
@@ -2814,9 +2814,9 @@
    "claim": "Transdermal patch",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "alza-controlled-drug-delivery",
+   "note": "Wikipedia gives 1971; the first transdermal patch was approved in 1981."
   },
   {
    "wid": "w257",

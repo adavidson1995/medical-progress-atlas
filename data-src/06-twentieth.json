@@ -3840,5 +3840,1850 @@
       "insulin-toronto"
     ],
     "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "metered-dose-inhaler",
+    "title": "The pressurised metered-dose asthma inhaler",
+    "summary": "In 1956 Riker Laboratories in Los Angeles introduced the first pressurised metered-dose inhaler, prompted by a 13-year-old with asthma who asked why her medicine could not come in a spray can like hairspray.",
+    "explanation": "Before the inhaler, many people with asthma used fragile glass squeeze-bulb nebulisers. In 1955 Susie Maison asked her father George Maison, president of Riker Laboratories, a subsidiary of the Rexall drug company, whether her medicine could be delivered like aerosol hairspray. Riker's chemists Irving Porush and Charles Thiel, drawing on advice from Rexall's cosmetics laboratory, formulated asthma drugs with a propellant in a small pressurised canister with a valve that released a measured dose.\n\nThe device was approved by the US Food and Drug Administration in March 1956 and marketed as the Medihaler. Pocket inhalers built on the same principle became the standard way of taking asthma medicines.",
+    "date": {
+      "start": 1956,
+      "end": 1956,
+      "display": "1956",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "FDA approval in March 1956, according to the National Inventors Hall of Fame."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "asthma"
+    ],
+    "locations": [
+      {
+        "name": "Riker Laboratories, Los Angeles",
+        "modern": "Los Angeles, California, USA",
+        "lat": 34.05,
+        "lon": -118.25,
+        "radiusKm": 20,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "George Maison",
+        "role": "President of Riker Laboratories"
+      },
+      {
+        "name": "Irving Porush",
+        "role": "Chemist"
+      },
+      {
+        "name": "Charles Thiel",
+        "role": "Chemist"
+      },
+      {
+        "name": "Susie Maison",
+        "role": "Suggested the idea"
+      }
+    ],
+    "whatChanged": "People with asthma could carry a small device that delivered a measured dose of medicine directly to the lungs.",
+    "whyItMattered": "The metered-dose inhaler became the most common way to take asthma medicines and has been used by hundreds of millions of people.",
+    "limitations": [
+      "Early inhalers used CFC refrigerant propellants.",
+      "The inventors' story comes largely from later interviews and award citations.",
+      "'First' refers to the first pressurised metered-dose inhaler; inhaled asthma drugs had earlier been given with fragile glass nebulisers."
+    ],
+    "sources": [
+      {
+        "citation": "National Inventors Hall of Fame. George Maison: Metered Dose Inhaler (MDI). Inductee page and fact sheet.",
+        "url": "https://www.invent.org/inductees/george-maison",
+        "kind": "institution",
+        "supports": "Developed at Riker Laboratories, a subsidiary of Rexall, and introduced in 1956; Susie Maison's question about a spray like hairspray; Maison's role as president."
+      },
+      {
+        "citation": "National Inventors Hall of Fame. Fact sheet: George Maison.",
+        "url": "https://www.invent.org/sites/default/files/2026-01/Fact-Sheet-Maison.pdf",
+        "kind": "institution",
+        "supports": "Porush consulted Rexall's cosmetics laboratory before developing a prototype; FDA approval in March 1956."
+      },
+      {
+        "citation": "The history of the asthma inhaler. Smithsonian Magazine.",
+        "url": "https://www.smithsonianmag.com/innovation/history-asthma-inhaler-180975511/",
+        "kind": "journal",
+        "supports": "Riker Laboratories in Los Angeles; earlier nebulisers; Porush assigned to develop a pressurised device; Medihaler advertisements."
+      },
+      {
+        "citation": "Melling L. Inventing the MDI: a history in modern inhalation therapy. Contract Pharma, 19 April 2017.",
+        "url": "https://www.contractpharma.com/contents/view_online-exclusives/2017-04-19/inventing-the-mdi-a-history-in-modern-inhalation-therapy/",
+        "kind": "journal",
+        "supports": "Thiel on the Riker team in 1956; squeeze-bulb glass nebuliser; CFC propellants used in early formulations."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "donald-obstetric-ultrasound",
+    "title": "Ultrasound is used to look inside the abdomen and womb",
+    "summary": "In June 1958 Ian Donald, John MacVicar and engineer Tom Brown in Glasgow reported using pulsed ultrasound to examine more than 100 patients, including pregnant women. Their team went on to build the first commercial ultrasound scanner, the Diasonograph, in 1963.",
+    "explanation": "Ian Donald, Regius Professor of Midwifery at the University of Glasgow, had seen industrial ultrasound flaw detectors used to find cracks in metal and wondered whether echoes could distinguish tissues in the body. Working with the obstetrician John MacVicar at the Western Infirmary and Tom Brown of the instrument makers Kelvin & Hughes, he built prototype scanners.\n\nTheir paper in The Lancet, 'Investigation of abdominal masses by pulsed ultrasound', showed images of ovarian cysts, fibroids and a fetal skull. The team's Diasonograph of 1963 was the first commercial ultrasound scanner, and ultrasound became a routine part of pregnancy care.",
+    "date": {
+      "start": 1958,
+      "end": 1958,
+      "display": "7 June 1958",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of publication in The Lancet (some sources give 8 June)."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "imaging",
+      "devices",
+      "pregnancy"
+    ],
+    "locations": [
+      {
+        "name": "Western Infirmary and University of Glasgow",
+        "modern": "Glasgow, Scotland, UK",
+        "lat": 55.87,
+        "lon": -4.29,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ian Donald",
+        "role": "Regius Professor of Midwifery, University of Glasgow"
+      },
+      {
+        "name": "John MacVicar",
+        "role": "Obstetrician"
+      },
+      {
+        "name": "Tom Brown",
+        "role": "Engineer, Kelvin & Hughes"
+      }
+    ],
+    "whatChanged": "Doctors could see inside the abdomen and the pregnant womb without X-rays or surgery.",
+    "whyItMattered": "Obstetric ultrasound became one of the most widely used imaging tests in medicine, used to date pregnancies, monitor growth and detect abnormalities.",
+    "limitations": [
+      "The early machines were very large: the Diasonograph weighed about a tonne.",
+      "'First commercial scanner' refers to the Diasonograph; the same team had built earlier prototypes over nearly a decade."
+    ],
+    "sources": [
+      {
+        "citation": "University of Glasgow. Marking 50 years of ultrasound. News, 5 June 2008.",
+        "url": "https://www.gla.ac.uk/news/archiveofnews/2008/june/headline_80163_en.html",
+        "kind": "university",
+        "supports": "Lancet paper in June 1958; Donald and McVicar, obstetricians at the Western Infirmary, and Tom Brown of Kelvin Hughes; more than 100 patients scanned."
+      },
+      {
+        "citation": "The history of sonography in obstetrics and gynaecology. PubMed Central, PMC3987368.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3987368",
+        "kind": "journal",
+        "supports": "Sonography in obstetrics and gynaecology dates from the 1958 Lancet paper of Donald, MacVicar and Brown."
+      },
+      {
+        "citation": "A brief history of the sonogram. Smithsonian Magazine.",
+        "url": "https://www.smithsonianmag.com/innovation/a-brief-history-of-the-sonogram-180978732/",
+        "kind": "journal",
+        "supports": "Donald as Regius Professor; nearly a decade of prototypes with MacVicar and Brown; the Diasonograph of 1963 as the first commercial ultrasound scanner."
+      },
+      {
+        "citation": "Ian Donald publishes the first obstetrical or gynecological sonograms. HistoryofInformation.com (after Morton's Medical Bibliography no. 2682).",
+        "url": "https://historyofinformation.com/detail.php?id=1495",
+        "kind": "book",
+        "supports": "100 patients; illustrations of ovarian cysts and fibroids and of the fetal skull."
+      },
+      {
+        "citation": "Recalling how fetal ultrasound transformed pregnancy care. AuntMinnieEurope (2013).",
+        "url": "https://www.auntminnieeurope.com/clinical-news/article/15646079/recalling-how-fetal-ultrasound-transformed-pregnancy-care",
+        "kind": "journal",
+        "supports": "Donald's visit to Babcock & Wilcox's industrial ultrasound flaw detector; the heavy Diasonograph."
+      }
+    ],
+    "related": [
+      "rontgen-x-rays"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "implantable-pacemaker",
+    "title": "A pacemaker is implanted in a patient's body",
+    "summary": "On 8 October 1958, at the Karolinska Hospital in Stockholm, the surgeon Åke Senning implanted a pacemaker built by the engineer Rune Elmqvist into Arne Larsson, a 43-year-old whose heart condition had become critical.",
+    "explanation": "Senning and Elmqvist, who worked for the company Elema-Schönander, were developing a fully implantable pacemaker but did not think it was ready for human use. Arne Larsson's heart condition had become life-threatening, and his wife Else-Marie, who had read about the experimental device in a newspaper, persuaded them to try it.\n\nThe first device was damaged during the operation and stopped working after the first night; an identical second device was implanted the next day, and Larsson's life was saved. Implantable pacemakers became a standard treatment for slow or blocked heart rhythms.",
+    "date": {
+      "start": 1958,
+      "end": 1958,
+      "display": "8 October 1958",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the operation, reported consistently by the manufacturer and historians."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report",
+      "eyewitness-account"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "devices",
+      "cardiology"
+    ],
+    "locations": [
+      {
+        "name": "Karolinska Hospital, Solna, Stockholm",
+        "modern": "Stockholm, Sweden",
+        "lat": 59.35,
+        "lon": 18.03,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Åke Senning",
+        "role": "Cardiac surgeon"
+      },
+      {
+        "name": "Rune Elmqvist",
+        "role": "Physician and engineer at Elema-Schönander"
+      },
+      {
+        "name": "Arne Larsson",
+        "role": "Patient"
+      },
+      {
+        "name": "Else-Marie Larsson",
+        "role": "Persuaded the doctors to operate"
+      }
+    ],
+    "whatChanged": "A heart with a failing natural rhythm could be paced by a device carried entirely inside the body.",
+    "whyItMattered": "Implantable pacemakers have since been fitted in millions of people, and the technology underlies implantable defibrillators.",
+    "limitations": [
+      "The first device worked only for hours; reliable long-lasting pacemakers took years to develop.",
+      "Other teams implanted pacemakers soon afterwards, including in Uruguay in 1960, and several groups share credit for the technology."
+    ],
+    "sources": [
+      {
+        "citation": "St. Jude Medical celebrates 50th anniversary of the world's first implantable pacemaker. Diagnostic and Interventional Cardiology, 7 October 2008.",
+        "url": "https://www.dicardiology.com/node/25537",
+        "kind": "journal",
+        "supports": "Arne Larsson received the implant on 8 October 1958; developed by Rune Elmqvist of Elema-Schönander; implanted by Åke Senning at the Karolinska Hospital; first device failed after the first night and was replaced the next day."
+      },
+      {
+        "citation": "Rune Elmqvist. IEEE Spectrum.",
+        "url": "https://spectrum.ieee.org/rune-elmqvist",
+        "kind": "journal",
+        "supports": "Elmqvist, qualified as a doctor, developed the fully implantable pacemaker with Senning at the Karolinska Hospital; Larsson's wife read about the experimental device."
+      },
+      {
+        "citation": "Elema-Schönander and the very first human implants of a pacemaker in Sweden (1958) and Uruguay (1960). Implantable-device.com, after the Siemens historical archive.",
+        "url": "https://www.implantable-device.com/2012/01/23/elema-schoenander-and-the-very-first-human-implants-of-a-pacemaker-in-sweden-1958-and-uruguay-1960/",
+        "kind": "archive",
+        "supports": "Elmqvist's design with silicon transistors; developed with Senning at the Karolinska; implants in Uruguay in 1960."
+      }
+    ],
+    "related": [
+      "waller-einthoven-ecg"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "chang-ivf-rabbits",
+    "title": "IVF works in a mammal: rabbits born from eggs fertilised in a dish",
+    "summary": "In 1959 Min Chueh Chang at the Worcester Foundation in Massachusetts fertilised black rabbits' eggs with black rabbits' sperm in the laboratory and transferred them to a white female, which gave birth to black young. It showed that in-vitro fertilisation could produce live offspring.",
+    "explanation": "Chang, a reproductive biologist who had joined Gregory Pincus at the Worcester Foundation for Experimental Biology in 1945, designed an experiment whose result could not be mistaken: black offspring born to a white surrogate could only have come from black rabbits' eggs fertilised in the dish.\n\nChang went on to study in-vitro fertilisation in hamsters, mice and rats. His work helped form the basis for human IVF by Robert Edwards and Patrick Steptoe, which led to the birth of Louise Brown in 1978. He also contributed to the development of the contraceptive pill.",
+    "date": {
+      "start": 1959,
+      "end": 1959,
+      "display": "1959",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Experiment reported in 1959."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "assisted reproduction",
+      "animal research"
+    ],
+    "locations": [
+      {
+        "name": "Worcester Foundation for Experimental Biology, Shrewsbury",
+        "modern": "Shrewsbury, Massachusetts, USA",
+        "lat": 42.3,
+        "lon": -71.71,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Min Chueh Chang",
+        "role": "Reproductive biologist"
+      }
+    ],
+    "whatChanged": "It was proved that eggs fertilised outside the body could develop into healthy mammals after transfer to a uterus.",
+    "whyItMattered": "It provided the experimental foundation for human in-vitro fertilisation.",
+    "limitations": [
+      "It was an animal experiment; human IVF required nearly two more decades of work by others."
+    ],
+    "sources": [
+      {
+        "citation": "Buettner KA. Min Chueh Chang (1908–1991). Embryo Project Encyclopedia, Arizona State University.",
+        "url": "https://embryo.asu.edu/pages/min-chueh-chang-1908-1991",
+        "kind": "university",
+        "supports": "1959 experiment with black rabbits' eggs and sperm, transfer to a white female, black offspring; later studies in hamsters, mice and rats; basis for human IVF by Steptoe and Edwards."
+      },
+      {
+        "citation": "EBSCO Research Starters. M. C. Chang.",
+        "url": "https://ebsco.com/research-starters/history/m-c-chang",
+        "kind": "institution",
+        "supports": "Fellowship at the Worcester Foundation, Shrewsbury, in 1945; work on the oral contraceptive and in-vitro fertilisation."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia (Arizona State University Library). Min Chueh Chang, PDF version.",
+        "url": "https://keep.lib.asu.edu/system/files/embryo/pdfs/embryo123922.xhtml.pdf",
+        "kind": "university",
+        "supports": "Joined Pincus at the Worcester Foundation; 1959 demonstration; later IVF of human ova by Steptoe and Edwards and birth of Louise Brown on 25 July 1978."
+      }
+    ],
+    "related": [
+      "ivf-1978",
+      "oral-contraceptive-pill"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "grey-walter-toposcope",
+    "title": "Mapping the brain's electrical activity across the scalp",
+    "summary": "William Grey Walter used EEG with many small scalp electrodes to locate a brain tumour in 1936, and at the Burden Neurological Institute in Bristol in 1957 built the toposcope, which displayed brain electrical activity from many points at once.",
+    "explanation": "Hans Berger's electrodes were too large to show where in the brain activity came from. Working in London in 1936, Grey Walter showed that with many small electrodes and triangulation he could locate abnormal slow waves and so detect a cerebral tumour. Moving to the new Burden Neurological Institute in Bristol in 1939, he built a series of instruments to analyse the EEG.\n\nHis toposcope of 1957 arranged display tubes in a two-dimensional array matching the electrodes on the head, so that changing patterns of activity could be watched across the brain's surface.",
+    "date": {
+      "start": 1936,
+      "end": 1957,
+      "display": "1936–1957",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First tumour location by EEG in 1936; toposcope built in 1957."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [
+      "mind-brain"
+    ],
+    "themes": [
+      "devices",
+      "neurology"
+    ],
+    "locations": [
+      {
+        "name": "Burden Neurological Institute, Bristol",
+        "modern": "Bristol, England, UK",
+        "lat": 51.48,
+        "lon": -2.55,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "locationNote": "The 1936 tumour work was done in London, at the Maudsley Hospital's laboratory; the toposcope was built in Bristol.",
+    "people": [
+      {
+        "name": "William Grey Walter",
+        "role": "Neurophysiologist"
+      },
+      {
+        "name": "Frederick Golla",
+        "role": "Neuropsychiatrist who directed his early work"
+      }
+    ],
+    "whatChanged": "Electrical activity could be located to particular areas of the brain, helping to find tumours and epileptic foci.",
+    "whyItMattered": "It was an early step towards the brain-mapping techniques now routine in epilepsy assessment.",
+    "limitations": [
+      "The toposcope was a remarkably complex instrument built for research.",
+      "Grey Walter's 1936 tumour work was done in London, not Bristol."
+    ],
+    "sources": [
+      {
+        "citation": "Sabbatini RME. The history of the electroencephalogram. Brain & Mind (Cérebro & Mente), State University of Campinas.",
+        "url": "https://cerebromente.org.br/n03/tecnologia/historia.htm",
+        "kind": "university",
+        "supports": "Berger's electrodes too large for topographical studies; Grey Walter invented the toposcope in 1957 with tubes arranged in a two-dimensional array matching the electrodes."
+      },
+      {
+        "citation": "Science Museum Group Collection. Walter, William Grey (1910–1977).",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/ap28659/walter-william-grey",
+        "kind": "museum",
+        "supports": "Worked under Frederick Golla at the Maudsley Hospital laboratory; first detection of a cerebral tumour with EEG in 1936; moved to the Burden Neurological Institute, Bristol, in 1939."
+      },
+      {
+        "citation": "Cooper R. Walter, (William) Grey (1910–1977), neurophysiologist (text of Oxford DNB entry). Cyberneticzoo.",
+        "url": "https://cyberneticzoo.com/cyberneticanimals/30/",
+        "kind": "book",
+        "supports": "1936 patient with abnormal EEG found to have a cerebral tumour; many novel instruments built at the Burden Neurological Institute."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "modern-cpr",
+    "title": "Chest compressions and rescue breathing become CPR",
+    "summary": "In 1960 William Kouwenhoven, James Jude and Guy Knickerbocker at Johns Hopkins reported that pressing rhythmically on the chest could keep blood flowing during cardiac arrest. Combined with Peter Safar's mouth-to-mouth breathing, it became modern cardiopulmonary resuscitation.",
+    "explanation": "Kouwenhoven, an electrical engineer, was developing a closed-chest defibrillator at Johns Hopkins. During experiments on dogs, the team found that pressure on the sternum could keep enough blood circulating to the brain. With the surgeon James Jude they refined the technique and reported in 1960 that closed-chest cardiac massage had been used in 20 patients in hospital, 14 of whom survived.\n\nMeanwhile Peter Safar and James Elam had shown in experiments on volunteers that mouth-to-mouth breathing ventilated the lungs better than the manual methods then in use. Safar, Kouwenhoven and Jude combined the two into CPR, which could be learned easily and done without equipment.",
+    "date": {
+      "start": 1958,
+      "end": 1960,
+      "display": "1958–1960",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Mouth-to-mouth research published in 1958; closed-chest massage reported in JAMA in 1960."
+    },
+    "type": "clinical-evidence",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "resuscitation",
+      "first aid"
+    ],
+    "locations": [
+      {
+        "name": "Johns Hopkins University and Hospital, Baltimore",
+        "modern": "Baltimore, Maryland, USA",
+        "lat": 39.3,
+        "lon": -76.59,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "locationNote": "Safar's rescue-breathing studies were done at Baltimore City Hospitals, in the same city.",
+    "people": [
+      {
+        "name": "William Kouwenhoven",
+        "role": "Electrical engineer"
+      },
+      {
+        "name": "Guy Knickerbocker",
+        "role": "Engineer"
+      },
+      {
+        "name": "James Jude",
+        "role": "Surgeon"
+      },
+      {
+        "name": "Peter Safar",
+        "role": "Anaesthesiologist"
+      },
+      {
+        "name": "James Elam",
+        "role": "Anaesthesiologist"
+      }
+    ],
+    "whatChanged": "Anyone trained could keep oxygenated blood flowing to the brain after cardiac arrest until a defibrillator or other help arrived.",
+    "whyItMattered": "CPR became the basis of resuscitation training worldwide and of the chain of survival for cardiac arrest.",
+    "limitations": [
+      "Closed-chest massage had been described in the nineteenth century but abandoned in favour of opening the chest."
+    ],
+    "sources": [
+      {
+        "citation": "American Heart Association. History of CPR.",
+        "url": "https://cpr.heart.org/en/resources/history-of-cpr",
+        "kind": "institution",
+        "supports": "Johns Hopkins researchers led by Kouwenhoven rediscover external compressions in dog experiments; Elam and Safar prove mouth-to-mouth resuscitation effective; Kouwenhoven, Safar and Jude combine compressions and breathing into CPR; 1957 Hopkins closed-chest defibrillator."
+      },
+      {
+        "citation": "History of cardiopulmonary resuscitation. Life in the Fast Lane (LITFL).",
+        "url": "https://litfl.com/history-of-cardiopulmonary-resuscitation",
+        "kind": "institution",
+        "supports": "1960 demonstration of closed-chest cardiac massage in 20 in-hospital arrests with 70% survival; technique described in the nineteenth century; mouth-to-mouth promoted in 1958."
+      },
+      {
+        "citation": "The advent of cardiopulmonary resuscitation (CPR). Encyclopedia.com (Science and Its Times).",
+        "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/advent-cardiopulmonary-resuscitation-cpr",
+        "kind": "book",
+        "supports": "Safar's experiments on volunteers from 1956 showed mouth-to-mouth superior to manual methods; published 1958; Kouwenhoven, Knickerbocker and Jude's discovery of the circulation component."
+      },
+      {
+        "citation": "The accidental inventor of chest compressions: interview with Guy Knickerbocker. JEMS.",
+        "url": "https://www.jems.com/patient-care/cardiac-resuscitation/interview-with-guy-knickerboker/",
+        "kind": "journal",
+        "supports": "Dog revived by chest pressure; Jude's role at Johns Hopkins; 1960 JAMA publication; Safar at Baltimore City Hospital."
+      }
+    ],
+    "related": [
+      "pantridge-mobile-defibrillator"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "oral-contraceptive-pill",
+    "title": "The contraceptive pill is approved",
+    "summary": "In 1960 the US Food and Drug Administration approved Enovid, a hormonal pill developed by Gregory Pincus, Min Chueh Chang and John Rock, for contraception. Its approval rested largely on trials in Puerto Rico whose ethics have long been questioned.",
+    "explanation": "The birth-control campaigner Margaret Sanger and the philanthropist Katharine McCormick recruited Gregory Pincus of the Worcester Foundation to develop a hormonal contraceptive. Pincus and Min Chueh Chang experimented with synthetic progestins, and the gynaecologist John Rock gave synthetic progesterone to fifty women in Boston, whose ovulation stopped during treatment.\n\nBecause anti-contraception laws in Massachusetts and other states blocked large studies, the main trials began in 1956 in Río Piedras, Puerto Rico, followed by trials in Haiti and Mexico City. The FDA first approved Enovid in 1957 for menstrual disorders and then, in 1960, for contraception.",
+    "date": {
+      "start": 1960,
+      "end": 1960,
+      "display": "1960",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "FDA announced approval on 9 May 1960; approval is dated to June 1960 in some sources."
+    },
+    "type": "implementation",
+    "evidence": [
+      "trial",
+      "programme-records"
+    ],
+    "category": "maternal",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "contraception",
+      "women's health",
+      "research ethics",
+      "colonial medicine"
+    ],
+    "locations": [
+      {
+        "name": "Worcester Foundation for Experimental Biology, Shrewsbury",
+        "modern": "Shrewsbury, Massachusetts, USA",
+        "lat": 42.3,
+        "lon": -71.71,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Laboratory development"
+      },
+      {
+        "name": "Río Piedras, San Juan",
+        "modern": "San Juan, Puerto Rico",
+        "lat": 18.4,
+        "lon": -66.05,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "trial-site",
+        "role": "Main clinical trials from 1956"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gregory Pincus",
+        "role": "Biologist"
+      },
+      {
+        "name": "Min Chueh Chang",
+        "role": "Reproductive biologist"
+      },
+      {
+        "name": "John Rock",
+        "role": "Gynaecologist"
+      },
+      {
+        "name": "Edris Rice-Wray",
+        "role": "Physician who ran the Puerto Rico trials day to day"
+      },
+      {
+        "name": "Women of Río Piedras",
+        "role": "Trial participants"
+      }
+    ],
+    "whatChanged": "Women gained a reliable contraceptive that they controlled themselves, separate from sex.",
+    "whyItMattered": "The pill changed family planning, women's education and work, and social life across much of the world.",
+    "limitations": [
+      "Enovid was first approved in 1957 only for menstrual disorders.",
+      "Some trial participants reported side effects."
+    ],
+    "harms": "The large trials recruited poor women from a public housing project in Puerto Rico, a US territory. Participants consented, but critics have alleged that they were treated as guinea pigs, and local people questioned whether it was appropriate for outsiders to recruit women living in poverty.",
+    "sources": [
+      {
+        "citation": "Embryo Project Encyclopedia. The birth control pill.",
+        "url": "https://embryo.asu.edu/pages/birth-control-pill",
+        "kind": "university",
+        "supports": "FDA approved Enovid in 1960; Sanger and McCormick recruited Pincus at the Worcester Foundation; Rock and Pincus's tests; trials in San Juan, Puerto Rico from 1956 because of anti-birth-control laws in Massachusetts; trials in Haiti and Mexico City from 1957."
+      },
+      {
+        "citation": "Carstens A. Birth of the pill, 1956–1960. The Scientist.",
+        "url": "https://www.the-scientist.com/birth-of-the-pill-1956-1960-70475",
+        "kind": "journal",
+        "supports": "First large-scale trial began in Puerto Rico in 1956; participants consented but locals questioned outsiders recruiting women from a public housing project; critics alleged exploitation; trials led to FDA approval in 1960."
+      },
+      {
+        "citation": "May 9, 1960: FDA approves first birth control pill. ABA Journal.",
+        "url": "https://www.abajournal.com/magazine/article/960-fda-birth-control-pill",
+        "kind": "journal",
+        "supports": "Searle submitted Enovid in 1957; first approved for menstrual disorders; FDA announced approval for contraception on 9 May 1960."
+      },
+      {
+        "citation": "EBSCO Research Starters. Birth control pills are tested in Puerto Rico.",
+        "url": "https://www.ebsco.com/research-starters/history/birth-control-pills-are-tested-puerto-rico",
+        "kind": "institution",
+        "supports": "Pincus directed the first large-scale test in Puerto Rico, 1956–57; Edris Rice-Wray's role; some participants experienced side effects."
+      },
+      {
+        "citation": "Lankford KD. More than a way station: field trials of oral contraceptives and IUDs in Puerto Rico, 1956–1966. PhD dissertation, Michigan State University.",
+        "url": "https://d.lib.msu.edu/etd/50172/OBJ/download",
+        "kind": "university",
+        "supports": "Largest trials of Enovid occurred in Río Piedras; trials as part of broader population-control history."
+      }
+    ],
+    "related": [
+      "chang-ivf-rabbits"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "charnley-hip-replacement",
+    "title": "Charnley's low-friction hip replacement",
+    "summary": "In November 1962 John Charnley began using a hip replacement at Wrightington Hospital in Lancashire that combined a small polished metal ball with a high-density polyethylene socket, fixed with bone cement. It became the model for modern hip replacement.",
+    "explanation": "Earlier artificial hips often failed quickly. Charnley, an orthopaedic surgeon from Manchester, studied the friction of joint surfaces and moved his practice to a hip surgery centre at Wrightington Hospital in 1962. His first sockets of PTFE (Teflon) wore badly, so he switched to high-density polyethylene, which wore far more slowly.\n\nHe fixed the parts to bone with acrylic cement and used a clean-air enclosure in the operating theatre to reduce infection. Between November 1962 and 2005 more than 22,000 of his operations were performed at Wrightington alone.",
+    "date": {
+      "start": 1962,
+      "end": 1962,
+      "display": "November 1962",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "The Charnley low-friction arthroplasty was in use from November 1962, according to Wrightington's long-term follow-up."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "devices",
+      "orthopaedics"
+    ],
+    "locations": [
+      {
+        "name": "Wrightington Hospital, near Wigan",
+        "modern": "Wrightington, Lancashire, England, UK",
+        "lat": 53.6,
+        "lon": -2.71,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "John Charnley",
+        "role": "Orthopaedic surgeon"
+      }
+    ],
+    "whatChanged": "A durable replacement for a painful arthritic hip became possible for large numbers of people.",
+    "whyItMattered": "Hip replacement is now one of the most common and successful operations worldwide, relieving pain and restoring mobility.",
+    "limitations": [
+      "Wear and loosening of the plastic socket remained the main long-term problems.",
+      "His first sockets, made of PTFE, failed and had to be abandoned."
+    ],
+    "sources": [
+      {
+        "citation": "Wroblewski BM, et al. Charnley low-friction arthroplasty of the hip: survival to 38 years. J Bone Joint Surg Br 89-B(8) (2007).",
+        "url": "https://boneandjoint.org.uk/Article/10.1302/0301-620X.89B8.18387",
+        "doi": "10.1302/0301-620X.89B8.18387",
+        "kind": "journal",
+        "supports": "22,066 primary low-friction arthroplasties at Wrightington between November 1962 and June 2005; wear and loosening of the polyethylene socket the main long-term problems."
+      },
+      {
+        "citation": "Wrightington, Wigan and Leigh NHS Foundation Trust. Pioneer of hip replacement surgery: Professor Sir John Charnley.",
+        "url": "https://www.wwl.nhs.uk/pioneer-of-hip-replacement-surgery",
+        "kind": "institution",
+        "supports": "First total hip replacement at Wrightington in 1962; moved his practice there in 1962; Charnley hip a practical reality in November 1962."
+      },
+      {
+        "citation": "Reynolds LA, Tansey EM (eds). Early Development of Total Hip Replacement. Wellcome Witnesses to Twentieth Century Medicine, vol. 29 (2007).",
+        "url": "https://iiif.wellcomecollection.org/file/b16598465_Vol.%2029.pdf",
+        "kind": "book",
+        "supports": "Charnley low-friction arthroplasty in use from November 1962; clean-air greenhouse enclosure of 1960."
+      },
+      {
+        "citation": "Evolution of cemented stems. Orthopedics Today (Healio), 2005.",
+        "url": "https://cm.healio.com/news/orthopedics/20120331/evolution-of-cemented-stems",
+        "kind": "journal",
+        "supports": "Charnley pioneered cemented hip arthroplasty; unfavourable experience with polytetrafluoroethylene led to high-density polyethylene sockets."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "propranolol-beta-blocker",
+    "title": "Beta blockers: propranolol for heart disease",
+    "summary": "At ICI's laboratories at Alderley Park, Cheshire, James Black and colleagues set out to block the effect of adrenaline on the heart. After an earlier compound, pronethalol, they developed propranolol, introduced in the mid-1960s and the first widely successful beta blocker.",
+    "explanation": "Black set out to protect the heart by blocking the beta receptors through which adrenaline acts on it, building on Raymond Ahlquist's work on adrenaline receptors. Joining ICI Pharmaceuticals in 1958, he worked with the chemist John Stephenson and others. They derived propranolol from earlier compounds, dichloroisoprenaline and pronethalol; it was patented in 1962.\n\nPropranolol revolutionised the treatment of ischaemic heart disease and was later used widely for high blood pressure. Black went on to develop cimetidine for stomach ulcers, and shared the 1988 Nobel Prize for his approach to designing drugs.",
+    "date": {
+      "start": 1962,
+      "end": 1964,
+      "display": "1962–1964",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Pronethalol introduced and propranolol patented in 1962; propranolol approved for medical use around 1964–65."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "drug discovery",
+      "cardiology",
+      "pharmaceutical industry"
+    ],
+    "locations": [
+      {
+        "name": "ICI Pharmaceuticals, Alderley Park",
+        "modern": "Alderley Edge, Cheshire, England, UK",
+        "lat": 53.28,
+        "lon": -2.23,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "James Black",
+        "role": "Pharmacologist"
+      },
+      {
+        "name": "John Stephenson",
+        "role": "Chemist"
+      },
+      {
+        "name": "Bert Crowther",
+        "role": "Led the medicinal chemistry"
+      },
+      {
+        "name": "Brian Pritchard",
+        "role": "Clinical pharmacologist who led clinical development"
+      }
+    ],
+    "whatChanged": "Doctors could reduce the heart's workload by blocking adrenaline's effects, treating angina and later high blood pressure.",
+    "whyItMattered": "Beta blockers became among the most widely used heart drugs, and Black's receptor-targeted approach became a model for drug discovery.",
+    "limitations": [
+      "Sources differ on whether propranolol's approval should be dated 1964 or 1965.",
+      "An earlier beta blocker, pronethalol, preceded propranolol; 'first' here means the first widely successful one."
+    ],
+    "sources": [
+      {
+        "citation": "Black JW. Biographical. The Nobel Prize in Physiology or Medicine 1988. NobelPrize.org.",
+        "url": "https://www.nobelprize.org/nobel_prizes/medicine/laureates/1988/black-bio.html",
+        "kind": "institution",
+        "supports": "Employed by ICI at Alderley Park, Cheshire, 1958–1964; chemist John Stephenson; Bert Crowther and Brian Pritchard's roles in bringing the first beta-receptor antagonist to market."
+      },
+      {
+        "citation": "Royal College of Physicians. Inspiring physicians: Sir James Whyte Black.",
+        "url": "https://history.rcplondon.ac.uk/inspiring-physicians/sir-james-whyte-black",
+        "kind": "institution",
+        "supports": "Used Ahlquist's work to seek a beta-receptor antagonist; joined ICI at Alderley Park; propranolol by 1963; revolutionised treatment of ischaemic heart disease; cimetidine."
+      },
+      {
+        "citation": "James Black. Famous Scientists.",
+        "url": "https://www.famousscientists.org/?p=24825",
+        "kind": "institution",
+        "supports": "Joined ICI in 1958; research group at Alderley Park; propranolol patented in 1962 and approved for medical use in 1964; Nobel Prize 1988."
+      },
+      {
+        "citation": "Obituary: Sir James Black. Pharmafile, 6 April 2010.",
+        "url": "https://pharmafile.com/appointments/obituary-sir-james-black/",
+        "kind": "journal",
+        "supports": "Propranolol the first successful beta blocker (Inderal); cimetidine; 1988 Nobel Prize shared with Elion and Hitchings."
+      },
+      {
+        "citation": "This month in 1924: the birth of Sir James Black. Pharmafile.",
+        "url": "https://pharmafile.com/?p=757",
+        "kind": "journal",
+        "supports": "Propranolol derived from dichloroisoprenaline and pronethalol; marketed by ICI as Inderal; became a major success."
+      },
+      {
+        "citation": "The birth of Sir James Black. PMLiVE.",
+        "url": "https://pmlive.com/pharma_news/this_month_in_1924_the_birth_of_sir_james_black_579329",
+        "kind": "journal",
+        "supports": "Propranolol revolutionised treatment of hypertension; sold as Inderal by ICI."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "fogarty-balloon-catheter",
+    "title": "A balloon catheter removes blood clots without opening the artery",
+    "summary": "Thomas Fogarty, while a medical student in Cincinnati around 1960, devised a thin catheter with a small balloon at the tip that could be passed beyond a clot, inflated and pulled back to drag the clot out. Reported in 1963, it began catheter-based treatment of blood vessels.",
+    "explanation": "Fogarty, who had worked as a surgical scrub technician at Good Samaritan Hospital in Cincinnati, saw that the existing operations to remove clots from arteries often failed. As a medical student he designed a thin catheter with a balloon at its tip. Introduced through a small cut, the deflated balloon was pushed past the clot, inflated, and withdrawn, pulling the clot out.\n\nWith the vascular surgeon Jack Cranley, Fogarty first used it in a patient in the early 1960s and published the method in 1963. Surgeons were initially sceptical, because touching the inside of a vessel was thought to cause clotting.",
+    "date": {
+      "start": 1961,
+      "end": 1963,
+      "display": "1961–1963",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First use in a patient around 1961 according to the American College of Surgeons; publication and patent in 1963."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "devices",
+      "minimally invasive surgery"
+    ],
+    "locations": [
+      {
+        "name": "University of Cincinnati and Good Samaritan Hospital, Cincinnati",
+        "modern": "Cincinnati, Ohio, USA",
+        "lat": 39.14,
+        "lon": -84.51,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Thomas Fogarty",
+        "role": "Medical student and later surgeon; inventor"
+      },
+      {
+        "name": "Jack Cranley",
+        "role": "Vascular surgeon and mentor"
+      }
+    ],
+    "whatChanged": "Clots could be removed from arteries through a small incision, saving limbs that might otherwise have been amputated.",
+    "whyItMattered": "Balloon catheters became the basic tool of minimally invasive treatment inside blood vessels, leading to angioplasty and stents.",
+    "limitations": [
+      "Balloons had been used on medical catheters before; the novelty was their use to extract clots."
+    ],
+    "sources": [
+      {
+        "citation": "American College of Surgeons. Timeline: 1961, balloon embolectomy catheter debuts.",
+        "url": "https://timeline.facs.org/1960.html",
+        "kind": "institution",
+        "supports": "Fogarty used the device to remove an embolus from a patient; design of a balloon-tipped tube; conceived while a medical student at the University of Cincinnati."
+      },
+      {
+        "citation": "Fogarty TJ, Cranley JJ, Krause RJ, Strasser ES, Hafner CD. A method for extraction of arterial emboli and thrombi. Surg Gynecol Obstet 116:241–44 (1963). Garrison–Morton entry.",
+        "url": "https://www.historyofmedicine.com/author/d/thomas-j-fogarty",
+        "kind": "journal",
+        "supports": "Publication of the method in 1963 with Cranley and colleagues."
+      },
+      {
+        "citation": "Interventional cardiology: where it all began and where it might be going. Interventional Cardiology Review.",
+        "url": "https://www.icrjournal.com/articles/interventional-cardiology-where-it-all-began-and-where-it-might-be-going",
+        "kind": "journal",
+        "supports": "First used in a live patient in the early 1960s with Fogarty as scrub technician; patented in 1963; not the first catheter with a balloon."
+      },
+      {
+        "citation": "Physician inventors pioneer new devices. MDedge.",
+        "url": "https://mdedge.com/internalmedicine/article/14223/health-policy/physician-inventors-pioneer-new-devices",
+        "kind": "journal",
+        "supports": "Fourth-year student at the University of Cincinnati in 1960; initial scepticism because touching the vessel wall was thought to cause thrombosis; Cranley's mentorship at Good Samaritan Hospital."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "liver-transplant",
+    "title": "Liver transplantation: first attempts and first success",
+    "summary": "Thomas Starzl attempted the first human liver transplants in Denver in 1963, but the early operations did not succeed. In 1967 he achieved the first successful liver transplant, at the University of Colorado.",
+    "explanation": "The liver's complexity and the strength of rejection made it far harder to transplant than the kidney. Starzl, who had built an active kidney transplant programme at the University of Colorado and the Denver Veterans Administration Hospital, performed the first human liver transplants in 1963, using azathioprine and steroids to control rejection.\n\nIn 1967 Starzl's team carried out the first successful liver transplant. He later helped bring the immunosuppressants cyclosporine and tacrolimus into transplant practice, which made liver transplants far more reliable.",
+    "date": {
+      "start": 1963,
+      "end": 1967,
+      "display": "1963–1967",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First attempts in 1963; first successful transplant in 1967."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "transplantation"
+    ],
+    "locations": [
+      {
+        "name": "University of Colorado and Denver Veterans Administration Hospital",
+        "modern": "Denver, Colorado, USA",
+        "lat": 39.73,
+        "lon": -104.94,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Thomas Starzl",
+        "role": "Transplant surgeon"
+      }
+    ],
+    "whatChanged": "Replacing a failed liver became possible, offering survival to people with otherwise fatal liver disease.",
+    "whyItMattered": "Liver transplantation is now a standard treatment for end-stage liver disease and some liver cancers.",
+    "limitations": [
+      "The 1963 operations did not achieve lasting success.",
+      "Sources give different dates in 1963 for the first operations."
+    ],
+    "sources": [
+      {
+        "citation": "In memoriam: Thomas E. Starzl. PubMed Central, PMC5549009.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549009",
+        "kind": "journal",
+        "supports": "Joined the University of Colorado in 1962; kidney transplants from 1962; liver transplantation from 1963 and first successful liver transplant in 1967 at the University of Colorado and Denver VA Hospitals; steroids added to azathioprine; later cyclosporine and tacrolimus."
+      },
+      {
+        "citation": "US Department of Veterans Affairs. First transplantation at VA hospital (VA Eastern Colorado Health Care).",
+        "url": "https://www.va.gov/eastern-colorado-health-care/programs/first-transplantation-at-va-hospital/",
+        "kind": "institution",
+        "supports": "Starzl's 1963 liver transplant at the Denver VA hospital on a patient who survived the operation; kidney transplantation programme in the early 1960s."
+      },
+      {
+        "citation": "King Faisal Prize. Professor Thomas Starzl.",
+        "url": "https://kingfaisalprize.org/professor-thomas-starzl/",
+        "kind": "institution",
+        "supports": "World's first liver transplant in 1963 and first successful liver transplant in 1967, both at the University of Colorado."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "lung-transplant-hardy",
+    "title": "The first human lung transplant, in Jackson, Mississippi",
+    "summary": "On 11 June 1963 James Hardy's team at the University of Mississippi Medical Center transplanted a lung into John Russell, a 58-year-old prisoner with lung cancer. Russell lived 18 days and died of kidney failure.",
+    "explanation": "James Hardy's medical school dean granted him permission to attempt a human lung transplant under agreed conditions. John Russell, serving a life sentence at the Mississippi State Penitentiary, had a tumour blocking his left main airway and emphysema in his right lung. He received the left lung of a patient who had died of a heart attack.\n\nThe new lung worked, but Russell died 18 days later of kidney failure. The first lung transplant with long-term success came only in 1983.",
+    "date": {
+      "start": 1963,
+      "end": 1963,
+      "display": "11 June 1963",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Operation performed on the night of 11–12 June 1963."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "transplantation",
+      "research ethics"
+    ],
+    "locations": [
+      {
+        "name": "University Hospital, University of Mississippi Medical Center, Jackson",
+        "modern": "Jackson, Mississippi, USA",
+        "lat": 32.33,
+        "lon": -90.17,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "James D. Hardy",
+        "role": "Surgeon"
+      },
+      {
+        "name": "John Russell",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "It showed that a human lung could be transplanted and function in a recipient.",
+    "whyItMattered": "It opened clinical lung transplantation, now a treatment for end-stage lung disease, though decades passed before it succeeded routinely.",
+    "limitations": [
+      "It was the first lung transplant in a human, not the first lasting success: long-term success came only in 1983.",
+      "The patient survived only 18 days."
+    ],
+    "harms": "The recipient was a prisoner serving a life sentence. Historians have noted the ethical questions raised by recruiting prisoners for first-in-human operations, a common practice in the US at the time.",
+    "sources": [
+      {
+        "citation": "University of Mississippi Medical Center. UMMC marks 50th anniversary of world's first lung transplant (2013).",
+        "url": "https://umc.edu/news/News_Articles/2013/June/UMMC-marks-50th-anniversary-of-world-s-first-lung-transplant.html",
+        "kind": "institution",
+        "supports": "Hardy's team performed the first human-to-human lung transplant on 11 June 1963; dean Robert Marston granted permission under agreed conditions; Russell offered a transplant of his left lung."
+      },
+      {
+        "citation": "The first human lung transplantation (figure legend). J Thorac Dis 9(12):5458–5471 (2017).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5757055/figure/f2",
+        "doi": "10.21037/jtd.2017.11.84",
+        "kind": "journal",
+        "supports": "First human lung transplantation on 11 June 1963 at University Hospital, Jackson; 58-year-old John Russell with an obstructive tumour in the left main bronchus died 18 days later of renal failure."
+      },
+      {
+        "citation": "Research: volunteers behind bars. Time magazine.",
+        "url": "https://content.time.com/time/magazine/article/0,9171,940317,00.html",
+        "kind": "journal",
+        "supports": "Russell was serving a life sentence at Parchman; received the left lung of a patient who died of a heart attack; much US medical research relied on prisoner volunteers."
+      },
+      {
+        "citation": "University of Mississippi Medical Center: original hospital operating room #10. Clio.",
+        "url": "https://theclio.com/entry/130424",
+        "kind": "institution",
+        "supports": "Operation from the night of 11 June to the morning of 12 June 1963; ethico-legal significance of the patient being a prisoner; right lung weakened by emphysema."
+      },
+      {
+        "citation": "US Health Resources and Services Administration. Transplant milestones (organdonor.gov).",
+        "url": "https://www.hrsa.gov/es/node/30167",
+        "kind": "institution",
+        "supports": "First successful single lung transplant in 1983; first successful heart–lung transplant in 1981; first successful kidney–pancreas transplant in 1966."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "benzodiazepines-diazepam",
+    "title": "Benzodiazepines: Librium and Valium",
+    "summary": "Leo Sternbach at Hoffmann-La Roche in Nutley, New Jersey, discovered the first benzodiazepine, chlordiazepoxide (Librium), marketed in 1960. Diazepam (Valium) followed in 1963 and became one of the most prescribed drugs in the world.",
+    "explanation": "In the 1950s anxiety and insomnia were treated mainly with barbiturates. Sternbach, a chemist at Roche's US research centre, had set aside a family of compounds when a colleague tidying the laboratory found one that had never been tested. Submitted in 1957, it proved a potent calming drug and was marketed as Librium in 1960.\n\nRoche's chemists modified the molecule to produce diazepam, introduced in 1963 as Valium. Benzodiazepines at first appeared less toxic and less likely to cause dependence than older drugs, and Valium was the best-selling medicine in the United States from 1968 until 1982.",
+    "date": {
+      "start": 1960,
+      "end": 1963,
+      "display": "1960–1963",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Chlordiazepoxide marketed in 1960; diazepam introduced in 1963."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "drug discovery",
+      "pharmaceutical industry",
+      "dependence"
+    ],
+    "locations": [
+      {
+        "name": "Hoffmann-La Roche research centre, Nutley",
+        "modern": "Nutley, New Jersey, USA",
+        "lat": 40.82,
+        "lon": -74.16,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Leo Sternbach",
+        "role": "Chemist"
+      }
+    ],
+    "whatChanged": "Anxiety, insomnia, muscle spasm and seizures could be treated with drugs that at first appeared much safer than barbiturates.",
+    "whyItMattered": "Benzodiazepines are still used for anxiety and seizures, but their heavy use also showed how quickly a drug thought to be safe can create widespread dependence.",
+    "limitations": [
+      "Benzodiazepines proved more habit-forming than first thought, and Valium's use declined in the 1980s because of its addictive properties."
+    ],
+    "sources": [
+      {
+        "citation": "Wick JY. The history of benzodiazepines. Consult Pharm 28(9):538–48 (2013).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24007886/",
+        "doi": "10.4140/TCP.n.2013.538",
+        "kind": "journal",
+        "supports": "Sternbach identified chlordiazepoxide in 1955; marketed as Librium by 1960; Valium followed in 1963; initially appeared less toxic and less likely to cause dependence than older drugs."
+      },
+      {
+        "citation": "Haefely W. The chemical pedigree of flumazenil. Chimia (1993).",
+        "url": "https://chimia.ch/chimia/article/download/1993_141/1552/12207",
+        "kind": "journal",
+        "supports": "Chlordiazepoxide synthesised in 1955 and submitted for testing by Sternbach in 1957 at Roche, Nutley; market introduction two and a half years later; diazepam reached the market in 1963."
+      },
+      {
+        "citation": "Wyllie E. Benzodiazepines in neurology: overview. Cleveland Clinic Journal of Medicine 57(Suppl 1).",
+        "url": "https://www.ccjm.org/content/57/1_suppl_1/S-4.full.pdf",
+        "kind": "journal",
+        "supports": "Sternbach at Roche's Medicinal Chemistry Research Department, Nutley, from 1941; chlordiazepoxide introduced in 1960 as the first clinically marketed benzodiazepine."
+      },
+      {
+        "citation": "Atkins H. Mother's little helper: the history of Valium. History Hit (2022).",
+        "url": "https://www.historyhit.com/?p=5182633",
+        "kind": "journal",
+        "supports": "Valium America's best-selling medication from 1968 to 1982, when use declined because of its addictive properties; story of the forgotten compound."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "measles-vaccine",
+    "title": "A measles vaccine is licensed",
+    "summary": "John Enders and Thomas Peebles isolated measles virus in Boston in 1954 from a schoolboy, David Edmonston. Enders' team weakened it into a vaccine that was licensed in the United States in 1963; an improved version from 1968 is still used.",
+    "explanation": "Before the vaccine, nearly every American child caught measles by the age of 15, and it still killed about 500 Americans a year. During an outbreak at a boarding school near Boston in 1954, Peebles, a young paediatrician working with Enders at Boston Children's Hospital, collected samples; the virus from David Edmonston was grown in cell culture and gradually weakened.\n\nThe Edmonston-B vaccine was tested in small groups of children from 1958 and then in larger trials in New York and Nigeria. It was licensed in March 1963, but often caused fever and rash; Maurice Hilleman of Merck produced a further-weakened version in 1968, the only measles vaccine used in the United States since.",
+    "date": {
+      "start": 1963,
+      "end": 1963,
+      "display": "21 March 1963",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "US licence for the first live measles vaccine; virus isolated in 1954."
+    },
+    "type": "implementation",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "child health"
+    ],
+    "locations": [
+      {
+        "name": "Boston Children's Hospital",
+        "modern": "Boston, Massachusetts, USA",
+        "lat": 42.34,
+        "lon": -71.11,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "John Enders",
+        "role": "Virologist"
+      },
+      {
+        "name": "Thomas Peebles",
+        "role": "Paediatrician who isolated the virus"
+      },
+      {
+        "name": "David Edmonston",
+        "role": "Schoolboy whose virus became the vaccine strain"
+      },
+      {
+        "name": "Maurice Hilleman",
+        "role": "Developed the improved vaccine of 1968"
+      }
+    ],
+    "whatChanged": "Measles, previously almost universal in childhood, could be prevented.",
+    "whyItMattered": "Widespread measles vaccination drastically reduced one of the most contagious childhood diseases.",
+    "limitations": [
+      "The first vaccine frequently caused fever and rash and was soon superseded.",
+      "Sources disagree on David Edmonston's age at the time (11 or 13)."
+    ],
+    "sources": [
+      {
+        "citation": "Centers for Disease Control and Prevention. History of measles.",
+        "url": "https://www.cdc.gov/measles/about/history.html?hl=en-US",
+        "kind": "institution",
+        "supports": "1954 outbreak in Boston; Enders and Peebles isolated measles from 13-year-old David Edmonston; Edmonston-B vaccine licensed in the US in 1963; improved vaccine in 1968, the only one used in the US since."
+      },
+      {
+        "citation": "World Health Organization (Google Arts & Culture). History of measles vaccination.",
+        "url": "https://artsandculture.google.com/story/hwVRpd7MxQrtmA",
+        "kind": "institution",
+        "supports": "Peebles obtained the culture from David Edmonston; Enders developed the Edmonston-B vaccine; tests in small groups of children 1958–60, then in New York City and Nigeria; Hilleman's improved vaccine of 1968."
+      },
+      {
+        "citation": "Haelle T. Why it took so long to eliminate measles. History.com.",
+        "url": "https://www.history.com/articles/measles-vaccine-disease",
+        "kind": "journal",
+        "supports": "Most children given the first vaccine developed high fevers and rashes; FDA licensed the first live measles vaccine on 21 March 1963."
+      },
+      {
+        "citation": "Harvard Virology PhD Program. From moon shot to arm shot: the story of the measles vaccine (2026).",
+        "url": "https://virologyphd.hms.harvard.edu/news/2026/08/moon-shot-arm-shot-story-measles-vaccine",
+        "kind": "university",
+        "supports": "Boston Children's Hospital as the birthplace of the measles vaccine; live-attenuated vaccine released in 1963; Peebles and Enders isolated the virus in cell cultures."
+      }
+    ],
+    "related": [
+      "mumps-mmr-vaccine",
+      "rubella-vaccine",
+      "al-razi-smallpox-measles"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "cochlear-implant",
+    "title": "Cochlear implants bring sound to deaf people",
+    "summary": "William House and John Doyle implanted the first cochlear electrodes in Los Angeles in 1961. House's single-channel device, made with 3M, became in 1984 the first cochlear implant approved by the US FDA for adults.",
+    "explanation": "Cochlear implants stimulate the auditory nerve electrically, bypassing the damaged inner ear. After reading of earlier attempts in France, the otologist William House, with the neurosurgeon John Doyle and engineer James Doyle, implanted electrodes in three patients in 1961. Working with the engineer Jack Urban from the mid-1960s, House developed a wearable device with an induction coil that passed signals through the skin, used from 1972.\n\nMany researchers doubted that a single electrode could be useful, but more than 1,000 adults received the House device, and a trial in the late 1970s found implants beneficial. Multichannel implants, developed by teams including Blair Simmons's in California and Claude-Henri Chouard's in Paris, later became the standard.",
+    "date": {
+      "start": 1961,
+      "end": 1984,
+      "display": "1961–1984",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First implants in 1961; wearable device from 1972; FDA approval in November 1984."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report",
+      "trial"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "disability",
+      "neuroprosthetics"
+    ],
+    "locations": [
+      {
+        "name": "Los Angeles Foundation of Otology (later House Ear Institute)",
+        "modern": "Los Angeles, California, USA",
+        "lat": 34.06,
+        "lon": -118.28,
+        "radiusKm": 15,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "William F. House",
+        "role": "Otologist"
+      },
+      {
+        "name": "John Doyle",
+        "role": "Neurosurgeon"
+      },
+      {
+        "name": "James Doyle",
+        "role": "Electrical engineer"
+      },
+      {
+        "name": "Jack Urban",
+        "role": "Engineer"
+      }
+    ],
+    "whatChanged": "People with profound deafness could perceive sound through direct electrical stimulation of the auditory nerve.",
+    "whyItMattered": "Cochlear implants have given many deaf children and adults access to sound and spoken language.",
+    "limitations": [
+      "The single-channel House device mainly helped lip-reading; understanding speech without lip-reading came with multichannel implants.",
+      "French researchers had stimulated the auditory nerve in the late 1950s, so House was not the first to try."
+    ],
+    "sources": [
+      {
+        "citation": "History of cochlear implants (timeline). PubMed Central, PMC6139747.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6139747",
+        "kind": "journal",
+        "supports": "1961 House and Doyle perform first true cochlear implants; 1964 Simmons multichannel implant; 1967 House and Urban induction coil; 1976–77 NIH Bilger report; 1984 FDA approves the 3M/House single-channel device for adults."
+      },
+      {
+        "citation": "House Institute Foundation. History.",
+        "url": "https://hifla.org/about/history/",
+        "kind": "institution",
+        "supports": "Los Angeles Foundation of Otology founded 1946; House and Urban develop the first cochlear implant system for long-term use from 1965; single-channel system of 1972; 1984 FDA approval of the 3M/House device."
+      },
+      {
+        "citation": "History of the cochlear implant. ENTtoday (April 2013).",
+        "url": "https://www.enttoday.org/?p=12995",
+        "kind": "journal",
+        "supports": "1960–61 House and Doyle implant three patients in Los Angeles; 1972 first wearable device; multichannel work in Paris from 1973."
+      },
+      {
+        "citation": "Hearing aid evolution: a ride through history. Hearing Health Matters.",
+        "url": "https://hearinghealthmatters.org/?p=3906",
+        "kind": "journal",
+        "supports": "More than 1,000 single-channel devices implanted into the mid-1980s; first cochlear implant commercially marketed; FDA approval in November 1984; criticism of House's single-channel approach."
+      },
+      {
+        "citation": "Hearing aid evolution, part V. Hearing Health Matters (Wayne's World).",
+        "url": "https://hearinghealthmatters.org/waynesworld/2014/hearing-aid-evolution-v",
+        "kind": "journal",
+        "supports": "William House performed his first cochlear implants in 1961 after reading about earlier attempts in France in the late 1950s."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pantridge-mobile-defibrillator",
+    "title": "A portable defibrillator takes heart-attack care to the patient",
+    "summary": "In 1966 Frank Pantridge and John Geddes of the Royal Victoria Hospital, Belfast, launched a mobile coronary care unit: an ambulance carrying a doctor and a portable defibrillator to treat cardiac arrest before patients reached hospital.",
+    "explanation": "Pantridge had opened a coronary care unit in Belfast in late 1963, but argued that such units would be of little value if patients died before reaching hospital. With Geddes and the engineer John Anderson, he built a defibrillator that could run from a car battery; the first version, in 1965, weighed about 70 kg.\n\nFrom 1966 a team travelled from the Royal Victoria Hospital to patients at the request of their family doctors. A 1967 editorial in The Lancet said that Pantridge and Geddes had revolutionised emergency medicine, and by 1968 Pantridge had a version weighing 3 kg. The 'Pantridge plan' was copied in many countries and led to the automated external defibrillator.",
+    "date": {
+      "start": 1965,
+      "end": 1967,
+      "display": "1965–1967",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First portable defibrillator in 1965; mobile coronary care unit from 1966; Lancet report in 1967."
+    },
+    "type": "implementation",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "devices",
+      "emergency medicine",
+      "resuscitation"
+    ],
+    "locations": [
+      {
+        "name": "Royal Victoria Hospital, Belfast",
+        "modern": "Belfast, Northern Ireland, UK",
+        "lat": 54.59,
+        "lon": -5.95,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Frank Pantridge",
+        "role": "Cardiologist"
+      },
+      {
+        "name": "John Geddes",
+        "role": "Cardiology registrar"
+      },
+      {
+        "name": "John Anderson",
+        "role": "Biomedical engineer"
+      }
+    ],
+    "whatChanged": "Cardiac arrest could be treated at the scene, in the minutes when defibrillation is most effective.",
+    "whyItMattered": "Pre-hospital cardiac care and paramedic defibrillation spread worldwide, and the portable defibrillator evolved into the public-access AEDs found in public places today.",
+    "limitations": [
+      "The first portable unit was heavy and needed its own vehicle.",
+      "Similar mobile units were soon set up elsewhere, including New York in 1967."
+    ],
+    "sources": [
+      {
+        "citation": "Royal College of Physicians. Inspiring physicians: James Francis Pantridge.",
+        "url": "https://history.rcp.ac.uk/inspiring-physicians/james-francis-pantridge",
+        "kind": "institution",
+        "supports": "With John Geddes initiated the world's first prehospital cardiac care unit at the Royal Victoria Hospital in 1966; coronary care unit opened in late 1963."
+      },
+      {
+        "citation": "European Resuscitation Council. Frank Pantridge (biographical article).",
+        "url": "https://www.erc.edu/assets/other-documents/Frank_Pantridge.pdf",
+        "kind": "institution",
+        "supports": "Mobile cardiac care in Belfast in 1966; team travelled from the Royal Victoria Hospital at a GP's request; mobile units later set up in New York in 1967 and elsewhere."
+      },
+      {
+        "citation": "Archives of IT. Professor Frank Pantridge (article).",
+        "url": "https://archivesit.org.uk/wp-content/uploads/2022/02/Professor-Frank-Pantridge-Article.pdf",
+        "kind": "archive",
+        "supports": "First portable defibrillator in 1965 powered from a car battery, weighing 70 kg; 3 kg version by 1968; became the AED; 1967 Lancet editorial."
+      },
+      {
+        "citation": "Ulster Transport Museum. The father of emergency medicine.",
+        "url": "https://www.ulstertransportmuseum.org/stories/father-emergency-medicine",
+        "kind": "museum",
+        "supports": "Collaboration with Mawhinney, Geddes and engineer John Anderson; defibrillator installed in Belfast ambulances as the 'Pantridge plan'."
+      }
+    ],
+    "related": [
+      "modern-cpr"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "pancreas-transplant",
+    "title": "The first pancreas transplant, in Minneapolis",
+    "summary": "On 16–17 December 1966 William Kelly and Richard Lillehei at the University of Minnesota transplanted a pancreas together with a kidney into a 28-year-old woman with diabetic kidney failure. It showed for the first time that a transplanted pancreas could free a person with type 1 diabetes from insulin.",
+    "explanation": "People with type 1 diabetes depend on injected insulin and often develop kidney failure. Kelly and Lillehei transplanted part of a pancreas and a kidney from a deceased donor into a 28-year-old woman with kidney failure; for the first time, a person with type 1 diabetes became independent of insulin.\n\nThe University of Minnesota went on to perform more than 1,000 pancreas transplants, and outcomes improved with better immunosuppression. More than 50,000 pancreas transplants have since been performed worldwide.",
+    "date": {
+      "start": 1966,
+      "end": 1966,
+      "display": "December 1966",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Sources give 16 or 17 December 1966."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "transplantation",
+      "diabetes"
+    ],
+    "locations": [
+      {
+        "name": "University of Minnesota Hospital, Minneapolis",
+        "modern": "Minneapolis, Minnesota, USA",
+        "lat": 44.97,
+        "lon": -93.23,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "William Kelly",
+        "role": "Surgeon"
+      },
+      {
+        "name": "Richard Lillehei",
+        "role": "Transplant surgeon"
+      }
+    ],
+    "whatChanged": "It showed that transplanting a pancreas could restore the body's own insulin production.",
+    "whyItMattered": "Pancreas transplantation, usually with a kidney, became a treatment for people with type 1 diabetes and kidney failure.",
+    "limitations": [
+      "The earliest pancreas transplants had a high failure rate.",
+      "Sources differ on whether the operation took place on 16 or 17 December 1966."
+    ],
+    "sources": [
+      {
+        "citation": "Squifflet JP, Gruessner RWG, Sutherland DER. The history of pancreas transplantation: past, present and future. Acta Chir Belg 108(3):367–378 (2008).",
+        "url": "https://experts.azregents.edu/en/publications/the-history-of-pancreas-transplantation-past-present-and-future/",
+        "kind": "journal",
+        "supports": "First attempt to cure type 1 diabetes by pancreas transplantation at the University of Minnesota on 17 December 1966."
+      },
+      {
+        "citation": "Sutherland DER, et al. Lessons learned from more than 1,000 pancreas transplants at a single institution. Ann Surg (2001), PubMed Central PMC1421277.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1421277",
+        "kind": "journal",
+        "supports": "World's first clinical pancreas transplant, with a kidney, on 16 December 1966 at the University of Minnesota Hospital; high initial failure rate."
+      },
+      {
+        "citation": "De Roover A, et al. Pancreas transplantation (review). ORBi, University of Liège.",
+        "url": "https://orbi.uliege.be/bitstream/2268/12061/1/deroover%281%29.pdf",
+        "kind": "journal",
+        "supports": "Insulin independence first achieved in December 1966 when Kelly and Lillehei transplanted a segmental pancreas with a kidney into a 28-year-old uraemic woman."
+      },
+      {
+        "citation": "University of Minnesota. Free again. Discovery magazine.",
+        "url": "https://discoverymag.umn.edu/stories/free-again",
+        "kind": "university",
+        "supports": "World's first pancreas transplant in December 1966 by Lillehei and Kelly; more than 50,000 pancreas transplants since."
+      }
+    ],
+    "related": [
+      "insulin-toronto"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "mumps-mmr-vaccine",
+    "title": "Mumps vaccine, then the combined MMR vaccine",
+    "summary": "Maurice Hilleman of Merck isolated mumps virus from his daughter Jeryl Lynn in 1963 and developed a vaccine licensed in 1967. In 1971 he combined it with measles and rubella vaccines into MMR.",
+    "explanation": "When his five-year-old daughter Jeryl Lynn fell ill with mumps in March 1963, Hilleman, head of virus research at the Merck Institute in West Point, Pennsylvania, swabbed her throat and grew the virus in the laboratory. Weakened by passage through chick embryo cells, the 'Jeryl Lynn' strain became the mumps vaccine licensed in 1967 and is still used.\n\nIn 1971 Merck's combined measles, mumps and rubella vaccine was licensed in the United States, allowing children to be protected against three diseases with fewer injections.",
+    "date": {
+      "start": 1967,
+      "end": 1971,
+      "display": "1967–1971",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Mumps vaccine licensed in 1967; MMR licensed in 1971."
+    },
+    "type": "implementation",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "child health"
+    ],
+    "locations": [
+      {
+        "name": "Merck Institute for Therapeutic Research, West Point",
+        "modern": "West Point, Pennsylvania, USA",
+        "lat": 40.21,
+        "lon": -75.3,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Maurice Hilleman",
+        "role": "Director of virus and cell biology research at Merck"
+      },
+      {
+        "name": "Jeryl Lynn Hilleman",
+        "role": "Source of the vaccine strain"
+      }
+    ],
+    "whatChanged": "Mumps, a leading cause of childhood deafness, could be prevented, and three vaccines could be given in one.",
+    "whyItMattered": "MMR became a standard childhood vaccine worldwide, sharply reducing measles, mumps and rubella.",
+    "limitations": [
+      "Claims linking MMR to autism damaged public confidence in the vaccine; numerous studies have found no such link."
+    ],
+    "sources": [
+      {
+        "citation": "Ross CH. The measles, mumps, and rubella (MMR) vaccine. Embryo Project Encyclopedia.",
+        "url": "https://embryo.asu.edu/pages/measles-mumps-and-rubella-mmr-vaccine",
+        "kind": "university",
+        "supports": "In 1971 Hilleman at the Merck Institute of Therapeutic Research, West Point, created MMR; mumps vaccine developed in 1967 from virus isolated from his daughter."
+      },
+      {
+        "citation": "History of Vaccines (College of Physicians of Philadelphia). Maurice Hilleman timeline.",
+        "url": "https://historyofvaccines.org/history/maurice-hilleman-phd/timeline/",
+        "kind": "institution",
+        "supports": "Hilleman isolates mumps virus on 23 March 1963; testing of mumps vaccine from 1965; MMR licensed in 1971."
+      },
+      {
+        "citation": "Roos D. The mumps vaccine and World War II. History.com.",
+        "url": "https://www.history.com/news/mumps-vaccine-world-war-ii",
+        "kind": "journal",
+        "supports": "Merck licensed Mumpsvax four years after isolation; virus weakened in chicken embryos; still used in MMR."
+      },
+      {
+        "citation": "How we know splitting up the MMR vaccine could be dangerous. STAT, 11 August 2026.",
+        "url": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/",
+        "kind": "journal",
+        "supports": "Jeryl Lynn's illness in March 1963; Hilleman at the Merck Institute, West Point; studies showing MMR does not increase the risk of autism."
+      },
+      {
+        "citation": "History tells us splitting MMR could do real harm. STAT.",
+        "url": "https://www.statnews.com/?p=1508866",
+        "kind": "journal",
+        "supports": "Before the vaccine, mumps was the leading cause of deafness in children; Hilleman combined mumps with measles and rubella vaccines into MMR, licensed in 1971."
+      }
+    ],
+    "related": [
+      "measles-vaccine",
+      "rubella-vaccine"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "favaloro-coronary-bypass",
+    "title": "Coronary bypass surgery with a leg vein",
+    "summary": "On 9 May 1967 the Argentine surgeon René Favaloro, working at the Cleveland Clinic, used a segment of the patient's saphenous vein to carry blood past a blocked coronary artery. Coronary artery bypass grafting became one of the most common heart operations.",
+    "explanation": "Favaloro had studied thousands of the coronary angiograms made by Mason Sones at the Cleveland Clinic, which showed exactly where arteries were blocked. Earlier surgeons had experimented with other approaches, and Vasilii Kolesov in Leningrad had performed internal thoracic artery bypasses from 1964. Favaloro's systematic use of vein grafts from the leg, guided by angiography, made the operation reproducible.\n\nHe performed 13 more operations by October 1967 and published his results in 1968; by 1970 he and his colleagues had carried out more than 1,000.",
+    "date": {
+      "start": 1967,
+      "end": 1967,
+      "display": "9 May 1967",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of Favaloro's first saphenous vein bypass; results published in April 1968."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "cardiology",
+      "cardiac surgery"
+    ],
+    "locations": [
+      {
+        "name": "Cleveland Clinic",
+        "modern": "Cleveland, Ohio, USA",
+        "lat": 41.5,
+        "lon": -81.62,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "René Favaloro",
+        "role": "Cardiac surgeon"
+      },
+      {
+        "name": "Mason Sones",
+        "role": "Cardiologist; pioneer of coronary angiography"
+      }
+    ],
+    "whatChanged": "Blocked coronary arteries could be bypassed, relieving angina and restoring blood flow to the heart muscle.",
+    "whyItMattered": "Bypass surgery became a mainstay of treatment for coronary heart disease worldwide.",
+    "limitations": [
+      "Priority is debated: Kolesov in Leningrad, Robert Goetz and others performed earlier coronary bypass operations.",
+      "At first surgeons disagreed about which patients benefited, and long-term results were studied for years afterwards."
+    ],
+    "contested": "Several surgeons performed coronary bypass operations before 1967. Favaloro himself was reluctant to be called the father of the operation; historians credit him with making it a standard, reproducible procedure.",
+    "sources": [
+      {
+        "citation": "Rocha EAV. Fifty years of coronary artery bypass graft surgery. Braz J Cardiovasc Surg (2017).",
+        "url": "https://rbccv.org.br/article/2699/en-US/fifty-years-of-coronary-artery-bypass-graft-surgery",
+        "doi": "10.21470/1678-9741-2017-0104",
+        "kind": "journal",
+        "supports": "Favaloro performed the first saphenous vein anastomosis on 9 May 1967 with 13 more cases by October, publishing in April 1968; paternity of the procedure debatable; earlier operations by Kolesov and Goetz."
+      },
+      {
+        "citation": "Cooley DA. In memoriam: tribute to René Favaloro, pioneer of coronary bypass. Tex Heart Inst J 27(3):231–232 (2000).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC101069",
+        "kind": "journal",
+        "supports": "Favaloro hesitant to be called the father of bypass surgery but credited with introducing it clinically; joined the Cleveland Clinic in 1962 and studied Sones's cineangiograms."
+      },
+      {
+        "citation": "Fifty years of coronary artery bypass grafting. PubMed Central, PMC5563669.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5563669",
+        "kind": "journal",
+        "supports": "First CABG by Favaloro on 9 May 1967; over 1,000 operations by 1970; Kolesov's internal thoracic artery bypass in February 1964; innovation as a continuous process."
+      },
+      {
+        "citation": "Coronary bypass pioneer (profile of René Favaloro). University of Pittsburgh Health Sciences Library, digital collection.",
+        "url": "https://dec.hsls.pitt.edu/files/original/5f53a80bb549404b7a8c81d0467d2ad785dc2115.pdf",
+        "kind": "archive",
+        "supports": "On 9 May 1967 an Argentinian surgeon at the Cleveland Clinic grafted a segment of saphenous vein to bypass a blocked right coronary artery; surgeons did not agree on indications; collaborative studies of long-term results."
+      }
+    ],
+    "related": [
+      "first-heart-transplant"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "rubella-vaccine",
+    "title": "Rubella vaccines protect unborn babies",
+    "summary": "After a rubella epidemic in 1964–65 left thousands of American babies with birth defects, vaccines were developed by Harry Meyer and Paul Parkman at the US National Institutes of Health and by Stanley Plotkin at the Wistar Institute. The first were licensed in 1969.",
+    "explanation": "Rubella is usually mild, but infection in early pregnancy can cause miscarriage or congenital rubella syndrome, with damage to the heart, eyes, ears and brain. An epidemic in Europe in 1962–63 spread to the United States in 1964–65.\n\nParkman, who had helped isolate the virus at the Walter Reed Army Institute of Research, and Meyer at the NIH's Division of Biologics Standards weakened a strain, HPV-77, which was among three vaccines licensed in the United States in 1969. At the Wistar Institute in Philadelphia, Plotkin developed the RA 27/3 strain in human cells; licensed in the UK in 1972 and in the US in 1979, it is the basis of most rubella vaccines, including MMR, today.",
+    "date": {
+      "start": 1969,
+      "end": 1969,
+      "display": "1969",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First rubella vaccines licensed in the United States in 1969."
+    },
+    "type": "implementation",
+    "evidence": [
+      "laboratory",
+      "trial"
+    ],
+    "category": "prevention",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "vaccines",
+      "birth defects"
+    ],
+    "locations": [
+      {
+        "name": "National Institutes of Health, Division of Biologics Standards, Bethesda",
+        "modern": "Bethesda, Maryland, USA",
+        "lat": 39.0,
+        "lon": -77.1,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "HPV-77 vaccine (Meyer and Parkman)"
+      },
+      {
+        "name": "Wistar Institute, Philadelphia",
+        "modern": "Philadelphia, Pennsylvania, USA",
+        "lat": 39.95,
+        "lon": -75.2,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site",
+        "role": "RA 27/3 vaccine (Plotkin)"
+      }
+    ],
+    "people": [
+      {
+        "name": "Harry Meyer",
+        "role": "Virologist, NIH"
+      },
+      {
+        "name": "Paul Parkman",
+        "role": "Virologist, NIH"
+      },
+      {
+        "name": "Stanley Plotkin",
+        "role": "Physician-scientist, Wistar Institute"
+      },
+      {
+        "name": "Leonard Hayflick",
+        "role": "Developed the WI-38 human cell line used to grow RA 27/3"
+      }
+    ],
+    "whatChanged": "Congenital rubella syndrome could be prevented by vaccinating children and women before pregnancy.",
+    "whyItMattered": "Rubella vaccines prevent rubella in children and congenital rubella syndrome in babies born to women who would otherwise have been infected in pregnancy.",
+    "limitations": [
+      "Several of the first vaccine strains caused too many side effects and were withdrawn or replaced."
+    ],
+    "sources": [
+      {
+        "citation": "Military Infectious Diseases Research Program. Information paper: rubella vaccine.",
+        "url": "https://midrp.health.mil/pdf_files/INFO_PDF/Rubella.pdf",
+        "kind": "institution",
+        "supports": "Parkman and colleagues at WRAIR isolated rubella virus; with Harry Meyer developed HPV-77 vaccine, one of three rubella vaccines licensed in the US in 1969; RA 27/3 used from 1979."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Stanley Alan Plotkin's development of a rubella vaccine (1969).",
+        "url": "https://embryo.asu.edu/pages/stanley-alan-plotkins-development-rubella-vaccine-1969",
+        "kind": "university",
+        "supports": "RA 27/3 strain weakened in WI-38 human cells developed by Hayflick at the Wistar Institute; prevented congenital rubella syndrome; epidemic in Europe in 1963 and the US in 1964–65."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Stanley Alan Plotkin (1932– ).",
+        "url": "https://embryo.asu.edu/pages/stanley-alan-plotkin-1932",
+        "kind": "university",
+        "supports": "Congenital rubella syndrome causes miscarriage or defects of the heart, brain, eyes and ears; 1964–65 US epidemic caused birth defects in thousands of infants."
+      },
+      {
+        "citation": "Best JM. Rubella vaccines: past, present and future. Epidemiology and Infection.",
+        "url": "https://core-prod.cambridgecore.org/core/services/aop-cambridge-core/content/view/F740ABC2F5BE5418DCFEE7F1667E91A2/S0950268800048640a.pdf/rubella-vaccines-past-present-and-future.pdf",
+        "kind": "journal",
+        "supports": "HPV77.DE5 and Cendehill strains licensed in the USA in 1969; HPV77.DK12 discontinued for adverse reactions; RA27/3 licensed in the UK in 1972 and replaced HPV77 in the USA in 1979; MMR licensed 1971."
+      }
+    ],
+    "related": [
+      "mumps-mmr-vaccine",
+      "measles-vaccine"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "alza-controlled-drug-delivery",
+    "title": "Controlled-release drugs and the first skin patch",
+    "summary": "Alejandro Zaffaroni founded ALZA in Palo Alto in 1968 to release drugs at a steady, controlled rate. After an eye insert for glaucoma in 1974, ALZA's scopolamine patch for motion sickness became in 1981 the first transdermal drug patch approved in the United States.",
+    "explanation": "Pills and injections deliver drugs in peaks and troughs. Zaffaroni, a chemist who had co-founded Syntex, founded ALZA to release drugs at a controlled rate, and filed for a patent on a transdermal system in 1969. Its first approved product, in 1974, was Ocusert, a thin film placed in the eye that released the glaucoma drug pilocarpine.\n\nWorking with Ciba-Geigy, ALZA gained approval for Transderm Scop in August 1981, followed two months later by a nitroglycerin patch for angina. Patches for nicotine and pain relief followed.",
+    "date": {
+      "start": 1968,
+      "end": 1981,
+      "display": "1968–1981",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "ALZA founded in 1968; first product approved in 1974; first transdermal patch approved in August 1981."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "drug delivery",
+      "pharmaceutical industry"
+    ],
+    "locations": [
+      {
+        "name": "ALZA Corporation, Palo Alto",
+        "modern": "Palo Alto, California, USA",
+        "lat": 37.44,
+        "lon": -122.14,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Alejandro Zaffaroni",
+        "role": "Chemist and entrepreneur; founder of ALZA"
+      }
+    ],
+    "whatChanged": "Drugs could be released at a steady rate over days through the skin or from an implant, rather than in repeated doses.",
+    "whyItMattered": "Controlled-release and transdermal systems made treatment simpler and steadier, from nicotine patches to long-acting pain relief.",
+    "limitations": [
+      "'First' refers to US approval of a transdermal patch; Judah Folkman at Harvard and others also pioneered controlled drug release."
+    ],
+    "sources": [
+      {
+        "citation": "National Inventors Hall of Fame. Alejandro Zaffaroni: bandage for administering drugs.",
+        "url": "https://www.invent.org/inductees/alejandro-zaffaroni",
+        "kind": "institution",
+        "supports": "Founded ALZA in 1968 for controlled drug delivery; early eye film for glaucoma; patents on transdermal delivery in the early 1970s; FDA approved the first transdermal system with scopolamine, Transderm-Scop, followed by Transderm-Nitro."
+      },
+      {
+        "citation": "ALZA Corporation. International Directory of Company Histories (Encyclopedia.com).",
+        "url": "https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/alza-corp",
+        "kind": "book",
+        "supports": "Founded in 1968 by Zaffaroni in Palo Alto; transdermal patent application in 1969; Ocusert Pilo-20/40 for glaucoma the first ALZA product approved, in 1974; Ciba-Geigy controlling interest in 1977."
+      },
+      {
+        "citation": "ALZA Corporation. Encyclopedia.com (company history).",
+        "url": "https://encyclopedia.com/books/politics-and-business-magazines/alza-corporation",
+        "kind": "book",
+        "supports": "FDA approved Transderm Scop in August 1981 and Transderm-Nitro two months later; patches resembling adhesive bandages."
+      },
+      {
+        "citation": "Park K, et al. Historical introduction to the field of controlled drug delivery. J Control Release 342:157–159 (2022), lecture slides.",
+        "url": "https://hoangson0787.github.io/Presentation/BaoCheCacDangDacBiet/PDF/DDS-history-9-12.pdf",
+        "kind": "journal",
+        "supports": "Judah Folkman and Zaffaroni as pioneers of controlled drug delivery; ALZA founded in 1968 as the first company dedicated to the field."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
   }
 ]

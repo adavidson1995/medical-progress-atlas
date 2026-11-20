@@ -27,6 +27,22 @@ def file_for(year):
     return ROOT / 'data-src' / name
 
 batch = json.loads(Path(sys.argv[1]).read_text())
+pending_path = ROOT / 'research' / 'pending-relations.json'
+pending = json.loads(pending_path.read_text()) if pending_path.exists() else []
+
+def all_ids():
+    ids = set()
+    for _, f in FILES:
+        ids |= {x['id'] for x in json.loads((ROOT / 'data-src' / f).read_text())}
+    return ids
+
+known = all_ids() | {m['id'] for m in batch.get('entries', [])}
+for m in batch.get('entries', []):
+    keep = []
+    for r in m.get('related', []):
+        if r in known: keep.append(r)
+        elif [m['id'], r] not in pending: pending.append([m['id'], r])
+    m['related'] = keep
 queue_path = ROOT / 'research' / 'wikipedia-queue.json'
 queue = json.loads(queue_path.read_text())
 by_wid = {e['wid']: e for e in queue['entries']}
@@ -40,6 +56,25 @@ for m in batch.get('entries', []):
     data = [x for x in data if x['id'] != m['id']] + [m]
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False))
     print(f"{m['id']:45s} -> {path.name}")
+
+# Resolve relations to entries that now exist, in both directions.
+ids = all_ids()
+still = []
+for a, b in pending:
+    if a in ids and b in ids:
+        for _, f in FILES:
+            path = ROOT / 'data-src' / f
+            data = json.loads(path.read_text()); changed = False
+            for x in data:
+                for me, other in ((a, b), (b, a)):
+                    if x['id'] == me and other not in x['related']:
+                        x['related'].append(other); changed = True
+            if changed: path.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+        print(f"linked {a} <-> {b}")
+    else:
+        still.append([a, b])
+pending_path.write_text(json.dumps(still, indent=1))
+if still: print(f"{len(still)} relations waiting for entries not yet added")
 
 for wid, d in batch.get('queue', {}).items():
     e = by_wid[wid]
