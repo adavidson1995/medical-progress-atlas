@@ -860,7 +860,7 @@
       "locations": [
         {
           "name": "Anazarbus",
-          "modern": "Adana Province, Turkey",
+          "modern": "Adana Province, Türkiye",
           "lat": 37.26,
           "lon": 35.9,
           "radiusKm": 10,
@@ -949,7 +949,7 @@
       "locations": [
         {
           "name": "Pergamon",
-          "modern": "Bergama, Turkey",
+          "modern": "Bergama, Türkiye",
           "lat": 39.13,
           "lon": 27.18,
           "radiusKm": 5,

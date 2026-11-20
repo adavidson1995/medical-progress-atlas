@@ -3429,6 +3429,38 @@
    "batch": 1,
    "range": "1600–1900",
    "completed": "2026-11-19"
+  },
+  {
+   "batch": 2,
+   "range": "1956–2022",
+   "completed": "2026-11-19",
+   "files": [
+    "b02-genome.json",
+    "b03-1990-2022.json",
+    "b04a-1956-1971.json",
+    "b04b-1972-1991.json"
+   ]
+  },
+  {
+   "batch": 3,
+   "range": "1901–1955",
+   "completed": "2026-11-19",
+   "files": [
+    "b05a-1901-1927.json",
+    "b05b-1930-1955.json"
+   ]
+  },
+  {
+   "batch": 4,
+   "range": "before 1600",
+   "completed": "2026-11-19",
+   "files": [
+    "b06-queue-only.json",
+    "b06a-ancient-near-east.json",
+    "b06b-classical.json",
+    "b06c-late-antique-islamic.json",
+    "b06d-medieval-renaissance.json"
+   ]
   }
  ]
 }

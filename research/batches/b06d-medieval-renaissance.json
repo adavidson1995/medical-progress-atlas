@@ -29,7 +29,7 @@
    "locations": [
     {
      "name": "St John's Hospital, Northgate",
-     "modern": "Canterbury, England",
+     "modern": "Canterbury, UK",
      "lat": 51.28,
      "lon": 1.08,
      "radiusKm": 1,
@@ -39,7 +39,7 @@
     },
     {
      "name": "St Nicholas's Hospital, Harbledown",
-     "modern": "Harbledown, England",
+     "modern": "Harbledown, UK",
      "lat": 51.28,
      "lon": 1.05,
      "radiusKm": 1,
@@ -318,7 +318,7 @@
    "locations": [
     {
      "name": "St Bartholomew's Hospital, West Smithfield",
-     "modern": "London, England",
+     "modern": "London, UK",
      "lat": 51.52,
      "lon": -0.1,
      "radiusKm": 1,
@@ -1395,7 +1395,7 @@
    "locations": [
     {
      "name": "City of London",
-     "modern": "London, England",
+     "modern": "London, UK",
      "lat": 51.51,
      "lon": -0.1,
      "radiusKm": 12,
@@ -1780,7 +1780,7 @@
    "locations": [
     {
      "name": "London (East India Company, Blackwall)",
-     "modern": "London, England",
+     "modern": "London, UK",
      "lat": 51.51,
      "lon": -0.05,
      "radiusKm": 10,

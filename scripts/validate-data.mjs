@@ -201,7 +201,7 @@ if (errors.length) {
 // ---- write outputs
 const clean = milestones.map(({ __file, ...m }) => m);
 mkdirSync(join(root, 'public', 'data'), { recursive: true });
-const out = { version: '1.0', generated: new Date().toISOString().slice(0, 10), milestones: clean, stories };
+const out = { version: '2.0', generated: new Date().toISOString().slice(0, 10), milestones: clean, stories };
 writeFileSync(join(root, 'public', 'data', 'atlas.json'), JSON.stringify(out));
 
 // bibliography

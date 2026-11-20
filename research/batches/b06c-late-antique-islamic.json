@@ -30,7 +30,7 @@
    "locations": [
     {
      "name": "Pergamon",
-     "modern": "Bergama, Turkey",
+     "modern": "Bergama, Türkiye",
      "lat": 39.13,
      "lon": 27.18,
      "radiusKm": 5,
@@ -116,7 +116,7 @@
    "locations": [
     {
      "name": "Caesarea in Cappadocia",
-     "modern": "Kayseri, Turkey",
+     "modern": "Kayseri, Türkiye",
      "lat": 38.72,
      "lon": 35.49,
      "radiusKm": 5,
@@ -218,7 +218,7 @@
    "locations": [
     {
      "name": "Edessa",
-     "modern": "Şanlıurfa, Turkey",
+     "modern": "Şanlıurfa, Türkiye",
      "lat": 37.16,
      "lon": 38.79,
      "radiusKm": 5,
@@ -1223,7 +1223,7 @@
    "locations": [
     {
      "name": "Jurjan and Hamadan",
-     "modern": "Northern Iran",
+     "modern": "Gorgan and Hamadan, Iran",
      "lat": 35.8,
      "lon": 51.5,
      "radiusKm": 320,
