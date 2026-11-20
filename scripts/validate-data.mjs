@@ -151,9 +151,12 @@ const dist = (a, b) => {
   const h = Math.sin(dLat / 2) ** 2 + Math.cos(toR(a.lat)) * Math.cos(toR(b.lat)) * Math.sin(dLon / 2) ** 2;
   return 2 * R * Math.asin(Math.sqrt(h));
 };
+// pairs checked by hand and confirmed to be different events
+const KNOWN_DISTINCT = new Set(['hiv-identified|pcr-invention']);
 for (let i = 0; i < milestones.length; i++) for (let j = i + 1; j < milestones.length; j++) {
   const a = milestones[i], b = milestones[j];
   if (a.title === b.title) err(a.id, `same title as ${b.id}`);
+  if (KNOWN_DISTINCT.has([a.id, b.id].sort().join('|'))) continue;
   const overlap = a.date.start <= b.date.end && b.date.start <= a.date.end;
   if (!overlap || a.category !== b.category) continue;
   for (const la of a.locations) for (const lb of b.locations) {

@@ -1,0 +1,2513 @@
+{
+  "entries": [
+    {
+      "id": "cyclosporine",
+      "title": "Cyclosporine makes organ transplants far more successful",
+      "summary": "Scientists at Sandoz in Basel found in 1972 that a fungal compound, cyclosporine, suppressed the immune system selectively. Roy Calne first used it in kidney transplant patients in Cambridge in 1978, and it transformed transplant outcomes.",
+      "explanation": "Earlier anti-rejection drugs such as azathioprine damaged the bone marrow and other cells. In a screening programme at Sandoz, Hartmann Stähelin and Jean-François Borel found that cyclosporine, isolated from a fungus, selectively suppressed the T lymphocytes that drive rejection, without that broad toxicity. Borel presented the findings in 1976 at a meeting of the British Society for Immunology.\n\nRoy Calne and the immunologist David White in Cambridge tested it in animals and persuaded Sandoz to continue developing a drug the company had doubts about. In 1978 Calne reported in The Lancet its use as the main immunosuppressant in seven kidney transplants. Its success led to a step change in kidney transplant results and renewed interest in transplanting other organs, including the heart, lungs and liver.",
+      "date": {
+        "start": 1972,
+        "end": 1978,
+        "display": "1972–1978",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Immunosuppressive effect found at Sandoz in 1972; first published in 1976; first used in human transplants in Cambridge in 1978."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [
+        "surgery"
+      ],
+      "themes": [
+        "transplantation",
+        "drug discovery",
+        "pharmaceutical industry"
+      ],
+      "locations": [
+        {
+          "name": "Sandoz laboratories, Basel",
+          "modern": "Basel, Switzerland",
+          "lat": 47.56,
+          "lon": 7.59,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Discovery of the immunosuppressive effect"
+        },
+        {
+          "name": "Addenbrooke's Hospital, Cambridge",
+          "modern": "Cambridge, England, UK",
+          "lat": 52.18,
+          "lon": 0.14,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "First use in human transplants"
+        }
+      ],
+      "people": [
+        {
+          "name": "Jean-François Borel",
+          "role": "Immunologist at Sandoz"
+        },
+        {
+          "name": "Hartmann Stähelin",
+          "role": "Designed the screening test at Sandoz"
+        },
+        {
+          "name": "Roy Calne",
+          "role": "Transplant surgeon, Cambridge"
+        },
+        {
+          "name": "David White",
+          "role": "Immunologist, Cambridge"
+        }
+      ],
+      "whatChanged": "Rejection of transplanted organs could be controlled more effectively and with less damage to the rest of the immune system.",
+      "whyItMattered": "Cyclosporine made transplantation of the kidney, liver, heart and lungs far more reliable, and calcineurin inhibitors of its class remain central to transplant care.",
+      "limitations": [
+        "Cyclosporine damages the kidneys and has other serious side effects with long-term use.",
+        "Calne's first results were mixed: rejection was controlled in five of seven patients."
+      ],
+      "contested": "Borel and other Sandoz scientists have disputed priority in the discovery and early development of cyclosporine.",
+      "sources": [
+        {
+          "citation": "Calcineurin inhibitors 40 years later: can't live without. Transplantation (review).",
+          "url": "https://typeset.io/pdf/calcineurin-inhibitors-40-years-later-can-t-live-without-gw88nkd8cs.pdf",
+          "kind": "journal",
+          "supports": "Immunology laboratory at Sandoz, Basel, led by Lazary and later Borel; mouse model developed by Stähelin; Borel and Stähelin described cyclosporine's effect on T lymphocytes in 1976; presentation to the British Society for Immunology in April 1976; dramatic improvement in transplant outcomes."
+        },
+        {
+          "citation": "Jamieson N. In memoriam Sir Roy Yorke Calne. Transplant International 37:12692 (2024).",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10922001",
+          "doi": "10.3389/ti.2024.12692",
+          "kind": "journal",
+          "supports": "David White came across cyclosporin A, not felt by Sandoz to have practical use; first use in human transplantation in Cambridge in 1978; step change in kidney transplant outcomes and renewed interest in other organs."
+        },
+        {
+          "citation": "UK Kidney Association. The early evolution of kidney transplantation in the United Kingdom (75 years).",
+          "url": "https://www.ukkidney.org/75-years/march",
+          "kind": "institution",
+          "supports": "Borel's lecture to the British Society of Immunology in April 1976; Calne and White trialled it in animals and persuaded Sandoz to persevere."
+        },
+        {
+          "citation": "Upton H. Origin of drugs in current use: the cyclosporine story (2001).",
+          "url": "https://davidmoore.org.uk/Sec04_01.htm",
+          "kind": "book",
+          "supports": "Discovery began a new era in immunopharmacology; controversy between Borel and other workers over priority; approved for kidney, liver, heart, lung and heart–lung transplantation."
+        },
+        {
+          "citation": "Ask A, Eidet JR. Cyclosporine: a review article. University of Oslo (2008).",
+          "url": "https://core.ac.uk/download/30829195.pdf",
+          "kind": "university",
+          "supports": "Discovery at the Sandoz laboratory in Basel in January 1972; no bone-marrow suppression."
+        },
+        {
+          "citation": "Ciclosporin in solid-organ transplantation (Calne, 1978). The Clinical Times landmarks.",
+          "url": "https://theclinicaltimes.pages.dev/landmarks/1978-ciclosporin-in-solid-organ-transplantation-calne",
+          "kind": "journal",
+          "supports": "Calne's 1978 Lancet report: cyclosporin A as primary immunosuppression in seven cadaveric kidney transplants controlled rejection in five."
+        }
+      ],
+      "related": [
+        "liver-transplant",
+        "heart-lung-transplant"
+      ]
+    },
+    {
+      "id": "magnetic-resonance-imaging",
+      "title": "Magnetic resonance imaging is developed",
+      "summary": "In 1971 Raymond Damadian reported that tumours give different nuclear magnetic resonance signals from normal tissue. In 1973 Paul Lauterbur showed how to make images with magnetic resonance, and Peter Mansfield developed faster methods. MRI scanners entered hospitals in the early 1980s.",
+      "explanation": "Nuclear magnetic resonance had long been used to study chemicals. At the State University of New York's Downstate Medical Center in Brooklyn, Damadian reported in Science in 1971 that cancerous tissue taken from rats gave different signals from normal tissue, and proposed a body scanner. In 1977 his team's whole-body machine, 'Indomitable', made a scan of a human body.\n\nAt Stony Brook, Lauterbur realised that adding magnetic field gradients would reveal where signals came from, and published the first MR image in Nature in March 1973. At the University of Nottingham, Mansfield developed the mathematics and fast imaging techniques that made scans practical, imaging a human finger in the mid-1970s.",
+      "date": {
+        "start": 1971,
+        "end": 1980,
+        "display": "1971–1980",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Damadian's paper in March 1971; Lauterbur's first image in March 1973; first human scans in 1974–77; commercial scanners from about 1980."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "diagnosis",
+      "tags": [],
+      "themes": [
+        "imaging",
+        "physics in medicine"
+      ],
+      "locations": [
+        {
+          "name": "SUNY Downstate Medical Center, Brooklyn",
+          "modern": "Brooklyn, New York, USA",
+          "lat": 40.66,
+          "lon": -73.94,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Damadian: tissue signals and first whole-body scanner"
+        },
+        {
+          "name": "State University of New York at Stony Brook",
+          "modern": "Stony Brook, New York, USA",
+          "lat": 40.91,
+          "lon": -73.12,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Lauterbur: first MR image"
+        },
+        {
+          "name": "University of Nottingham",
+          "modern": "Nottingham, England, UK",
+          "lat": 52.94,
+          "lon": -1.19,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Mansfield: imaging methods and first human images"
+        }
+      ],
+      "people": [
+        {
+          "name": "Raymond Damadian",
+          "role": "Physician, SUNY Downstate"
+        },
+        {
+          "name": "Paul Lauterbur",
+          "role": "Chemist, SUNY Stony Brook"
+        },
+        {
+          "name": "Peter Mansfield",
+          "role": "Physicist, University of Nottingham"
+        }
+      ],
+      "whatChanged": "Detailed images of soft tissues such as the brain, spinal cord and joints could be made without X-rays or other ionising radiation.",
+      "whyItMattered": "MRI became one of the most important diagnostic tools in medicine, especially for the brain, nervous system and musculoskeletal disease.",
+      "limitations": [
+        "Sources differ on the date of Mansfield's first human image (1974 or 1977).",
+        "MRI scanners are expensive and unevenly available around the world."
+      ],
+      "contested": "The 2003 Nobel Prize went to Lauterbur and Mansfield but not Damadian, who protested publicly. Damadian held the first patent in the field and built the first whole-body scanner; others credit Lauterbur's gradient method as the basis of MR imaging.",
+      "sources": [
+        {
+          "citation": "Elster AD. Who invented MRI? MRIquestions.com.",
+          "url": "https://mriquestions.com/who-invented-mri.html",
+          "kind": "institution",
+          "supports": "Nobel credit to Mansfield and Lauterbur; Damadian built the first full-body human MR scanner; Lauterbur at Stony Brook published the first true MR image in Nature in March 1973; Mansfield's slice selection and first image of a human finger."
+        },
+        {
+          "citation": "King's College London. The history of NMR (e-learning module).",
+          "url": "https://ehealth.kcl.ac.uk/tel/Nuclear-Medicine/magnetic-resonance-imaging_v1/03_history-nmr.html",
+          "kind": "university",
+          "supports": "1971 Damadian found NMR differences between normal and cancerous rat tissue; patent for a body scanner; 1973 Lauterbur's gradient method in Nature; 1974 Mansfield at Nottingham produced images of a finger; the Nobel controversy."
+        },
+        {
+          "citation": "2003 Nobel Prize in Physiology or Medicine: revisionist history? History News Network.",
+          "url": "https://historynewsnetwork.org/article/1789",
+          "kind": "journal",
+          "supports": "Damadian's results in Science in March 1971; patent applied for in 1972 and granted in 1974; whole-body scanner built at Downstate; Nobel Committee did not name Damadian."
+        },
+        {
+          "citation": "Heroes of progress, pt. 47: Damadian, Lauterbur and Mansfield. HumanProgress.",
+          "url": "https://humanprogress.org/heroes-of-progress-pt-47-damadian-lauterbur-and-mansfield/",
+          "kind": "institution",
+          "supports": "Damadian's 1971 Science article; first human MRI scan with 'Indomitable' on 3 July 1977; Lauterbur's first image of water in a test tube in 1973."
+        }
+      ],
+      "related": [
+        "ct-scanning",
+        "positron-emission-tomography"
+      ]
+    },
+    {
+      "id": "positron-emission-tomography",
+      "title": "PET scanning images the body's chemistry",
+      "summary": "In 1975 Michael Phelps, Edward Hoffman and Michel Ter-Pogossian at Washington University in St Louis described the first working positron emission tomography scanner, which made cross-sectional images of where a radioactive tracer collects in the body.",
+      "explanation": "Positron-emitting forms of carbon, nitrogen and oxygen can label sugars, drugs and other molecules. When a positron meets an electron, two gamma rays fly off in opposite directions; detecting both at once reveals the line along which the event happened. Earlier positron scanners had suffered from too few projections and noisy data.\n\nInspired by the new X-ray CT scanner, the St Louis team arranged individual detectors in a ring and reconstructed slices, first imaging phantoms and a dog, then building a scanner large enough for a person. They showed for the first time that a tracer's concentration could be measured quantitatively and non-invasively in human tissue. Phelps and Hoffman later moved to Los Angeles, where a commercial version was developed.",
+      "date": {
+        "start": 1975,
+        "end": 1975,
+        "display": "1975",
+        "kind": "point",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Published in the Journal of Nuclear Medicine and Radiology in 1975."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "diagnosis",
+      "tags": [
+        "mechanisms"
+      ],
+      "themes": [
+        "imaging",
+        "physics in medicine"
+      ],
+      "locations": [
+        {
+          "name": "Washington University School of Medicine, St Louis",
+          "modern": "St. Louis, Missouri, USA",
+          "lat": 38.64,
+          "lon": -90.26,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Michael Phelps",
+          "role": "Biophysicist"
+        },
+        {
+          "name": "Edward Hoffman",
+          "role": "Physicist"
+        },
+        {
+          "name": "Michel Ter-Pogossian",
+          "role": "Medical physicist; head of the laboratory"
+        },
+        {
+          "name": "Nizar Mullani",
+          "role": "Engineer and co-author"
+        }
+      ],
+      "whatChanged": "Doctors and scientists could measure biological activity, such as sugar use or blood flow, in living human organs.",
+      "whyItMattered": "PET became a key tool in cancer staging, heart disease and brain research.",
+      "limitations": [
+        "Several groups were building positron scanners in the 1970s; earlier devices worked poorly, and the origins of PET are disputed.",
+        "PET needs short-lived tracers made in a cyclotron, which limits where it can be offered."
+      ],
+      "sources": [
+        {
+          "citation": "Townsend DW, Jones T. Perspective on 'Application of annihilation coincidence detection to transaxial reconstruction tomography' (J Nucl Med 1975;16:210–224). J Nucl Med 61(Suppl 2):42S (2020).",
+          "url": "https://jnm.snmjournals.org/node/97909",
+          "kind": "journal",
+          "supports": "Seminal 1975 paper by Phelps, Hoffman, Mullani and Ter-Pogossian from Washington University; a couple of years after CT; individual detectors around a transaxial plane; Phelps and Hoffman later moved to UCLA and built a commercial version."
+        },
+        {
+          "citation": "Townsend DW, Jones T. (full text). J Nucl Med 61(Suppl 2):42S (2020).",
+          "url": "https://jnm.snmjournals.org/content/jnumed/61/Supplement_2/42S.full-text.print",
+          "kind": "journal",
+          "supports": "Earlier devices had high dead times and random coincidences; prototype tested on phantoms and a dog; larger human scanner demonstrated quantitative non-invasive measurement of tracer in human tissue for the first time."
+        },
+        {
+          "citation": "The first working PET scanner (perspective). J Nucl Med 61(Suppl 2):166S (2020).",
+          "url": "https://jnm.snmjournals.org/content/61/Supplement_2/166S",
+          "kind": "journal",
+          "supports": "Earlier attempts generally unsuccessful because of too few projections; first working PET scanner built by the St Louis group; Radiology 1975 paper."
+        },
+        {
+          "citation": "PET and CT: a perfect fit. CERN Courier.",
+          "url": "https://cerncourier.com/a/pet-and-ct-a-perfect-fit/",
+          "kind": "journal",
+          "supports": "Several groups attempted positron scanners in the 1970s; birth of PET still controversial; Ter-Pogossian, Phelps and Hoffman presented their first PET tomograph in 1975."
+        }
+      ],
+      "related": [
+        "ct-scanning",
+        "magnetic-resonance-imaging"
+      ]
+    },
+    {
+      "id": "aciclovir-antiviral",
+      "title": "Aciclovir, a safe and selective antiviral drug",
+      "summary": "Aciclovir, first made in 1974 at Burroughs Wellcome, was shown by Gertrude Elion's team to stop herpes viruses copying themselves while leaving human cells largely unharmed. Reported in 1977 and approved in the US in 1982, it was among the first successful antiviral drugs.",
+      "explanation": "Before aciclovir there were no effective treatments for herpes infections such as cold sores, genital herpes and shingles, and viruses were thought hard to attack without poisoning the host. The compound was synthesised in 1974 by Howard Schaeffer at Wellcome's research laboratories; Elion and her team then worked out why it was so selective. It stays inactive until it enters a cell infected with herpes virus, where a viral enzyme converts it into the active form.\n\nThe team kept the work confidential until publishing in 1977. The US Food and Drug Administration approved an aciclovir ointment and an intravenous form in 1982. Elion shared the 1988 Nobel Prize with George Hitchings and James Black for their approach to drug design.",
+      "date": {
+        "start": 1974,
+        "end": 1982,
+        "display": "1974–1982",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Synthesised in 1974; antiviral activity reported in 1977; FDA approval in 1982."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [],
+      "themes": [
+        "drug discovery",
+        "pharmaceutical industry",
+        "viruses"
+      ],
+      "locations": [
+        {
+          "name": "Burroughs Wellcome, Research Triangle Park",
+          "modern": "Research Triangle Park, North Carolina, USA",
+          "lat": 35.9,
+          "lon": -78.86,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "locationNote": "Some sources place the 1974 synthesis at Wellcome's laboratories near London; Elion's team, which characterised the drug, worked at Research Triangle Park.",
+      "people": [
+        {
+          "name": "Gertrude Elion",
+          "role": "Pharmacologist"
+        },
+        {
+          "name": "George Hitchings",
+          "role": "Biochemist; Elion's long-time collaborator"
+        },
+        {
+          "name": "Howard Schaeffer",
+          "role": "Chemist who synthesised the compound"
+        }
+      ],
+      "whatChanged": "Herpes virus infections could be treated with a drug that targeted the virus with little harm to the patient.",
+      "whyItMattered": "Aciclovir showed that safe, selective antiviral drugs were possible, paving the way for later antivirals, including drugs for HIV.",
+      "limitations": [
+        "Aciclovir suppresses herpes infections but does not eliminate the virus from the body.",
+        "Sources disagree on where the compound was first synthesised."
+      ],
+      "sources": [
+        {
+          "citation": "NobelPrize.org. Gertrude B. Elion, Nobel Prize in Physiology or Medicine 1988.",
+          "url": "https://www.nobelprize.org/search/William%20F.%20Sharpe/%22https:/www.nobelprize.org/prizes/medicine/1988/summary/%E2%80%9D",
+          "kind": "institution",
+          "supports": "Elion's final major breakthrough was the antiviral drug acyclovir; Nobel Prize 1988 shared with Black and Hitchings."
+        },
+        {
+          "citation": "NobelPrize.org. Women who changed science: Gertrude Elion.",
+          "url": "https://www.nobelprize.org/stories/women-who-changed-science/gertrude-elion/",
+          "kind": "institution",
+          "supports": "Elion joined Hitchings at Burroughs Wellcome in 1944; photograph of Elion in the lab at Research Triangle Park, 1972."
+        },
+        {
+          "citation": "Acyclovir (Zovirax) facts. eMedExpert.",
+          "url": "https://www.emedexpert.com/facts/acyclovir-facts.shtml",
+          "kind": "institution",
+          "supports": "Synthesised in 1974 by Howard Schaeffer at Wellcome Research Laboratories; Elion's team studied why it was selective and non-toxic; inert until it meets the herpes virus; kept secret 1974–77; first report in 1977; FDA approval of ointment and injection in 1982."
+        },
+        {
+          "citation": "EBSCO Research Starters. Aciclovir (ACV).",
+          "url": "https://ebsco.com/research-starters/health-and-medicine/aciclovir-acv",
+          "kind": "institution",
+          "supports": "Discovered in 1974, by this account at Wellcome laboratories near London; FDA approval for herpes infections in 1982; Elion and Hitchings' Nobel Prize."
+        },
+        {
+          "citation": "Gertrude Belle Elion (1918–1999). Embryo Project Encyclopedia (PDF).",
+          "url": "https://keep.lib.asu.edu/system/files/2024-10/peeliongbea.pdf",
+          "kind": "university",
+          "supports": "Before acyclovir there were no effective antiviral treatments for oral and genital herpes."
+        }
+      ],
+      "related": [
+        "propranolol-beta-blocker"
+      ]
+    },
+    {
+      "id": "shock-wave-lithotripsy",
+      "title": "Shock waves break up kidney stones without surgery",
+      "summary": "On 7 February 1980 Christian Chaussy and colleagues at the University of Munich treated a patient's kidney stone with shock waves focused through the body from outside, using a machine developed with the aerospace firm Dornier. Extracorporeal shock wave lithotripsy largely replaced open surgery for kidney stones.",
+      "explanation": "Physicists at the aerospace company Dornier, who had been studying shock waves, approached the urology department at Ludwig-Maximilian University in Munich. Chaussy, with Ferdinand Eisenberger, the Dornier physicist Bernd Forssmann and others, spent seven years on experiments with cells, tissues and animals, publishing early results in 1976.\n\nThe first patient was treated at the university's Grosshadern hospital in 1980, with the patient lying in a water bath. The fragments passed naturally. Visitors came from around the world to see the Dornier machine, and the US FDA approved a later model in 1984.",
+      "date": {
+        "start": 1980,
+        "end": 1980,
+        "display": "7 February 1980",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Date of the first patient treatment, given consistently by Chaussy and Dornier."
+      },
+      "type": "invention",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [
+        "surgery"
+      ],
+      "themes": [
+        "devices",
+        "urology",
+        "physics in medicine"
+      ],
+      "locations": [
+        {
+          "name": "Klinikum Grosshadern, Ludwig-Maximilian University, Munich",
+          "modern": "Munich, Germany",
+          "lat": 48.11,
+          "lon": 11.47,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Christian Chaussy",
+          "role": "Urologist"
+        },
+        {
+          "name": "Ferdinand Eisenberger",
+          "role": "Urologist"
+        },
+        {
+          "name": "Bernd Forssmann",
+          "role": "Physicist at Dornier"
+        },
+        {
+          "name": "Dieter Jocham",
+          "role": "Urologist"
+        }
+      ],
+      "whatChanged": "Kidney stones could be broken up from outside the body, without an incision.",
+      "whyItMattered": "Shock wave lithotripsy spread faster than almost any other urological innovation and spared many people open kidney surgery.",
+      "limitations": [
+        "Fragments can block the ureter and need further treatment.",
+        "Newer endoscopic laser techniques have since replaced shock waves for many stones."
+      ],
+      "sources": [
+        {
+          "citation": "Chaussy CG. Legends in Urology. Can J Urol 17(6) (2010).",
+          "url": "https://canjurol.com/html/free-articles/V17I6-02-Legends_Dec10.pdf",
+          "kind": "journal",
+          "supports": "Dornier physicists' offer to research shock waves on kidney stones; collaboration with Eisenberger and Forssmann; seven years of cell, tissue and animal research; first patient treated on 7 February 1980 with Forssmann and Jocham; visitors to see the Dornier HM1."
+        },
+        {
+          "citation": "Extracorporeal shockwave lithotripsy (chapter). Springer.",
+          "url": "https://rd.springer.com/chapter/10.1007/978-3-319-61691-9_11",
+          "kind": "book",
+          "supports": "Seven years of experimental work before the first patient on 7 February 1980; fragments passed naturally; Chaussy et al. 1976 Urol Res paper on destroying renal calculi without contact."
+        },
+        {
+          "citation": "The first New England stone bath. Urologic History Museum newsletter (2021).",
+          "url": "https://urologichistory.museum/the-scope-of-urology-newsletter/issue-7-fall-2021/the-first-new-england-stone-bath",
+          "kind": "museum",
+          "supports": "Chaussy treated the first patient in Germany on 7 February 1980; HM3 approved by the FDA in 1984; ureteral fragments ('steinstrasse') required ureteroscopy and laser lithotripsy."
+        },
+        {
+          "citation": "STORZ MEDICAL. 40 years of ESWL (2020).",
+          "url": "https://www.storzmedical.com/en/news-press/40-years-of-eswl-shock-waves-replaced-open-renal-surgery/",
+          "kind": "institution",
+          "supports": "First treatment at the Munich University Hospital Grosshadern campus; no other urological innovation after the war spread as rapidly; 1,000 patients by 1984."
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "hepatitis-b-vaccine",
+      "title": "Hepatitis B vaccines, the first to help prevent a cancer",
+      "summary": "Building on Baruch Blumberg's discovery of the hepatitis B surface antigen, Merck's plasma-derived vaccine Heptavax-B was approved in the US in 1981. In 1986 Recombivax-HB, made in yeast, became the first vaccine produced by genetic engineering.",
+      "explanation": "Blumberg identified the 'Australia antigen' in 1965 and found it to be part of the hepatitis B virus; with Irving Millman at the Institute for Cancer Research in Philadelphia he proposed in 1969 a vaccine made from antigen purified from carriers' blood. Teams at Merck under Maurice Hilleman, at the US National Institute of Allergy and Infectious Diseases and in Tours, France, independently purified the antigen and tested it.\n\nMerck's Heptavax-B, made from carefully treated plasma, was approved in 1981. Fears about blood-borne infections, including HIV, encouraged a switch to Recombivax-HB, produced from the antigen gene in yeast and approved in 1986. Because chronic hepatitis B is a major cause of liver cancer, the vaccine is often called the first anti-cancer vaccine.",
+      "date": {
+        "start": 1981,
+        "end": 1986,
+        "display": "1981–1986",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Plasma-derived vaccine approved in 1981; recombinant vaccine approved in 1986."
+      },
+      "type": "implementation",
+      "evidence": [
+        "laboratory",
+        "trial"
+      ],
+      "category": "prevention",
+      "tags": [],
+      "themes": [
+        "vaccines",
+        "cancer prevention",
+        "biotechnology"
+      ],
+      "locations": [
+        {
+          "name": "Institute for Cancer Research (Fox Chase), Philadelphia",
+          "modern": "Philadelphia, Pennsylvania, USA",
+          "lat": 40.07,
+          "lon": -75.09,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Blumberg and Millman's vaccine concept"
+        },
+        {
+          "name": "Merck, West Point",
+          "modern": "West Point, Pennsylvania, USA",
+          "lat": 40.21,
+          "lon": -75.3,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Development of Heptavax-B and Recombivax-HB"
+        }
+      ],
+      "people": [
+        {
+          "name": "Baruch Blumberg",
+          "role": "Physician; discovered the Australia antigen"
+        },
+        {
+          "name": "Irving Millman",
+          "role": "Microbiologist"
+        },
+        {
+          "name": "Maurice Hilleman",
+          "role": "Led Merck's vaccine development"
+        }
+      ],
+      "whatChanged": "Infection with hepatitis B, and so much of the liver cancer it causes, could be prevented.",
+      "whyItMattered": "Hepatitis B vaccination of newborns and children is now routine in many countries, and the recombinant vaccine showed that genetic engineering could produce safe vaccines.",
+      "limitations": [
+        "The plasma-derived vaccine was limited by the supply of suitable plasma and by fears of contamination.",
+        "Purcell and Gerin at NIAID and Maupas in Tours developed similar vaccines independently, so credit is shared.",
+        "Calling it the first anti-cancer vaccine refers to liver cancer caused by hepatitis B, not to cancer in general."
+      ],
+      "sources": [
+        {
+          "citation": "History of the hepatitis B vaccine development (review). Vaccines 12(4):439 (2024).",
+          "url": "https://www.mdpi.com/2076-393x/12/4/439",
+          "kind": "journal",
+          "supports": "Blumberg and Millman proposed a plasma-derived vaccine in 1969; Purcell and Gerin (NIAID), Hilleman (Merck) and Maupas (Tours) independently purified HBsAg; Heptavax-B approved by the FDA in 1981; production challenges; considered one of the first anti-cancer vaccines."
+        },
+        {
+          "citation": "Hepatitis B Foundation. History of hepatitis B vaccine.",
+          "url": "https://hepb.org/prevention-and-diagnosis/vaccination/history-of-hepatitis-b-vaccine",
+          "kind": "institution",
+          "supports": "First anti-cancer vaccine because it helps prevent liver cancer; virus discovered in 1965 by Blumberg; FDA approval of a plasma-derived vaccine in 1981."
+        },
+        {
+          "citation": "EBSCO Research Starters. FDA approves a genetically engineered vaccine for hepatitis B.",
+          "url": "https://www.ebsco.com/research-starters/politics-and-government/fda-approves-genetically-engineered-vaccine-hepatitis-b",
+          "kind": "institution",
+          "supports": "Recombivax-HB approved in July 1986 as the first vaccine produced by genetic engineering; made in yeast; eliminated concerns about contamination with viruses such as HIV; led by Hilleman."
+        },
+        {
+          "citation": "Hepatitis B: changing recommendations and historical background. PoultryMed (2025).",
+          "url": "https://www.poultrymed.com/news_49024",
+          "kind": "journal",
+          "supports": "1969 patent by the Institute for Cancer Research; licensing to Merck, where Hilleman led the project; Blumberg's 1976 Nobel Prize; FDA approval in 1981."
+        }
+      ],
+      "related": [
+        "mumps-mmr-vaccine"
+      ]
+    },
+    {
+      "id": "recombinant-interferon",
+      "title": "Interferon genes are cloned and made by bacteria",
+      "summary": "In 1980 teams in Zurich, Tokyo and California cloned human interferon genes and made bacteria produce the proteins. Recombinant interferon alpha, developed by Roche with Genentech, was approved in many countries in 1986, among the first biotechnology medicines.",
+      "explanation": "Interferons, natural antiviral proteins discovered in 1957, were hoped to treat cancer and viral disease, but were available only in tiny amounts purified from blood cells. In 1980 Charles Weissmann's group in Zurich achieved expression of a human interferon gene in E. coli; Tadatsugu Taniguchi's group cloned the gene for fibroblast interferon; and Genentech, working with Sidney Pestka's group at the Roche Institute in Nutley, New Jersey, produced active leukocyte interferon in bacteria.\n\nRoche marketed its recombinant interferon alpha as Roferon-A in 1986. It became a treatment for some leukaemias and hepatitis, and paved the way for other cytokine and growth factor drugs.",
+      "date": {
+        "start": 1980,
+        "end": 1986,
+        "display": "1980–1986",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Gene cloning and bacterial expression reported in 1980; regulatory approvals in 1986."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [
+        "mechanisms"
+      ],
+      "themes": [
+        "biotechnology",
+        "pharmaceutical industry",
+        "cancer"
+      ],
+      "locations": [
+        {
+          "name": "University of Zurich",
+          "modern": "Zurich, Switzerland",
+          "lat": 47.37,
+          "lon": 8.55,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Weissmann's group: expression of a human interferon gene in bacteria"
+        },
+        {
+          "name": "Roche Institute of Molecular Biology, Nutley",
+          "modern": "Nutley, New Jersey, USA",
+          "lat": 40.82,
+          "lon": -74.16,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Pestka's group; Roche development of Roferon-A"
+        }
+      ],
+      "locationNote": "Taniguchi's group in Japan and Genentech in California also cloned interferon genes in 1980; they are not mapped separately.",
+      "people": [
+        {
+          "name": "Charles Weissmann",
+          "role": "Molecular biologist, Zurich"
+        },
+        {
+          "name": "Tadatsugu Taniguchi",
+          "role": "Molecular biologist, Japan"
+        },
+        {
+          "name": "Sidney Pestka",
+          "role": "Biochemist, Roche Institute"
+        },
+        {
+          "name": "David Goeddel",
+          "role": "Genentech scientist"
+        }
+      ],
+      "whatChanged": "Interferons could be made in quantity by bacteria rather than extracted from human blood.",
+      "whyItMattered": "As one of the first approved biotechnology drugs, recombinant interferon paved the way for many later cytokine and growth-factor medicines.",
+      "limitations": [
+        "Interferon did not live up to early hopes of a general cure for cancer; its uses proved narrower.",
+        "Several groups cloned interferon genes at about the same time, so credit is widely shared.",
+        "Recombinant human insulin (1982) and growth hormone (1985) were approved earlier; interferon was among the first biotechnology drugs for cancer."
+      ],
+      "sources": [
+        {
+          "citation": "Pestka S, Krause CD, Walter MR. Interferons, interferon-like cytokines, and their receptors. Immunological Reviews (2004).",
+          "url": "https://insight.jci.org/references/scholar/3878/B31",
+          "kind": "journal",
+          "supports": "Recombinant IFN-α approved by regulators in many countries in 1986; as the first biotherapeutic approved, it paved the way for other cytokines and growth factors."
+        },
+        {
+          "citation": "Interferon meeting report. Nature Biotechnology 1(6):480 (1983).",
+          "url": "https://www.nature.com/articles/nbt0883-480.pdf",
+          "kind": "journal",
+          "supports": "In 1980 Weissmann and collaborators first achieved expression of an interferon gene in E. coli, marking the beginning of the industrial era; Pestka at the Roche Institute."
+        },
+        {
+          "citation": "Taniguchi T, Fujii-Kuriyama Y, Muramatsu M. Molecular cloning of human interferon cDNA. PNAS (1980).",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC349756",
+          "kind": "journal",
+          "supports": "Cloning of human fibroblast interferon cDNA by Taniguchi's group."
+        },
+        {
+          "citation": "Reference list including Nagata S et al., Synthesis in E. coli of a polypeptide with human leukocyte interferon activity, Nature 284:310 (1980), and Goeddel D et al., Human leukocyte interferon produced by E. coli is biologically active, Nature 287:411 (1980).",
+          "url": "https://informahealthcare.com/doi/ref/10.3109/07388559009038206",
+          "kind": "journal",
+          "supports": "1980 papers from Weissmann's group and from Goeddel (Genentech) on bacterial production of human leukocyte interferon."
+        },
+        {
+          "citation": "Commodification of interferon at Roche (Roferon A). History and Philosophy of the Life Sciences (2019).",
+          "url": "https://link.springer.com/article/10.1007/s40656-019-0268-8",
+          "kind": "journal",
+          "supports": "Roche marketed interferon as Roferon A in 1986; cloning of the interferon gene in collaboration with Genentech; development at Roche's Nutley base; role of industry in cancer research."
+        }
+      ],
+      "related": [
+        "human-insulin-recombinant"
+      ]
+    },
+    {
+      "id": "artificial-skin",
+      "title": "An artificial skin that lets burned patients regrow dermis",
+      "summary": "In 1981 the surgeon John Burke and the engineer Ioannis Yannas in Boston reported an artificial skin made of collagen and a sugar-based molecule from cartilage, covered with silicone. Used on severely burned patients, it acted as a scaffold on which their own cells rebuilt the lost dermis.",
+      "explanation": "Patients with deep burns lose the dermis, the thick layer under the surface skin that does not regenerate; covering large burns with skin taken from elsewhere on the body was limited and left scars. Yannas, at the Massachusetts Institute of Technology, designed a porous scaffold of collagen from animal tendon bonded to glycosaminoglycan from cartilage, with carefully controlled pore sizes. Burke, chief of staff at the Shriners Burns Institute at Massachusetts General Hospital, led its clinical use.\n\nIn 1980 ten severely burned patients at Massachusetts General were treated, and the results were published in 1981. As the patient's cells grew into the scaffold it was broken down, leaving a new dermis; a thin layer of epidermis was then grafted on. The material was approved by the FDA in 1996 and sold as Integra.",
+      "date": {
+        "start": 1981,
+        "end": 1981,
+        "display": "1981",
+        "kind": "point",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Clinical results published in 1981 after treatment of patients in 1980; FDA approval followed in 1996."
+      },
+      "type": "invention",
+      "evidence": [
+        "trial",
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [
+        "mechanisms"
+      ],
+      "themes": [
+        "burns",
+        "regenerative medicine",
+        "biomaterials"
+      ],
+      "locations": [
+        {
+          "name": "Massachusetts General Hospital (Shriners Burns Institute) and MIT",
+          "modern": "Boston and Cambridge, Massachusetts, USA",
+          "lat": 42.36,
+          "lon": -71.08,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "John Burke",
+          "role": "Surgeon, chief of staff at the Shriners Burns Institute"
+        },
+        {
+          "name": "Ioannis Yannas",
+          "role": "Engineer, MIT"
+        }
+      ],
+      "whatChanged": "Severely burned patients could regenerate a dermis on a temporary scaffold rather than relying only on scarce grafts of their own skin.",
+      "whyItMattered": "It was one of the first materials to induce the body to regenerate a lost tissue, and is used for burns, reconstructive surgery and chronic wounds.",
+      "limitations": [
+        "The new dermis lacks sweat glands and hair follicles.",
+        "Large wounds still need a thin graft of the patient's own epidermis."
+      ],
+      "sources": [
+        {
+          "citation": "Tinker, tailor. Harvard Medicine magazine (Autumn 2012).",
+          "url": "https://magazine.hms.harvard.edu/articles/tinker-tailor",
+          "kind": "university",
+          "supports": "Ten severely burned patients treated at Massachusetts General Hospital in spring 1980; Burke, chief of staff at the Shriners Burns Institute, and Yannas, MIT professor; paper on the design of an artificial skin."
+        },
+        {
+          "citation": "Artificial skin ready for patient use. MIT News, 3 April 1996.",
+          "url": "https://news.mit.edu/1996/skin-0403",
+          "kind": "university",
+          "supports": "Severe burns destroy the dermis, which does not regenerate; collagen–GAG scaffold with controlled pores broken down as cells grow through; reduced scarring compared with autografts."
+        },
+        {
+          "citation": "MIT News (1996). Artificial skin, continued.",
+          "url": "https://news.mit.edu/index%2ephp/1996/skin-0403",
+          "kind": "university",
+          "supports": "Silicone covering; epidermal autograft for large wounds; new dermis lacks sweat glands and hair follicles."
+        },
+        {
+          "citation": "Artificial skin developed at MIT now ready for treatment with burn patients. MIT News (1996).",
+          "url": "https://news.mit.edu/index%2ephp/1996/artificialskin",
+          "kind": "university",
+          "supports": "FDA approval in March 1996; collagen from animal tendons bonded with glycosaminoglycan from cartilage."
+        }
+      ],
+      "related": [
+        "tissue-engineering"
+      ]
+    },
+    {
+      "id": "heart-lung-transplant",
+      "title": "A combined heart and lung transplant succeeds at Stanford",
+      "summary": "On 9 March 1981 Bruce Reitz and Norman Shumway at Stanford transplanted the heart and lungs of a donor into Mary Gohlke, a 45-year-old with fatal pulmonary hypertension. She lived for five more years, the first long-term success for the operation.",
+      "explanation": "At the time no human lung transplant recipient had survived more than 23 days. Reitz, working in Shumway's research laboratory, had developed heart–lung transplantation in monkeys. Mary Gohlke, a newspaper executive from Arizona, read about the monkey work and contacted him.\n\nThe operation depended on the new immunosuppressant cyclosporine, which the FDA had approved for heart transplant patients but not yet for heart–lung recipients; Stanford had to wait for permission. Gohlke received the organs in a four-hour operation and lived for five years.",
+      "date": {
+        "start": 1981,
+        "end": 1981,
+        "display": "9 March 1981",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Date of the operation, given by Stanford Medicine."
+      },
+      "type": "demonstration",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [],
+      "themes": [
+        "transplantation"
+      ],
+      "locations": [
+        {
+          "name": "Stanford Hospital",
+          "modern": "Stanford, California, USA",
+          "lat": 37.43,
+          "lon": -122.18,
+          "radiusKm": 3,
+          "precision": "site",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Bruce Reitz",
+          "role": "Cardiothoracic surgeon; led the team"
+        },
+        {
+          "name": "Norman Shumway",
+          "role": "Chief of cardiothoracic surgery"
+        },
+        {
+          "name": "Mary Gohlke",
+          "role": "Patient"
+        }
+      ],
+      "whatChanged": "People with fatal disease of both the heart and lungs could be treated by transplantation.",
+      "whyItMattered": "It opened the way to successful lung transplantation, which followed within a few years.",
+      "limitations": [
+        "Heart–lung transplants remain rare because donor organs are scarce and outcomes are poorer than for single organs.",
+        "It was the first successful heart–lung transplant, not the first attempt."
+      ],
+      "sources": [
+        {
+          "citation": "Wykes S. Bruce Reitz recalls the world's first heart–lung transplant. Stanford Medicine News, 9 March 2016.",
+          "url": "https://med.stanford.edu/news/all-news/2016/03/bruce-reitz-recalls-the-worlds-first-heart-lung-transplant.html",
+          "kind": "university",
+          "supports": "Reitz and Shumway performed the first successful heart–lung transplant in 1981 at Stanford Hospital; Gohlke lived five years; Reitz's research in Shumway's laboratory."
+        },
+        {
+          "citation": "Wykes S. Bruce Reitz recalls the world's first heart–lung transplant (full interview). Stanford Medicine.",
+          "url": "https://aemstage.med.stanford.edu/news/all-news/2016/03/bruce-reitz-recalls-the-worlds-first-heart-lung-transplant.html",
+          "kind": "university",
+          "supports": "No human lung transplant patient had survived more than 23 days; lungs could then be transplanted only as part of a heart–lung package."
+        },
+        {
+          "citation": "Steakley L. Celebrating the 30-year anniversary of the world's first lung–heart transplant. Stanford Scope (2011), reposted.",
+          "url": "https://mervsheppard.blogspot.com/2011/03/celebrating-30-year-anniversary-of.html",
+          "kind": "university",
+          "supports": "Four-hour operation on Mary Gohlke, a 45-year-old newspaper executive from Mesa, Arizona; made possible by cyclosporine and prior laboratory research."
+        },
+        {
+          "citation": "The first successful heart–lung transplantation (excerpt from Stanford Medicine magazine). Market Design blog, 2016.",
+          "url": "https://marketdesigner.blogspot.com/2016/04/the-first-successful-heart-lung.html",
+          "kind": "university",
+          "supports": "Operation on 9 March 1981; Gohlke had primary pulmonary hypertension; FDA had approved cyclosporin A for heart transplants but not heart–lung patients; she contacted Reitz after reading of his monkey transplants."
+        }
+      ],
+      "related": [
+        "first-heart-transplant",
+        "lung-transplant-hardy",
+        "cyclosporine"
+      ]
+    },
+    {
+      "id": "human-insulin-recombinant",
+      "title": "Human insulin made by bacteria: the first recombinant DNA drug",
+      "summary": "In 1978 scientists at Genentech and City of Hope made E. coli bacteria produce human insulin from synthetic genes. Developed by Eli Lilly as Humulin, it was approved by the US FDA in October 1982, the first medicine made by recombinant DNA technology.",
+      "explanation": "For sixty years people with diabetes had used insulin extracted from the pancreases of cattle and pigs; Eli Lilly needed tens of millions of animals a year. Recombinant DNA techniques, developed in the 1970s, offered a way to make human proteins in bacteria. Genentech, a young biotechnology company, worked with City of Hope National Medical Center: Keiichi Itakura and Roberto Crea synthesised genes for insulin's two chains, Arthur Riggs's team contributed, and David Goeddel's group expressed them in E. coli. The chains were combined into active human insulin, reported in January 1979.\n\nLilly licensed the technology, scaled up production and gained approval after only five months of FDA review.",
+      "date": {
+        "start": 1978,
+        "end": 1982,
+        "display": "1978–1982",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Bacterial production achieved in 1978 and reported in January 1979; FDA approval on 28 October 1982."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [],
+      "themes": [
+        "biotechnology",
+        "diabetes",
+        "pharmaceutical industry"
+      ],
+      "locations": [
+        {
+          "name": "Genentech, South San Francisco",
+          "modern": "South San Francisco, California, USA",
+          "lat": 37.66,
+          "lon": -122.38,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Bacterial expression of insulin chains"
+        },
+        {
+          "name": "City of Hope National Medical Center, Duarte",
+          "modern": "Duarte, California, USA",
+          "lat": 34.13,
+          "lon": -117.97,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Synthesis of the insulin genes"
+        },
+        {
+          "name": "Eli Lilly and Company, Indianapolis",
+          "modern": "Indianapolis, Indiana, USA",
+          "lat": 39.77,
+          "lon": -86.16,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "implementation-area",
+          "role": "Development and manufacture of Humulin"
+        }
+      ],
+      "people": [
+        {
+          "name": "Keiichi Itakura",
+          "role": "Chemist, City of Hope"
+        },
+        {
+          "name": "Arthur Riggs",
+          "role": "Molecular biologist, City of Hope"
+        },
+        {
+          "name": "Roberto Crea",
+          "role": "Chemist"
+        },
+        {
+          "name": "David Goeddel",
+          "role": "Genentech scientist"
+        }
+      ],
+      "whatChanged": "Human insulin could be manufactured in unlimited quantities, without relying on animal pancreases.",
+      "whyItMattered": "Humulin launched the biotechnology drug industry, and recombinant production became standard for insulin and many other protein medicines.",
+      "limitations": [
+        "Human insulin was not shown to work better than animal insulins, though it caused fewer allergic reactions.",
+        "A Harvard group was racing to make insulin using cloned rather than synthetic genes.",
+        "Bacteria had earlier been made to produce the hormone somatostatin, as a proof of principle; insulin was the first such product to reach patients."
+      ],
+      "sources": [
+        {
+          "citation": "Riggs AD. Making, cloning, and the expression of human insulin genes in bacteria: the path to Humulin. Endocrine Reviews 42(3):374 (2021).",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8152450",
+          "kind": "journal",
+          "supports": "Expression of somatostatin and then human insulin in E. coli in 1978–79; first report in January 1979; work at Genentech and Eli Lilly increased yields; Humulin approved in 1982; before then, cow and pig insulin were used."
+        },
+        {
+          "citation": "Genentech. Cloning insulin (40th anniversary history).",
+          "url": "https://gene.com/40th/cloning-insulin",
+          "kind": "institution",
+          "supports": "Eli Lilly needed 56 million animals a year; Lilly signed contracts with competing institutions; team including Crea, Riggs and Itakura."
+        },
+        {
+          "citation": "National Science Foundation. Biotech pioneers: rDNA and insulin.",
+          "url": "https://nsf.gov/impacts/rdna-insulin",
+          "kind": "institution",
+          "supports": "Genentech partnered with City of Hope National Medical Center in 1978; Lilly had contracts with two research teams by 1977."
+        },
+        {
+          "citation": "Chance RE, Frank BH. Research, development, production, and safety of biosynthetic human insulin. Diabetes Care 16(Suppl 3):133 (1993).",
+          "url": "https://ada.silverchair.com/care/article-pdf/16/Supplement_3/133/442545/16-3-133.pdf",
+          "kind": "journal",
+          "supports": "Humulin the first marketed human health-care product derived from rDNA technology, in 1982; Lilly's contractual arrangement with Genentech."
+        },
+        {
+          "citation": "The new insulin. Invention & Technology magazine.",
+          "url": "https://www.inventionandtech.com/node/86059",
+          "kind": "journal",
+          "supports": "Genentech combined synthesised genes with E. coli in August 1978; Harvard researchers worked with cloned genes; human insulin never proved more effective than animal insulins but caused fewer allergic reactions."
+        },
+        {
+          "citation": "The molecule that changed everything: how insulin rewired drug manufacturing. Investigations Quality.",
+          "url": "https://investigationsquality.com/tag/biologics/",
+          "kind": "journal",
+          "supports": "FDA approval of Humulin on 28 October 1982 after five months of review."
+        }
+      ],
+      "related": [
+        "insulin-toronto",
+        "recombinant-interferon"
+      ]
+    },
+    {
+      "id": "jarvik-7-artificial-heart",
+      "title": "A permanent artificial heart is implanted in Barney Clark",
+      "summary": "On 2 December 1982 William DeVries at the University of Utah replaced the failing heart of Barney Clark, a 61-year-old retired dentist, with the Jarvik-7 artificial heart. Tethered to a 400-pound air compressor, Clark lived for 112 days.",
+      "explanation": "Willem Kolff's group at the University of Utah had developed total artificial hearts in animals, with Robert Jarvik managing the project. After FDA approval in 1982, a panel at the university's medical centre selected Barney Clark, a Seattle dentist with end-stage heart failure.\n\nThe Jarvik-7, made of aluminium and polyurethane, replaced both ventricles and was driven by an external air compressor. Clark suffered repeated complications, followed closely by the news media, and died on 23 March 1983. Later recipients lived longer, the longest about 620 days.",
+      "date": {
+        "start": 1982,
+        "end": 1982,
+        "display": "2 December 1982",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Date of the operation."
+      },
+      "type": "demonstration",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [
+        "therapeutics"
+      ],
+      "themes": [
+        "devices",
+        "cardiology",
+        "research ethics"
+      ],
+      "locations": [
+        {
+          "name": "University of Utah Medical Center, Salt Lake City",
+          "modern": "Salt Lake City, Utah, USA",
+          "lat": 40.77,
+          "lon": -111.84,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "William DeVries",
+          "role": "Cardiothoracic surgeon"
+        },
+        {
+          "name": "Robert Jarvik",
+          "role": "Designer of the Jarvik-7"
+        },
+        {
+          "name": "Willem Kolff",
+          "role": "Head of the artificial organs programme"
+        },
+        {
+          "name": "Barney Clark",
+          "role": "Patient"
+        }
+      ],
+      "whatChanged": "It showed that a person could survive for months with a machine doing all the work of the heart.",
+      "whyItMattered": "Total artificial hearts are now used as temporary bridges for patients awaiting a transplant.",
+      "limitations": [
+        "Clark suffered strokes and other serious complications and never left hospital.",
+        "Permanent total artificial hearts never became routine; current devices are mainly temporary.",
+        "Earlier total artificial hearts, such as the one implanted by Denton Cooley in Houston in 1969, were used only briefly as bridges to transplant."
+      ],
+      "contested": "The Barney Clark case prompted wide debate about the ethics and quality of life of experimental life-extending devices.",
+      "sources": [
+        {
+          "citation": "University of Utah Health. The first artificial heart, 30 years later (2012).",
+          "url": "https://healthcare.utah.edu/healthfeed/2012/12/first-artificial-heart-30-years-later",
+          "kind": "university",
+          "supports": "Jarvik-7 of aluminium and polyurethane connected to a 400-pound air compressor; Clark lived 112 days and died on 23 March 1983, aged 62; Seattle dentist."
+        },
+        {
+          "citation": "The first permanent artificial heart. PubMed Central, PMC1860944.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1860944",
+          "kind": "journal",
+          "supports": "First permanent artificial heart implanted on 2 December 1982 by DeVries at the University of Utah; Barney Clark with congestive cardiomyopathy survived 112 days."
+        },
+        {
+          "citation": "William C. DeVries. Encyclopedia.com.",
+          "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/william-c-devries",
+          "kind": "book",
+          "supports": "DeVries rejoined Kolff's team in 1979; FDA approval in 1982; selection panel; 61-year-old Clark; complications followed by the news media; died after 112 days."
+        },
+        {
+          "citation": "Dr. Robert Jarvik, inventor of first human artificial heart, dies at 79. HealthDay (2025).",
+          "url": "https://www.powershealth.org/about-us/newsroom/health-library/2025/05/30/dr-robert-jarvik-inventor-of-first-human-artificial-heart-dies-at-79",
+          "kind": "journal",
+          "supports": "Jarvik designed the Jarvik-7; Clark never left hospital; later patient William Schroeder survived 620 days."
+        }
+      ],
+      "related": [
+        "first-heart-transplant"
+      ]
+    },
+    {
+      "id": "automated-dna-sequencer",
+      "title": "Fluorescent dyes automate DNA sequencing",
+      "summary": "In 1986 Lloyd Smith, Leroy Hood and colleagues at Caltech reported a method that labelled DNA fragments with four coloured fluorescent dyes, so that a laser and computer could read a sequence directly. Applied Biosystems turned it into the first commercial automated sequencer in 1987.",
+      "explanation": "Frederick Sanger's sequencing method used radioactive labels and four separate gel lanes, read by eye from X-ray film. The Caltech team attached a different fluorescent dye to the primer used in each of the four reactions, so that all four could run in a single gel lane; as the separated fragments passed a laser, the colours were detected and the sequence was recorded directly by computer.\n\nPublished in Nature in June 1986, the method was commercialised by Applied Biosystems, co-founded by Hood, as the Model 370A in 1987. Automated sequencers made the Human Genome Project feasible.",
+      "date": {
+        "start": 1986,
+        "end": 1987,
+        "display": "1986–1987",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Published in Nature in June 1986; commercial instrument introduced in 1987."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "genetics",
+        "sequencing technology",
+        "devices"
+      ],
+      "locations": [
+        {
+          "name": "California Institute of Technology, Pasadena",
+          "modern": "Pasadena, California, USA",
+          "lat": 34.14,
+          "lon": -118.13,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Lloyd Smith",
+          "role": "Chemist; first author"
+        },
+        {
+          "name": "Leroy Hood",
+          "role": "Biologist; head of the laboratory and co-founder of Applied Biosystems"
+        },
+        {
+          "name": "Tim and Mike Hunkapiller",
+          "role": "Collaborators"
+        }
+      ],
+      "whatChanged": "DNA sequence could be read by machine, far faster and with less handling of radioactive material.",
+      "whyItMattered": "Automated fluorescent sequencing underpinned the Human Genome Project and modern genetic diagnosis.",
+      "limitations": [
+        "The first machines were only partly automated and difficult to use.",
+        "Other groups, such as Wilhelm Ansorge's in Heidelberg, developed fluorescent sequencing at about the same time, so priority is shared."
+      ],
+      "sources": [
+        {
+          "citation": "Smith LM, Sanders JZ, Kaiser RJ, et al. Fluorescence detection in automated DNA sequence analysis. Nature 321:674–679 (1986).",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/3713851/",
+          "doi": "10.1038/321674a0",
+          "kind": "journal",
+          "supports": "Partial automation of DNA sequencing; a different-coloured fluorophore for each base reaction; combined in a single gel tube; sequence acquired directly by computer; June 1986."
+        },
+        {
+          "citation": "Leroy Hood and Lloyd Smith develop the first semi-automatic DNA sequencer. HistoryofInformation.com.",
+          "url": "https://historyofinformation.com/detail.php?id=1004",
+          "kind": "book",
+          "supports": "Caltech, 1986; laser detection of fluorescent markers; Hood a founder of Applied Biosystems; improved the Sanger method and replaced radioactive labels."
+        },
+        {
+          "citation": "DNA sequencing with the Applied Biosystems Model 373A. Springer Protocols.",
+          "url": "https://link.springer.com/protocol/10.1385/0-89603-402-X:425",
+          "kind": "book",
+          "supports": "First commercially available fluorescent sequencer, introduced in 1987 as the Model 370A; Ansorge et al. 1987 also reported fluorescent sequencing."
+        },
+        {
+          "citation": "The automated DNA sequencer. The Scientist.",
+          "url": "https://www.the-scientist.com/feature/the-automated-dna-sequencer-48442",
+          "kind": "journal",
+          "supports": "Caltech roots; Hunkapiller brothers' role; four fluorescent dyes allowed one lane per sequence; early machines difficult to use."
+        }
+      ],
+      "related": [
+        "human-genome-project",
+        "pcr-invention"
+      ]
+    },
+    {
+      "id": "pcr-invention",
+      "title": "The polymerase chain reaction copies DNA millions of times",
+      "summary": "In 1983 Kary Mullis, a chemist at Cetus Corporation in Emeryville, California, conceived the polymerase chain reaction (PCR), which copies a chosen stretch of DNA over and over. Developed by Mullis and Cetus colleagues and published from 1985, it became one of the most widely used techniques in biology and medicine.",
+      "explanation": "Studying a gene once meant working with tiny amounts of DNA by slow, difficult methods. Mullis's idea was to use two short primers flanking a target sequence and repeated cycles of heating and copying, so that the number of copies doubles with each cycle. Colleagues including Randall Saiki, Stephen Scharf, Fred Faloona and Henry Erlich generated the data that proved it worked, and the first paper using PCR, on diagnosing sickle-cell anaemia, appeared in Science in 1985.\n\nIn 1985–86 Cetus scientists replaced the original enzyme with Taq polymerase from a heat-loving bacterium, which survives the heating steps and allowed the process to be automated. Mullis shared the 1993 Nobel Prize in Chemistry.",
+      "date": {
+        "start": 1983,
+        "end": 1985,
+        "display": "1983–1985",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Conceived in 1983; first publication using PCR in 1985; patent filed on 28 March 1985."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "genetics",
+        "biotechnology",
+        "diagnostics"
+      ],
+      "locations": [
+        {
+          "name": "Cetus Corporation, Emeryville",
+          "modern": "Emeryville, California, USA",
+          "lat": 37.83,
+          "lon": -122.29,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Kary Mullis",
+          "role": "Chemist; conceived PCR"
+        },
+        {
+          "name": "Randall Saiki, Stephen Scharf, Fred Faloona and Henry Erlich",
+          "role": "Cetus scientists who developed and first applied it"
+        },
+        {
+          "name": "Thomas White",
+          "role": "Cetus research director"
+        }
+      ],
+      "whatChanged": "Tiny amounts of DNA, even from a single cell or a trace sample, could be amplified enough to study.",
+      "whyItMattered": "PCR underpins genetic testing, forensic DNA analysis, infectious disease diagnosis, including COVID-19 tests, and much of modern biology.",
+      "limitations": [
+        "Making PCR work reliably depended heavily on Mullis's colleagues, and the share of credit has been disputed.",
+        "Its sensitivity means contamination can give false results."
+      ],
+      "contested": "Colleagues at Cetus have argued that the Nobel Prize and public story gave Mullis too much of the credit for turning the idea into a working technique.",
+      "sources": [
+        {
+          "citation": "Embryo Project Encyclopedia. Polymerase chain reaction (PCR).",
+          "url": "https://embryo.asu.edu/pages/polymerase-chain-reaction-pcr",
+          "kind": "university",
+          "supports": "Mullis developed the idea in the early 1980s at Cetus Corporation, Emeryville; first study referencing PCR in Science in 1985; Taq polymerase added by Cetus scientists; patent filed 28 March 1985; 1993 Nobel Prize in Chemistry."
+        },
+        {
+          "citation": "Kossakovski F. The eccentric scientist behind the gold standard COVID-19 test. National Geographic (2021).",
+          "url": "https://www.nationalgeographic.com/science/article/the-eccentric-scientist-behind-the-gold-standard-covid-19-pcr-test",
+          "kind": "journal",
+          "supports": "Mullis conceived PCR while driving in 1983; returned to Cetus; Scharf, Faloona and Saiki produced replicable data; White's view that Mullis disparaged colleagues and the Nobel story; PCR as the basis of COVID-19 testing."
+        },
+        {
+          "citation": "History of polymerase chain reaction (PCR). News-Medical.",
+          "url": "https://www.news-medical.net/life-sciences/History-of-Polymerase-Chain-Reaction-%28PCR%29.aspx",
+          "kind": "journal",
+          "supports": "History marred by controversies and counterclaims; Taq polymerase isolated by Stoffel and Gelfand at Cetus in 1985; Saiki's experiments; patent for PCR with Taq issued in 1990."
+        }
+      ],
+      "related": [
+        "automated-dna-sequencer",
+        "dna-fingerprinting"
+      ]
+    },
+    {
+      "id": "robot-assisted-surgery",
+      "title": "A robot arm guides a brain biopsy",
+      "summary": "In 1985 Yik San Kwoh and colleagues at Memorial Medical Center in Long Beach, California, used an industrial PUMA robot arm, guided by CT scans, to position a needle for brain biopsies. It is generally regarded as the first use of a robot in surgery.",
+      "explanation": "In stereotactic brain surgery, instruments are guided to a target deep in the brain that the surgeon cannot see, using coordinates from scans. Kwoh, director of tomography research at Memorial Medical Center, linked a PUMA industrial robot arm to a minicomputer that used CT images to calculate the path to a lesion and hold the instrument at exactly the right angle, while surgeons pushed the probe in.\n\nThe robot was first used on 11 April 1985 and had been used in seven operations by December. The arm's manufacturer later refused to allow its use in surgery because it had been designed to work away from people, and the project stopped.",
+      "date": {
+        "start": 1985,
+        "end": 1985,
+        "display": "11 April 1985",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "First operation on 11 April 1985, according to a neurosurgical review; reported in the press in June 1985."
+      },
+      "type": "demonstration",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [
+        "mind-brain"
+      ],
+      "themes": [
+        "robotics",
+        "devices",
+        "neurosurgery"
+      ],
+      "locations": [
+        {
+          "name": "Memorial Medical Center, Long Beach",
+          "modern": "Long Beach, California, USA",
+          "lat": 33.81,
+          "lon": -118.19,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Yik San Kwoh",
+          "role": "Director of tomography research; inventor"
+        }
+      ],
+      "whatChanged": "A robot could position surgical instruments in the brain more precisely than a hand-adjusted frame.",
+      "whyItMattered": "It is regarded as the predecessor of today's surgical robots, which are widely used in neurosurgery, urology and general surgery.",
+      "limitations": [
+        "Calling it the first surgical robot depends on the definition: it only positioned and held instruments, and surgeons still carried out the operation.",
+        "The work stopped when the robot's maker refused to allow surgical use on safety grounds."
+      ],
+      "sources": [
+        {
+          "citation": "Highfield R. Ole: the brain surgeon with a difference. The Press (Christchurch), 6 December 1985, Papers Past.",
+          "url": "https://paperspast.natlib.govt.nz/newspapers/CHP19851206.2.101",
+          "kind": "archive",
+          "supports": "Robot at Memorial Medical Centre, Long Beach; PUMA arm made by Unimation controlled by a minicomputer; CT images used to calculate the trajectory; used in seven operations since April; led by Kwoh, director of tomography research."
+        },
+        {
+          "citation": "Robotic neurosurgery: evolution (review). Thieme (2024).",
+          "url": "https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0044-1790606",
+          "kind": "journal",
+          "supports": "First practical application of robotics in surgery described in neurosurgery by Kwoh et al. on 11 April 1985; CT-guided brain biopsy."
+        },
+        {
+          "citation": "Developments in robotic surgery. UC Irvine BME 240 course materials.",
+          "url": "https://bme240.eng.uci.edu/students/10s/sgupta1/Developments.html",
+          "kind": "university",
+          "supports": "Kwoh in 1985 used a PUMA 560 arm to place a needle for a CT-guided brain biopsy; Westinghouse refused to allow surgical use on safety grounds; work ceased."
+        },
+        {
+          "citation": "The state of robotics in neurosurgery. AANS Neurosurgeon.",
+          "url": "https://aansneurosurgeon.org/the-state-of-robotics-in-neurosurgery/",
+          "kind": "institution",
+          "supports": "PUMA system considered the predecessor of current surgical robots."
+        },
+        {
+          "citation": "New York Times, 25 June 1985 (quoted in Surgical robotics archives).",
+          "url": "https://surgrob.blogspot.com/2020/02/surgical-robotics-archives.html?m=0",
+          "kind": "archive",
+          "supports": "Doctors applied pressure on instruments directed by the robot; operations at Long Beach Memorial Medical Center; patients able to go home the next day."
+        }
+      ],
+      "related": [
+        "lindbergh-telesurgery",
+        "horsley-clarke-stereotaxy"
+      ]
+    },
+    {
+      "id": "dna-fingerprinting",
+      "title": "DNA fingerprinting identifies individuals",
+      "summary": "On 10 September 1984 Alec Jeffreys at the University of Leicester saw that patterns of highly variable DNA sequences differed between individuals while showing family resemblances. DNA fingerprinting was first used in 1985 to settle an immigration case and soon transformed paternity testing and criminal investigation.",
+      "explanation": "Jeffreys was studying how genes vary and evolve, using probes for repeated DNA sequences called minisatellites. When he developed an X-ray film showing DNA from members of a technician's family, he saw a pattern of bands unique to each person but shared in part between relatives.\n\nHe published in Nature in 1985. That year a lawyer asked him to help a Ghanaian-British boy threatened with deportation; DNA fingerprinting showed he was his mother's son and he was allowed to stay. The technique was soon used in paternity disputes and, from 1986–88, in the first criminal investigation solved by DNA, in Leicestershire.",
+      "date": {
+        "start": 1984,
+        "end": 1985,
+        "display": "1984–1985",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Discovery on 10 September 1984; Nature papers and first use in an immigration case in 1985."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "diagnosis",
+      "tags": [
+        "mechanisms"
+      ],
+      "themes": [
+        "genetics",
+        "forensic medicine"
+      ],
+      "locations": [
+        {
+          "name": "University of Leicester",
+          "modern": "Leicester, England, UK",
+          "lat": 52.62,
+          "lon": -1.12,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Alec Jeffreys",
+          "role": "Geneticist"
+        },
+        {
+          "name": "Victoria Wilson and Swee Lay Thein",
+          "role": "Co-authors of the 1985 paper"
+        }
+      ],
+      "whatChanged": "Individuals and their relatives could be identified from DNA.",
+      "whyItMattered": "DNA profiling transformed paternity and immigration cases and criminal justice, convicting the guilty and freeing the wrongly accused.",
+      "limitations": [
+        "The early multi-band method was later replaced by simpler, more standardised DNA profiling.",
+        "DNA evidence has raised concerns about privacy and the misinterpretation of statistics in court.",
+        "Its first uses were in immigration and paternity cases; criminal convictions using DNA came later, from 1987–88."
+      ],
+      "sources": [
+        {
+          "citation": "Jeffreys AJ. Genetic fingerprinting. Nature Medicine 11(10) (2005), Lasker Award commentary.",
+          "url": "https://laskerfoundation.org/wp-content/uploads/2021/01/2005_jeffreys.pdf",
+          "kind": "journal",
+          "supports": "Minisatellites and a shared core sequence; accidental discovery of a method with potential for individual identification."
+        },
+        {
+          "citation": "Lemelson-MIT Program. Sir Alec Jeffreys.",
+          "url": "https://lemelson.mit.edu/resources/sir-jefferys",
+          "kind": "university",
+          "supports": "Discovery on the morning of 10 September 1984 at Leicester; mini-satellites varied between individuals; four-part series in Nature in 1985; first used in an immigration case involving a Ghanaian boy."
+        },
+        {
+          "citation": "The accidental discovery of DNA fingerprinting. Genetics Unzipped (Genetics Society), 2020.",
+          "url": "https://geneticsunzipped.com/news/2020/3/26/the-accidental-discovery-of-dna-fingerprinting",
+          "kind": "institution",
+          "supports": "Nature paper of 7 March 1985 by Jeffreys, Wilson and Thein; X-ray film developed at 9.05 am on 10 September 1984; Jeffreys' wife suggested immigration uses."
+        },
+        {
+          "citation": "yourgenome (Wellcome Connecting Science). The dawn of DNA profiling.",
+          "url": "https://www.yourgenome.org/theme/the-dawn-of-dna-profiling-the-eureka-moment-that-revolutionised-crime-solving/",
+          "kind": "institution",
+          "supports": "Developed in 1984 at the University of Leicester; revolutionised police investigation."
+        }
+      ],
+      "related": [
+        "pcr-invention"
+      ]
+    },
+    {
+      "id": "fluoxetine-prozac",
+      "title": "Fluoxetine (Prozac) and the SSRI antidepressants",
+      "summary": "Chemists at Eli Lilly identified fluoxetine in 1972 as a selective blocker of serotonin reuptake. Approved in the US as Prozac in December 1987, it became the best-selling antidepressant and changed how depression was treated and understood.",
+      "explanation": "Older tricyclic antidepressants carried risks including heart effects and were dangerous in overdose. At Lilly, Bryan Molloy and colleagues made dozens of compounds related to an antihistamine; David Wong proposed testing them for effects on the reuptake of serotonin, and in 1972 one compound, later named fluoxetine, proved the most potent and selective.\n\nDevelopment took more than 16 years. Fluoxetine was approved for depression by the US FDA on 29 December 1987 and quickly outsold its rivals, as doctors saw it as safer and better tolerated. By 2002 it had been prescribed to more than 40 million people.",
+      "date": {
+        "start": 1972,
+        "end": 1987,
+        "display": "1972–1987",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Compound identified in 1972; FDA approval on 29 December 1987."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "trial"
+      ],
+      "category": "mind-brain",
+      "tags": [
+        "therapeutics"
+      ],
+      "themes": [
+        "drug discovery",
+        "pharmaceutical industry",
+        "mental health"
+      ],
+      "locations": [
+        {
+          "name": "Lilly Research Laboratories, Indianapolis",
+          "modern": "Indianapolis, Indiana, USA",
+          "lat": 39.77,
+          "lon": -86.16,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "David Wong",
+          "role": "Biochemist"
+        },
+        {
+          "name": "Bryan Molloy",
+          "role": "Chemist"
+        },
+        {
+          "name": "Ray Fuller",
+          "role": "Pharmacologist"
+        },
+        {
+          "name": "Klaus Schmiegel",
+          "role": "Chemist"
+        }
+      ],
+      "whatChanged": "Depression could be treated with a drug that was safer in overdose and easier to tolerate than older antidepressants.",
+      "whyItMattered": "SSRIs became the most widely prescribed treatments for depression and anxiety, and Prozac shaped public debate about mental illness and medication.",
+      "limitations": [
+        "Fluoxetine was not the first SSRI: zimelidine, indalpine and fluvoxamine reached markets earlier elsewhere.",
+        "Debate continues about how much SSRIs help milder depression and about their wider cultural use."
+      ],
+      "sources": [
+        {
+          "citation": "Wong DT, Perry KW, Bymaster FP. Case history: the discovery of fluoxetine hydrochloride (Prozac). Nat Rev Drug Discov (2005).",
+          "url": "https://typeset.io/pdf/the-discovery-of-fluoxetine-hydrochloride-prozac-4k285tjux0.pdf",
+          "kind": "journal",
+          "supports": "More than 16 years of development; FDA approval for depression on 29 December 1987; the first SSRI introduced in the United States; prescribed to more than 40 million patients by 2002."
+        },
+        {
+          "citation": "Psychology Today. The story of Prozac: a landmark drug in psychiatry (2020).",
+          "url": "https://www.psychologytoday.com/us/blog/from-freud-to-fluoxetine/202003/the-story-of-prozac-a-landmark-drug-in-psychiatry",
+          "kind": "journal",
+          "supports": "Lilly sought an antidepressant without the cardiovascular risks of tricyclics; compounds derived from diphenhydramine; Wong's role in screening for serotonin effects."
+        },
+        {
+          "citation": "Psychology Today. The story of Prozac (continued).",
+          "url": "https://www.psychologytoday.com/za/blog/freud-fluoxetine/202003/the-story-prozac-psychiatrys-first-ssri",
+          "kind": "journal",
+          "supports": "Approved in December 1987; outsold the market leader within months; seen as safer; best-selling antidepressant by 1990; treatment of milder depression."
+        },
+        {
+          "citation": "EBSCO Research Starters. FDA approves Prozac as an antidepressant.",
+          "url": "https://ebsco.com/research-starters/health-and-medicine/fda-approves-prozac-antidepressant",
+          "kind": "institution",
+          "supports": "Approval on 29 December 1987; co-inventors Wong, Fuller, Molloy and Schmiegel; debate about enhancement versus treatment."
+        },
+        {
+          "citation": "Prozac molecule: fluoxetine. World of Molecules.",
+          "url": "https://www.worldofmolecules.com/drugs/prozac.htm",
+          "kind": "institution",
+          "supports": "Fluoxetine the fourth SSRI to market, after indalpine, zimelidine and fluvoxamine; Molloy synthesised derivatives; Wong proposed re-testing."
+        }
+      ],
+      "related": [
+        "cade-lithium",
+        "benzodiazepines-diazepam"
+      ]
+    },
+    {
+      "id": "statins",
+      "title": "Statins: from a Japanese mould to the most prescribed heart drugs",
+      "summary": "In 1973 Akira Endo at Sankyo in Tokyo discovered compactin, a mould product that blocks the body's main cholesterol-making enzyme. Merck developed a related compound, lovastatin, which in 1987 became the first statin approved for use.",
+      "explanation": "Inspired by penicillin's origin in a mould, Endo screened thousands of fungal cultures for substances that inhibit HMG-CoA reductase. Compactin, from Penicillium citrinum, lowered cholesterol in dogs, rabbits and monkeys, and Endo and the physician Akira Yamamoto gave it to patients with extremely high cholesterol. Sankyo halted development after concerns about tumours in dogs given high doses.\n\nMerck, whose scientists led by Alfred Alberts found lovastatin in another fungus, resumed trials after evidence of benefit and safety; the FDA approved lovastatin in 1987. Statins became among the most widely used drugs in the world for preventing heart attacks and strokes.",
+      "date": {
+        "start": 1973,
+        "end": 1987,
+        "display": "1973–1987",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Compactin discovered in 1973 and published in 1976; lovastatin approved on 31 August 1987 (some sources say September)."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "trial"
+      ],
+      "category": "therapeutics",
+      "tags": [
+        "prevention"
+      ],
+      "themes": [
+        "drug discovery",
+        "pharmaceutical industry",
+        "cardiology"
+      ],
+      "locations": [
+        {
+          "name": "Sankyo Company, Tokyo",
+          "modern": "Tokyo, Japan",
+          "lat": 35.68,
+          "lon": 139.77,
+          "radiusKm": 15,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "locationNote": "Merck's development of lovastatin is not mapped separately.",
+      "people": [
+        {
+          "name": "Akira Endo",
+          "role": "Biochemist, Sankyo"
+        },
+        {
+          "name": "Akira Yamamoto",
+          "role": "Physician who gave compactin to patients"
+        },
+        {
+          "name": "Alfred Alberts",
+          "role": "Led Merck's lovastatin research"
+        }
+      ],
+      "whatChanged": "LDL cholesterol could be lowered substantially with a well-tolerated drug.",
+      "whyItMattered": "Statins have reduced heart attacks and strokes for millions of people and are among the most widely prescribed drugs in the world.",
+      "limitations": [
+        "Compactin itself was never marketed; the first approved statin was Merck's lovastatin.",
+        "Sankyo halted compactin's development after concerns about tumours in dogs given high doses, delaying the arrival of statins."
+      ],
+      "sources": [
+        {
+          "citation": "Lasker Foundation. 2008 Lasker–DeBakey Clinical Medical Research Award: Akira Endo.",
+          "url": "https://laskerfoundation.org/winners/statins-for-lowering-ldl-and-decreasing-heart-attacks/",
+          "kind": "institution",
+          "supports": "Discovery of the statins; Endo and Yamamoto gave compactin to patients with very high LDL cholesterol; Merck under Alberts independently identified lovastatin; first statin approved for medical use."
+        },
+        {
+          "citation": "Endo A and the discovery of statins: 50 years on. PubMed Central, PMC9491398.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9491398",
+          "kind": "journal",
+          "supports": "Endo joined Sankyo in 1957; inspired by Fleming and moulds; discovery of the first statin."
+        },
+        {
+          "citation": "EBSCO Research Starters. FDA approves the first cholesterol-lowering drug.",
+          "url": "https://www.ebsco.com/research-starters/politics-and-government/fda-approves-first-cholesterol-lowering-drug",
+          "kind": "institution",
+          "supports": "Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck."
+        },
+        {
+          "citation": "Akira Endo, father of statins, dies. The Hospitalist.",
+          "url": "https://blogs.the-hospitalist.org/index.php/content/akira-endo-father-statins-dies",
+          "kind": "journal",
+          "supports": "Compactin papers in 1976; trials halted over tumour suspicions; Merck's large trials and dog toxicity studies in 1984; lovastatin approved in September 1987."
+        },
+        {
+          "citation": "Statin history. News-Medical.",
+          "url": "https://www.news-medical.net/health/Statin-History.aspx",
+          "kind": "journal",
+          "supports": "Compactin from Penicillium citrinum, a competitive inhibitor of HMG-CoA reductase; lowered cholesterol in dogs, rabbits and monkeys; clinical studies in Japan."
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "palmaz-stent",
+      "title": "A balloon-expandable stent holds arteries open",
+      "summary": "Julio Palmaz, an Argentine radiologist in San Antonio, Texas, invented a metal mesh tube that is expanded by a balloon inside a narrowed artery to prop it open. Patented in 1985, it was approved for leg arteries in 1991 and, as the Palmaz–Schatz stent, for coronary arteries in 1994.",
+      "explanation": "Balloon angioplasty, introduced by Andreas Gruentzig in 1977, could widen narrowed arteries, but they often closed again. Palmaz, inspired by hearing Gruentzig speak in 1978, conceived a stent that could be delivered on a balloon catheter. He developed it after moving to San Antonio in 1983, working with the cardiologist Richard Schatz.\n\nWith backing from Johnson & Johnson, the stent was approved for peripheral arteries in 1991 and coronary arteries in 1994. The Palmaz–Schatz design became the standard against which later stents were judged.",
+      "date": {
+        "start": 1985,
+        "end": 1994,
+        "display": "1985–1994",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Patent filed in 1985; FDA approval for peripheral arteries in 1991 and coronary arteries in 1994."
+      },
+      "type": "invention",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [
+        "therapeutics"
+      ],
+      "themes": [
+        "devices",
+        "cardiology",
+        "minimally invasive surgery"
+      ],
+      "locations": [
+        {
+          "name": "University of Texas Health Science Center, San Antonio",
+          "modern": "San Antonio, Texas, USA",
+          "lat": 29.51,
+          "lon": -98.58,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Julio Palmaz",
+          "role": "Vascular radiologist; inventor"
+        },
+        {
+          "name": "Richard Schatz",
+          "role": "Cardiologist; co-developer of the coronary stent"
+        }
+      ],
+      "whatChanged": "Arteries opened by a balloon could be held open with a permanent scaffold, reducing the need for bypass surgery.",
+      "whyItMattered": "Stents became one of the most common treatments for narrowed coronary and other arteries, used in millions of patients.",
+      "limitations": [
+        "Several self-expanding stents were proposed at the same time; Palmaz's was the balloon-expandable design.",
+        "Bare-metal stents often narrowed again, a problem later reduced by drug-coated stents."
+      ],
+      "sources": [
+        {
+          "citation": "Lemelson-MIT Program. Julio Palmaz: balloon expandable stent.",
+          "url": "https://lemelson.mit.edu/resources/julio-palmaz",
+          "kind": "university",
+          "supports": "Inspired in 1978 by Gruentzig's presentation; Johnson & Johnson investment; approval for peripheral arteries in 1991 and coronary arteries in 1994."
+        },
+        {
+          "citation": "Ohio University. Julio C. Palmaz biography (Russ Prize).",
+          "url": "https://ohio.edu/engineering/node/7916",
+          "kind": "university",
+          "supports": "First balloon-expandable stent to receive FDA approval; Palmaz–Schatz coronary stent of 1994 became the gold standard; used in nearly 100 million patients."
+        },
+        {
+          "citation": "Palmaz J. The advent of stenting (interview). Endovascular Today, November/December 2004.",
+          "url": "https://c4v8.evtoday.com/articles/2004-nov/1104_F5_Palmaz.html",
+          "kind": "journal",
+          "supports": "First stent report by Dotter in 1969; by 1984 four stents proposed, three self-expanding and one balloon-expandable; patent in 1985; conception in 1978 and move to San Antonio about five years later."
+        },
+        {
+          "citation": "Julio Cesar Palmaz, Hispanic Heritage Month honoree. North Channel Star (2023).",
+          "url": "https://www.northchannelstar.com/2023/09/9237/",
+          "kind": "journal",
+          "supports": "Joined the University of Texas Health Science Center at San Antonio in 1983; co-development with Richard Schatz; stent technology patented in 1985."
+        }
+      ],
+      "related": [
+        "fogarty-balloon-catheter",
+        "favaloro-coronary-bypass"
+      ]
+    },
+    {
+      "id": "bath-laserphaco",
+      "title": "Patricia Bath's laser probe for cataract surgery",
+      "summary": "In 1986 the ophthalmologist Patricia Bath invented the Laserphaco Probe, which uses a laser to vaporise a cataract. Her 1988 patent made her the first African American woman physician to receive a US medical patent.",
+      "explanation": "Bath, who had been the first African American to complete an ophthalmology residency at New York University and the first woman on the faculty of UCLA's Jules Stein Eye Institute, spent about five years developing a device to remove cataracts more precisely. The probe used a laser pulse to vaporise the clouded lens, after which the fragments were removed.\n\nShe filed the patent application in 1986 and was granted US Patent 4,744,360 on 17 May 1988. She also co-founded the American Institute for the Prevention of Blindness and campaigned for eye care in underserved communities.",
+      "date": {
+        "start": 1986,
+        "end": 1988,
+        "display": "1986–1988",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Invention completed and patent filed in 1986; patent granted on 17 May 1988."
+      },
+      "type": "invention",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [],
+      "themes": [
+        "devices",
+        "ophthalmology",
+        "equity in medicine"
+      ],
+      "locations": [
+        {
+          "name": "University of California, Los Angeles",
+          "modern": "Los Angeles, California, USA",
+          "lat": 34.07,
+          "lon": -118.44,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "locationNote": "Bath worked on the optical system in a laboratory at UCLA and continued the work during a sabbatical in Germany.",
+      "people": [
+        {
+          "name": "Patricia Bath",
+          "role": "Ophthalmologist and inventor"
+        }
+      ],
+      "whatChanged": "It introduced a laser-based approach to removing cataracts.",
+      "whyItMattered": "Bath's work is widely recognised as a pioneering contribution to laser cataract surgery and to opening medical innovation to Black women.",
+      "limitations": [
+        "Ultrasound phacoemulsification, not laser vaporisation, remains the standard method of cataract removal.",
+        "The description of her as the first African American woman physician to receive a medical patent comes from biographies such as Britannica's; US patent records do not record inventors' race.",
+        "Her importance lies as much in her advocacy for eye care in underserved communities as in the device."
+      ],
+      "sources": [
+        {
+          "citation": "Encyclopaedia Britannica. Patricia Bath.",
+          "url": "https://www.britannica.com/biography/Patricia-Bath",
+          "kind": "book",
+          "supports": "Invented the laserphaco probe for cataract surgery; patented in 1988, the first African American woman physician to receive a US medical patent; advocate for eye care in underserved communities; first woman on the faculty of the Jules Stein Eye Institute."
+        },
+        {
+          "citation": "Ophthalmic Innovation Summit. Pioneering ophthalmic innovator Patricia Bath nominated for National Inventors Hall of Fame.",
+          "url": "https://ois.net/?p=18956",
+          "kind": "institution",
+          "supports": "First African American to complete an ophthalmology residency at NYU (1973); invented the Laserphaco Probe in 1986 after nearly five years of research; US Patent 4,744,360 granted in 1988."
+        },
+        {
+          "citation": "Patricia Bath patented a way to restore sight. GreatPatent.",
+          "url": "https://greatpatent.com/patricia-bath-patented-a-way-to-restore-sight",
+          "kind": "institution",
+          "supports": "US4744360 issued on 17 May 1988; laser pulse to vaporise the cataract; optical system developed in a lab at UCLA; application filed in 1986."
+        },
+        {
+          "citation": "Kentake Page. Patricia E. Bath.",
+          "url": "https://www.kentakepage.com/?p=18326",
+          "kind": "institution",
+          "supports": "Co-founded the American Institute for the Prevention of Blindness; first woman faculty member at the Jules Stein Eye Institute in 1974."
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "preimplantation-genetic-diagnosis",
+      "title": "Testing IVF embryos for genetic disease before transfer",
+      "summary": "In April 1990 Alan Handyside, Robert Winston and colleagues at Hammersmith Hospital, London, reported pregnancies after removing a single cell from early IVF embryos and testing it, so that only embryos free of a serious X-linked disease were transferred.",
+      "explanation": "Couples at risk of passing on a serious genetic disease could previously only test a pregnancy and consider ending it. The Hammersmith team, building on IVF, removed one cell from embryos at the six-to-eight-cell stage, three days after fertilisation, and used the new technique of PCR to detect a Y-chromosome sequence. Because the families carried X-linked conditions such as Duchenne muscular dystrophy that affect boys, only female embryos were transferred.\n\nTwo women became pregnant with female twins. Preimplantation genetic testing was later extended to specific gene mutations and chromosome abnormalities.",
+      "date": {
+        "start": 1990,
+        "end": 1990,
+        "display": "19 April 1990",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Date of publication in Nature; the biopsy method was reported in 1989."
+      },
+      "type": "clinical-evidence",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "maternal",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "assisted reproduction",
+        "genetics",
+        "ethics"
+      ],
+      "locations": [
+        {
+          "name": "Hammersmith Hospital, London",
+          "modern": "London, England, UK",
+          "lat": 51.52,
+          "lon": -0.24,
+          "radiusKm": 3,
+          "precision": "site",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Alan Handyside",
+          "role": "Embryologist"
+        },
+        {
+          "name": "Robert Winston",
+          "role": "Clinical lead"
+        },
+        {
+          "name": "Elena Kontogianni and Kate Hardy",
+          "role": "Co-authors"
+        }
+      ],
+      "whatChanged": "Couples at risk of a serious inherited disease could start a pregnancy free of it, without later prenatal testing and termination.",
+      "whyItMattered": "Preimplantation genetic testing is now used worldwide for many inherited conditions, though it raises continuing ethical questions about embryo selection.",
+      "limitations": [
+        "Sexing embryos avoided X-linked disease but also discarded unaffected male embryos.",
+        "Testing embryos for non-medical traits remains ethically contested and is restricted in many countries."
+      ],
+      "sources": [
+        {
+          "citation": "Handyside AH, Kontogianni EH, Hardy K, Winston RML. Pregnancies from biopsied human preimplantation embryos sexed by Y-specific DNA amplification. Nature 344:768–770 (1990).",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/2330030/",
+          "doi": "10.1038/344768a0",
+          "kind": "journal",
+          "supports": "Biopsy of a single cell at the six- to eight-cell stage; sexing by amplification of a Y-specific repeat; female embryos transferred; five couples at risk of X-linked disease; first established pregnancies."
+        },
+        {
+          "citation": "Pregnancies from biopsied human preimplantation embryos (record). Scilit.",
+          "url": "https://scilit.com/publications/d9e1bc53e99449d7d5282d36f8aa44a5",
+          "doi": "10.1038/344768a0",
+          "kind": "journal",
+          "supports": "Both women confirmed as carrying normal female twins; earlier 1989 Lancet paper on biopsy and sexing."
+        },
+        {
+          "citation": "The origins of preimplantation genetic testing. PET (Progress Educational Trust) BioNews.",
+          "url": "https://www.progress.org.uk/the-origins-of-preimplantation-genetic-testing/",
+          "kind": "institution",
+          "supports": "Work at Hammersmith Hospital under the clinical leadership of Robert Winston; early applications for couples at risk of X-linked conditions such as Duchenne muscular dystrophy and haemophilia."
+        }
+      ],
+      "related": [
+        "ivf-1978",
+        "pcr-invention"
+      ]
+    },
+    {
+      "id": "dna-microarray",
+      "title": "DNA chips read thousands of genetic sequences at once",
+      "summary": "In 1991 Stephen Fodor and colleagues at the Affymax Research Institute in Palo Alto described using light, as in computer-chip manufacture, to build dense arrays of different molecules on a glass slide. The method led to the DNA microarray, or 'gene chip'.",
+      "explanation": "Fodor's team combined solid-phase chemistry, light-sensitive protecting groups and photolithographic masks so that light directed which spots on a surface took part in each step of chemical synthesis. Building up DNA letter by letter in this way, a single slide could carry many thousands of different short DNA probes.\n\nAffymetrix, spun off from Affymax, commercialised the GeneChip. In 1995 Patrick Brown's group at Stanford showed how arrays could measure the activity of many genes in parallel, and microarrays became widely used to study gene expression, classify cancers and test for genetic variants.",
+      "date": {
+        "start": 1991,
+        "end": 1991,
+        "display": "15 February 1991",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Publication date of the paper in Science 251:767–773."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "genetics",
+        "biotechnology"
+      ],
+      "locations": [
+        {
+          "name": "Affymax Research Institute, Palo Alto",
+          "modern": "Palo Alto, California, USA",
+          "lat": 37.44,
+          "lon": -122.14,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Stephen Fodor",
+          "role": "Chemist"
+        },
+        {
+          "name": "Lubert Stryer, Michael Pirrung and J. Leighton Read",
+          "role": "Co-inventors"
+        }
+      ],
+      "whatChanged": "Thousands of DNA sequences could be tested in a single experiment.",
+      "whyItMattered": "Microarrays opened large-scale studies of gene activity and genetic variation, used in research and some clinical tests.",
+      "limitations": [
+        "Much of their research role has since passed to direct DNA sequencing.",
+        "Patrick Brown's cDNA arrays at Stanford were a separate, parallel approach."
+      ],
+      "sources": [
+        {
+          "citation": "Fodor SPA, et al. Light-directed, spatially addressable parallel chemical synthesis. Science 251(4995):767–773 (15 February 1991).",
+          "url": "https://www.scilit.net/publications/a8ca15e5e8aca0f540afde3b61d695ce",
+          "kind": "journal",
+          "supports": "Solid-phase chemistry, photolabile protecting groups and photolithography combined for light-directed synthesis; high-density arrays; synthesis of a dinucleotide; publication date."
+        },
+        {
+          "citation": "Nature Milestones in DNA technologies: microarrays.",
+          "url": "https://nature.com/articles/miledna16.pdf",
+          "kind": "journal",
+          "supports": "First description published in 1991 by Fodor and colleagues at the Affymax Research Institute; oligonucleotides synthesised on glass by photolithography; Patrick Brown's 1995 Stanford paper on parallel gene expression monitoring."
+        },
+        {
+          "citation": "Cold Spring Harbor Laboratory DNA Learning Center. Biography 36: Stephen P. A. Fodor.",
+          "url": "https://dnaftb.org/36/bio-4.html",
+          "kind": "institution",
+          "supports": "Recruited to Affymax Research Institute in Palo Alto in 1989; development of the first DNA GeneChip; 1991 Science paper."
+        },
+        {
+          "citation": "US Patent 7,087,732 (Fodor, Pirrung, Read, Stryer), assigned to Affymetrix.",
+          "url": "https://uspto.report/patent/grant/7087732",
+          "kind": "primary",
+          "supports": "Inventors Fodor, Pirrung, Read and Stryer; light-directed spatially addressable parallel synthesis; assigned to Affymetrix."
+        }
+      ],
+      "related": [
+        "automated-dna-sequencer"
+      ]
+    },
+    {
+      "id": "insulin-pump",
+      "title": "Wearable pumps deliver insulin continuously",
+      "summary": "Arnold Kadish built a backpack-sized insulin-delivery system in 1963, but practical wearable pumps came in the late 1970s. In 1978 John Pickup, Harry Keen and colleagues at Guy's Hospital, London, showed that a small battery-driven pump infusing insulin under the skin could achieve near-normal blood sugar.",
+      "explanation": "Injected insulin gives peaks and troughs, unlike the steady background release from a healthy pancreas. Kadish's 1963 system showed the idea could work but was far too bulky for daily life. In London, Harry Keen proposed delivering insulin continuously under the skin; Pickup and colleagues tested a small syringe pump in twelve patients over several days in 1978, with a steady basal rate increased before meals.\n\nCommercial wearable pumps appeared from the mid-1970s, including Dean Kamen's AutoSyringe of 1976. Pump therapy became a standard option for type 1 diabetes and the basis of later automated systems.",
+      "date": {
+        "start": 1963,
+        "end": 1978,
+        "display": "1963–1978",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Kadish's system in 1963; first commercial pump in 1976; Pickup's trial of subcutaneous infusion published in 1978."
+      },
+      "type": "invention",
+      "evidence": [
+        "trial",
+        "published-report"
+      ],
+      "category": "therapeutics",
+      "tags": [],
+      "themes": [
+        "devices",
+        "diabetes"
+      ],
+      "locations": [
+        {
+          "name": "Guy's Hospital, London",
+          "modern": "London, England, UK",
+          "lat": 51.5,
+          "lon": -0.09,
+          "radiusKm": 3,
+          "precision": "site",
+          "type": "trial-site"
+        }
+      ],
+      "locationNote": "Kadish's earlier system and Kamen's commercial pump were developed in the United States and are not mapped.",
+      "people": [
+        {
+          "name": "Arnold Kadish",
+          "role": "Physician; built the 1963 backpack system"
+        },
+        {
+          "name": "John Pickup",
+          "role": "Physician, Guy's Hospital"
+        },
+        {
+          "name": "Harry Keen",
+          "role": "Diabetologist who proposed subcutaneous infusion"
+        },
+        {
+          "name": "Dean Kamen",
+          "role": "Engineer; designed the AutoSyringe"
+        }
+      ],
+      "whatChanged": "Insulin could be delivered continuously in a way closer to the body's natural pattern.",
+      "whyItMattered": "Insulin pumps became a standard treatment for many people with type 1 diabetes and the foundation for automated insulin delivery.",
+      "limitations": [
+        "Early pumps were bulky, and the first systems used a vein, with a risk of infection.",
+        "Pumps are expensive and require training and close monitoring."
+      ],
+      "sources": [
+        {
+          "citation": "Automated insulin delivery: from concept to clinic. Nature Medicine (2024).",
+          "url": "https://www.nature.com/articles/d41591-024-00013-5.pdf",
+          "kind": "journal",
+          "supports": "Kadish described the first wearable insulin delivery system in 1963, 'The Backpack', an impractical proof of concept; commercial wearable subcutaneous pumps from 1978 onward."
+        },
+        {
+          "citation": "Pickup JC, Keen H, Parsons JA, Alberti KG. Continuous subcutaneous insulin infusion: an approach to achieving normoglycaemia. BMJ (1978), reviewed in Diabetes Digest.",
+          "url": "https://diabetesonthenet.com/wp-content/uploads/dd14-1-8-12.pdf",
+          "kind": "journal",
+          "supports": "Twelve patients used a CSII device at Guy's Hospital over 3–4 days; small battery-driven syringe pump; basal rate increased before meals; first attempt to move from bulky intravenous inpatient systems to a portable device."
+        },
+        {
+          "citation": "Insulin pump (StatPearls). NCBI Bookshelf NBK555961.",
+          "url": "https://ncbi.nlm.nih.gov/books/NBK555961",
+          "kind": "book",
+          "supports": "First insulin pump about the size of a backpack; first commercial pump in 1976, the AutoSyringe, designed by Kamen."
+        },
+        {
+          "citation": "Professor John Pickup interview. DESANG.",
+          "url": "https://desang.net/?p=8617",
+          "kind": "institution",
+          "supports": "CSII was Harry Keen's idea; Pickup part of the first trial of a portable insulin pump; the pump is now in the Science Museum, London."
+        }
+      ],
+      "related": [
+        "insulin-toronto",
+        "artificial-pancreas-hybrid-loop"
+      ]
+    },
+    {
+      "id": "excimer-laser-eye-surgery",
+      "title": "Excimer lasers reshape the cornea: PRK and LASIK",
+      "summary": "After IBM scientists showed in the early 1980s that an ultraviolet excimer laser could remove tissue precisely, Stephen Trokel proposed using it to reshape the cornea in 1983. Laser vision correction followed: PRK on patients from 1987–88 and LASIK, developed by Ioannis Pallikaris on Crete, from 1989–90.",
+      "explanation": "At IBM's Watson Research Center in Yorktown Heights, Rangaswamy Srinivasan, Samuel Blum and James Wynne found that excimer laser pulses could etch tissue with almost no heat damage. The New York ophthalmologist Stephen Trokel collaborated with them in 1983, experimenting on cow eyes and publishing the idea of sculpting the cornea to correct short sight.\n\nTheo Seiler in Germany began excimer procedures on human eyes in 1987, and in 1988 Marguerite McDonald in the United States performed the first PRK, which removes the surface layer of the cornea, on a sighted short-sighted eye. Pallikaris's team at the University of Crete combined the laser with a hinged corneal flap, performing the first LASIK on a blind human eye in 1989. LASIK became the most common refractive operation.",
+      "date": {
+        "start": 1983,
+        "end": 1990,
+        "display": "1983–1990",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Trokel's paper in December 1983; first human excimer procedures in 1987–88; first LASIK in 1989–90."
+      },
+      "type": "invention",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [],
+      "themes": [
+        "devices",
+        "ophthalmology",
+        "physics in medicine"
+      ],
+      "locations": [
+        {
+          "name": "IBM Thomas J. Watson Research Center, Yorktown Heights",
+          "modern": "Yorktown Heights, New York, USA",
+          "lat": 41.21,
+          "lon": -73.8,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Excimer laser tissue ablation and Trokel's experiments"
+        },
+        {
+          "name": "University of Crete, Heraklion",
+          "modern": "Heraklion, Crete, Greece",
+          "lat": 35.31,
+          "lon": 25.08,
+          "radiusKm": 10,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Development of LASIK"
+        }
+      ],
+      "people": [
+        {
+          "name": "Rangaswamy Srinivasan",
+          "role": "Photochemist, IBM"
+        },
+        {
+          "name": "Stephen Trokel",
+          "role": "Ophthalmologist"
+        },
+        {
+          "name": "Theo Seiler",
+          "role": "Ophthalmologist"
+        },
+        {
+          "name": "Marguerite McDonald",
+          "role": "Ophthalmologist"
+        },
+        {
+          "name": "Ioannis Pallikaris",
+          "role": "Ophthalmologist, University of Crete"
+        }
+      ],
+      "whatChanged": "Short sight and other refractive errors could be corrected permanently by reshaping the cornea with a laser.",
+      "whyItMattered": "Laser vision correction became one of the most common elective operations, freeing many people from glasses or contact lenses.",
+      "limitations": [
+        "Early PRK for high myopia often caused corneal haze and regression.",
+        "Gholam Peyman patented the LASIK concept in 1989, and priority for the procedure is shared among several surgeons."
+      ],
+      "sources": [
+        {
+          "citation": "LaserVision. History of refractive surgery.",
+          "url": "https://www.laservision.co.uk/history-refractive-surgery",
+          "kind": "institution",
+          "supports": "Blum, Srinivasan and Wynne at IBM's Watson Research Center, Yorktown; Trokel, Srinivasan and Braren's paper on sculpting the cornea."
+        },
+        {
+          "citation": "LaserVision. Trokel first used the excimer laser on the cornea.",
+          "url": "https://laservision.co.uk/?p=3506",
+          "kind": "institution",
+          "supports": "Trokel of Columbia Presbyterian collaborated at the Watson Research Center in summer 1983; paper in December 1983; first laser surgery on a patient's eyes in 1987."
+        },
+        {
+          "citation": "Pallikaris IG, et al. Development of LASIK. CRST Europe (September 2007).",
+          "url": "https://crstodayeurope.com/crste-issues/2007-sep/0907_16-php/45808/",
+          "kind": "journal",
+          "supports": "Trokel's group introduced PRK in 1983; PRK for high myopia often caused haze and regression; Pallikaris group designed LASIK in 1988 at the University of Crete; first LASIK on a blind human eye in June 1989."
+        },
+        {
+          "citation": "A look at LASIK: past, present and future. EyeNet (American Academy of Ophthalmology), 2009.",
+          "url": "https://aao.org/eyenet/article/look-at-lasik-past-present-future?june-2009",
+          "kind": "institution",
+          "supports": "Pallikaris performed the first LASIK one year after Peyman's patent; McDonald performed the first PRK on a live myopic eye in 1988, a year after Seiler's first excimer procedure on a cadaver eye; Trokel and Srinivasan's 1983 cow-eye experiments."
+        }
+      ],
+      "related": [
+        "bath-laserphaco"
+      ]
+    },
+    {
+      "id": "liposuction",
+      "title": "Liposuction is developed in Rome and Paris",
+      "summary": "In the mid-1970s the Italian father-and-son surgeons Arpad and Giorgio Fischer in Rome developed blunt hollow cannulas and suction to remove fat. In 1977 Yves-Gérard Illouz in Paris introduced the safer 'wet' technique, and liposuction became one of the most common cosmetic operations.",
+      "explanation": "The Fischers used a blunt tunnelling technique with suction, initially on the outer thighs, though some patients developed fluid leaks. Illouz and Pierre Fournier in Paris refined and popularised the method: Illouz's wet technique injected a salt solution into the fat before suction, reducing bleeding.\n\nBy 1987 the American dermatologist Jeffrey Klein had introduced the tumescent technique, a further refinement that became widely used.",
+      "date": {
+        "start": 1974,
+        "end": 1977,
+        "display": "1974–1977",
+        "kind": "span",
+        "approximate": true,
+        "precision": "year",
+        "basis": "Sources date the Fischers' technique to 1974, 1975 or 1976; Illouz's wet technique to 1977."
+      },
+      "type": "invention",
+      "evidence": [
+        "published-report"
+      ],
+      "category": "surgery",
+      "tags": [],
+      "themes": [
+        "cosmetic surgery"
+      ],
+      "locations": [
+        {
+          "name": "Rome",
+          "modern": "Rome, Italy",
+          "lat": 41.9,
+          "lon": 12.5,
+          "radiusKm": 15,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "The Fischers' suction technique"
+        },
+        {
+          "name": "Paris",
+          "modern": "Paris, France",
+          "lat": 48.86,
+          "lon": 2.35,
+          "radiusKm": 15,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Illouz's wet technique"
+        }
+      ],
+      "people": [
+        {
+          "name": "Arpad and Giorgio Fischer",
+          "role": "Surgeons, Rome"
+        },
+        {
+          "name": "Yves-Gérard Illouz",
+          "role": "Surgeon, Paris"
+        },
+        {
+          "name": "Pierre Fournier",
+          "role": "Surgeon, Paris"
+        },
+        {
+          "name": "Jeffrey Klein",
+          "role": "Dermatologist; tumescent technique"
+        }
+      ],
+      "whatChanged": "Fat could be removed through small incisions rather than by open surgery with large scars.",
+      "whyItMattered": "Liposuction became one of the most frequently performed cosmetic procedures, with uses also in reconstructive surgery and fat grafting.",
+      "limitations": [
+        "Sources give 1974, 1975 or 1976 for the Fischers' first technique.",
+        "Early operations caused bleeding and other complications; safety improved only with later refinements."
+      ],
+      "sources": [
+        {
+          "citation": "Liposuction: history, techniques and complications (review). PubMed Central, PMC5681335.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5681335",
+          "kind": "journal",
+          "supports": "Arpad and Giorgio Fischer developed the modern technique in 1975; Illouz and Fournier modified and popularised it; Illouz's 1977 equipment and wet technique."
+        },
+        {
+          "citation": "Liposuction: overview (history section). Cleveland Clinic Journal of Medicine 87(6):367 (2020).",
+          "url": "https://www.ccjm.org/content/87/6/367",
+          "kind": "journal",
+          "supports": "Illouz's wet technique of 1977 reduced haemorrhagic risk; Fournier's syringe technique of 1983; Klein's tumescent technique by 1987."
+        },
+        {
+          "citation": "Liposuction overview (abstract). Cleveland Clinic Journal of Medicine.",
+          "url": "https://www.ccjm.org/node/10133",
+          "kind": "journal",
+          "supports": "Modern liposuction began in 1975 when the Fischers used blunt hollow cannulas and suction on the outer thighs; patients experienced lymphorrhoea."
+        },
+        {
+          "citation": "Chittoria RK, Singh BK. History of liposuction for body contouring. CosmoDerma 2:110 (2022).",
+          "url": "https://cosmoderma.org/history-of-liposuction-for-body-contouring/",
+          "kind": "journal",
+          "supports": "Blunt tunnelling technique created in 1974 by Arpad and Giorgio Fischer in Rome; Illouz's method brought wide acceptance."
+        }
+      ],
+      "related": []
+    },
+    {
+      "id": "tissue-engineering",
+      "title": "Tissue engineering: growing tissue on biodegradable scaffolds",
+      "summary": "From the mid-1980s the surgeon Joseph Vacanti of Boston Children's Hospital and the engineer Robert Langer of MIT seeded cells onto biodegradable polymer scaffolds and implanted them in animals. Their 1993 review in Science named and defined the field of tissue engineering.",
+      "explanation": "Organ transplantation was limited by the shortage of donors. Vacanti and Langer reasoned that cells could be grown on artificial scaffolds that the body would gradually absorb, forming new tissue. In a 1988 paper they reported attaching liver, intestinal and pancreatic cells to bioerodable polymers and implanting the cell–polymer scaffolds in animals.\n\nThe term 'tissue engineering' was formally defined at a US National Science Foundation meeting in 1987. Langer and Vacanti's 1993 review in Science brought the concept to a wide audience and framed most later work in the field.",
+      "date": {
+        "start": 1987,
+        "end": 1993,
+        "display": "1987–1993",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Term defined in 1987; key scaffold paper in 1988; Science review on 14 May 1993."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "surgery"
+      ],
+      "themes": [
+        "regenerative medicine",
+        "biomaterials"
+      ],
+      "locations": [
+        {
+          "name": "Boston Children's Hospital",
+          "modern": "Boston, Massachusetts, USA",
+          "lat": 42.34,
+          "lon": -71.11,
+          "radiusKm": 3,
+          "precision": "site",
+          "type": "discovery-site",
+          "role": "Vacanti's surgical research"
+        },
+        {
+          "name": "Massachusetts Institute of Technology",
+          "modern": "Cambridge, Massachusetts, USA",
+          "lat": 42.36,
+          "lon": -71.09,
+          "radiusKm": 3,
+          "precision": "site",
+          "type": "discovery-site",
+          "role": "Langer's polymer research"
+        }
+      ],
+      "people": [
+        {
+          "name": "Joseph Vacanti",
+          "role": "Paediatric and transplant surgeon"
+        },
+        {
+          "name": "Robert Langer",
+          "role": "Chemical engineer, MIT"
+        }
+      ],
+      "whatChanged": "Scientists gained a general approach to building living tissue from cells and absorbable scaffolds.",
+      "whyItMattered": "Tissue engineering has produced skin substitutes and engineered tissues in clinical use and underlies research into lab-grown organs.",
+      "limitations": [
+        "Others, including Eugene Bell and Yuan-Cheng Fung, also shaped the early field.",
+        "Engineering complex, thick organs with a blood supply remains largely unsolved."
+      ],
+      "sources": [
+        {
+          "citation": "Langer R, Vacanti J. Advances in tissue engineering. J Pediatr Surg (2016), PubMed Central PMC4733916.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4733916",
+          "kind": "journal",
+          "supports": "Their paper 'Selective cell transplantation using bioabsorbable artificial polymers as matrices' described cell–polymer scaffolds implanted in animals; hepatocytes, intestinal cells and islets; 1993 Science paper 'Tissue engineering'."
+        },
+        {
+          "citation": "National Science Foundation. The emergence of tissue engineering as a research field (2004).",
+          "url": "https://nsf.gov/pubs/2004/nsf0450/emergence.htm",
+          "kind": "institution",
+          "supports": "Concept surfaced at NSF in 1987; meeting on tissue engineering on 28 October 1987; Langer and Vacanti review in Science on 14 May 1993; rise in publications from 1994."
+        },
+        {
+          "citation": "Abt Associates. Emergence of tissue engineering: final report (for NSF).",
+          "url": "https://corpora.tika.apache.org/base/docs/govdocs1/500/500855.pdf",
+          "kind": "institution",
+          "supports": "1987 Granlibakken conference defined the term; 1993 review introduced it to a wide audience; 1988 Langer/Vacanti paper on resorbable polymer matrices for cell transplantation the most influential."
+        },
+        {
+          "citation": "Harvard Stem Cell Institute. Joseph Vacanti, MD.",
+          "url": "https://hsci.harvard.edu/people/joseph-vacanti-md",
+          "kind": "university",
+          "supports": "Worked with Langer at MIT on tissue-specific cells placed in biodegradable polymer devices; trained at Massachusetts General Hospital and Children's Hospital, Boston."
+        }
+      ],
+      "related": [
+        "artificial-skin",
+        "bioengineered-organs"
+      ]
+    }
+  ],
+  "queue": {
+    "w251": {
+      "status": "added",
+      "atlasId": "cyclosporine",
+      "note": "Wikipedia gives 1970 for its introduction into transplant practice; the immunosuppressive effect was found in 1972 and first clinical use was in 1978."
+    },
+    "w254": {
+      "status": "added",
+      "atlasId": "magnetic-resonance-imaging",
+      "note": "Wikipedia credits MRI to Raymond Damadian alone; Lauterbur and Mansfield received the 2003 Nobel Prize, and priority is disputed."
+    },
+    "w258": {
+      "status": "added",
+      "atlasId": "insulin-pump",
+      "note": "Wikipedia credits Dean Kamen in 1972; earlier systems date from 1963, Kamen's AutoSyringe from 1976, and the key trial of subcutaneous infusion from 1978."
+    },
+    "w259": {
+      "status": "added",
+      "atlasId": "excimer-laser-eye-surgery",
+      "note": "Wikipedia credits LASIK to Mani Lal Bhaumik in 1973. Bhaumik contributed to excimer laser physics; laser eye surgery was developed by Trokel and others from 1983, and LASIK by Pallikaris in 1989–90."
+    },
+    "w260": {
+      "status": "added",
+      "atlasId": "liposuction",
+      "note": ""
+    },
+    "w261": {
+      "status": "added",
+      "atlasId": "positron-emission-tomography",
+      "note": "Wikipedia gives 'first commercial PET scanner, 1976'; the first working PET scanner was described in 1975 in St Louis, and the commercial version was developed afterwards in Los Angeles."
+    },
+    "w263": {
+      "status": "duplicate",
+      "atlasId": "smallpox-eradication",
+      "note": "The 1978 laboratory-acquired death in Birmingham is described in the smallpox eradication entry."
+    },
+    "w264": {
+      "status": "added",
+      "atlasId": "aciclovir-antiviral",
+      "note": ""
+    },
+    "w266": {
+      "status": "added",
+      "atlasId": "magnetic-resonance-imaging",
+      "note": ""
+    },
+    "w267": {
+      "status": "added",
+      "atlasId": "shock-wave-lithotripsy",
+      "note": ""
+    },
+    "w268": {
+      "status": "added",
+      "atlasId": "hepatitis-b-vaccine",
+      "note": "Wikipedia credits Baruch Blumberg with the 1980 vaccine; Blumberg and Millman proposed it, and Merck's vaccine, developed under Hilleman, was approved in 1981."
+    },
+    "w269": {
+      "status": "added",
+      "atlasId": "recombinant-interferon",
+      "note": "Several groups cloned interferon genes in 1980, not Pestka alone."
+    },
+    "w270": {
+      "status": "added",
+      "atlasId": "artificial-skin",
+      "note": ""
+    },
+    "w271": {
+      "status": "added",
+      "atlasId": "heart-lung-transplant",
+      "note": ""
+    },
+    "w272": {
+      "status": "added",
+      "atlasId": "human-insulin-recombinant",
+      "note": "Developed by Genentech and City of Hope and commercialised by Eli Lilly."
+    },
+    "w273": {
+      "status": "added",
+      "atlasId": "jarvik-7-artificial-heart",
+      "note": "Wikipedia credits Willem Kolff with performing the operation; the surgeon was William DeVries, in Kolff's programme."
+    },
+    "w274": {
+      "status": "added",
+      "atlasId": "automated-dna-sequencer",
+      "note": ""
+    },
+    "w275": {
+      "status": "added",
+      "atlasId": "pcr-invention",
+      "note": ""
+    },
+    "w276": {
+      "status": "added",
+      "atlasId": "robot-assisted-surgery",
+      "note": ""
+    },
+    "w277": {
+      "status": "added",
+      "atlasId": "dna-fingerprinting",
+      "note": ""
+    },
+    "w279": {
+      "status": "added",
+      "atlasId": "fluoxetine-prozac",
+      "note": "Wikipedia gives 1986; the FDA approved fluoxetine in December 1987."
+    },
+    "w280": {
+      "status": "added",
+      "atlasId": "statins",
+      "note": "The statin story begins with Akira Endo's discovery at Sankyo in 1973; Merck's lovastatin was approved in 1987."
+    },
+    "w281": {
+      "status": "added",
+      "atlasId": "tissue-engineering",
+      "note": ""
+    },
+    "w282": {
+      "status": "added",
+      "atlasId": "palmaz-stent",
+      "note": ""
+    },
+    "w283": {
+      "status": "added",
+      "atlasId": "bath-laserphaco",
+      "note": ""
+    },
+    "w284": {
+      "status": "added",
+      "atlasId": "preimplantation-genetic-diagnosis",
+      "note": "Wikipedia gives 1989 (the biopsy method); the first pregnancies were reported in 1990."
+    },
+    "w285": {
+      "status": "added",
+      "atlasId": "dna-microarray",
+      "note": "Wikipedia gives 1989; the key paper was published in 1991."
+    }
+  }
+}

@@ -8,23 +8,15 @@
   "beck-defibrillation"
  ],
  [
-  "fogarty-balloon-catheter",
-  "palmaz-stent"
- ],
- [
   "liver-transplant",
   "kidney-transplant-twins"
  ],
  [
-  "liver-transplant",
-  "cyclosporine"
- ],
- [
-  "lung-transplant-hardy",
-  "heart-lung-transplant"
- ],
- [
   "pantridge-mobile-defibrillator",
   "beck-defibrillation"
+ ],
+ [
+  "robot-assisted-surgery",
+  "horsley-clarke-stereotaxy"
  ]
 ]

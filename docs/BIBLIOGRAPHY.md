@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 504 distinct sources across 122 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 610 distinct sources across 147 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -13,6 +13,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pubmed.ncbi.nlm.nih.gov/22510417/>  
   Type: journal.
   - `snellen-eye-chart`: Studied at Utrecht under Donders; assistant from 1858 and later first physician at Donders' eye hospital; published his optotypes in 1862, letters constructed in squares with 5 × 5 subdivisions; professor in 1877; director in 1884.
+
+- 2003 Nobel Prize in Physiology or Medicine: revisionist history? History News Network.  
+  <https://historynewsnetwork.org/article/1789>  
+  Type: journal.
+  - `magnetic-resonance-imaging`: Damadian's results in Science in March 1971; patent applied for in 1972 and granted in 1974; whole-body scanner built at Downstate; Nobel Committee did not name Damadian.
 
 - 3D printed skull implanted into female patient. Eureka Magazine (2014).  
   <https://eurekamagazine.co.uk/content/news/3d-printed-skull-implanted-into-female-patient>  
@@ -49,6 +54,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: 1819 manual coined terms such as rales, egophony and pectoriloquy; correlation with autopsy findings.
 
+- A look at LASIK: past, present and future. EyeNet (American Academy of Ophthalmology), 2009.  
+  <https://aao.org/eyenet/article/look-at-lasik-past-present-future?june-2009>  
+  Type: institution.
+  - `excimer-laser-eye-surgery`: Pallikaris performed the first LASIK one year after Peyman's patent; McDonald performed the first PRK on a live myopic eye in 1988, a year after Seiler's first excimer procedure on a cadaver eye; Trokel and Srinivasan's 1983 cow-eye experiments.
+
 - A new rotavirus vaccine (abstract and commentary on Ruiz-Palacios et al. and Vesikari et al., N Engl J Med 2006). Relias Media.  
   <https://www.reliasmedia.com/articles/122970-a-new-rotavirus-vaccine>  
   Type: journal.
@@ -64,15 +74,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `penicillin`: Norman Heatley, last surviving member of the Oxford team, unveiled the landmark plaque.
 
+- Abt Associates. Emergence of tissue engineering: final report (for NSF).  
+  <https://corpora.tika.apache.org/base/docs/govdocs1/500/500855.pdf>  
+  Type: institution.
+  - `tissue-engineering`: 1987 Granlibakken conference defined the term; 1993 review introduced it to a wide audience; 1988 Langer/Vacanti paper on resorbable polymer matrices for cell transplantation the most influential.
+
 - Achan J, Talisuna AO, Erhart A, et al. Quinine, an old anti-malarial drug in a modern world: role in the treatment of malaria. Malaria Journal 2011;10:144.  
   DOI: [10.1186/1475-2875-10-144](https://doi.org/10.1186/1475-2875-10-144), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3121651/>  
   Type: journal.
   - `cinchona-bark`: Used to treat malaria from the 1600s; names Jesuits' bark, cardinal's bark; use in 1630 by Jesuit missionaries; legend of earlier native use; quinine isolated and named by Pelletier and Caventou in 1820 and then replaced the bark.
 
+- Acyclovir (Zovirax) facts. eMedExpert.  
+  <https://www.emedexpert.com/facts/acyclovir-facts.shtml>  
+  Type: institution.
+  - `aciclovir-antiviral`: Synthesised in 1974 by Howard Schaeffer at Wellcome Research Laboratories; Elion's team studied why it was selective and non-toxic; inert until it meets the herpes virus; kept secret 1974–77; first report in 1977; FDA approval of ointment and injection in 1982.
+
 - Adams AK. Tarnished idol: William Thomas Green Morton and the introduction of surgical anesthesia (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1279690/>  
   Type: journal.
   - `ether-anaesthesia`: Twenty years of dispute between three claimants, none the earliest; Morton patented ether.
+
+- Akira Endo, father of statins, dies. The Hospitalist.  
+  <https://blogs.the-hospitalist.org/index.php/content/akira-endo-father-statins-dies>  
+  Type: journal.
+  - `statins`: Compactin papers in 1976; trials halted over tumour suspicions; Merck's large trials and dog toxicity studies in 1984; lovastatin approved in September 1987.
 
 - Albert Bruce Sabin: the man who made the oral polio vaccine (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8888238/>  
@@ -199,10 +224,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `face-transplants`: Dubernard performed the first modern hand transplant in 1998 and the first face transplant in 2005; transplants in France (Amiens 2005), China (2006), the US and Spain; Barcelona the first full-face transplant, March 2010.
 
+- Artificial skin developed at MIT now ready for treatment with burn patients. MIT News (1996).  
+  <https://news.mit.edu/index%2ephp/1996/artificialskin>  
+  Type: university.
+  - `artificial-skin`: FDA approval in March 1996; collagen from animal tendons bonded with glycosaminoglycan from cartilage.
+
+- Artificial skin ready for patient use. MIT News, 3 April 1996.  
+  <https://news.mit.edu/1996/skin-0403>  
+  Type: university.
+  - `artificial-skin`: Severe burns destroy the dermis, which does not regenerate; collagen–GAG scaffold with controlled pores broken down as cells grow through; reduced scarring compared with autografts.
+
 - Ärzte Zeitung. Erforschung von Morphium und Mumifizierungsmethoden.  
   <https://www.aerztezeitung.de/Panorama/Erforschung-von-Morphium-und-Mumifizierungsmethoden-369072.html>  
   Type: journal.
   - `serturner-morphine`: In 1804, aged 21, as an assistant at the court pharmacy in Paderborn, isolated the sleep-inducing factor of opium; significance recognised only after the expanded 1817 publication.
+
+- Ask A, Eidet JR. Cyclosporine: a review article. University of Oslo (2008).  
+  <https://core.ac.uk/download/30829195.pdf>  
+  Type: university.
+  - `cyclosporine`: Discovery at the Sandoz laboratory in Basel in January 1972; no bone-marrow suppression.
 
 - Assessing the real-world effectiveness of the rVSV-ZEBOV vaccine (comment). Lancet Infectious Diseases 2024.  
   <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00437-7/fulltext>  
@@ -218,6 +258,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://atlasobscura.com/articles/student-life-worlds-first-medical-school-for-women-feminism-health>  
   Type: institution.
   - `women-medical-degrees-us`: WMCP opened in 1850, the first medical college for women; hostility and harassment of its students.
+
+- Automated insulin delivery: from concept to clinic. Nature Medicine (2024).  
+  <https://www.nature.com/articles/d41591-024-00013-5.pdf>  
+  Type: journal.
+  - `insulin-pump`: Kadish described the first wearable insulin delivery system in 1963, 'The Backpack', an impractical proof of concept; commercial wearable subcutaneous pumps from 1978 onward.
 
 - Ban TA. Educational Series 2, Bulletin 9, Vignette 4: The isolation of morphine. International Network for the History of Neuropsychopharmacology (INHN), 15 March 2018.  
   <https://inhn.org/index.php?id=1403>  
@@ -305,6 +350,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `cade-lithium`: Cade's original 1949 report (reprint).
 
+- Calcineurin inhibitors 40 years later: can't live without. Transplantation (review).  
+  <https://typeset.io/pdf/calcineurin-inhibitors-40-years-later-can-t-live-without-gw88nkd8cs.pdf>  
+  Type: journal.
+  - `cyclosporine`: Immunology laboratory at Sandoz, Basel, led by Lazary and later Borel; mouse model developed by Stähelin; Borel and Stähelin described cyclosporine's effect on T lymphocytes in 1976; presentation to the British Society for Immunology in April 1976; dramatic improvement in transplant outcomes.
+
 - Carlo Urbani and SARS (review). Journal of Preventive Medicine and Hygiene.  
   <https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540>  
   Type: journal.
@@ -360,6 +410,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `streptomycin-trial`: Sealed envelopes bearing hospital name and number; concealment of allocation; alternation as the earlier principal method.
 
+- Chance RE, Frank BH. Research, development, production, and safety of biosynthetic human insulin. Diabetes Care 16(Suppl 3):133 (1993).  
+  <https://ada.silverchair.com/care/article-pdf/16/Supplement_3/133/442545/16-3-133.pdf>  
+  Type: journal.
+  - `human-insulin-recombinant`: Humulin the first marketed human health-care product derived from rDNA technology, in 1982; Lilly's contractual arrangement with Genentech.
+
+- Chaussy CG. Legends in Urology. Can J Urol 17(6) (2010).  
+  <https://canjurol.com/html/free-articles/V17I6-02-Legends_Dec10.pdf>  
+  Type: journal.
+  - `shock-wave-lithotripsy`: Dornier physicists' offer to research shock waves on kidney stones; collaboration with Eisenberger and Forssmann; seven years of cell, tissue and animal research; first patient treated on 7 February 1980 with Forssmann and Jocham; visitors to see the Dornier HM1.
+
 - Chávez-Robledo P, et al. Ophthalmology in the Codex De la Cruz-Badiano. Revista Mexicana de Oftalmología 2016.  
   <https://www.elsevier.es/es-revista-revista-mexicana-oftalmologia-321-pdf-download-X0187451916498073>  
   Type: journal.
@@ -370,15 +430,35 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `rotavirus-vaccines`: RotaShield withdrawn in 1999 with attributable risk of 10 per 100,000; RotaTeq licensed in 2006 and Rotarix in 2008.
 
+- Chittoria RK, Singh BK. History of liposuction for body contouring. CosmoDerma 2:110 (2022).  
+  <https://cosmoderma.org/history-of-liposuction-for-body-contouring/>  
+  Type: journal.
+  - `liposuction`: Blunt tunnelling technique created in 1974 by Arpad and Giorgio Fischer in Rome; Illouz's method brought wide acceptance.
+
 - Church News. This Is the Place Heritage Park honors medical career of Ellis Reynolds Shipp with new statue (21 September 2023).  
   <https://www.thechurchnews.com/history/2023/9/21/23882750/this-is-the-place-heritage-park-honors-medical-career-of-ellis-reynolds-shipp-with-new-statue/>  
   Type: institution.
   - `shipp-obstetrics-school-utah`: Graduated in 1878, sent by Brigham Young to help reduce infant and maternal mortality in Utah; school graduated over 500 nurses and midwives; helped create the Deseret Hospital.
 
+- Ciclosporin in solid-organ transplantation (Calne, 1978). The Clinical Times landmarks.  
+  <https://theclinicaltimes.pages.dev/landmarks/1978-ciclosporin-in-solid-organ-transplantation-calne>  
+  Type: journal.
+  - `cyclosporine`: Calne's 1978 Lancet report: cyclosporin A as primary immunosuppression in seven cadaveric kidney transplants controlled rejection in five.
+
 - Cinteza M. The stethoscope at the age of 200 (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC5394493/>  
   Type: journal.
   - `laennec-stethoscope`: Alternative account dating the invention to February 1816.
+
+- Cold Spring Harbor Laboratory DNA Learning Center. Biography 36: Stephen P. A. Fodor.  
+  <https://dnaftb.org/36/bio-4.html>  
+  Type: institution.
+  - `dna-microarray`: Recruited to Affymax Research Institute in Palo Alto in 1989; development of the first DNA GeneChip; 1991 Science paper.
+
+- Commodification of interferon at Roche (Roferon A). History and Philosophy of the Life Sciences (2019).  
+  <https://link.springer.com/article/10.1007/s40656-019-0268-8>  
+  Type: journal.
+  - `recombinant-interferon`: Roche marketed interferon as Roferon A in 1986; cloning of the interferon gene in collaboration with Genentech; development at Roche's Nutley base; role of industry in cancer research.
 
 - Community psychiatry in Nigeria. Psychiatric Bulletin (Cambridge Core).  
   <https://www.cambridge.org/core/journals/psychiatric-bulletin/article/community-psychiatry-in-nigeria/4DD33426DC945821950B7943BB0D6D93>  
@@ -457,6 +537,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: His description seems more theoretical than practical; rest of circulation followed Galen.
 
+- Developments in robotic surgery. UC Irvine BME 240 course materials.  
+  <https://bme240.eng.uci.edu/students/10s/sgupta1/Developments.html>  
+  Type: university.
+  - `robot-assisted-surgery`: Kwoh in 1985 used a PUMA 560 arm to place a needle for a CT-guided brain biopsy; Westinghouse refused to allow surgical use on safety grounds; work ceased.
+
 - Devitt T. Wisconsin scientists culture elusive embryonic stem cells. University of Wisconsin–Madison News, 6 November 1998.  
   <https://news.wisc.edu/?p=2368>  
   Type: university.
@@ -477,6 +562,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bunyoro-caesarean`: Patient aged 21, first pregnancy; banana alcohol used; wound closed with iron spikes; mother and baby followed for 11 days; Bunyoro kingdom.
 
+- DNA sequencing with the Applied Biosystems Model 373A. Springer Protocols.  
+  <https://link.springer.com/protocol/10.1385/0-89603-402-X:425>  
+  Type: book.
+  - `automated-dna-sequencer`: First commercially available fluorescent sequencer, introduced in 1987 as the Model 370A; Ansorge et al. 1987 also reported fluorescent sequencing.
+
 - Doctor or Doctress? Drexel University College of Medicine Legacy Center. The first female medical college.  
   <https://doctordoctress.org/islandora/object/islandora:1496/record/islandora:1691>  
   Type: archive.
@@ -491,6 +581,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11244720/>  
   Type: journal.
   - `ors-oral-rehydration`: ORT in refugee camps during the 1971 war significantly reduced cholera case fatality.
+
+- Dr. Robert Jarvik, inventor of first human artificial heart, dies at 79. HealthDay (2025).  
+  <https://www.powershealth.org/about-us/newsroom/health-library/2025/05/30/dr-robert-jarvik-inventor-of-first-human-artificial-heart-dies-at-79>  
+  Type: journal.
+  - `jarvik-7-artificial-heart`: Jarvik designed the Jarvik-7; Clark never left hospital; later patient William Schroeder survived 620 days.
 
 - Dr. Subhas Mukhopadhyay (1931–1981): a pioneer in the field of reproductive medicine (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11452318/>  
@@ -527,10 +622,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `liang-tebo-amputation`: Reported date range 31,000–30,000 years ago; clean cut through tibia and fibula; excavation in 2020.
 
+- EBSCO Research Starters. Aciclovir (ACV).  
+  <https://ebsco.com/research-starters/health-and-medicine/aciclovir-acv>  
+  Type: institution.
+  - `aciclovir-antiviral`: Discovered in 1974, by this account at Wellcome laboratories near London; FDA approval for herpes infections in 1982; Elion and Hitchings' Nobel Prize.
+
 - EBSCO Research Starters. Birth control pills are tested in Puerto Rico.  
   <https://www.ebsco.com/research-starters/history/birth-control-pills-are-tested-puerto-rico>  
   Type: institution.
   - `oral-contraceptive-pill`: Pincus directed the first large-scale test in Puerto Rico, 1956–57; Edris Rice-Wray's role; some participants experienced side effects.
+
+- EBSCO Research Starters. FDA approves a genetically engineered vaccine for hepatitis B.  
+  <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-genetically-engineered-vaccine-hepatitis-b>  
+  Type: institution.
+  - `hepatitis-b-vaccine`: Recombivax-HB approved in July 1986 as the first vaccine produced by genetic engineering; made in yeast; eliminated concerns about contamination with viruses such as HIV; led by Hilleman.
+
+- EBSCO Research Starters. FDA approves Prozac as an antidepressant.  
+  <https://ebsco.com/research-starters/health-and-medicine/fda-approves-prozac-antidepressant>  
+  Type: institution.
+  - `fluoxetine-prozac`: Approval on 29 December 1987; co-inventors Wong, Fuller, Molloy and Schmiegel; debate about enhancement versus treatment.
+
+- EBSCO Research Starters. FDA approves the first cholesterol-lowering drug.  
+  <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-first-cholesterol-lowering-drug>  
+  Type: institution.
+  - `statins`: Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck.
 
 - EBSCO Research Starters. M. C. Chang.  
   <https://ebsco.com/research-starters/history/m-c-chang>  
@@ -567,6 +682,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `fabrici-venous-valves`: De venarum ostiolis published in Padua in 1603; valves always directed towards the heart; noted before but not described and figured in such detail; Fabricius followed Galen and thought they stopped blood flowing backwards; Harvey in Padua 1598–1602.
 
+- Elster AD. Who invented MRI? MRIquestions.com.  
+  <https://mriquestions.com/who-invented-mri.html>  
+  Type: institution.
+  - `magnetic-resonance-imaging`: Nobel credit to Mansfield and Lauterbur; Damadian built the first full-body human MR scanner; Lauterbur at Stony Brook published the first true MR image in Nature in March 1973; Mansfield's slice selection and first image of a human finger.
+
 - Embryo Project Encyclopedia (Arizona State University Library). Min Chueh Chang, PDF version.  
   <https://keep.lib.asu.edu/system/files/embryo/pdfs/embryo123922.xhtml.pdf>  
   Type: university.
@@ -591,6 +711,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/ian-hector-frazer-1953>  
   Type: university.
   - `hpv-vaccine`: Met Zhou in Cambridge in 1989; Zhou came to Brisbane in 1990; research in 1991 at the University of Queensland.
+
+- Embryo Project Encyclopedia. Polymerase chain reaction (PCR).  
+  <https://embryo.asu.edu/pages/polymerase-chain-reaction-pcr>  
+  Type: university.
+  - `pcr-invention`: Mullis developed the idea in the early 1980s at Cetus Corporation, Emeryville; first study referencing PCR in Science in 1985; Taq polymerase added by Cetus scientists; patent filed 28 March 1985; 1993 Nobel Prize in Chemistry.
 
 - Embryo Project Encyclopedia. Stanley Alan Plotkin (1932– ).  
   <https://embryo.asu.edu/pages/stanley-alan-plotkin-1932>  
@@ -622,6 +747,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `pasteur-spontaneous-generation`: In 1859 Pasteur decided to settle the dispute, believing his germ theory could not be substantiated while spontaneous generation was believed; swan-neck flask kept boiled broth sterile.
 
+- Encyclopaedia Britannica. Patricia Bath.  
+  <https://www.britannica.com/biography/Patricia-Bath>  
+  Type: book.
+  - `bath-laserphaco`: Invented the laserphaco probe for cataract surgery; patented in 1988, the first African American woman physician to receive a US medical patent; advocate for eye care in underserved communities; first woman on the faculty of the Jules Stein Eye Institute.
+
 - Encyclopædia Universalis. Opération Lindbergh.  
   <https://www.universalis.fr/encyclopedie/operation-lindbergh/>  
   Type: book.
@@ -636,6 +766,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://philadelphiaencyclopedia.org/essays/womans-medical-college-of-pennsylvania/>  
   Type: university.
   - `women-medical-degrees-us`: Founded 1850, two years after Seneca Falls; first building at 627 Arch Street; first graduating class included Ann Preston, later the first female dean of a US medical school; first medical school in the world for women authorised to award the MD.
+
+- Endo A and the discovery of statins: 50 years on. PubMed Central, PMC9491398.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC9491398>  
+  Type: journal.
+  - `statins`: Endo joined Sankyo in 1957; inspired by Fleming and moulds; discovery of the first statin.
 
 - Engineering and Technology History Wiki (IEEE History Center). Electrocardiography.  
   <https://www.ethw.org/Electrocardiography>  
@@ -692,6 +827,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `charnley-hip-replacement`: Charnley pioneered cemented hip arthroplasty; unfavourable experience with polytetrafluoroethylene led to high-density polyethylene sockets.
 
+- Extracorporeal shockwave lithotripsy (chapter). Springer.  
+  <https://rd.springer.com/chapter/10.1007/978-3-319-61691-9_11>  
+  Type: book.
+  - `shock-wave-lithotripsy`: Seven years of experimental work before the first patient on 7 February 1980; fragments passed naturally; Chaussy et al. 1976 Urol Res paper on destroying renal calculi without contact.
+
 - Facial transplantation: historical developments and future directions. Journal of Laryngology & Otology (2015).  
   <https://www-cambridge-org.ezproxyberklee.flo.org/core/services/aop-cambridge-core/content/view/C63BC030D52E1C8F013FADEB3A3E24B6/S0022215114003478a.pdf/facial-transplantation-historical-developments-and-future-directions.pdf>  
   Type: journal.
@@ -721,6 +861,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)32618-6/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: Rings of contacts and contacts of contacts vaccinated immediately or delayed 21 days; likely contributed to controlling the 2013–16 outbreak in Guinea.
+
+- Fodor SPA, et al. Light-directed, spatially addressable parallel chemical synthesis. Science 251(4995):767–773 (15 February 1991).  
+  <https://www.scilit.net/publications/a8ca15e5e8aca0f540afde3b61d695ce>  
+  Type: journal.
+  - `dna-microarray`: Solid-phase chemistry, photolabile protecting groups and photolithography combined for light-directed synthesis; high-density arrays; synthesis of a dinucleotide; publication date.
 
 - Fogarty TJ, Cranley JJ, Krause RJ, Strasser ES, Hafner CD. A method for extraction of arterial emboli and thrombi. Surg Gynecol Obstet 116:241–44 (1963). Garrison–Morton entry.  
   <https://www.historyofmedicine.com/author/d/thomas-j-fogarty>  
@@ -782,6 +927,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `harvey-circulation`: Discovery and experimental proof of the circulation of the blood; notes for the 1616 Lumleian lecture show he had completed his demonstration by then.
 
+- Genentech. Cloning insulin (40th anniversary history).  
+  <https://gene.com/40th/cloning-insulin>  
+  Type: institution.
+  - `human-insulin-recombinant`: Eli Lilly needed 56 million animals a year; Lilly signed contracts with competing institutions; team including Crea, Riggs and Itakura.
+
+- Gertrude Belle Elion (1918–1999). Embryo Project Encyclopedia (PDF).  
+  <https://keep.lib.asu.edu/system/files/2024-10/peeliongbea.pdf>  
+  Type: university.
+  - `aciclovir-antiviral`: Before acyclovir there were no effective antiviral treatments for oral and genital herpes.
+
 - Global mental health and psychiatric institutions in the 21st century. Epidemiology and Psychiatric Sciences (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6998654/>  
   Type: journal.
@@ -838,6 +993,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `hahnemann-homeopathy`: Spread to over 30 countries by the late 1800s; at its peak 22 homeopathic medical schools and over 100 homeopathic hospitals in the US; continued popularity in Europe and India.
 
+- Handyside AH, Kontogianni EH, Hardy K, Winston RML. Pregnancies from biopsied human preimplantation embryos sexed by Y-specific DNA amplification. Nature 344:768–770 (1990).  
+  DOI: [10.1038/344768a0](https://doi.org/10.1038/344768a0), <https://pubmed.ncbi.nlm.nih.gov/2330030/>  
+  Type: journal.
+  - `preimplantation-genetic-diagnosis`: Biopsy of a single cell at the six- to eight-cell stage; sexing by amplification of a Y-specific repeat; female embryos transferred; five couples at risk of X-linked disease; first established pregnancies.
+  - `preimplantation-genetic-diagnosis`: Both women confirmed as carrying normal female twins; earlier 1989 Lancet paper on biopsy and sexing.
+
 - Harappa.com (J. M. Kenoyer and colleagues). Mohenjo-daro street with drains.  
   <https://www.harappa.com/blog/mohenjo-daro-street-drains>  
   Type: university.
@@ -852,6 +1013,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.harappa.com/blog/mohenjo-daro-great-bath-diagram>  
   Type: university.
   - `mohenjo-daro-drainage`: Great Bath's waste water carried off through a covered drain.
+
+- Harvard Stem Cell Institute. Joseph Vacanti, MD.  
+  <https://hsci.harvard.edu/people/joseph-vacanti-md>  
+  Type: university.
+  - `tissue-engineering`: Worked with Langer at MIT on tissue-specific cells placed in biodegradable polymer devices; trained at Massachusetts General Hospital and Children's Hospital, Boston.
 
 - Harvard Virology PhD Program. From moon shot to arm shot: the story of the measles vaccine (2026).  
   <https://virologyphd.hms.harvard.edu/news/2026/08/moon-shot-arm-shot-story-measles-vaccine>  
@@ -903,6 +1069,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hepatitis-a-vaccines`: First licensed inactivated vaccine Havrix (GSK Biologicals, Rixensart, Belgium) developed in early 1992; first live attenuated H2-strain vaccine licensed in China in 1992; more than 7,000 deaths worldwide in 2016.
 
+- Hepatitis B Foundation. History of hepatitis B vaccine.  
+  <https://hepb.org/prevention-and-diagnosis/vaccination/history-of-hepatitis-b-vaccine>  
+  Type: institution.
+  - `hepatitis-b-vaccine`: First anti-cancer vaccine because it helps prevent liver cancer; virus discovered in 1965 by Blumberg; FDA approval of a plasma-derived vaccine in 1981.
+
+- Hepatitis B: changing recommendations and historical background. PoultryMed (2025).  
+  <https://www.poultrymed.com/news_49024>  
+  Type: journal.
+  - `hepatitis-b-vaccine`: 1969 patent by the Institute for Cancer Research; licensing to Merck, where Hilleman led the project; Blumberg's 1976 Nobel Prize; FDA approval in 1981.
+
+- Heroes of progress, pt. 47: Damadian, Lauterbur and Mansfield. HumanProgress.  
+  <https://humanprogress.org/heroes-of-progress-pt-47-damadian-lauterbur-and-mansfield/>  
+  Type: institution.
+  - `magnetic-resonance-imaging`: Damadian's 1971 Science article; first human MRI scan with 'Indomitable' on 3 July 1977; Lauterbur's first image of water in a test tube in 1973.
+
+- Highfield R. Ole: the brain surgeon with a difference. The Press (Christchurch), 6 December 1985, Papers Past.  
+  <https://paperspast.natlib.govt.nz/newspapers/CHP19851206.2.101>  
+  Type: archive.
+  - `robot-assisted-surgery`: Robot at Memorial Medical Centre, Long Beach; PUMA arm made by Unimation controlled by a minicomputer; CT images used to calculate the trajectory; used in seven operations since April; led by Kwoh, director of tomography research.
+
 - Highlights of historical events leading to national surveillance of vaccination coverage in the United States. Public Health Reports (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3113425/>  
   Type: journal.
@@ -923,10 +1109,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `cochlear-implant`: 1961 House and Doyle perform first true cochlear implants; 1964 Simmons multichannel implant; 1967 House and Urban induction coil; 1976–77 NIH Bilger report; 1984 FDA approves the 3M/House single-channel device for adults.
 
+- History of polymerase chain reaction (PCR). News-Medical.  
+  <https://www.news-medical.net/life-sciences/History-of-Polymerase-Chain-Reaction-%28PCR%29.aspx>  
+  Type: journal.
+  - `pcr-invention`: History marred by controversies and counterclaims; Taq polymerase isolated by Stoffel and Gelfand at Cetus in 1985; Saiki's experiments; patent for PCR with Taq issued in 1990.
+
 - History of the cochlear implant. ENTtoday (April 2013).  
   <https://www.enttoday.org/?p=12995>  
   Type: journal.
   - `cochlear-implant`: 1960–61 House and Doyle implant three patients in Los Angeles; 1972 first wearable device; multichannel work in Paris from 1973.
+
+- History of the hepatitis B vaccine development (review). Vaccines 12(4):439 (2024).  
+  <https://www.mdpi.com/2076-393x/12/4/439>  
+  Type: journal.
+  - `hepatitis-b-vaccine`: Blumberg and Millman proposed a plasma-derived vaccine in 1969; Purcell and Gerin (NIAID), Hilleman (Merck) and Maupas (Tours) independently purified HBsAg; Heptavax-B approved by the FDA in 1981; production challenges; considered one of the first anti-cancer vaccines.
 
 - History of Vaccines (College of Physicians of Philadelphia). Maurice Hilleman timeline.  
   <https://historyofvaccines.org/history/maurice-hilleman-phd/timeline/>  
@@ -1058,6 +1254,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pasteur-spontaneous-generation`: Spontaneous generation widely accepted; swan-necked flasks boiled, dust and germs deposited on the bend, liquid unaltered; struggle with Pouchet and the 1862 paper; microbes omnipresent and some responsible for diseases.
 
+- Insulin pump (StatPearls). NCBI Bookshelf NBK555961.  
+  <https://ncbi.nlm.nih.gov/books/NBK555961>  
+  Type: book.
+  - `insulin-pump`: First insulin pump about the size of a backpack; first commercial pump in 1976, the AutoSyringe, designed by Kamen.
+
+- Interferon meeting report. Nature Biotechnology 1(6):480 (1983).  
+  <https://www.nature.com/articles/nbt0883-480.pdf>  
+  Type: journal.
+  - `recombinant-interferon`: In 1980 Weissmann and collaborators first achieved expression of an interferon gene in E. coli, marking the beginning of the industrial era; Pestka at the Roche Institute.
+
 - Interim results from a phase 3 Ebola vaccine study in Guinea (comment). Lancet 2015.  
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00002-1/fulltext>  
   Type: journal.
@@ -1098,6 +1304,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lind-scurvy-trial`: The Treatise's therapeutic recommendations had little impact.
 
+- Jamieson N. In memoriam Sir Roy Yorke Calne. Transplant International 37:12692 (2024).  
+  DOI: [10.3389/ti.2024.12692](https://doi.org/10.3389/ti.2024.12692), <https://pmc.ncbi.nlm.nih.gov/articles/PMC10922001>  
+  Type: journal.
+  - `cyclosporine`: David White came across cyclosporin A, not felt by Sandoz to have practical use; first use in human transplantation in Cambridge in 1978; step change in kidney transplant outcomes and renewed interest in other organs.
+
+- Jeffreys AJ. Genetic fingerprinting. Nature Medicine 11(10) (2005), Lasker Award commentary.  
+  <https://laskerfoundation.org/wp-content/uploads/2021/01/2005_jeffreys.pdf>  
+  Type: journal.
+  - `dna-fingerprinting`: Minisatellites and a shared core sequence; accidental discovery of a method with potential for individual identification.
+
 - Jenner's legacy: how Edward Jenner's smallpox vaccine changed public health (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11450354/>  
   Type: journal.
@@ -1113,6 +1329,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3744349/>  
   Type: journal.
   - `lister-antisepsis`: First published account in a series of Lancet articles in spring 1867, beginning with Greenlees and three other patients.
+
+- Julio Cesar Palmaz, Hispanic Heritage Month honoree. North Channel Star (2023).  
+  <https://www.northchannelstar.com/2023/09/9237/>  
+  Type: journal.
+  - `palmaz-stent`: Joined the University of Texas Health Science Center at San Antonio in 1983; co-development with Richard Schatz; stent technology patented in 1985.
 
 - Jundi-Shapur, bimaristans, and the rise of academic medical centres. Journal of the Royal Society of Medicine (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/>  
@@ -1139,6 +1360,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `ghrelin-discovered`: Discovery in 1999 from rat stomach; roles in feeding, energy metabolism and the cardiovascular system; clinical trials in heart failure.
 
+- Kentake Page. Patricia E. Bath.  
+  <https://www.kentakepage.com/?p=18326>  
+  Type: institution.
+  - `bath-laserphaco`: Co-founded the American Institute for the Prevention of Blindness; first woman faculty member at the Jules Stein Eye Institute in 1974.
+
 - Keys TE. Historical vignettes: Sir Humphry Davy. Anesthesia and Analgesia: Current Researches 1972;51(2):187 (University of Pittsburgh digital collection).  
   <https://dec.hsls.pitt.edu/files/original/c01e4cba408723bfc4134e90982d4a8b2e4d02ea.pdf>  
   Type: journal.
@@ -1149,6 +1375,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `liver-transplant`: World's first liver transplant in 1963 and first successful liver transplant in 1967, both at the University of Colorado.
 
+- King's College London. The history of NMR (e-learning module).  
+  <https://ehealth.kcl.ac.uk/tel/Nuclear-Medicine/magnetic-resonance-imaging_v1/03_history-nmr.html>  
+  Type: university.
+  - `magnetic-resonance-imaging`: 1971 Damadian found NMR differences between normal and cancerous rat tissue; patent for a body scanner; 1973 Lauterbur's gradient method in Nature; 1974 Mansfield at Nottingham produced images of a finger; the Nobel controversy.
+
 - Kinyanda E. Psychiatric rehabilitation today: an African perspective. World Psychiatry (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1636120>  
   Type: journal.
@@ -1158,6 +1389,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1038/45230](https://doi.org/10.1038/45230), <https://ideas.repec.org/a/nat/nature/v402y1999i6762d10.1038_45230.html>  
   Type: journal.
   - `ghrelin-discovered`: Purification from rat stomach of an endogenous ligand for GHS-R; 28-amino-acid peptide; authors' affiliation at the National Cardiovascular Center Research Institute, Suita.
+
+- Kossakovski F. The eccentric scientist behind the gold standard COVID-19 test. National Geographic (2021).  
+  <https://www.nationalgeographic.com/science/article/the-eccentric-scientist-behind-the-gold-standard-covid-19-pcr-test>  
+  Type: journal.
+  - `pcr-invention`: Mullis conceived PCR while driving in 1983; returned to Cetus; Scharf, Faloona and Saiki produced replicable data; White's view that Mullis disparaged colleagues and the Nobel story; PCR as the basis of COVID-19 testing.
 
 - Kotler DL. Dr. Seishu Hanaoka (1760–1835): surgeon, pharmacist, and anesthesiologist. Gibbon Society Historical Profiles, Thomas Jefferson University, 2014.  
   <https://core.ac.uk/download/129189266.pdf>  
@@ -1174,10 +1410,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: Trained in Damascus; wrote the commentary at about 29 years of age.
 
+- Langer R, Vacanti J. Advances in tissue engineering. J Pediatr Surg (2016), PubMed Central PMC4733916.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC4733916>  
+  Type: journal.
+  - `tissue-engineering`: Their paper 'Selective cell transplantation using bioabsorbable artificial polymers as matrices' described cell–polymer scaffolds implanted in animals; hepatocytes, intestinal cells and islets; 1993 Science paper 'Tissue engineering'.
+
 - Lankford KD. More than a way station: field trials of oral contraceptives and IUDs in Puerto Rico, 1956–1966. PhD dissertation, Michigan State University.  
   <https://d.lib.msu.edu/etd/50172/OBJ/download>  
   Type: university.
   - `oral-contraceptive-pill`: Largest trials of Enovid occurred in Río Piedras; trials as part of broader population-control history.
+
+- LaserVision. History of refractive surgery.  
+  <https://www.laservision.co.uk/history-refractive-surgery>  
+  Type: institution.
+  - `excimer-laser-eye-surgery`: Blum, Srinivasan and Wynne at IBM's Watson Research Center, Yorktown; Trokel, Srinivasan and Braren's paper on sculpting the cornea.
+
+- LaserVision. Trokel first used the excimer laser on the cornea.  
+  <https://laservision.co.uk/?p=3506>  
+  Type: institution.
+  - `excimer-laser-eye-surgery`: Trokel of Columbia Presbyterian collaborated at the Watson Research Center in summer 1983; paper in December 1983; first laser surgery on a patient's eyes in 1987.
+
+- Lasker Foundation. 2008 Lasker–DeBakey Clinical Medical Research Award: Akira Endo.  
+  <https://laskerfoundation.org/winners/statins-for-lowering-ldl-and-decreasing-heart-attacks/>  
+  Type: institution.
+  - `statins`: Discovery of the statins; Endo and Yamamoto gave compactin to patients with very high LDL cholesterol; Merck under Alberts independently identified lovastatin; first statin approved for medical use.
 
 - Laveran and the French Academy of Medicine. Article in PubMed Central.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10387297/>  
@@ -1198,6 +1454,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.jameslindlibrary.org/articles/william-withering-1741-1799-a-biographical-sketch-of-a-birmingham-lunatic/>  
   Type: journal.
   - `withering-foxglove`: Joined Birmingham General Hospital in 1775; Shropshire wise woman's remedy of at least 20 herbs, active herb the foxglove; dried leaf more effective; 163 patients; side effects including green/yellow vision; uncertain mechanism; later misuse.
+
+- Lemelson-MIT Program. Julio Palmaz: balloon expandable stent.  
+  <https://lemelson.mit.edu/resources/julio-palmaz>  
+  Type: university.
+  - `palmaz-stent`: Inspired in 1978 by Gruentzig's presentation; Johnson & Johnson investment; approval for peripheral arteries in 1991 and coronary arteries in 1994.
+
+- Lemelson-MIT Program. Sir Alec Jeffreys.  
+  <https://lemelson.mit.edu/resources/sir-jefferys>  
+  Type: university.
+  - `dna-fingerprinting`: Discovery on the morning of 10 September 1984 at Leicester; mini-satellites varied between individuals; four-part series in Nature in 1985; first used in an immigration case involving a Ghanaian boy.
+
+- Leroy Hood and Lloyd Smith develop the first semi-automatic DNA sequencer. HistoryofInformation.com.  
+  <https://historyofinformation.com/detail.php?id=1004>  
+  Type: book.
+  - `automated-dna-sequencer`: Caltech, 1986; laser detection of fluorescent markers; Hood a founder of Applied Biosystems; improved the Sanger method and replaced radioactive labels.
 
 - Lessons to be learned from the oldest community psychiatric service in the world: Geel in Belgium. BJPsych Bulletin (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4967781/>  
@@ -1253,6 +1524,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1038/36023](https://doi.org/10.1038/36023), <https://www.nature.com/articles/36023>  
   Type: journal.
   - `european-trepanation`: Vasilyevka II location (Dnieper Rapids, c. 400 km south-east of Kyiv), calibrated dates 7300–6220 BCE, complete closure of the aperture; Ensisheim dated to 5100 BCE.
+
+- Liposuction overview (abstract). Cleveland Clinic Journal of Medicine.  
+  <https://www.ccjm.org/node/10133>  
+  Type: journal.
+  - `liposuction`: Modern liposuction began in 1975 when the Fischers used blunt hollow cannulas and suction on the outer thighs; patients experienced lymphorrhoea.
+
+- Liposuction: history, techniques and complications (review). PubMed Central, PMC5681335.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC5681335>  
+  Type: journal.
+  - `liposuction`: Arpad and Giorgio Fischer developed the modern technique in 1975; Illouz and Fournier modified and popularised it; Illouz's 1977 equipment and wet technique.
+
+- Liposuction: overview (history section). Cleveland Clinic Journal of Medicine 87(6):367 (2020).  
+  <https://www.ccjm.org/content/87/6/367>  
+  Type: journal.
+  - `liposuction`: Illouz's wet technique of 1977 reduced haemorrhagic risk; Fournier's syringe technique of 1983; Klein's tumescent technique by 1987.
 
 - Live Science. The Incas mastered the grisly practice of drilling holes in people's skulls (2018).  
   <https://www.foxnews.com/science/incas-mastered-the-grisly-practice-of-drilling-holes-in-peoples-skulls>  
@@ -1374,6 +1660,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ors-oral-rehydration`: Mahalanabis at the Johns Hopkins centre in Kolkata; drums of oral solution; years of struggle to convince sceptics that untrained people could give it.
 
+- MIT News (1996). Artificial skin, continued.  
+  <https://news.mit.edu/index%2ephp/1996/skin-0403>  
+  Type: university.
+  - `artificial-skin`: Silicone covering; epidermal autograft for large wounds; new dermis lacks sweat glands and hair follicles.
+
 - Moore W. Keeping mum. BMJ (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1839178/>  
   Type: journal.
@@ -1444,10 +1735,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `waller-einthoven-ecg`: Waller first recorded the heart's activity in 1887; Einthoven clarified Waller's results and renamed the points P, Q, R, S and T.
 
+- National Science Foundation. Biotech pioneers: rDNA and insulin.  
+  <https://nsf.gov/impacts/rdna-insulin>  
+  Type: institution.
+  - `human-insulin-recombinant`: Genentech partnered with City of Hope National Medical Center in 1978; Lilly had contracts with two research teams by 1977.
+
+- National Science Foundation. The emergence of tissue engineering as a research field (2004).  
+  <https://nsf.gov/pubs/2004/nsf0450/emergence.htm>  
+  Type: institution.
+  - `tissue-engineering`: Concept surfaced at NSF in 1987; meeting on tissue engineering on 28 October 1987; Langer and Vacanti review in Science on 14 May 1993; rise in publications from 1994.
+
 - Natural products that changed society (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8146924/>  
   Type: journal.
   - `cinchona-bark`: Jesuits sent the first batch to Europe in 1632; varying success with bark; isolation of quinine in 1820 a breakthrough.
+
+- Nature Milestones in DNA technologies: microarrays.  
+  <https://nature.com/articles/miledna16.pdf>  
+  Type: journal.
+  - `dna-microarray`: First description published in 1991 by Fodor and colleagues at the Affymax Research Institute; oligonucleotides synthesised on glass by photolithography; Patrick Brown's 1995 Stanford paper on parallel gene expression monitoring.
 
 - Nature Milestones in Vaccines (2020). Milestone on Pasteur's attenuated vaccines.  
   <https://www.nature.com/articles/d42859-020-00008-5>  
@@ -1469,6 +1775,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/>  
   Type: archive.
   - `edwin-smith-papyrus`: Created about 1600 BCE in hieratic; 48 cases of wounds and trauma in a fixed formula; magical spells on the reverse; held by NYAM.
+
+- New York Times, 25 June 1985 (quoted in Surgical robotics archives).  
+  <https://surgrob.blogspot.com/2020/02/surgical-robotics-archives.html?m=0>  
+  Type: archive.
+  - `robot-assisted-surgery`: Doctors applied pressure on instruments directed by the robot; operations at Long Beach Memorial Medical Center; patients able to go home the next day.
 
 - Newborn care: what we can learn from the kangaroo mother (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4109615/>  
@@ -1494,6 +1805,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.nobelprize.org/prizes/medicine/1907/ceremony-speech/>  
   Type: institution.
   - `laveran-malaria-parasite`: Research began at Bône in 1879; scepticism, including from those seeking a malaria bacillus; recognition by 1889.
+
+- NobelPrize.org. Gertrude B. Elion, Nobel Prize in Physiology or Medicine 1988.  
+  <https://www.nobelprize.org/search/William%20F.%20Sharpe/%22https:/www.nobelprize.org/prizes/medicine/1988/summary/%E2%80%9D>  
+  Type: institution.
+  - `aciclovir-antiviral`: Elion's final major breakthrough was the antiviral drug acyclovir; Nobel Prize 1988 shared with Black and Hitchings.
 
 - NobelPrize.org. Marie and Pierre Curie and the discovery of polonium and radium.  
   <https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/>  
@@ -1540,6 +1856,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `ivf-1978`: Edwards's vision from the 1950s; Louise Brown born at Oldham General Hospital in 1978; around 4 million IVF babies by 2010.
 
+- NobelPrize.org. Women who changed science: Gertrude Elion.  
+  <https://www.nobelprize.org/stories/women-who-changed-science/gertrude-elion/>  
+  Type: institution.
+  - `aciclovir-antiviral`: Elion joined Hitchings at Burroughs Wellcome in 1944; photograph of Elion in the lab at Research Triangle Park, 1972.
+
 - North MJ. Illustrating De Fabrica. Circulating Now, US National Library of Medicine, 2014.  
   <https://circulatingnow.nlm.nih.gov/2014/07/08/illustrating-de-fabrica/>  
   Type: archive.
@@ -1566,10 +1887,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `propranolol-beta-blocker`: Propranolol the first successful beta blocker (Inderal); cimetidine; 1988 Nobel Prize shared with Elion and Hitchings.
 
+- Ohio University. Julio C. Palmaz biography (Russ Prize).  
+  <https://ohio.edu/engineering/node/7916>  
+  Type: university.
+  - `palmaz-stent`: First balloon-expandable stent to receive FDA approval; Palmaz–Schatz coronary stent of 1994 became the gold standard; used in nearly 100 million patients.
+
 - OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).  
   <https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation>  
   Type: university.
   - `pasteur-spontaneous-generation`: Pasteur's swan-neck flasks kept boiled broth sterile while the necks were intact; the experiments disproved spontaneous generation.
+
+- Ophthalmic Innovation Summit. Pioneering ophthalmic innovator Patricia Bath nominated for National Inventors Hall of Fame.  
+  <https://ois.net/?p=18956>  
+  Type: institution.
+  - `bath-laserphaco`: First African American to complete an ophthalmology residency at NYU (1973); invented the Laserphaco Probe in 1986 after nearly five years of research; US Patent 4,744,360 granted in 1988.
 
 - Oral rehydration salts, cholera, and the unfinished urban health agenda (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9143002/>  
@@ -1596,6 +1927,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `icsi-brussels`: 47 eggs injected, 31 fertilised, four pregnancies, four healthy babies; publication date 4 July 1992.
 
+- Pallikaris IG, et al. Development of LASIK. CRST Europe (September 2007).  
+  <https://crstodayeurope.com/crste-issues/2007-sep/0907_16-php/45808/>  
+  Type: journal.
+  - `excimer-laser-eye-surgery`: Trokel's group introduced PRK in 1983; PRK for high myopia often caused haze and regression; Pallikaris group designed LASIK in 1988 at the University of Crete; first LASIK on a blind human eye in June 1989.
+
+- Palmaz J. The advent of stenting (interview). Endovascular Today, November/December 2004.  
+  <https://c4v8.evtoday.com/articles/2004-nov/1104_F5_Palmaz.html>  
+  Type: journal.
+  - `palmaz-stent`: First stent report by Dotter in 1969; by 1984 four stents proposed, three self-expanding and one balloon-expandable; patent in 1985; conception in 1978 and move to San Antonio about five years later.
+
 - Park K, et al. Historical introduction to the field of controlled drug delivery. J Control Release 342:157–159 (2022), lecture slides.  
   <https://hoangson0787.github.io/Presentation/BaoCheCacDangDacBiet/PDF/DDS-history-9-12.pdf>  
   Type: journal.
@@ -1610,6 +1951,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7150278/>  
   Type: journal.
   - `serum-therapy`: Behring and Kitasato working in Koch's laboratory in Berlin; serum could confer immunity and cure sick animals.
+
+- Patricia Bath patented a way to restore sight. GreatPatent.  
+  <https://greatpatent.com/patricia-bath-patented-a-way-to-restore-sight>  
+  Type: institution.
+  - `bath-laserphaco`: US4744360 issued on 17 May 1988; laser pulse to vaporise the cataract; optical system developed in a lab at UCLA; application filed in 1986.
 
 - Pead PJ. The origins of vaccination: history is what you remember. Journal of the Royal Society of Medicine (correspondence).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3883152/>  
@@ -1626,6 +1972,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `penicillin`: Oxford work from 1939; first in vivo demonstration; Pfizer mass production from 1944; Fleming, Florey and Chain shared the 1945 Nobel Prize.
 
+- Pestka S, Krause CD, Walter MR. Interferons, interferon-like cytokines, and their receptors. Immunological Reviews (2004).  
+  <https://insight.jci.org/references/scholar/3878/B31>  
+  Type: journal.
+  - `recombinant-interferon`: Recombinant IFN-α approved by regulators in many countries in 1986; as the first biotherapeutic approved, it paved the way for other cytokines and growth factors.
+
+- PET and CT: a perfect fit. CERN Courier.  
+  <https://cerncourier.com/a/pet-and-ct-a-perfect-fit/>  
+  Type: journal.
+  - `positron-emission-tomography`: Several groups attempted positron scanners in the 1970s; birth of PET still controversial; Ter-Pogossian, Phelps and Hoffman presented their first PET tomograph in 1975.
+
 - Photo quiz: Carlo Urbani. Emerging Infectious Diseases 29(9) (2023).  
   <https://wwwnc.cdc.gov/eid/article/29/9/21-2412_article>  
   Type: journal.
@@ -1635,6 +1991,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://mdedge.com/internalmedicine/article/14223/health-policy/physician-inventors-pioneer-new-devices>  
   Type: journal.
   - `fogarty-balloon-catheter`: Fourth-year student at the University of Cincinnati in 1960; initial scepticism because touching the vessel wall was thought to cause thrombosis; Cranley's mentorship at Good Samaritan Hospital.
+
+- Pickup JC, Keen H, Parsons JA, Alberti KG. Continuous subcutaneous insulin infusion: an approach to achieving normoglycaemia. BMJ (1978), reviewed in Diabetes Digest.  
+  <https://diabetesonthenet.com/wp-content/uploads/dd14-1-8-12.pdf>  
+  Type: journal.
+  - `insulin-pump`: Twelve patients used a CSII device at Guy's Hospital over 3–4 days; small battery-driven syringe pump; basal rate increased before meals; first attempt to move from bulky intravenous inpatient systems to a portable device.
 
 - Pierre-Joseph Desault (1744–1795) and the Hôtel-Dieu. Timočki medicinski glasnik (abstract and PDF).  
   <https://tmg.org.rs/v460306e.htm>  
@@ -1646,6 +2007,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pasteur-attenuated-vaccines`: Public trial at a farm in Pouilly-le-Fort, near Paris, in May 1881.
 
+- Professor John Pickup interview. DESANG.  
+  <https://desang.net/?p=8617>  
+  Type: institution.
+  - `insulin-pump`: CSII was Harry Keen's idea; Pickup part of the first trial of a portable insulin pump; the pump is now in the Science Museum, London.
+
+- Prozac molecule: fluoxetine. World of Molecules.  
+  <https://www.worldofmolecules.com/drugs/prozac.htm>  
+  Type: institution.
+  - `fluoxetine-prozac`: Fluoxetine the fourth SSRI to market, after indalpine, zimelidine and fluvoxamine; Molloy synthesised derivatives; Wong proposed re-testing.
+
 - Psychiatric research in Nigeria: bridging tradition and modernisation. British Journal of Psychiatry (Cambridge Core).  
   <https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/psychiatric-research-in-nigeria-bridging-tradition-and-modernisation/916AA49B6CF7BB6A5BF78C6FD7660CC4>  
   Type: journal.
@@ -1655,6 +2026,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6734844/>  
   Type: journal.
   - `geel-family-care`: The earliest Geel infirmary and the community model date from the 13th century.
+
+- Psychology Today. The story of Prozac (continued).  
+  <https://www.psychologytoday.com/za/blog/freud-fluoxetine/202003/the-story-prozac-psychiatrys-first-ssri>  
+  Type: journal.
+  - `fluoxetine-prozac`: Approved in December 1987; outsold the market leader within months; seen as safer; best-selling antidepressant by 1990; treatment of milder depression.
+
+- Psychology Today. The story of Prozac: a landmark drug in psychiatry (2020).  
+  <https://www.psychologytoday.com/us/blog/from-freud-to-fluoxetine/202003/the-story-of-prozac-a-landmark-drug-in-psychiatry>  
+  Type: journal.
+  - `fluoxetine-prozac`: Lilly sought an antidepressant without the cardiovascular risks of tricyclics; compounds derived from diphenhydramine; Wong's role in screening for serotonin effects.
 
 - Questionable efficacy of the rVSV-ZEBOV Ebola vaccine (correspondence). Lancet 2018.  
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30560-9/fulltext>  
@@ -1675,6 +2056,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.auntminnieeurope.com/clinical-news/article/15646079/recalling-how-fetal-ultrasound-transformed-pregnancy-care>  
   Type: journal.
   - `donald-obstetric-ultrasound`: Donald's visit to Babcock & Wilcox's industrial ultrasound flaw detector; the heavy Diasonograph.
+
+- Reference list including Nagata S et al., Synthesis in E. coli of a polypeptide with human leukocyte interferon activity, Nature 284:310 (1980), and Goeddel D et al., Human leukocyte interferon produced by E. coli is biologically active, Nature 287:411 (1980).  
+  <https://informahealthcare.com/doi/ref/10.3109/07388559009038206>  
+  Type: journal.
+  - `recombinant-interferon`: 1980 papers from Weissmann's group and from Goeddel (Genentech) on bacterial production of human leukocyte interferon.
 
 - Reflections upon 55 years of the first human heart transplant in Brazil (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10987036>  
@@ -1711,6 +2097,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `jenner-cowpox-vaccination`: 14 May 1796 inoculation of 8-year-old James Phipps with material from Nelmes' lesions.
 
+- Riggs AD. Making, cloning, and the expression of human insulin genes in bacteria: the path to Humulin. Endocrine Reviews 42(3):374 (2021).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC8152450>  
+  Type: journal.
+  - `human-insulin-recombinant`: Expression of somatostatin and then human insulin in E. coli in 1978–79; first report in January 1979; work at Genentech and Eli Lilly increased yields; Humulin approved in 1982; before then, cow and pig insulin were used.
+
 - Robert Koch. Emerging Infectious Diseases 2011;17(3) (photo quiz).  
   <https://wwwnc.cdc.gov/eid/article/17/3/10-1881_article>  
   Type: journal.
@@ -1720,6 +2111,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1055/s-0038-1633302](https://doi.org/10.1055/s-0038-1633302), <https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0038-1633302?lang=en>  
   Type: journal.
   - `hahnemann-homeopathy`: Homeopathy Research Institute's criticism of the NHMRC's definition of reliable evidence.
+
+- Robotic neurosurgery: evolution (review). Thieme (2024).  
+  <https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0044-1790606>  
+  Type: journal.
+  - `robot-assisted-surgery`: First practical application of robotics in surgery described in neurosurgery by Kwoh et al. on 11 April 1985; CT-guided brain biopsy.
 
 - Rocha EAV. Fifty years of coronary artery bypass graft surgery. Braz J Cardiovasc Surg (2017).  
   DOI: [10.21470/1678-9741-2017-0104](https://doi.org/10.21470/1678-9741-2017-0104), <https://rbccv.org.br/article/2699/en-US/fifty-years-of-coronary-artery-bypass-graft-surgery>  
@@ -1881,6 +2277,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `jenner-cowpox-vaccination`: History of vaccination dated from the 1798 publication of Jenner's experiments; Jenner the first to study the hypothesis systematically.
 
+- Smith LM, Sanders JZ, Kaiser RJ, et al. Fluorescence detection in automated DNA sequence analysis. Nature 321:674–679 (1986).  
+  DOI: [10.1038/321674a0](https://doi.org/10.1038/321674a0), <https://pubmed.ncbi.nlm.nih.gov/3713851/>  
+  Type: journal.
+  - `automated-dna-sequencer`: Partial automation of DNA sequencing; a different-coloured fluorophore for each base reaction; combined in a single gel tube; sequence acquired directly by computer; June 1986.
+
 - Song JJ, Guyette JP, Gilpin SE, Gonzalez G, Vacanti JP, Ott HC. Regeneration and experimental orthotopic transplantation of a bioengineered kidney. Nat Med 19(5):646–651 (2013).  
   DOI: [10.1038/nm.3154](https://doi.org/10.1038/nm.3154), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3650107>  
   Type: journal.
@@ -1906,10 +2307,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `harvey-circulation`: Calculation of how much blood the heart pumps per hour led Harvey to conclude that blood is circulated, not continually produced; publication delayed until 1628.
 
+- Statin history. News-Medical.  
+  <https://www.news-medical.net/health/Statin-History.aspx>  
+  Type: journal.
+  - `statins`: Compactin from Penicillium citrinum, a competitive inhibitor of HMG-CoA reductase; lowered cholesterol in dogs, rabbits and monkeys; clinical studies in Japan.
+
+- Steakley L. Celebrating the 30-year anniversary of the world's first lung–heart transplant. Stanford Scope (2011), reposted.  
+  <https://mervsheppard.blogspot.com/2011/03/celebrating-30-year-anniversary-of.html>  
+  Type: university.
+  - `heart-lung-transplant`: Four-hour operation on Mary Gohlke, a 45-year-old newspaper executive from Mesa, Arizona; made possible by cyclosporine and prior laboratory research.
+
 - Stiefel M, et al. The Edwin Smith Papyrus: the birth of analytical thinking in medicine and otolaryngology. Laryngoscope 2006 (PubMed record).  
   <https://pubmed.ncbi.nlm.nih.gov/16467701/>  
   Type: journal.
   - `edwin-smith-papyrus`: Discovered in 1862 outside Luxor; a copy of an earlier text; 48 cases, mostly traumatic injuries.
+
+- STORZ MEDICAL. 40 years of ESWL (2020).  
+  <https://www.storzmedical.com/en/news-press/40-years-of-eswl-shock-waves-replaced-open-renal-surgery/>  
+  Type: institution.
+  - `shock-wave-lithotripsy`: First treatment at the Munich University Hospital Grosshadern campus; no other urological innovation after the war spread as rapidly; 1,000 patients by 1984.
 
 - Strategies discussed at the XIIth international conference on kangaroo mother care (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7687100/>  
@@ -1941,6 +2357,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bioengineered-organs`: Liver buds from human iPSCs; vessels connected within 48 hours; rescued a drug-induced lethal liver failure model.
 
+- Taniguchi T, Fujii-Kuriyama Y, Muramatsu M. Molecular cloning of human interferon cDNA. PNAS (1980).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC349756>  
+  Type: journal.
+  - `recombinant-interferon`: Cloning of human fibroblast interferon cDNA by Taniguchi's group.
+
 - Tarrago RE. The Balmis–Salvany smallpox expedition: the first public health vaccination campaign in South America. Pan American Health Organization.  
   <https://www3.paho.org/english/dd/pin/Number11_article6.htm>  
   Type: institution.
@@ -1961,6 +2382,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `jenner-cowpox-vaccination`: Six weeks later, Phipps challenged with smallpox material without developing disease.
 
+- The accidental discovery of DNA fingerprinting. Genetics Unzipped (Genetics Society), 2020.  
+  <https://geneticsunzipped.com/news/2020/3/26/the-accidental-discovery-of-dna-fingerprinting>  
+  Type: institution.
+  - `dna-fingerprinting`: Nature paper of 7 March 1985 by Jeffreys, Wilson and Thein; X-ray film developed at 9.05 am on 10 September 1984; Jeffreys' wife suggested immigration uses.
+
 - The accidental inventor of chest compressions: interview with Guy Knickerbocker. JEMS.  
   <https://www.jems.com/patient-care/cardiac-resuscitation/interview-with-guy-knickerboker/>  
   Type: journal.
@@ -1970,6 +2396,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/advent-cardiopulmonary-resuscitation-cpr>  
   Type: book.
   - `modern-cpr`: Safar's experiments on volunteers from 1956 showed mouth-to-mouth superior to manual methods; published 1958; Kouwenhoven, Knickerbocker and Jude's discovery of the circulation component.
+
+- The automated DNA sequencer. The Scientist.  
+  <https://www.the-scientist.com/feature/the-automated-dna-sequencer-48442>  
+  Type: journal.
+  - `automated-dna-sequencer`: Caltech roots; Hunkapiller brothers' role; four fluorescent dyes allowed one lane per sequence; early machines difficult to use.
 
 - The birth of forceps (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3704058/>  
@@ -2021,6 +2452,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lung-transplant-hardy`: First human lung transplantation on 11 June 1963 at University Hospital, Jackson; 58-year-old John Russell with an obstructive tumour in the left main bronchus died 18 days later of renal failure.
 
+- The first New England stone bath. Urologic History Museum newsletter (2021).  
+  <https://urologichistory.museum/the-scope-of-urology-newsletter/issue-7-fall-2021/the-first-new-england-stone-bath>  
+  Type: museum.
+  - `shock-wave-lithotripsy`: Chaussy treated the first patient in Germany on 7 February 1980; HM3 approved by the FDA in 1984; ureteral fragments ('steinstrasse') required ureteroscopy and laser lithotripsy.
+
+- The first permanent artificial heart. PubMed Central, PMC1860944.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC1860944>  
+  Type: journal.
+  - `jarvik-7-artificial-heart`: First permanent artificial heart implanted on 2 December 1982 by DeVries at the University of Utah; Barney Clark with congestive cardiomyopathy survived 112 days.
+
+- The first successful heart–lung transplantation (excerpt from Stanford Medicine magazine). Market Design blog, 2016.  
+  <https://marketdesigner.blogspot.com/2016/04/the-first-successful-heart-lung.html>  
+  Type: university.
+  - `heart-lung-transplant`: Operation on 9 March 1981; Gohlke had primary pulmonary hypertension; FDA had approved cyclosporin A for heart transplants but not heart–lung patients; she contacted Reitz after reading of his monkey transplants.
+
+- The first working PET scanner (perspective). J Nucl Med 61(Suppl 2):166S (2020).  
+  <https://jnm.snmjournals.org/content/61/Supplement_2/166S>  
+  Type: journal.
+  - `positron-emission-tomography`: Earlier attempts generally unsuccessful because of too few projections; first working PET scanner built by the St Louis group; Radiology 1975 paper.
+
 - The Friend (Church of Jesus Christ of Latter-day Saints), April 1984. Ellis Reynolds Shipp: mother and doctor.  
   <https://lds.org/friend/1984/04/ellis-reynolds-shipp-mother-and-doctor?lang=eng>  
   Type: institution.
@@ -2061,6 +2512,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `semmelweis-handwashing`: Semmelweis did not publish at first; students reported his results; his book appeared in 1861.
 
+- The molecule that changed everything: how insulin rewired drug manufacturing. Investigations Quality.  
+  <https://investigationsquality.com/tag/biologics/>  
+  Type: journal.
+  - `human-insulin-recombinant`: FDA approval of Humulin on 28 October 1982 after five months of review.
+
+- The new insulin. Invention & Technology magazine.  
+  <https://www.inventionandtech.com/node/86059>  
+  Type: journal.
+  - `human-insulin-recombinant`: Genentech combined synthesised genes with E. coli in August 1978; Harvard researchers worked with cloned genes; human insulin never proved more effective than animal insulins but caused fewer allergic reactions.
+
 - The Nobel Assembly at Karolinska Institutet. Avermectin and Artemisinin: revolutionary therapies against parasitic diseases. Scientific background, 2015.  
   <https://www.nobelprize.org/uploads/2018/07/advanced-medicineprize2015.pdf>  
   Type: institution.
@@ -2085,6 +2546,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.nobelprize.org/uploads/2018/06/advanced-medicineprize2008.pdf>  
   Type: institution.
   - `hiv-identified`: 1983 isolation (Science, 1983), named LAV; lymph node cells from patients with lymphadenopathy; Gallo's HTLV-III (1984) and Levy's ARV; named HIV-1 in 1985; blood screening; combination therapy and its limits.
+
+- The origins of preimplantation genetic testing. PET (Progress Educational Trust) BioNews.  
+  <https://www.progress.org.uk/the-origins-of-preimplantation-genetic-testing/>  
+  Type: institution.
+  - `preimplantation-genetic-diagnosis`: Work at Hammersmith Hospital under the clinical leadership of Robert Winston; early applications for couples at risk of X-linked conditions such as Duchenne muscular dystrophy and haemophilia.
 
 - The past, present, and future of immunization in the Americas (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6645178/>  
@@ -2115,6 +2581,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://mobile.the-scientist.com/article/46107/the-rabies-vaccine-backstory>  
   Type: journal.
   - `pasteur-rabies-vaccine`: Preparation given to Meister made by different methods essentially untested in animals; notebooks held by heirs until the 1970s; criticism that Pasteur took risks with children's lives; no control group.
+
+- The state of robotics in neurosurgery. AANS Neurosurgeon.  
+  <https://aansneurosurgeon.org/the-state-of-robotics-in-neurosurgery/>  
+  Type: institution.
+  - `robot-assisted-surgery`: PUMA system considered the predecessor of current surgical robots.
 
 - The Suśruta Project (University of Alberta), project overview.  
   <https://sushrutaproject.org>  
@@ -2156,10 +2627,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `human-embryonic-stem-cells`: Pluripotent cell lines from human blastocysts with normal karyotypes and high telomerase; tissues of all three germ layers; University of Wisconsin affiliations.
 
+- Tinker, tailor. Harvard Medicine magazine (Autumn 2012).  
+  <https://magazine.hms.harvard.edu/articles/tinker-tailor>  
+  Type: university.
+  - `artificial-skin`: Ten severely burned patients treated at Massachusetts General Hospital in spring 1980; Burke, chief of staff at the Shriners Burns Institute, and Yannas, MIT professor; paper on the design of an artificial skin.
+
 - Tognotti E. Lessons from the history of quarantine, from plague to influenza A. Emerging Infectious Diseases 2013;19(2):254–259.  
   DOI: [10.3201/eid1902.120312](https://doi.org/10.3201/eid1902.120312), <https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article>  
   Type: journal.
   - `ragusa-quarantine`: Quarantine first introduced in 1377 in Dubrovnik; first permanent lazaretto opened by Venice in 1423; social and ethical issues.
+
+- Townsend DW, Jones T. (full text). J Nucl Med 61(Suppl 2):42S (2020).  
+  <https://jnm.snmjournals.org/content/jnumed/61/Supplement_2/42S.full-text.print>  
+  Type: journal.
+  - `positron-emission-tomography`: Earlier devices had high dead times and random coincidences; prototype tested on phantoms and a dog; larger human scanner demonstrated quantitative non-invasive measurement of tracer in human tissue for the first time.
+
+- Townsend DW, Jones T. Perspective on 'Application of annihilation coincidence detection to transaxial reconstruction tomography' (J Nucl Med 1975;16:210–224). J Nucl Med 61(Suppl 2):42S (2020).  
+  <https://jnm.snmjournals.org/node/97909>  
+  Type: journal.
+  - `positron-emission-tomography`: Seminal 1975 paper by Phelps, Hoffman, Mullani and Ter-Pogossian from Washington University; a couple of years after CT; individual detectors around a transaxial plane; Phelps and Hoffman later moved to UCLA and built a commercial version.
 
 - Translational Research Institute (Brisbane). Cervical cancer vaccine: Ian Frazer and Jian Zhou.  
   <https://tri.edu.au/node/4597>  
@@ -2190,6 +2676,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_f.html>  
   Type: university.
   - `snow-broad-street`: Snow's own words that the handle was removed the following day; myth about the map's role; errors in later maps.
+
+- UK Kidney Association. The early evolution of kidney transplantation in the United Kingdom (75 years).  
+  <https://www.ukkidney.org/75-years/march>  
+  Type: institution.
+  - `cyclosporine`: Borel's lecture to the British Society of Immunology in April 1976; Calne and White trialled it in animals and persuaded Sandoz to persevere.
 
 - Ulster Transport Museum. The father of emergency medicine.  
   <https://www.ulstertransportmuseum.org/stories/father-emergency-medicine>  
@@ -2286,6 +2777,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: archive.
   - `insulin-toronto`: Dog experiments; 11 January extract lowered blood sugar with little clinical effect; Collip's extract successful on 23 January; Connaught Laboratories.
 
+- University of Utah Health. The first artificial heart, 30 years later (2012).  
+  <https://healthcare.utah.edu/healthfeed/2012/12/first-artificial-heart-30-years-later>  
+  Type: university.
+  - `jarvik-7-artificial-heart`: Jarvik-7 of aluminium and polyurethane connected to a 400-pound air compressor; Clark lived 112 days and died on 23 March 1983, aged 62; Seattle dentist.
+
+- Upton H. Origin of drugs in current use: the cyclosporine story (2001).  
+  <https://davidmoore.org.uk/Sec04_01.htm>  
+  Type: book.
+  - `cyclosporine`: Discovery began a new era in immunopharmacology; controversy between Borel and other workers over priority; approved for kidney, liver, heart, lung and heart–lung transplantation.
+
 - US Department of Veterans Affairs. First transplantation at VA hospital (VA Eastern Colorado Health Care).  
   <https://www.va.gov/eastern-colorado-health-care/programs/first-transplantation-at-va-hospital/>  
   Type: institution.
@@ -2320,6 +2821,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.nlm.nih.gov/hmd/arabic/mon4.html>  
   Type: archive.
   - `ibn-al-nafis-pulmonary-circulation`: Separate commentary on the anatomical portions of the Canon; blood reaches the left ventricle by way of the lungs; three centuries before Servetus and Colombo; debate over transmission.
+
+- US Patent 7,087,732 (Fodor, Pirrung, Read, Stryer), assigned to Affymetrix.  
+  <https://uspto.report/patent/grant/7087732>  
+  Type: primary.
+  - `dna-microarray`: Inventors Fodor, Pirrung, Read and Stryer; light-directed spatially addressable parallel synthesis; assigned to Affymetrix.
 
 - Utah Division of State Archives and Records Service. Stories of Utah Women: Dr. Ellis Reynolds Shipp.  
   <https://archives.utah.gov/?p=5511>  
@@ -2396,6 +2902,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `benzodiazepines-diazepam`: Sternbach identified chlordiazepoxide in 1955; marketed as Librium by 1960; Valium followed in 1963; initially appeared less toxic and less likely to cause dependence than older drugs.
 
+- William C. DeVries. Encyclopedia.com.  
+  <https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/william-c-devries>  
+  Type: book.
+  - `jarvik-7-artificial-heart`: DeVries rejoined Kolff's team in 1979; FDA approval in 1982; selection panel; 61-year-old Clark; complications followed by the news media; died after 112 days.
+
 - Withering W. An Account of the Foxglove, and Some of Its Medical Uses: with Practical Remarks on Dropsy, and Other Diseases. Birmingham: M. Swinney; 1785 (Project Gutenberg edition).  
   <https://www.gutenberg.org/ebooks/24886>  
   Type: primary.
@@ -2405,6 +2916,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://nltimes.nl/2014/03/26/woman-gets-3d-printed-skull-umc>  
   Type: journal.
   - `3d-printed-skull-implant`: UMC Utrecht; 22-year-old woman; skull thickening; surgeon Bon Verweij; plastic implant made with a 3D printer; previous partial skull replacements; announcement delayed several months.
+
+- Wong DT, Perry KW, Bymaster FP. Case history: the discovery of fluoxetine hydrochloride (Prozac). Nat Rev Drug Discov (2005).  
+  <https://typeset.io/pdf/the-discovery-of-fluoxetine-hydrochloride-prozac-4k285tjux0.pdf>  
+  Type: journal.
+  - `fluoxetine-prozac`: More than 16 years of development; FDA approval for depression on 29 December 1987; the first SSRI introduced in the United States; prescribed to more than 40 million patients by 2002.
 
 - Wood Library-Museum of Anesthesiology. Ether.  
   <https://www.woodlibrarymuseum.org/museum/ether/>  
@@ -2526,7 +3042,22 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `sushruta-samhita`: Evidence used to argue that the Suśrutasaṃhitā is later than the Carakasaṃhitā.
 
+- Wykes S. Bruce Reitz recalls the world's first heart–lung transplant (full interview). Stanford Medicine.  
+  <https://aemstage.med.stanford.edu/news/all-news/2016/03/bruce-reitz-recalls-the-worlds-first-heart-lung-transplant.html>  
+  Type: university.
+  - `heart-lung-transplant`: No human lung transplant patient had survived more than 23 days; lungs could then be transplanted only as part of a heart–lung package.
+
+- Wykes S. Bruce Reitz recalls the world's first heart–lung transplant. Stanford Medicine News, 9 March 2016.  
+  <https://med.stanford.edu/news/all-news/2016/03/bruce-reitz-recalls-the-worlds-first-heart-lung-transplant.html>  
+  Type: university.
+  - `heart-lung-transplant`: Reitz and Shumway performed the first successful heart–lung transplant in 1981 at Stanford Hospital; Gohlke lived five years; Reitz's research in Shumway's laboratory.
+
 - Wyllie E. Benzodiazepines in neurology: overview. Cleveland Clinic Journal of Medicine 57(Suppl 1).  
   <https://www.ccjm.org/content/57/1_suppl_1/S-4.full.pdf>  
   Type: journal.
   - `benzodiazepines-diazepam`: Sternbach at Roche's Medicinal Chemistry Research Department, Nutley, from 1941; chlordiazepoxide introduced in 1960 as the first clinically marketed benzodiazepine.
+
+- yourgenome (Wellcome Connecting Science). The dawn of DNA profiling.  
+  <https://www.yourgenome.org/theme/the-dawn-of-dna-profiling-the-eureka-moment-that-revolutionised-crime-solving/>  
+  Type: institution.
+  - `dna-fingerprinting`: Developed in 1984 at the University of Leicester; revolutionised police investigation.

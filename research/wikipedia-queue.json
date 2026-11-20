@@ -2759,9 +2759,9 @@
    "claim": "Cyclosporine as immunosuppressant",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "cyclosporine",
+   "note": "Wikipedia gives 1970 for its introduction into transplant practice; the immunosuppressive effect was found in 1972 and first clinical use was in 1978."
   },
   {
    "wid": "w252",
@@ -2792,9 +2792,9 @@
    "claim": "MRI",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "magnetic-resonance-imaging",
+   "note": "Wikipedia credits MRI to Raymond Damadian alone; Lauterbur and Mansfield received the 2003 Nobel Prize, and priority is disputed."
   },
   {
    "wid": "w255",
@@ -2836,9 +2836,9 @@
    "claim": "Insulin pump",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "insulin-pump",
+   "note": "Wikipedia credits Dean Kamen in 1972; earlier systems date from 1963, Kamen's AutoSyringe from 1976, and the key trial of subcutaneous infusion from 1978."
   },
   {
    "wid": "w259",
@@ -2847,9 +2847,9 @@
    "claim": "Laser eye surgery",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "excimer-laser-eye-surgery",
+   "note": "Wikipedia credits LASIK to Mani Lal Bhaumik in 1973. Bhaumik contributed to excimer laser physics; laser eye surgery was developed by Trokel and others from 1983, and LASIK by Pallikaris in 1989–90."
   },
   {
    "wid": "w260",
@@ -2858,8 +2858,8 @@
    "claim": "Liposuction",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "liposuction",
    "note": ""
   },
   {
@@ -2869,9 +2869,9 @@
    "claim": "Commercial PET scanner",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "positron-emission-tomography",
+   "note": "Wikipedia gives 'first commercial PET scanner, 1976'; the first working PET scanner was described in 1975 in St Louis, and the commercial version was developed afterwards in Los Angeles."
   },
   {
    "wid": "w262",
@@ -2891,9 +2891,9 @@
    "claim": "Last fatal smallpox case (Birmingham)",
    "place": "Birmingham",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "duplicate",
+   "atlasId": "smallpox-eradication",
+   "note": "The 1978 laboratory-acquired death in Birmingham is described in the smallpox eradication entry."
   },
   {
    "wid": "w264",
@@ -2902,8 +2902,8 @@
    "claim": "Antiviral drugs (aciclovir)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "aciclovir-antiviral",
    "note": ""
   },
   {
@@ -2924,8 +2924,8 @@
    "claim": "Commercial MRI scanner",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "magnetic-resonance-imaging",
    "note": ""
   },
   {
@@ -2935,8 +2935,8 @@
    "claim": "Lithotripter",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "shock-wave-lithotripsy",
    "note": ""
   },
   {
@@ -2946,9 +2946,9 @@
    "claim": "Hepatitis B vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "hepatitis-b-vaccine",
+   "note": "Wikipedia credits Baruch Blumberg with the 1980 vaccine; Blumberg and Millman proposed it, and Merck's vaccine, developed under Hilleman, was approved in 1981."
   },
   {
    "wid": "w269",
@@ -2957,9 +2957,9 @@
    "claim": "Cloning of interferons",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "recombinant-interferon",
+   "note": "Several groups cloned interferon genes in 1980, not Pestka alone."
   },
   {
    "wid": "w270",
@@ -2968,8 +2968,8 @@
    "claim": "Artificial skin",
    "place": "Boston",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "artificial-skin",
    "note": ""
   },
   {
@@ -2979,8 +2979,8 @@
    "claim": "Heart-lung transplant",
    "place": "Stanford",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "heart-lung-transplant",
    "note": ""
   },
   {
@@ -2990,9 +2990,9 @@
    "claim": "Human insulin (recombinant)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "human-insulin-recombinant",
+   "note": "Developed by Genentech and City of Hope and commercialised by Eli Lilly."
   },
   {
    "wid": "w273",
@@ -3001,9 +3001,9 @@
    "claim": "Permanent artificial heart",
    "place": "Salt Lake City",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "jarvik-7-artificial-heart",
+   "note": "Wikipedia credits Willem Kolff with performing the operation; the surgeon was William DeVries, in Kolff's programme."
   },
   {
    "wid": "w274",
@@ -3012,8 +3012,8 @@
    "claim": "Automated DNA sequencer",
    "place": "Pasadena",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "automated-dna-sequencer",
    "note": ""
   },
   {
@@ -3023,8 +3023,8 @@
    "claim": "Polymerase chain reaction",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "pcr-invention",
    "note": ""
   },
   {
@@ -3034,8 +3034,8 @@
    "claim": "Robot-assisted surgery",
    "place": "Long Beach",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "robot-assisted-surgery",
    "note": ""
   },
   {
@@ -3045,8 +3045,8 @@
    "claim": "DNA fingerprinting",
    "place": "Leicester",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "dna-fingerprinting",
    "note": ""
   },
   {
@@ -3067,9 +3067,9 @@
    "claim": "Fluoxetine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "fluoxetine-prozac",
+   "note": "Wikipedia gives 1986; the FDA approved fluoxetine in December 1987."
   },
   {
    "wid": "w280",
@@ -3078,9 +3078,9 @@
    "claim": "Statins available (lovastatin)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "statins",
+   "note": "The statin story begins with Akira Endo's discovery at Sankyo in 1973; Merck's lovastatin was approved in 1987."
   },
   {
    "wid": "w281",
@@ -3089,8 +3089,8 @@
    "claim": "Tissue engineering",
    "place": "Boston",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "tissue-engineering",
    "note": ""
   },
   {
@@ -3100,8 +3100,8 @@
    "claim": "Intravascular stent",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "palmaz-stent",
    "note": ""
   },
   {
@@ -3111,8 +3111,8 @@
    "claim": "Laserphaco cataract surgery",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "bath-laserphaco",
    "note": ""
   },
   {
@@ -3122,9 +3122,9 @@
    "claim": "Pre-implantation genetic diagnosis",
    "place": "London",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "preimplantation-genetic-diagnosis",
+   "note": "Wikipedia gives 1989 (the biopsy method); the first pregnancies were reported in 1990."
   },
   {
    "wid": "w285",
@@ -3133,9 +3133,9 @@
    "claim": "DNA microarray",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "dna-microarray",
+   "note": "Wikipedia gives 1989; the key paper was published in 1991."
   },
   {
    "wid": "w286",
