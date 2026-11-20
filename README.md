@@ -1,5 +1,9 @@
 # An Atlas of Medical Progress
 
+
+<img width="800" height="451" alt="ezgif-52404aa689a9122d" src="https://github.com/user-attachments/assets/bdf20e85-b4d3-4cb0-baf7-c612b9049283" />
+
+
 **Live site:** http://www.alexdavidson.me/medical-progress-atlas/
 
 An interactive world map and timeline of 81 documented medical milestones, from a healed amputation in Borneo about 31,000 years ago to mRNA vaccines and the first malaria vaccine recommendation. Each milestone opens a sourced card that sets out what happened, who was involved, what changed, what is uncertain or disputed and, where relevant, the harms connected with it.
