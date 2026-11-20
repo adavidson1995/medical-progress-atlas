@@ -2209,9 +2209,9 @@
    "claim": "Gender-affirming surgery, Lili Elbe",
    "place": "Dresden",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "early-gender-affirming-surgery",
+   "note": "Wikipedia names Lili Elbe in Dresden in 1930. Dora Richter, operated on in Berlin from 1922, is usually regarded as the first; Elbe's operations ran from 1930 to 1931."
   },
   {
    "wid": "w202",
@@ -2220,9 +2220,9 @@
    "claim": "Sulfonamide (Prontosil)",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "prontosil-sulfonamides",
+   "note": "Wikipedia gives 1932, the year of the discovery; the drug was marketed in 1935."
   },
   {
    "wid": "w203",
@@ -2231,9 +2231,9 @@
    "claim": "Insulin shock therapy",
    "place": "Vienna",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "insulin-coma-therapy",
+   "note": "Included as a widely used treatment that was later shown to be ineffective."
   },
   {
    "wid": "w204",
@@ -2242,9 +2242,9 @@
    "claim": "Metrazol convulsive therapy",
    "place": "Budapest",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "convulsive-therapy-ect",
+   "note": "Wikipedia gives 1935; Meduna's first treatment was on 23 January 1934. Combined with ECT (w208)."
   },
   {
    "wid": "w205",
@@ -2253,9 +2253,9 @@
    "claim": "First yellow fever vaccine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "yellow-fever-17d",
+   "note": "Wikipedia gives 1935 for the 'first yellow fever vaccine'. A mouse-brain vaccine was tested from 1931; the 17D vaccine still in use was developed in 1937."
   },
   {
    "wid": "w206",
@@ -2264,9 +2264,9 @@
    "claim": "Prefrontal leucotomy",
    "place": "Lisbon",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "prefrontal-leucotomy",
+   "note": "Wikipedia gives 1936 (publication); the first operation was on 12 November 1935."
   },
   {
    "wid": "w207",
@@ -2275,8 +2275,8 @@
    "claim": "Self-retaining thoracic retractor",
    "place": "Buenos Aires",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "finochietto-retractor",
    "note": ""
   },
   {
@@ -2286,9 +2286,9 @@
    "claim": "Electroconvulsive therapy",
    "place": "Rome",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "convulsive-therapy-ect",
+   "note": "Combined with metrazol convulsive therapy (w204)."
   },
   {
    "wid": "w209",
@@ -2308,9 +2308,9 @@
    "claim": "Dialysis machine",
    "place": "Kampen",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "kolff-dialysis",
+   "note": "Wikipedia gives 1943, when Kolff first used the machine; the first patient whose life it saved was treated in September 1945."
   },
   {
    "wid": "w211",
@@ -2319,9 +2319,9 @@
    "claim": "Disposable catheter",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "rejected",
+   "atlasId": "",
+   "note": "David Sheridan is credited with the modern disposable plastic catheter and endotracheal tube in the 1940s, but the claim rests on an obituary, a commissioned biography and later web pages; no source dates or places a specific advance."
   },
   {
    "wid": "w212",
@@ -2330,9 +2330,9 @@
    "claim": "Chemotherapy (nitrogen mustard)",
    "place": "New Haven",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "nitrogen-mustard-chemotherapy",
+   "note": "Wikipedia gives 1946 (publication); the first patient was treated in August 1942."
   },
   {
    "wid": "w213",
@@ -2341,8 +2341,8 @@
    "claim": "Defibrillation of the human heart",
    "place": "Cleveland",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "beck-defibrillation",
    "note": ""
   },
   {
@@ -2352,8 +2352,8 @@
    "claim": "Acetaminophen (paracetamol) as active metabolite",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "paracetamol-brodie-axelrod",
    "note": ""
   },
   {
@@ -2363,8 +2363,8 @@
    "claim": "WHO founded",
    "place": "Geneva",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "who-founded",
    "note": ""
   },
   {
@@ -2374,8 +2374,8 @@
    "claim": "Intraocular lens implant",
    "place": "London",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "ridley-intraocular-lens",
    "note": ""
   },
   {
@@ -2385,9 +2385,9 @@
    "claim": "Mechanical ventilation assistor",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "copenhagen-polio-ventilation",
+   "note": "Wikipedia credits John Emerson with a 'mechanical ventilation assistor' in 1949. Emerson did build an anaesthesia assistor that year, but the decisive step for positive-pressure ventilation was the 1952 Copenhagen polio epidemic, which led to intensive care."
   },
   {
    "wid": "w218",
@@ -2407,8 +2407,8 @@
    "claim": "Nuclear transfer cloning (frogs)",
    "place": "Philadelphia",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "briggs-king-nuclear-transfer",
    "note": ""
   },
   {
@@ -2418,8 +2418,8 @@
    "claim": "Live birth from frozen sperm",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "frozen-sperm-pregnancies",
    "note": ""
   },
   {
@@ -2429,8 +2429,8 @@
    "claim": "Heart-lung machine used in surgery",
    "place": "Philadelphia",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "gibbon-heart-lung-machine",
    "note": ""
   },
   {
@@ -2440,8 +2440,8 @@
    "claim": "Echocardiography",
    "place": "Lund",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "edler-hertz-echocardiography",
    "note": ""
   },
   {
@@ -2451,8 +2451,8 @@
    "claim": "Kidney transplant between identical twins",
    "place": "Boston",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "kidney-transplant-twins",
    "note": ""
   },
   {
@@ -2462,8 +2462,8 @@
    "claim": "Vacuum extractor (ventouse)",
    "place": "Gothenburg",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "malmstrom-vacuum-extractor",
    "note": ""
   },
   {
@@ -2473,9 +2473,9 @@
    "claim": "Tetracycline",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "tetracycline",
+   "note": "Wikipedia gives 1955 (the patent); Conover made tetracycline in 1952."
   },
   {
    "wid": "w226",

@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 677 distinct sources across 162 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 792 distinct sources across 183 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -39,6 +39,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ct-scanning`: First clinical head CT in 1971 on a patient with a suspected frontal lobe tumour; surgeon confirmed the lesion looked like the picture; rapid international interest.
 
+- A brief history of IOL materials. The Ophthalmologist.  
+  <https://theophthalmologist.com/subspecialties/a-brief-history-of-iol-materials>  
+  Type: journal.
+  - `ridley-intraocular-lens`: Splinters of PMMA from a shattered canopy in a pilot's eyes; on 29 November 1949 at St Thomas' Ridley inserted the first lens into a 42-year-old woman.
+
 - A brief history of the sonogram. Smithsonian Magazine.  
   <https://www.smithsonianmag.com/innovation/a-brief-history-of-the-sonogram-180978732/>  
   Type: journal.
@@ -73,6 +78,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pubs.acs.org/cenear/article-abstract/77/51/48/1078131/A-REVOLUTION-IN-TREATING-DISEASEHistoric-chemical?redirectedFrom=fulltext>  
   Type: journal.
   - `penicillin`: Norman Heatley, last surviving member of the Oxford team, unveiled the landmark plaque.
+
+- Abdi R. John Putnam Merrill: the unsung hero behind the first successful renal transplantation. Frontiers in Transplantation 4:1620534 (2025).  
+  DOI: [10.3389/frtra.2025.1620534](https://doi.org/10.3389/frtra.2025.1620534), <https://www.frontiersin.org/articles/10.3389/frtra.2025.1620534/full>  
+  Type: journal.
+  - `kidney-transplant-twins`: First successful renal transplantation between the Herrick twins at the Peter Bent Brigham Hospital in 1954; Merrill's dialysis machine stabilised the diseased twin; Harrison's donor nephrectomy.
 
 - Abt Associates. Emergence of tissue engineering: final report (for NSF).  
   <https://corpora.tika.apache.org/base/docs/govdocs1/500/500855.pdf>  
@@ -149,6 +159,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `alzheimer-disease-described`: Oral presentation on 3 November 1906 in Tübingen, printed in 1907; correlation of the patient's behaviour with pathology; description of neurofibrillary tangles and 'miliary foci', now known as amyloid plaques.
 
+- American Academy of Ophthalmology. Harold Ridley, MD (biography).  
+  <https://WWW.AAO.ORG/biographies-detail/harold-ridley-md>  
+  Type: institution.
+  - `ridley-intraocular-lens`: Ridley at Moorfields when war was declared; Perspex used in Spitfire and Hurricane canopies; met John Pike of Rayner to design the first IOL; first implant on 29 November 1949; his later reflection on whether it began a generation too soon.
+
 - American Academy of Ophthalmology. Retinal implants for RP. EyeNet.  
   <https://aao.org/eyenet/article/retinal-implants-for-rp>  
   Type: institution.
@@ -184,10 +199,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `modern-cpr`: Johns Hopkins researchers led by Kouwenhoven rediscover external compressions in dog experiments; Elam and Safar prove mouth-to-mouth resuscitation effective; Kouwenhoven, Safar and Jude combine compressions and breathing into CPR; 1957 Hopkins closed-chest defibrillator.
 
+- American Heart Association. The chaotic beginnings of the tool that made heart surgery possible (2024).  
+  <https://www.heart.org/en/news/2024/11/04/the-chaotic-beginnings-of-the-tool-that-made-heart-surgery-possible>  
+  Type: institution.
+  - `gibbon-heart-lung-machine`: Used successfully for the first time on 6 May 1953; in 1952 Gibbon operated on a 15-month-old thought to have an atrial septal defect; Mary Gibbon's role.
+
 - Amr SS, Tbakhi A. Abu Bakr Muhammad Ibn Zakariya Al Razi (Rhazes): philosopher, physician and alchemist. Annals of Saudi Medicine 2007;27(4):305–307.  
   DOI: [10.5144/0256-4947.2007.305](https://doi.org/10.5144/0256-4947.2007.305), <https://pmc.ncbi.nlm.nih.gov/articles/PMC6074295/>  
   Type: journal.
   - `al-razi-smallpox-measles`: Dates (865–925), birth in Rayy, hospital directorships in Rayy and Baghdad under al-Muktafi, the treatise distinguishing smallpox from measles, Latin translations. Description of the treatise's content (signs and differences between the two diseases) is drawn from this and the case-history study.
+
+- An introduction to Finochietto retractors. Acheron Instruments.  
+  <https://acheron-instruments.com/post/an-introduction-to-finochietto-retractors>  
+  Type: institution.
+  - `finochietto-retractor`: Rack-and-pinion rib spreader introduced in 1914 by a French surgeon; modified by Finochietto in 1936; screw lock.
 
 - An update on face transplants performed between 2005 and 2010. In: The Know-How of Face Transplantation, Springer (2011), reference list.  
   <https://ouci.dntb.gov.ua/works/4Y8RP307>  
@@ -203,6 +228,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://jbuon.com/archive/9-3-331.pdf>  
   Type: journal.
   - `virchow-cellular-pathology`: Appointed in November 1849 to the first chair of pathological anatomy in Germany at Würzburg.
+
+- Ángeles-Sistac D, Morán-Chorro I, Morales-Quinteros L. Bjørn Ibsen: what made intensive care so critical? Cureus 16(8):e67281 (2024).  
+  DOI: [10.7759/cureus.67281](https://doi.org/10.7759/cureus.67281), <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11411485/>  
+  Type: journal.
+  - `copenhagen-polio-ventilation`: Intensive care institutionalised by Ibsen during the 1952 Copenhagen polio epidemic; tracheostomy, suctioning and round-the-clock positive pressure ventilation from August 1952.
 
 - Anniversary milestone: De motu cordis. MD magazine, April 1978, pp. 107–111 (University of Pittsburgh Health Sciences Library digital collection).  
   <https://dec.hsls.pitt.edu/files/original/6d3f9bff366c3ae3c6a532dbdda614323257bef5.pdf>  
@@ -279,6 +309,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `insulin-pump`: Kadish described the first wearable insulin delivery system in 1963, 'The Backpack', an impractical proof of concept; commercial wearable subcutaneous pumps from 1978 onward.
 
+- Axelrod, Julius. Complete Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/axelrod-julius>  
+  Type: book.
+  - `paracetamol-brodie-axelrod`: In 1949 James Shannon became director of intramural research at the National Heart Institute, and Axelrod, Brodie and many other Goldwater scientists followed.
+
+- Axelrod, Julius. Encyclopedia.com.  
+  <https://www.encyclopedia.com/books/culture-magazines/axelrod-julius>  
+  Type: book.
+  - `paracetamol-brodie-axelrod`: Axelrod developed a sensitive assay for aniline in blood and urine; aniline and methaemoglobin levels correlated; N-acetyl-p-aminophenol could replace acetanilide.
+
 - Bacillus Calmette-Guérin (chapter). Springer (2023).  
   <https://link.springer.com/10.1007/978-3-031-24355-4_8>  
   Type: book.
@@ -299,6 +339,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `face-transplants`: French ethics committee position on partial transplants; Devauchelle and Dubernard's partial face transplant in Amiens.
 
+- Barros Veloso AJ. Sulphonamides: glory and misfortunes. Medicina Interna 4(3):174 (1997).  
+  <https://www.spmi.pt/revista/vol04/eng_vol4_n3_1997_174_177.pdf>  
+  Type: journal.
+  - `prontosil-sulfonamides`: Domagk at Bayer, IG Farbenindustrie, Elberfeld, showed the antibacterial action of Prontosil in mice infected with lethal doses of streptococcus.
+
 - Bartlett Z. 'Viable offspring derived from fetal and adult mammalian cells' (1997), by Ian Wilmut et al. Embryo Project Encyclopedia, Arizona State University.  
   <https://embryo.asu.edu/pages/viable-offspring-derived-fetal-and-adult-mammalian-cells-1997-ian-wilmut-et-al>  
   Type: university.
@@ -308,6 +353,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44B20AEA600187C6E0BC38A5B63702EF/S0950268805004267a.pdf/6_the_discovery_of_diphtheria_toxoid_and_the_primary_and_secondary_immune_response_glenny_at_sudmersen_hj_j_hyg_1921_20_176220.pdf>  
   Type: journal.
   - `toxoid-vaccines`: Brief 1921 description of diphtheria toxoid; first toxoids produced reactions unacceptable in Britain; alum-precipitated toxoid from 1926; now in diphtheria–tetanus–pertussis vaccine.
+
+- Bayer. Gerhard Domagk (biography).  
+  <https://www.bayer.com/en/about-us/history/biographies/gerhard-domagk>  
+  Type: institution.
+  - `prontosil-sulfonamides`: Prontosil introduced in 1935; for the first time even severe coccal infections could be treated; deaths from meningitis, childbed fever and pneumonia declined sharply; Nobel Prize 1939.
 
 - BBC Mundo. BCG: 100 años de la vacuna más antigua aún en uso (2021).  
   <https://www.mdzol.com/bbc-mundo/2021/7/18/bcg-100-anos-de-la-vacuna-mas-antigua-aun-en-uso-y-por-que-es-un-dolor-de-cabeza-para-la-ciencia-173428.html>  
@@ -323,6 +373,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.medigraphic.com/pdfs/rma/cma-2023/cma231l.pdf>  
   Type: journal.
   - `pages-epidural`: Pagés called it 'metameric anaesthesia' in his March 1921 article in the Revista Española de Cirugía, founded by himself; Dogliotti published in 1931.
+
+- Benchimol JL, et al. The early use of yellow fever virus strain 17D for vaccine production in Brazil – a review. Mem Inst Oswaldo Cruz 96(6):849 (2001).  
+  <https://www.scielo.br/j/mioc/a/Mk9HP3HbF8qgPN4KTxysFTS/?lang=en>  
+  Type: journal.
+  - `yellow-fever-17d`: Use of 17D for vaccine production in Brazil since its introduction in 1937.
 
 - Bentley Historical Library, University of Michigan. The trailblazer (Snapshots of U-M History).  
   <https://bentley.umich.edu/?p=2238>  
@@ -365,6 +420,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `artificial-pancreas-hybrid-loop`: FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses.
 
+- Brodie BB, Axelrod J. The fate of acetanilide in man. J Pharmacol Exp Ther 94:29–38 (1948). NLM Profiles in Science record.  
+  <https://profiles.nlm.nih.gov/101584577X4>  
+  Type: primary.
+  - `paracetamol-brodie-axelrod`: Acetanilide contributed to methaemoglobinaemia; they suggested manufacturers replace it with acetaminophen.
+
 - Brugada J, Brugada P, Brugada R. Brugada syndrome: the syndrome of right bundle branch block, ST segment elevation in V1 to V3 and sudden death. PubMed Central (2001).  
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569891/>  
   Type: journal.
@@ -395,15 +455,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `salvarsan`: Salvarsan developed in 1909 by Paul Ehrlich and the chemist Alfred Bertheim at the Georg-Speyer-Haus in Frankfurt; later Neosalvarsan.
 
+- Burruss H. Oral history interview (1986). NIH History Office.  
+  <https://history.nih.gov/download/attachments/14844135/Burruss%2C%20Harry%20oral%20history%201986.pdf?api=v2>  
+  Type: archive.
+  - `yellow-fever-17d`: 17D developed in New York from the Asibi strain through passages in minced chick embryo and then embryo without brain and spinal cord; in 1937 the strain was sent to Rio de Janeiro with Hugh Smith.
+
 - Cade JFJ. Lithium salts in the treatment of psychotic excitement (Medical Journal of Australia, 1949). Reprinted in Bulletin of the World Health Organization 2000;78(4):518–520. (pp. 518–520)  
   <https://apps.who.int/iris/handle/10665/268117>  
   Type: primary.
   - `cade-lithium`: Cade's original 1949 report (reprint).
 
+- Cakulev I, Efimov IR, Waldo AL. Cardioversion: past, present, and future. Circulation 120:1623 (2009).  
+  <https://www.defibrillation.ru/download/Circulation,2009October20,v120,16,1623-1632.pdf>  
+  Type: journal.
+  - `beck-defibrillation`: Possibly the first description of resuscitation by electric shock was by Charles Kite in 1788.
+
 - Calcineurin inhibitors 40 years later: can't live without. Transplantation (review).  
   <https://typeset.io/pdf/calcineurin-inhibitors-40-years-later-can-t-live-without-gw88nkd8cs.pdf>  
   Type: journal.
   - `cyclosporine`: Immunology laboratory at Sandoz, Basel, led by Lazary and later Borel; mouse model developed by Stähelin; Borel and Stähelin described cyclosporine's effect on T lymphocytes in 1976; presentation to the British Society for Immunology in April 1976; dramatic improvement in transplant outcomes.
+
+- CALS Encyclopedia of Arkansas. Jerome Kalman Sherman.  
+  <https://encyclopediaofarkansas.net/entries/jerome-kalman-sherman-8019/>  
+  Type: institution.
+  - `frozen-sperm-pregnancies`: In 1949 British scientists reported impregnating chickens with frozen semen treated with glycerol; Sherman began his own experiments; Bunge of the new infertility clinic arranged human trials.
 
 - Carlo Urbani and SARS (review). Journal of Preventive Medicine and Hygiene.  
   <https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540>  
@@ -419,6 +494,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://hrcak.srce.hr/file/1029>  
   Type: journal.
   - `gamow-bag`: Climber with high-altitude pulmonary oedema treated in a Gamow bag for two hours at 7,060 m; recommended for severe acute mountain sickness and risky descents.
+
+- Case Western Reserve University. The beat goes on (Think magazine, 2018).  
+  <https://case.edu/think/fall2018/beat.html>  
+  Type: university.
+  - `beck-defibrillation`: Beck squeezed the dying boy's heart by hand; a colleague fetched an experimental device; paddles on the heart; first successful defibrillation; Beck later built his own machine.
 
 - Centers for Disease Control and Prevention. 50th anniversary of the first effective polio vaccine. MMWR 2005;54(13).  
   <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5413a5.htm>  
@@ -545,6 +625,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `pasteur-attenuated-vaccines`: Ageing cultures of the chicken cholera bacterium lost virulence and protected chickens; Pasteur's first vaccines were chicken cholera (1879) and anthrax (1881).
 
+- Connelly C. Lili Elbe. The New European.  
+  <https://www.thenewworld.co.uk/brexit-news-lili-elbe-charlie-connelly-30586/>  
+  Type: journal.
+  - `early-gender-affirming-surgery`: Hirschfeld founded the institute in 1919; operations in Dresden to implant ovaries; in June 1931 she returned for a uterus transplant.
+
 - Contraception (chapter). Taylor & Francis.  
   <https://www.taylorfrancis.com/books/9780203074596/chapters/10.4324/9780203074596-17>  
   Type: book.
@@ -607,6 +692,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `pancreas-transplant`: Insulin independence first achieved in December 1966 when Kelly and Lillehei transplanted a segmental pancreas with a kidney into a 28-year-old uraemic woman.
 
+- Debunking the legend that chemotherapy came from a WWII tragedy. HistoryNet.  
+  <https://historynet.com/online-exclusive-mustard-gas-medical-myth/>  
+  Type: journal.
+  - `nitrogen-mustard-chemotherapy`: The first successful human chemotherapy trial used a form of mustard gas made for the Army, 15 months before the Bari raid; first reported publicly in 1946.
+
 - Development of anatomophysiologic knowledge regarding the cardiovascular system: from Egyptians to Harvey (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4290745/>  
   Type: journal.
@@ -631,6 +721,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://victorianweb.org/history/dnb/3.html>  
   Type: book.
   - `priestley-oxygen`: The first volume of his Experiments and Observations on Different Kinds of Air records the discovery of nitrous oxide (dephlogisticated nitrous air) and ammonia; his first paper on airs was read in 1772.
+
+- Dietz HP. Aldo Vacca's legacy. O&G Magazine 17(1) (2015).  
+  <https://www.ogmagazine.org.au/17/1-17/aldo-vacca-legacy/>  
+  Type: journal.
+  - `malmstrom-vacuum-extractor`: The first practicable device was proposed by Malmström in Sweden in 1954; forceps carry about five times the odds of levator trauma compared with vacuum.
 
 - Diop S, et al. Overview of surgical and anesthesia practice in sub-Saharan Africa during the 19th century: the example of the people of Bunyoro. Pan African Medical Journal 2021;40:120.  
   DOI: [10.11604/pamj.2021.40.120.32092](https://doi.org/10.11604/pamj.2021.40.120.32092), <https://www.panafrican-med-journal.com/content/article/40/120/full>  
@@ -722,6 +817,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `oral-contraceptive-pill`: Pincus directed the first large-scale test in Puerto Rico, 1956–57; Edris Rice-Wray's role; some participants experienced side effects.
 
+- EBSCO Research Starters. Domagk discovers that sulfonamides can save lives.  
+  <https://ebsco.com/research-starters/history/domagk-discovers-sulfonamides-can-save-lives>  
+  Type: institution.
+  - `prontosil-sulfonamides`: 1932–1935, Elberfeld; director of experimental pathology from 1927; Ehrlich's trypan dyes suggested azo dyes; sulfanilamide the active component of Prontosil.
+
+- EBSCO Research Starters. Egas Moniz develops the prefrontal lobotomy.  
+  <https://www.ebsco.com/research-starters/history/egas-moniz-develops-prefrontal-lobotomy>  
+  Type: institution.
+  - `prefrontal-leucotomy`: November–December 1935, Lisbon; Almeida Lima performed the first prefrontal lobotomy under Moniz's direction; Freeman; London congress in August 1935.
+
 - EBSCO Research Starters. Ehrlich introduces Salvarsan as a cure for syphilis.  
   <https://www.ebsco.com/research-starters/history/ehrlich-introduces-salvarsan-cure-syphilis>  
   Type: institution.
@@ -741,6 +846,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-first-cholesterol-lowering-drug>  
   Type: institution.
   - `statins`: Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck.
+
+- EBSCO Research Starters. Gibbon develops the heart-lung machine.  
+  <https://www.ebsco.com/research-starters/health-and-medicine/gibbon-develops-heart-lung-machine>  
+  Type: institution.
+  - `gibbon-heart-lung-machine`: Fall 1934 to 6 May 1953; developed and tested in animals and then humans the first device to oxygenate and circulate blood during surgery.
 
 - EBSCO Research Starters. Hopkins postulates the presence of vitamins.  
   <https://ebsco.com/research-starters/history/hopkins-postulates-presence-vitamins>  
@@ -771,6 +881,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.aaas.org/rudolph-virchow-father-cellular-pathology>  
   Type: institution.
   - `virchow-cellular-pathology`: Founder of cellular pathology; most diseases understood as dysfunction of cells; omnis cellula e cellula proposed in 1855; Die Cellularpathologie transcribes lectures given in 1858 at the Pathological Institute of Berlin.
+
+- Egas Moniz (1875–1955): the father of psychosurgery. British Journal of Psychiatry (Cambridge Core).  
+  <https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/egas-moniz-18751955-the-father-of-psychosurgery/BD1CCFD07C2B4C2F2DBB9CB2E2F6300A>  
+  Type: journal.
+  - `prefrontal-leucotomy`: With Almeida Lima, drilled holes and injected alcohol into the frontal lobes; later the leucotome; Freeman's transorbital lobotomy; abandoned with the advent of the phenothiazines.
+
+- Egas Moniz, o médico que ganhou um Prêmio Nobel. Seu Dinheiro (2026).  
+  <https://www.seudinheiro.com/2026/economia/medico-que-ganhou-um-nobel-por-fazer-12-furos-no-cerebro-de-pacientes-mlem/>  
+  Type: journal.
+  - `prefrontal-leucotomy`: Leucotomy spread to dozens of countries; optimistic reports without control groups; the practice declined with the arrival of the first antipsychotics around 1956.
+
+- Egas Moniz, un Nobel controversé. Le Quotidien du Médecin.  
+  <https://cancerologie.lequotidiendumedecin.fr/actu-medicale/egas-moniz-un-nobel-controverse>  
+  Type: journal.
+  - `prefrontal-leucotomy`: Many asked the Nobel Foundation to withdraw Moniz's prize because his results were obtained in disregard of ethics and patients' rights.
 
 - Elema-Schönander and the very first human implants of a pacemaker in Sweden (1958) and Uruguay (1960). Implantable-device.com, after the Siemens historical archive.  
   <https://www.implantable-device.com/2012/01/23/elema-schoenander-and-the-very-first-human-implants-of-a-pacemaker-in-sweden-1958-and-uruguay-1960/>  
@@ -807,6 +932,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `uterus-transplantation`: Brännström at the University of Gothenburg; 2011 transplant at Akdeniz University Hospital, Antalya.
 
+- Embryo Project Encyclopedia. 'Transplantation of living nuclei from blastula cells into enucleated frogs' eggs' (1952), by Robert Briggs and Thomas J. King.  
+  <https://keep.lib.asu.edu/system/files/embryo/pdfs/embryo124780.xhtml.pdf>  
+  Type: university.
+  - `briggs-king-nuclear-transfer`: 1952 PNAS article from experiments at the Institute for Cancer Research and Lankenau Hospital Research Institute, Philadelphia; first successful nuclear transplantation with amphibian embryos; previously only in amoebae.
+
 - Embryo Project Encyclopedia. Ian Hector Frazer (1953– ).  
   <https://embryo.asu.edu/pages/ian-hector-frazer-1953>  
   Type: university.
@@ -816,6 +946,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/polymerase-chain-reaction-pcr>  
   Type: university.
   - `pcr-invention`: Mullis developed the idea in the early 1980s at Cetus Corporation, Emeryville; first study referencing PCR in Science in 1985; Taq polymerase added by Cetus scientists; patent filed 28 March 1985; 1993 Nobel Prize in Chemistry.
+
+- Embryo Project Encyclopedia. Somatic cell nuclear transfer in mammals (1938–2013).  
+  <https://embryo.asu.edu/pages/somatic-cell-nuclear-transfer-mammals-1938-2013>  
+  Type: university.
+  - `briggs-king-nuclear-transfer`: Briggs and King transplanted a nucleus from a Rana pipiens blastula cell into an enucleated egg; the embryo developed normally; the techniques serve as the basis for SCNT.
 
 - Embryo Project Encyclopedia. Stanley Alan Plotkin (1932– ).  
   <https://embryo.asu.edu/pages/stanley-alan-plotkin-1932>  
@@ -831,6 +966,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/birth-control-pill>  
   Type: university.
   - `oral-contraceptive-pill`: FDA approved Enovid in 1960; Sanger and McCormick recruited Pincus at the Worcester Foundation; Rock and Pincus's tests; trials in San Juan, Puerto Rico from 1956 because of anti-birth-control laws in Massachusetts; trials in Haiti and Mexico City from 1957.
+
+- Embryo Project Encyclopedia. Thomas Joseph King Jr. (1921–2000).  
+  <https://embryo.asu.edu/pages/thomas-joseph-king-jr-1921-2000>  
+  Type: university.
+  - `briggs-king-nuclear-transfer`: Briggs recruited King for his microsurgery training in 1950; in 1952 transferred nuclei produced viable tadpoles; Gurdon induced development from much later stages.
+
+- Embryo Project Encyclopedia. Thomas Joseph King Jr. (handle record).  
+  <https://embryo.asu.edu/handle/10776/2273>  
+  Type: university.
+  - `briggs-king-nuclear-transfer`: In 1958 Gurdon's Xenopus results challenged the idea that nuclei lose developmental potential; modern SCNT uses techniques similar to those Briggs and King developed.
 
 - Emory University. Ancient brewmasters tapped drug secrets. Emory Report, 31 August 2010.  
   <https://news.emory.edu/emory-report-archive/stories/2010/09/07/beer.html>  
@@ -851,6 +996,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://britannica.com/biography/Karl-Landsteiner>  
   Type: book.
   - `landsteiner-blood-groups`: Returned to the University of Vienna in 1897 and in 1901 published the discovery of the human ABO blood groups; 1930 Nobel Prize; blood typing made transfusion routine.
+
+- Encyclopaedia Britannica. Lili Elbe.  
+  <https://www.britannica.com/biography/Lili-Elbe>  
+  Type: book.
+  - `early-gender-affirming-surgery`: First of five highly experimental surgeries in 1930, performed (by this account) by Warnekros after examination by Hirschfeld.
 
 - Encyclopædia Britannica. Louis Pasteur: spontaneous generation.  
   <https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation>  
@@ -962,10 +1112,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pertussis-vaccine`: 1934–35 field trial of more than 1,500 children; trials in 1936 and follow-up in 1938.
 
+- Farm to table: the story of the development of the first sperm bank and frozen sperm pregnancies. Journal of Urology 215(5S):e284 (2026).  
+  <https://iro.uiowa.edu/esploro/outputs/abstract/HF02-10FARM-TO-TABLE-THE-STORY-OF/9985157516502771>  
+  Type: journal.
+  - `frozen-sperm-pregnancies`: In 1953 Bunge and Sherman published findings on the fertilising capacity of frozen human sperm in three women; Sherman first hired to freeze-dry renal tissue.
+
 - FDA approves artificial pancreas. Consultant360 (2016).  
   <https://www.consultant360.com/exclusives/fda-approves-artificial-pancreas>  
   Type: journal.
   - `artificial-pancreas-hybrid-loop`: Measures glucose every five minutes; study of 123 participants with a 3-month treatment period; risks of hypoglycaemia, hyperglycaemia and skin irritation.
+
+- Fechas de la ecocardiografía. CardioLatina (2026).  
+  <https://www.cardiolatina.com/wp-content/uploads/2026/05/FECHAS-Ecocardiograf%C3%ADa.pdf>  
+  Type: journal.
+  - `edler-hertz-echocardiography`: Hertz devised an attachment to record the oscilloscope output; first M-mode recording on 29 October 1953; both later recalled being unaware of earlier ultrasound imaging experiments.
 
 - Fidel Pagés: centenary of the discovery of epidural anesthesia. Revista da Sociedade Portuguesa de Anestesiologia.  
   <https://revistas.rcaap.pt/anestesiologia/article/download/23688/17858/93388>  
@@ -1012,6 +1172,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `serum-therapy`: Serum from hyper-immune horse; first clinical report in 1893 on 30 bacteriologically confirmed cases.
 
+- Freudenthal R, Moncrieff J. 'A landmark in psychiatric progress'? The role of evidence in the rise and fall of insulin coma therapy. History of Psychiatry (2022).  
+  DOI: [10.1177/0957154X211062538](https://doi.org/10.1177/0957154X211062538), <https://pmc.ncbi.nlm.nih.gov/articles/PMC8886299>  
+  Type: journal.
+  - `insulin-coma-therapy`: Widely used for schizophrenia from the 1930s to the 1960s; usually regarded as useless and dangerous; Bourne's later comments; evidence behind its use and decline.
+
 - From EMI to AI: a brief history of commercial CT reconstruction algorithms (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8492478/>  
   Type: journal.
@@ -1057,6 +1222,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `harvey-circulation`: Discovery and experimental proof of the circulation of the blood; notes for the 1616 Lumleian lecture show he had completed his demonstration by then.
 
+- Garrison–Morton. Brodie BB, Axelrod J (1948), acetanilide and its metabolic products.  
+  <https://historyofmedicine.com/id/9974>  
+  Type: book.
+  - `paracetamol-brodie-axelrod`: Paracetamol the major metabolite of acetanilide in human blood and an effective analgesic; unlike its precursors it does not cause methaemoglobinaemia.
+
+- Gavi. 75 years later: the birth of the World Health Organization (2023).  
+  <https://www.gavi.org/vaccineswork/75-years-later-birth-world-health-organization>  
+  Type: institution.
+  - `who-founded`: The International Sanitary Conferences ultimately led to WHO; the constitution entered into force on 7 April 1948.
+
 - Genentech. Cloning insulin (40th anniversary history).  
   <https://gene.com/40th/cloning-insulin>  
   Type: institution.
@@ -1066,6 +1241,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://keep.lib.asu.edu/system/files/2024-10/peeliongbea.pdf>  
   Type: university.
   - `aciclovir-antiviral`: Before acyclovir there were no effective antiviral treatments for oral and genital herpes.
+
+- Gibbon's open-heart surgery, 70 years on. WHYY (2023).  
+  <https://whyy.org/articles/philadelphia-open-heart-surgery-70th-anniversary-dr-john-gibbon/amp>  
+  Type: journal.
+  - `gibbon-heart-lung-machine`: First successful open-heart surgery on an 18-year-old woman; Gibbon's wife was his perfusionist.
 
 - Global mental health and psychiatric institutions in the 21st century. Epidemiology and Psychiatric Sciences (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6998654/>  
@@ -1102,6 +1282,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://guinnessworldrecords.com/world-records/first-animal-cloned-from-an-adult-cell>  
   Type: institution.
   - `dolly-cloned-sheep`: Finn Dorset ewe; udder cell from a six-year-old donor; announced in February 1997.
+
+- Guinness World Records. First successful kidney transplant.  
+  <https://www.guinnessworldrecords.com/world-records/first-successful-kidney-transplant>  
+  Type: institution.
+  - `kidney-transplant-twins`: 23 December 1954 at the Peter Bent Brigham Hospital; Murray's 1990 Nobel Prize; an earlier partial kidney transplant at the same hospital in 1946.
 
 - Haefely W. The chemical pedigree of flumazenil. Chimia (1993).  
   <https://chimia.ch/chimia/article/download/1993_141/1552/12207>  
@@ -1148,6 +1333,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.harappa.com/blog/mohenjo-daro-great-bath-diagram>  
   Type: university.
   - `mohenjo-daro-drainage`: Great Bath's waste water carried off through a covered drain.
+
+- Harold Ridley and the first intraocular lens (chapter). Springer.  
+  <https://rd.springer.com/chapter/10.1007/978-3-319-59641-9_14>  
+  Type: book.
+  - `ridley-intraocular-lens`: Acrylic lens implanted in a 45-year-old woman on 29 November 1949; Perspex chosen after observing that embedded fragments caused no inflammation in pilots' eyes.
+
+- Harvard Magazine. The Harvard doctor who made kidney transplants possible.  
+  <https://www.harvardmagazine.com/index%2Ephp/alumni-profiles/harvard-joseph-murray-transplantation>  
+  Type: university.
+  - `kidney-transplant-twins`: Kidney transplants between unrelated persons were rejected; Murray verified the twins were identical by fingerprinting at a police station; disapproval among scientists; 23-year-old Richard Herrick; transplants between unrelated people in 1962.
 
 - Harvard Stem Cell Institute. Joseph Vacanti, MD.  
   <https://hsci.harvard.edu/people/joseph-vacanti-md>  
@@ -1250,6 +1445,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `boston-inoculation-1721`: Onesimus informed Mather; Boylston inoculated 282 residents; 6 deaths (2.1%) among inoculated vs 884 of 5,759 (15.3%) among non-inoculated cases.
 
+- Hingorani V, et al. Evaluation of vacuum extractor and forceps deliveries. J Obstet Gynaecol India (1963).  
+  <https://jogi.co.in/storage/articles/files/filebase/Archives\1963\sep\1963_323_330_Sep.pdf>  
+  Type: journal.
+  - `malmstrom-vacuum-extractor`: Use spread throughout the world, particularly Europe, since Malmström designed his instrument in 1954; American authors emphasised foetal risks; unlike earlier suction cups, it also functions as a traction instrument.
+
 - History News Network. The surprising story of the first blood transfusion.  
   <https://www.historynewsnetwork.org/article/the-surprising-story-of-the-first-blood-transfusio>  
   Type: university.
@@ -1315,6 +1515,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: Invention dated 13 September 1816; rolled quire of paper; occasion witnessed by Augustus Granville; paper replaced by wood.
 
+- Homolulu Berlin. Lili Elbe (1882–1931): Klinikum Am Urban.  
+  <https://homoluluberlin.de/?p=10118>  
+  Type: institution.
+  - `early-gender-affirming-surgery`: Arrived in Berlin on 1 March 1930 for examinations at the institute; fourth operation presumably in June 1931; died on 13 September 1931; most researchers regard Dora Richter as the first to undergo complete gender-affirming surgery.
+
 - Hopkins FG (1912), abstract reprinted in Nutrition Reviews (1973).  
   <https://www.mv.helsinki.fi/home/hemila/History/NR_1973_19.pdf>  
   Type: journal.
@@ -1335,10 +1540,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `cochlear-implant`: Los Angeles Foundation of Otology founded 1946; House and Urban develop the first cochlear implant system for long-term use from 1965; single-channel system of 1972; 1984 FDA approval of the 3M/House device.
 
+- How a polio outbreak in Copenhagen led to the invention of the ventilator. Smithsonian Magazine (2020).  
+  <https://www.smithsonianmag.com/innovation/how-polio-outbreak-copenhagen-led-to-invention-ventilator-180975045/>  
+  Type: journal.
+  - `copenhagen-polio-ventilation`: Twelve-year-old Vivi Ebert dying on 27 August 1952; Blegdamshospitalet the fever hospital; positive-pressure bagging not widely used at the time; Lassen's description of the crisis.
+
 - How we know splitting up the MMR vaccine could be dangerous. STAT, 11 August 2026.  
   <https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/>  
   Type: journal.
   - `mumps-mmr-vaccine`: Jeryl Lynn's illness in March 1963; Hilleman at the Merck Institute, West Point; studies showing MMR does not increase the risk of autism.
+
+- Hurley S. A visionary innovation: Harold Ridley and the first intra-ocular surgery. Science Museum blog (2024).  
+  <https://blog.sciencemuseum.org.uk/a-visionary-innovation-harold-ridley-and-the-first-intra-ocular-surgery/>  
+  Type: museum.
+  - `ridley-intraocular-lens`: Collaboration with John Pike of Rayner and John Holt of ICI; for those before him an intraocular lens had been a theoretical idea; operation at St Thomas' kept secret.
 
 - Ian Donald publishes the first obstetrical or gynecological sonograms. HistoryofInformation.com (after Morton's Medical Bibliography no. 2682).  
   <https://historyofinformation.com/detail.php?id=1495>  
@@ -1450,6 +1665,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ebola-ring-vaccination`: International collaboration including WHO, Médecins Sans Frontières and Guinean authorities; 'Ebola, that's enough'.
 
+- International Anesthesia Research Society. The past, present, and future of innovation in critical care.  
+  <https://iars.org/?p=53653>  
+  Type: institution.
+  - `copenhagen-polio-ventilation`: Blegdam Hospital received around 50 admissions a day, 10 to 20 with respiratory failure; nearly all with respiratory involvement died; Ibsen had earlier saved a tetanic child with sedation, curare and bag ventilation.
+
+- International Center for Artificial Organs and Transplantation (ICAOT). Virtual collections: Kolff rotating drum.  
+  <https://icaot.org/virtual-collections/>  
+  Type: museum.
+  - `kolff-dialysis`: Kolff Rotating Drum dialysis machine of 1943; 20-metre tube of cellophane sausage casing on a slatted wooden drum; Sofia Maria Schafstadt, first surviving patient, 11 September 1945.
+
 - International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature 409(6822):860–921 (15 February 2001).  
   DOI: [10.1038/35057062](https://doi.org/10.1038/35057062), <https://pubmed.ncbi.nlm.nih.gov/11237011/>  
   Type: journal.
@@ -1504,6 +1729,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.3389/ti.2024.12692](https://doi.org/10.3389/ti.2024.12692), <https://pmc.ncbi.nlm.nih.gov/articles/PMC10922001>  
   Type: journal.
   - `cyclosporine`: David White came across cyclosporin A, not felt by Sandoz to have practical use; first use in human transplantation in Cambridge in 1978; step change in kidney transplant outcomes and renewed interest in other organs.
+
+- Jansson B. Controversial psychosurgery resulted in a Nobel Prize. NobelPrize.org.  
+  <https://nobelprize.org/prizes/medicine/1949/moniz/article>  
+  Type: institution.
+  - `prefrontal-leucotomy`: In 1936 Moniz introduced prefrontal leukotomy, incisions destroying connections of the prefrontal region; it became popular in many countries; Nobel Prize 1949; Jacobsen and Fulton's chimpanzee data at the 1935 London conference.
 
 - Jeffreys AJ. Genetic fingerprinting. Nature Medicine 11(10) (2005), Lasker Award commentary.  
   <https://laskerfoundation.org/wp-content/uploads/2021/01/2005_jeffreys.pdf>  
@@ -1571,6 +1801,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `bath-laserphaco`: Co-founded the American Institute for the Prevention of Blindness; first woman faculty member at the Jules Stein Eye Institute in 1974.
 
+- Kernahan PJ. Beyond the retractor: the surgical contributions of Enrique and Ricardo Finochietto. American Surgeon 90(4):523 (2024).  
+  <https://www.pubmed.gov/36306278/>  
+  Type: journal.
+  - `finochietto-retractor`: The Finochietto thoracic retractor is familiar to most surgeons; the Finochietto brothers' contributions extend far beyond a single instrument.
+
 - Keys TE. Historical vignettes: Sir Humphry Davy. Anesthesia and Analgesia: Current Researches 1972;51(2):187 (University of Pittsburgh digital collection).  
   <https://dec.hsls.pitt.edu/files/original/c01e4cba408723bfc4134e90982d4a8b2e4d02ea.pdf>  
   Type: journal.
@@ -1596,6 +1831,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ghrelin-discovered`: Purification from rat stomach of an endogenous ligand for GHS-R; 28-amino-acid peptide; authors' affiliation at the National Cardiovascular Center Research Institute, Suita.
 
+- Kolff dialysis machine 1943–1945 (symposium abstract). VEITH Symposium (2024).  
+  <https://veithsymposium.org/2024/abstracts/vei/1277.pdf>  
+  Type: journal.
+  - `kolff-dialysis`: Schafstadt recovered and lived another seven years; after the war machines given to Hammersmith Hospital (London), Royal Victoria Hospital (Montreal) and Mount Sinai (New York).
+
+- Kolff WJ. The artificial kidney and its effect on the development of other artificial organs. Lasker Award essay (2002).  
+  <https://laskerfoundation.org/wp-content/uploads/2021/01/2002_kolff.pdf>  
+  Type: primary.
+  - `kolff-dialysis`: Rotating-drum artificial kidney, the first clinically effective artificial kidney; first patient treated in Kampen in 1943; the patient treated on 11 September 1945.
+
+- Kopin IJ. Julius Axelrod (1912–2004). Biographical Memoirs of the National Academy of Sciences 87 (2005).  
+  <https://www.nasonline.org/wp-content/uploads/2024/06/axelrod-julius.pdf>  
+  Type: institution.
+  - `paracetamol-brodie-axelrod`: In early 1946 the Institute for the Study of Analgesic and Sedative Drugs approached Axelrod's laboratory; experiments in Brodie's laboratory; the metabolite had analgesic activity and did not cause methaemoglobinaemia.
+
 - Kossakovski F. The eccentric scientist behind the gold standard COVID-19 test. National Geographic (2021).  
   <https://www.nationalgeographic.com/science/article/the-eccentric-scientist-behind-the-gold-standard-covid-19-pcr-test>  
   Type: journal.
@@ -1615,6 +1865,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.larevuedupraticien.fr/article/gaston-ramon-artisan-de-la-vaccinologie-moderne>  
   Type: journal.
   - `toxoid-vaccines`: Treated toxin no longer killed guinea pigs; tetanus anatoxin; first vaccinated were soldiers, with Christian Zoeller; results in the first hundred reported in 1926.
+
+- Ladislas J. von Meduna: a brief biography. Cérebro & Mente.  
+  <https://cerebromente.org.br/n04/historia/meduna_i.htm>  
+  Type: journal.
+  - `convulsive-therapy-ect`: Meduna used another hospital, Lipótmező, outside Budapest; camphor in a 33-year-old catatonic patient; metrazol (Cardiazol) more effective and quick-acting; metrazol therapy later abandoned in favour of electroshock.
 
 - Lakhtakia R. A trio of exemplars of medieval Islamic medicine: al-Razi, Avicenna and Ibn al-Nafis. Sultan Qaboos University Medical Journal (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4205055/>  
@@ -1671,6 +1926,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `palmaz-stent`: Inspired in 1978 by Gruentzig's presentation; Johnson & Johnson investment; approval for peripheral arteries in 1991 and coronary arteries in 1994.
 
+- Lemelson-MIT Program. Lloyd Conover: tetracycline.  
+  <https://lemelson.mit.edu/resources/lloyd-conover>  
+  Type: university.
+  - `tetracycline`: First antibiotic made by chemically modifying a naturally produced drug; team exploring Terramycin and Aureomycin with R. B. Woodward; tetracycline developed in 1952 and patented in 1955; most prescribed broad-spectrum antibiotic in the US within three years; patent upheld in 1982.
+
 - Lemelson-MIT Program. Sir Alec Jeffreys.  
   <https://lemelson.mit.edu/resources/sir-jefferys>  
   Type: university.
@@ -1696,6 +1956,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `waller-einthoven-ecg`: Waller's 1887 recording with the capillary electrometer; Waller's 1911 remark doubting extensive hospital use; Ader's earlier instrument acknowledged by Einthoven.
 
+- Life in the Fast Lane (LITFL). Claude Beck.  
+  <https://litfl.com/claude-beck/>  
+  Type: institution.
+  - `beck-defibrillation`: First successful defibrillation of the human heart (1947); resuscitation course from 1950; first successful reversal of out-of-hospital cardiac arrest with defibrillation on 22 June 1955.
+
 - Life in the Fast Lane (LITFL). Claudius Amyand.  
   <https://litfl.com/claudius-amyand/>  
   Type: institution.
@@ -1705,6 +1970,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://litfl.com/herman-snellen/>  
   Type: institution.
   - `snellen-eye-chart`: In 1862 introduced a standardised system for vision testing using optotypes and the Snellen fraction, replacing inconsistent reading materials; Optotypi ad visum determinandum.
+
+- Life in the Fast Lane (LITFL). History of electroconvulsive therapy (ECT).  
+  <https://litfl.com/history-of-ect/>  
+  Type: institution.
+  - `convulsive-therapy-ect`: ECT under general anaesthesia; first performed in 1938 by Cerletti and Bini in Rome; one of the most effective and controversial therapies; Meduna's view that the diseases were antagonistic; first injection on 23 January 1934; 11 April 1938.
 
 - Life in the Fast Lane (LITFL). History of the electrocardiogram.  
   <https://litfl.com/history-of-the-electrocardiogram/>  
@@ -1720,6 +1990,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://litfl.com/karl-landsteiner/>  
   Type: institution.
   - `landsteiner-blood-groups`: Assistant to Weichselbaum at the Institute of Pathological Anatomy, Vienna; discovered the ABO system in 1900–1901; Decastello and Sturli identified the AB group in 1902; later Rh factor discovery.
+
+- Life in the Fast Lane (LITFL). Ladislas Meduna.  
+  <https://litfl.com/ladislas-meduna/>  
+  Type: institution.
+  - `convulsive-therapy-ect`: First camphor-induced convulsive treatment on 23 January 1934 at Lipótmező asylum; methods supplanted by the electrical approach of Cerletti and Bini in 1938.
 
 - Life-threatening antibodies: the discovery of anaphylaxis (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC13459517/>  
@@ -1796,10 +2071,30 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `semmelweis-handwashing`: Two clinics with alternate-day admission; 1840–1846 mortality 98.4 vs 36.2 per 1,000; almost all deaths from puerperal fever; chloride of lime handwashing introduced 1847.
 
+- Loyola University Chicago. Man into Woman: publication history.  
+  <https://wpmu.luc.edu/narrative/publicationHistory.html>  
+  Type: university.
+  - `early-gender-affirming-surgery`: Entered Hirschfeld's institute in March 1930; Warnekros performed all but the first of four operations over sixteen months; the first, an orchiectomy, by Gohrbandt in Berlin.
+
 - Luca S, Mihaescu T. History of BCG vaccine. Maedica 8(1):53 (2013).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3749764/>  
   Type: journal.
   - `bcg-vaccine`: BCG given to more than 4 billion people with a strong safety record; efficacy remains controversial.
+
+- Lund University Faculty of Medicine. Inge Edler and Hellmuth Hertz.  
+  <https://www.medicine.lu.se/node/11>  
+  Type: university.
+  - `edler-hertz-echocardiography`: Department of Internal Medicine in Lund, 29 October 1953; first time a sensor was placed on a cardiac patient; equipment borrowed from Siemens; Edler 42 and Hertz 36.
+
+- Magnus-Hirschfeld-Stiftung. Lili Elbe (LSBTIQ biographies).  
+  <https://mh-stiftung.de/en/projects/lsbtiq-biographies/lili-elbe/>  
+  Type: institution.
+  - `early-gender-affirming-surgery`: Lili Elbe, Danish painter, one of the first people to undergo gender-affirming operations in Hirschfeld's institute and the Dresden Women's Clinic under Warnekros; died in Dresden in September 1931.
+
+- Malmström, Tage (1911–1995): Vacuum extractor. Eponyms and Names in Obstetrics and Gynaecology (Cambridge University Press).  
+  <https://www.cambridge.org/core/books/eponyms-and-names-in-obstetrics-and-gynaecology/malmstrom-tage-19111995/C794C2F4E2EF6C8F8A2152C6A1826BFB>  
+  Type: book.
+  - `malmstrom-vacuum-extractor`: References: Malmström, Nord Med 1953; Acta Obstet Gynecol Scand 1954; Bird's modification.
 
 - Maloney TR, Dilkes-Hall IE, Vlok M, et al. Surgical amputation of a limb 31,000 years ago in Borneo. Nature 2022;609(7927):547–551.  
   DOI: [10.1038/s41586-022-05160-8](https://doi.org/10.1038/s41586-022-05160-8), <https://research-repository.uwa.edu.au/en/publications/surgical-amputation-of-a-limb-31000-years-ago-in-borneo/>  
@@ -1815,6 +2110,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://historyofmedicine.com/id/10134>  
   Type: journal.
   - `lindbergh-telesurgery`: Gallbladder operation by French surgeons in New York on a patient in Strasbourg; Zeus robot; 7 September 2001; IRCAD.
+
+- Mass General Brigham news. How a landmark operation opened the door for organ transplantation.  
+  <https://news.massgeneralbrigham.org/en/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation>  
+  Type: institution.
+  - `kidney-transplant-twins`: Richard returned to a healthy and active life, and Ronald suffered no ill effects.
+
+- Mass General Brigham. How a landmark operation at Brigham and Women's Hospital 70 years ago opened the door for organ transplantation (2024).  
+  <https://www.massgeneralbrigham.org/en/about/newsroom/articles/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation>  
+  Type: institution.
+  - `kidney-transplant-twins`: Operation by Murray, Harrison and Merrill at the Peter Bent Brigham Hospital; Harrison removed the kidney from Ronald and Murray attached it in Richard; identical genes would prevent rejection.
 
 - Massachusetts General Hospital, Paul S. Russell, MD Museum of Medical History and Innovation. The Ether Dome.  
   <https://www.massgeneral.org/museum/exhibits/ether-dome>  
@@ -1860,6 +2165,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://muttermuseum.org/stories/posts/james-marion-sims-father-modern-gynecology-or-abuser/>  
   Type: museum.
   - `sims-fistula-repair`: About twelve enslaved women 'loaned' by enslavers, 1845–1849; Betsy, Lucy and Anarcha named; no anaesthesia even after it was available; belief that Black patients felt less pain; women served as nurses and assistants; no first-person accounts; statue moved in 2018.
+
+- Medela. Dr de Jong's guidelines on vacuum extraction.  
+  <https://pimd.medela.com/200-surgical-and-woundcare/articles/pvs-insights/dr.-de-jong-s-guidelines.pdf>  
+  Type: institution.
+  - `malmstrom-vacuum-extractor`: Malmström's metal cup a hollow hemisphere allowing formation of a chignon; hand pump and gauge; modern cups developed from the Malmström device.
 
 - Medical Research Council. Streptomycin treatment of pulmonary tuberculosis. BMJ 1948;2:769–782. (pp. 769–782)  
   <https://www.jameslindlibrary.org/medical-research-council-1948b/>  
@@ -1916,6 +2226,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `artificial-skin`: Silicone covering; epidermal autograft for large wounds; new dermis lacks sweat glands and hair follicles.
 
+- Monath TP, et al. (review). The 17D yellow fever vaccine: history and duration of protection. Ther Adv Vaccines (2014).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3991151>  
+  Type: journal.
+  - `yellow-fever-17d`: Since its development in 1937, the live-attenuated 17D vaccine has been one of the most effective vaccines; Theiler created the first attenuated strain.
+
 - Moore W. Keeping mum. BMJ (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1839178/>  
   Type: journal.
@@ -1945,6 +2260,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://mail.peterbowditch.com/writing/ausscience/ausscience1505_homeo_nhmrc_st.pdf>  
   Type: institution.
   - `hahnemann-homeopathy`: No health conditions with reliable evidence of effectiveness; homeopathy should not be used for chronic, serious or potentially serious conditions; ideas of similars and memory of highly diluted substances; people may put their health at risk by rejecting or delaying effective treatments.
+
+- National History Day project: Compound X (citing Yale Alumni Magazine, 2011).  
+  <https://site.nhd.org/82152043/ProjX>  
+  Type: institution.
+  - `nitrogen-mustard-chemotherapy`: Winternitz arranged the contract and assigned Gilman and Goodman to nitrogen mustards in 1942; Lindskog allowed them to test it.
 
 - National Human Genome Research Institute. Human Genome Project fact sheet and completion FAQ.  
   <https://www.genome.gov/human-genome-project/completion-faq>  
@@ -1981,6 +2301,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `metered-dose-inhaler`: Developed at Riker Laboratories, a subsidiary of Rexall, and introduced in 1956; Susie Maison's question about a spray like hairspray; Maison's role as president.
 
+- National Inventors Hall of Fame. Lloyd H. Conover: tetracycline, US Patent 2,699,054.  
+  <https://invent.org/inductees/lloyd-h-conover>  
+  Type: institution.
+  - `tetracycline`: Invented tetracycline in 1952; commercialised in 1953; quickly the most prescribed broad-spectrum antibiotic.
+
+- National Library of Medicine, Profiles in Science. Julius Axelrod: work on the sympathomimetic amines, 1946–1958.  
+  <https://profiles.nlm.nih.gov/spotlight/hh/feature/amines>  
+  Type: institution.
+  - `paracetamol-brodie-axelrod`: 1946 grant from the Institute for the Study of Analgesic and Sedative Drugs to the Laboratory of Industrial Hygiene; users of non-aspirin analgesics such as Bromo-Seltzer developed methaemoglobinaemia; acetanilide the problem; they suggested acetaminophen; 1948 paper 'The fate of acetanilide in man'.
+
 - National MagLab (National High Magnetic Field Laboratory). Electrocardiograph – 1903.  
   <https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/electrocardiograph-1903/>  
   Type: institution.
@@ -2012,6 +2342,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   - `pasteur-attenuated-vaccines`: Chicken cholera cultures lost virulence in 1879 and protected chickens; 'attenuation'; Pouilly-le-Fort: 24 sheep, 1 goat and 6 cows vaccinated on 5 and 17 May 1881, controls, challenge on 31 May, results on 2 June; Chamberland's notebooks show potassium dichromate attenuation similar to Toussaint's; Jenner's inspiration.
   - `pasteur-rabies-vaccine`: Rabies agent weakened by air-drying infected rabbit spinal cord; Meister received 13 inoculations and survived; notebooks show two people vaccinated before Meister, one of whom died.
 
+- Nature Milestones in Vaccines: Yellow fever vaccine (2020).  
+  <https://www.nature.com/articles/d42859-020-00012-9>  
+  Type: journal.
+  - `yellow-fever-17d`: Theiler at Harvard, then the Rockefeller Foundation from 1930; 1931 test of a mouse-brain French-strain vaccine with immune serum; Theiler and Smith's 1937 J Exp Med papers on a live attenuated strain grown in chick embryo tissue; licensed in 1938; more than 850 million doses; 1951 Nobel Prize.
+
+- Nature Milestones in Vaccines: Yellow fever vaccine (PDF).  
+  <https://media.nature.com/original/magazine-assets/d42859-020-00012-9/d42859-020-00012-9.pdf>  
+  Type: journal.
+  - `yellow-fever-17d`: Up to half of people with severe disease die; mouse-brain virus could cause encephalitis; 17D isolated after passages in mouse embryonic tissue and later chick embryo without brain and spinal cord.
+
 - Nature Milestones: HPV vaccines.  
   <https://media.nature.com/original/magazine-assets/d42859-020-00019-2/d42859-020-00019-2.pdf>  
   Type: journal.
@@ -2021,6 +2361,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://phys.org/news/2010-08-ancient-brew-masters-drug-secrets.pdf>  
   Type: journal.
   - `nubian-tetracycline`: Prior histological evidence (Bassett et al., 1980) met with scepticism over taphonomic contamination; acid extraction and mass spectroscopic confirmation; source tied to grain containing Streptomyces.
+
+- Nelson ML, Levy SB. The history of the tetracyclines. Ann N Y Acad Sci (2011).  
+  <https://www.researchgate.net/profile/Mark_Nelson19/publication/51907943_The_history_of_the_tetracyclines/links/59e4e956458515250246e9ee/The-history-of-the-tetracyclines.pdf>  
+  Type: journal.
+  - `tetracycline`: Tetracyclines discovered as natural products from actinomycete soil bacteria and first reported in 1948; Aureomycin discovered by Lederle; Duggar headed the soil screening.
 
 - New York Academy of Medicine. Edwin Smith Surgical Papyrus.  
   <https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/>  
@@ -2036,6 +2381,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4109615/>  
   Type: journal.
   - `kangaroo-mother-care`: Edgar Rey Sanabria established kangaroo care in 1978 in response to overcrowding and lack of resources; WHO Sasakawa Health Prize 1991.
+
+- News 5 Cleveland. The story of how the defibrillator was born in Cleveland (2017).  
+  <https://www.news5cleveland.com/news/70th-anniversary-of-first-defibrillation-in-the-world-which-happened-in-cleveland>  
+  Type: journal.
+  - `beck-defibrillation`: The patient was Richard Heyard, a 14-year-old from Stark County, at University Hospitals; heart restarted with two jolts after 45 minutes.
 
 - NIH Office of Technology Transfer. Havrix: waging war against a common enemy. Case study (2002).  
   <https://www.techtransfer.nih.gov/sites/default/files/documents/pdfs/HavrixCS.pdf>  
@@ -2203,6 +2553,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `annedda-scurvy`: Cartier hid the poor health of his crew; Domagaya had the medicine prepared by two women; annedda believed to be eastern white cedar; 25 sailors died.
 
+- Parry T. Heart and lung. Jefferson Magazine (2020).  
+  <https://magazine.jefferson.edu/issues/fall-2020/heart-and-lung.html>  
+  Type: university.
+  - `gibbon-heart-lung-machine`: First successful cardiopulmonary bypass surgery in May 1953; fatal setbacks occurred; Cecelia Bavolek born with an atrial septal defect, in heart failure at 18.
+
 - Passive immunization: toward magic bullets (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7150278/>  
   Type: journal.
@@ -2217,6 +2572,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3883152/>  
   Type: journal.
   - `jenner-cowpox-vaccination`: Benjamin Jesty of Yetminster performed cowpox vaccinations at Chetnole in 1774; two subjects later resisted variolation.
+
+- Peak Iowa: how two UI scientists bred the first sperm bank. Little Village.  
+  <https://littlevillagemag.com/peak-iowa-how-two-ui-scientists-bred-the-first-sperm-bank/>  
+  Type: journal.
+  - `frozen-sperm-pregnancies`: Attempts to freeze sperm for almost 100 years; Sherman determined the glycerol-to-semen ratio; concerns about how to share the news.
 
 - Pearce JMS. Robert Hooke and Micrographia. Hektoen International, Spring 2023.  
   <https://hekint.org/?p=40299>  
@@ -2263,10 +2623,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pasteur-attenuated-vaccines`: Public trial at a farm in Pouilly-le-Fort, near Paris, in May 1881.
 
+- Preamble to the Constitution of the World Health Organization (SSWM record).  
+  <https://www.sswm.info/node/784>  
+  Type: institution.
+  - `who-founded`: Adopted by the International Health Conference, New York, 19–22 June 1946; signed on 22 July 1946 by 61 states; entered into force on 7 April 1948.
+
 - Professor John Pickup interview. DESANG.  
   <https://desang.net/?p=8617>  
   Type: institution.
   - `insulin-pump`: CSII was Harry Keen's idea; Pickup part of the first trial of a portable insulin pump; the pump is now in the Science Museum, London.
+
+- Proto (Massachusetts General Hospital). On 12 November 1935, Moniz's first leucotomy.  
+  <https://protomag-dev.partners.org/?p=13150>  
+  Type: journal.
+  - `prefrontal-leucotomy`: On 12 November 1935 Moniz attempted surgery to relieve severe mental disorder; Lima drilled holes and injected alcohol.
 
 - Prozac molecule: fluoxetine. World of Molecules.  
   <https://www.worldofmolecules.com/drugs/prozac.htm>  
@@ -2383,6 +2753,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `koch-tuberculosis`: Improved staining and media in Berlin; constant presence of bacilli in lesions of humans and animals; pure culture on blood serum; Nobel Prize 1905.
 
+- Robert W. Briggs. Biographical Memoirs, National Academy of Sciences.  
+  <https://www.nasonline.org/wp-content/uploads/2024/06/briggs-robert-w.pdf>  
+  Type: institution.
+  - `briggs-king-nuclear-transfer`: Briggs recruited Tom King to the nuclear transplantation project and in 1952 they had their first success.
+
 - Roberts R, Mosley A, Mathie RT, Baitson E, Tournier A. The Australian report: an in-depth analysis of the highly influential 2015 overview report on homeopathy. Homeopathy 2018;107(S01) (abstract).  
   DOI: [10.1055/s-0038-1633302](https://doi.org/10.1055/s-0038-1633302), <https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0038-1633302?lang=en>  
   Type: journal.
@@ -2488,6 +2863,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `priestley-oxygen`: Isolated a new air on 1 August 1774; called it dephlogisticated air under phlogiston theory; demonstrated it to Lavoisier, who named it oxygen and campaigned against phlogiston; Priestley resisted the new chemistry.
 
+- Science History Institute. Lloyd H. Conover Papers (finding aid).  
+  <https://sciencehistory.libraryhost.com/repositories/3/resources/65>  
+  Type: archive.
+  - `tetracycline`: In 1952 Conover stripped the aureomycin molecule of chlorine and replaced it with hydrogen; tetracycline more potent; patented in 1955; effective against salmonella, gonorrhoea and pneumonia.
+
 - Science History Institute. Louis Pasteur (historical profile).  
   <https://www.sciencehistory.org/scientific-bios/historical-profile-louis-pasteur>  
   Type: institution.
@@ -2512,6 +2892,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://collection.sciencemuseumgroup.org.uk/people/ap28739/berger-hans>  
   Type: museum.
   - `berger-eeg`: Joined the University of Jena psychiatric clinic; in June 1924 attached electrodes to a galvanometer, providing the first EEG recording; published in 1929.
+
+- Science Museum Group Collection. Malmström's obstetrical vacuum extractor, Gothenburg, Sweden, 1979.  
+  <https://collection.sciencemuseumgroup.org.uk/objects/co96571/malmstroms-obstetrical-vacuum-extractor-gothenburg-sweden-1979>  
+  Type: museum.
+  - `malmstrom-vacuum-extractor`: Designed by Malmström in the 1950s and made by AB Vacuum Extractor in Gothenburg; used in place of forceps; revived Simpson's 1849 idea.
 
 - Science Museum Group Collection. Walter, William Grey (1910–1977).  
   <https://collection.sciencemuseumgroup.org.uk/people/ap28659/walter-william-grey>  
@@ -2553,6 +2938,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `pertussis-vaccine`: Kendrick brought Eldering to Grand Rapids in 1932 and began research during a virulent outbreak; Madsen's Faroe Islands studies in the 1920s; Bordet and Gengou identified the bacterium in 1906; many commercial vaccines in the 1920s; successful, large-scale, controlled trial.
 
+- Sherman JK, Bunge RG. Observations on preservation of human spermatozoa at low temperatures. Proc Soc Exp Biol Med 82 (1953).  
+  <https://www.ebm-journal.org/journals/experimental-biology-and-medicine/articles/10.3181/00379727-82-20219/full>  
+  Type: primary.
+  - `frozen-sperm-pregnancies`: Department of Urology, State University of Iowa; Sherman a PhD candidate; survival of human sperm at low temperatures; comparison of freezing methods including dry ice.
+
 - Shorter E. The history of lithium therapy. Bipolar Disorders 2009;11(Suppl 2):4–9. (pp. 4–9)  
   DOI: [10.1111/j.1399-5618.2009.00706.x](https://doi.org/10.1111/j.1399-5618.2009.00706.x), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3712976/>  
   Type: journal.
@@ -2568,6 +2958,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hepatitis-a-vaccines`: Inactivated vaccines licensed in 1991 (Europe) and 1995 (United States); live attenuated vaccine available in China since 1992; virus identified by electron microscopy at the NIH.
 
+- Siemens Healthineers MedMuseum. A honeymoon at Siemens: the birth of echocardiography (2021).  
+  <https://www.medmuseum.siemens-healthineers.com/en/stories-from-the-museum/echokardiographie>  
+  Type: museum.
+  - `edler-hertz-echocardiography`: In May 1953 Hertz borrowed an ultrasound materials-testing device; it was unsuitable for advanced examinations; Siemens contacts provided a medical device.
+
+- Singh S, Goyal A. The origin of echocardiography: a tribute to Inge Edler. Tex Heart Inst J (2007).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC3673607/>  
+  Type: journal.
+  - `edler-hertz-echocardiography`: First echocardiographic recording on Thursday 29 October 1953, published in 1954; Siemens Ultrasound Reflectoscope; a completely new non-invasive diagnostic technique.
+
 - Smallpox vaccines for biodefense: need and feasibility (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9709930/>  
   Type: journal.
@@ -2582,6 +2982,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1038/nm.3154](https://doi.org/10.1038/nm.3154), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3650107>  
   Type: journal.
   - `bioengineered-organs`: Perfusion decellularisation of rat kidneys; regenerated grafts transplanted in rats were perfused by the recipient's circulation and produced urine; Massachusetts General Hospital.
+
+- Soper FL, Smith HH. Vaccination with virus 17D in the control of jungle yellow fever in Brazil. NLM Digital Collections.  
+  <https://digirepo.nlm.nih.gov/pdf/nlm:nlmuid-101584650X65-doc>  
+  Type: primary.
+  - `yellow-fever-17d`: In December 1933 Lloyd transferred the Asibi strain to tissue culture; later passages in whole chick embryo and in chick embryo without the central nervous system gave virus 17D.
 
 - Spinal cord injury: past, present, and future (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2031949/>  
@@ -2618,6 +3023,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `edwin-smith-papyrus`: Discovered in 1862 outside Luxor; a copy of an earlier text; 48 cases, mostly traumatic injuries.
 
+- Stier C. A tale from Boston's history: the first human organ transplantation. Nature blogs.  
+  <https://blogs.nature.com/blog/a-tale-from-boston-s-history-the-first-human-organ-transplantation/>  
+  Type: journal.
+  - `kidney-transplant-twins`: The twins gave Murray an opportunity to transplant without immune rejection; the operation took five and a half hours.
+
 - Stone JL, Hughes JR. Early history of electroencephalography and establishment of the American Clinical Neurophysiology Society. J Clin Neurophysiol (2013).  
   <https://www.aset.org/wp-content/uploads/2021/12/Early_History_of_Electroencephalography_and_2.pdf>  
   Type: journal.
@@ -2637,6 +3047,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1586/17434440.2014.862494](https://doi.org/10.1586/17434440.2014.862494), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652>  
   Type: journal.
   - `argus-ii-retinal-prosthesis`: First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa.
+
+- Styles R. Did you know trans-affirming surgery began in Berlin? The Berliner.  
+  <https://www.the-berliner.com/berlin/trans-affirming-care-history-in-berlin/>  
+  Type: journal.
+  - `early-gender-affirming-surgery`: Hirschfeld's Institute for Sexual Science with Levy-Lenz, Warnekros and Gohrbandt; Dora Richter widely recognised as the first to undergo a series of gender-affirming surgeries, with an orchidectomy in 1922; she worked at the institute.
+
+- Surgeon who saw the way forward (obituary). The Irish Times (2001).  
+  <https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/news/surgeon-who-saw-the-way-forward-1.311155>  
+  Type: journal.
+  - `ridley-intraocular-lens`: About six million of seven million cataract operations a year depend on lens implantation, a technique he first performed at St Thomas's in 1949.
+
+- Surgical eponyms: retractors. British Journal of Surgery 110(9):1122 (2023).  
+  <https://academic.oup.com/bjs/article/110/9/1122/6958497>  
+  Type: journal.
+  - `finochietto-retractor`: Burford–Finochietto self-retaining rib spreader with changeable blades; Finochietto chief surgeon at the Rawson Hospital and professor in Buenos Aires; 67 surgical items and instruments.
 
 - Sutherland DER, et al. Lessons learned from more than 1,000 pancreas transplants at a single institution. Ann Surg (2001), PubMed Central PMC1421277.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1421277>  
@@ -2658,6 +3083,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `bioengineered-organs`: Liver buds from human iPSCs; vessels connected within 48 hours; rescued a drug-induced lethal liver failure model.
 
+- Tan SY, Yip A. António Egas Moniz (1874–1955): lobotomy pioneer and Nobel laureate. Singapore Med J 55(4):175 (2014).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC4291941>  
+  Type: journal.
+  - `prefrontal-leucotomy`: Moniz introduced the infamous frontal lobotomy; Almeida Lima assisted because Moniz had gouty hands.
+
 - Taniguchi T, Fujii-Kuriyama Y, Muramatsu M. Molecular cloning of human interferon cDNA. PNAS (1980).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC349756>  
   Type: journal.
@@ -2667,6 +3097,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www3.paho.org/english/dd/pin/Number11_article6.htm>  
   Type: institution.
   - `balmis-expedition`: Royal order of 1 September 1803; Salvany's route through Cartagena, Panama and Santafé de Bogotá and the countries of western South America; orphan children used for arm-to-arm transfer.
+
+- Tattersall R. Insulin and the mind (online version). Diabetes on the Net.  
+  <https://diabetesonthenet.com/diabetes-digest/insulin-and-the-mind-coma-therapy-in-schizophrenia/>  
+  Type: journal.
+  - `insulin-coma-therapy`: In 1933 Sakel returned to Vienna to the university psychiatric clinic and began testing whether insulin coma could cure schizophrenia.
+
+- Tattersall R. Insulin and the mind: coma therapy in schizophrenia. Diabetes Digest.  
+  <https://diabetesonthenet.com/wp-content/uploads/dd8-1-6-8.pdf>  
+  Type: journal.
+  - `insulin-coma-therapy`: Around 1930 Sakel worked at a Berlin clinic for morphine addicts; returned to Vienna in 1933; claimed 70% full remission in 1934; up to 20 patients treated together; Bourne's 1953 critique.
 
 - Technology's Stories (Society for the History of Technology). Article on the origins of surgical anaesthesia (PDF, 2015).  
   <https://www.technologystories.org/wp-content/uploads/2015/04/Wright_article.pdf>  
@@ -2717,6 +3157,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmlive.com/pharma_news/this_month_in_1924_the_birth_of_sir_james_black_579329>  
   Type: journal.
   - `propranolol-beta-blocker`: Propranolol revolutionised treatment of hypertension; sold as Inderal by ICI.
+
+- The chaotic beginnings of the tool that made heart surgery possible. Medical Design & Development (AHA News).  
+  <https://www.medicaldesigndevelopment.com/topics/surgical/news/22925484/the-chaotic-beginnings-of-the-tool-that-made-heart-surgery-possible>  
+  Type: journal.
+  - `gibbon-heart-lung-machine`: The diagnosis was wrong and the child died; Bavolek on the machine for 45 minutes; cross-circulation operation on 26 March 1954; the Mayo team's work.
 
 - The Cutter incident: how America's first polio vaccine led to the growing vaccine crisis (book review, PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1410842/>  
@@ -2773,6 +3218,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `heart-lung-transplant`: Operation on 9 March 1981; Gohlke had primary pulmonary hypertension; FDA had approved cyclosporin A for heart transplants but not heart–lung patients; she contacted Reitz after reading of his monkey transplants.
 
+- The first use of nitrogen mustard (history feature). MDedge.  
+  <https://cdn.mdedge.com/files/s3fs-public/issues/articles/70173_main_4.pdf>  
+  Type: journal.
+  - `nitrogen-mustard-chemotherapy`: The clandestine treatment at Yale was the first therapeutic use of nitrogen mustard; protocols at Yale, the University of Chicago and Sloan-Kettering; secrecy prevented publication until 1946.
+
 - The first working PET scanner (perspective). J Nucl Med 61(Suppl 2):166S (2020).  
   <https://jnm.snmjournals.org/content/61/Supplement_2/166S>  
   Type: journal.
@@ -2813,6 +3263,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ghrelin-discovered`: Kangawa's group in Osaka identified the natural signal in 1999; origin of the name ghrelin; appetite-stimulating role.
 
+- The insulin myth, 60 years on. BJPsych Bulletin (Cambridge Core).  
+  <https://www.cambridge.org/core/product/46DDAD707E6C62F9C6305E2D1BD01358/core-reader>  
+  Type: journal.
+  - `insulin-coma-therapy`: Bourne's 1953 Lancet paper 'The insulin myth'; comas for up to 15 minutes, five or six mornings a week, for up to ten weeks; developed by Sakel at the Vienna clinic; textbooks still advocated it in 1960; a randomised trial showed it was not useful.
+
 - The Lister Lecture, 1964: wound sepsis, from carbolic acid to hyperbaric oxygen (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1928284/>  
   Type: journal.
@@ -2827,6 +3282,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://investigationsquality.com/tag/biologics/>  
   Type: journal.
   - `human-insulin-recombinant`: FDA approval of Humulin on 28 October 1982 after five months of review.
+
+- The National WWII Museum. Medical innovations: under occupation, the development of dialysis.  
+  <https://www.nationalww2museum.org/war/articles/medical-innovations-dialysis>  
+  Type: museum.
+  - `kolff-dialysis`: Kolff developed the first dialysis machine in secret under German occupation; after the war he went to the United States; the first successful patient was a collaborator.
 
 - The new insulin. Invention & Technology magazine.  
   <https://www.inventionandtech.com/node/86059>  
@@ -2908,6 +3368,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `sushruta-samhita`: Written in Sanskrit about two thousand years ago; foundation of Ayurveda; MS Kathmandu KL 699 reliably datable to 878 CE; UNESCO Memory of the World.
 
+- The weird and brilliant innovations that led to electroconvulsive therapy. Fast Company.  
+  <https://www.fastcompany.com/91623228/electroshock-therapy-history-benefits>  
+  Type: journal.
+  - `convulsive-therapy-ect`: At the Clinic for Nervous and Mental Disorders in Rome on 11 April 1938, Cerletti and Bini placed electrodes on the temples of a patient; Metrazol or Cardiazol achieved a faster convulsion.
+
 - The XIX century smallpox prevention in Naples and the risk of transmission of human blood-related pathogens (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4328853/>  
   Type: journal.
@@ -2938,6 +3403,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `insulin-toronto`: Macleod's view that early presentations had not proved an internal secretion more definitely than previous investigators.
 
+- Thomas Jefferson University Archives. Dr John H. Gibbon Jr. and Jefferson's heart-lung machine.  
+  <https://library.jefferson.edu/archives/collections/highlights/Gibbon>  
+  Type: university.
+  - `gibbon-heart-lung-machine`: On 6 May 1953 at Jefferson Medical College Hospital; first successful intracardiac surgery of its kind; Model II machine; in 1930 Gibbon assisted Churchill in an emergency pulmonary embolectomy.
+
 - Thomson JA, Itskovitz-Eldor J, Shapiro SS, et al. Embryonic stem cell lines derived from human blastocysts. Science 282(5391):1145–1147 (1998).  
   <https://courses.grainger.illinois.edu/bioe476/fa2019/paper%20readings/thomson_science_1998.pdf>  
   Type: journal.
@@ -2967,6 +3437,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://tri.edu.au/node/4597>  
   Type: institution.
   - `hpv-vaccine`: Zhou died in 1999; virus-like particles self-assembling from HPV surface proteins; technology licensed in 1995 through CSL to Merck.
+
+- Transonic. First artificial kidney built in war-torn Netherlands by W. J. Kolff (2016).  
+  <https://blog.transonic.com/artificial-kidney-w.j.-kolff>  
+  Type: institution.
+  - `kolff-dialysis`: Stainless steel drum in dialysing fluid; manufactured with the director of the Kampen enamel factory; on 11 September 1945 Schafstadt was dialysed for 11 hours.
 
 - Trudel M. Donnacona. Dictionary of Canadian Biography, vol. 1. University of Toronto/Université Laval.  
   <https://www.biographi.ca/en/bio/177>  
@@ -3018,6 +3493,31 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `mohenjo-daro-drainage`: Located on the right bank of the Indus, 28 km from Larkana; best preserved urban settlement in South Asia.
 
+- United States v. Pfizer (complaint concerning the tetracycline patent). US Department of Justice (1974).  
+  <https://www.justice.gov/d9/case-documents/attachments/1974/05/30/339310.pdf>  
+  Type: primary.
+  - `tetracycline`: Action alleging fraud on the Patent Office in obtaining the Conover tetracycline patent issued to Pfizer on 11 January 1955.
+
+- University Hospitals. UH celebrates 70th anniversary of world's first successful cardiac defibrillation (2018).  
+  <https://uhhospitals.org/for-clinicians/articles-and-news/articles/2018/01/uh-celebrates-70th-anniversary-of-worlds-first-successful-cardiac-defibrillation>  
+  Type: institution.
+  - `beck-defibrillation`: In December 1947 Beck operated on a 14-year-old boy to repair a congenital chest defect; ventricular fibrillation; first shock failed; massage and a second shock succeeded; the boy lived a normal life.
+
+- University of Bristol, Molecule of the Month. Doxycycline (2011).  
+  <https://www.chm.bris.ac.uk/motm/doxycycline/DOXYCYCLINE%20-%20MOTM%20September%202011.pdf>  
+  Type: university.
+  - `tetracycline`: In 1952 chlortetracycline could be hydrogenated to tetracycline; Pfizer isolated oxytetracycline; Woodward's team solved its structure in 1953.
+
+- University of Bristol, Molecule of the Month. Sulfanilamide (and its relatives).  
+  <https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamidejs.htm>  
+  Type: university.
+  - `prontosil-sulfonamides`: Directed experimental pathology at IG Farben, Elberfeld; late 1932 KL730 worked against streptococci in mice but not in vitro; patent applied for on Christmas Day 1932; secret clinical trials; first paper on Prontosil.
+
+- University of Bristol, Molecule of the Month. Sulfanilamide (history page).  
+  <https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamideh.htm>  
+  Type: university.
+  - `prontosil-sulfonamides`: German patent granted on 2 January 1935; Colebrook's 1936 work for the Medical Research Council; mortality from over 20% to 4%; sulfanilamide.
+
 - University of California Museum of Paleontology. Robert Hooke (1635–1703).  
   <https://ucmp.berkeley.edu/history/hooke.html>  
   Type: university.
@@ -3038,10 +3538,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `dolly-cloned-sheep`: Born 5 July 1996; first cloning from an adult mammalian somatic cell by somatic cell nuclear transfer; led by Ian Wilmut; stepping stone between Gurdon's work and Yamanaka's induced pluripotent stem cells; ethical debate.
 
+- University of Florida. Treatment of polio led to the evolution of the modern ICU (2011).  
+  <https://news.drgator.ufl.edu/2011/12/16/treatment-of-polio-led-to-the-evolution-of-the-modern-icu>  
+  Type: university.
+  - `copenhagen-polio-ventilation`: Not nearly enough iron lungs; Ibsen suggested positive-pressure ventilation by tracheostomy; first intensive care unit established at Kommunehospitalet in Copenhagen in December 1953.
+
 - University of Glasgow. Marking 50 years of ultrasound. News, 5 June 2008.  
   <https://www.gla.ac.uk/news/archiveofnews/2008/june/headline_80163_en.html>  
   Type: university.
   - `donald-obstetric-ultrasound`: Lancet paper in June 1958; Donald and McVicar, obstetricians at the Western Infirmary, and Tom Brown of Kelvin Hughes; more than 100 patients scanned.
+
+- University of Iowa Carver College of Medicine. First cryobank for frozen semen; first human pregnancy from frozen sperm (1953).  
+  <https://medicine.uiowa.edu/node/5401>  
+  Type: university.
+  - `frozen-sperm-pregnancies`: The first cryobank for frozen semen established at Iowa, based on work by Sherman and Bunge in the Department of Urology; first successful human pregnancy from frozen sperm.
 
 - University of Iowa, John Martin Rare Book Room (HEIRS). Davy H. Researches, chemical and philosophical, chiefly concerning nitrous oxide. Bristol: Biggs & Cottle, 1800.  
   <https://heirs.lib.uiowa.edu/record.php?id=1338.5>  
@@ -3077,6 +3587,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://umc.edu/news/News_Articles/2013/June/UMMC-marks-50th-anniversary-of-world-s-first-lung-transplant.html>  
   Type: institution.
   - `lung-transplant-hardy`: Hardy's team performed the first human-to-human lung transplant on 11 June 1963; dean Robert Marston granted permission under agreed conditions; Russell offered a transplant of his left lung.
+
+- University of North Carolina Health Sciences Library. Enrique Finochietto (1881–1948).  
+  <https://hsl.lib.unc.edu/?p=3831>  
+  Type: university.
+  - `finochietto-retractor`: Chief of the surgical division at the Rawson Hospital, Buenos Aires, where he designed his own surgical pavilion.
 
 - University of Oxford, Cabinet. Harvey's teacher in Padua: Hieronymus Fabricius of Aquapendente (commentary).  
   <https://www.cabinet.ox.ac.uk/node/836>  
@@ -3193,6 +3708,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ibn-al-nafis-pulmonary-circulation`: Dates (1213–1288); challenged Galen's septal pores; all blood reaching the left ventricle passes through the lung; Commentary on Anatomy in Avicenna's Canon.
 
+- West JB. The physiological challenges of the 1952 Copenhagen poliomyelitis epidemic and a renaissance in clinical respiratory physiology. J Appl Physiol (2005).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC1351016>  
+  Type: journal.
+  - `copenhagen-polio-ventilation`: Large numbers of bulbar polio cases with respiratory paralysis; the hospital had only one Emerson tank respirator and six cuirass respirators; some 1,500 students took part in hand ventilation.
+
+- Wettrell G. Chance favors the prepared mind. Hektoen International.  
+  <https://hekint.org/?p=1532>  
+  Type: journal.
+  - `edler-hertz-echocardiography`: Met in May 1953; Edler aimed to evaluate mitral stenosis; Siemens built ultrasonic reflectoscopes for industrial use; loaned for one year and never returned; pericardial effusion diagnosed in 1955 and atrial myxoma a year later.
+
+- Wettrell G. Echocardiogram: the first ultrasound picture of the moving heart. Hektoen International (2017).  
+  <https://hekint.org/2017/01/27/echocardiogram-the-first-ultrasound-picture-of-the-moving-heart/>  
+  Type: journal.
+  - `edler-hertz-echocardiography`: First echocardiogram recorded on 29 October 1953; Gustav Hertz had directed the Siemens research laboratory; the reflectoscope in use until 1965.
+
 - What is the evidence? Updates in the use of antenatal corticosteroids for patients at risk of preterm birth (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11609463/>  
   Type: journal.
@@ -3232,6 +3762,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.4140/TCP.n.2013.538](https://doi.org/10.4140/TCP.n.2013.538), <https://pubmed.ncbi.nlm.nih.gov/24007886/>  
   Type: journal.
   - `benzodiazepines-diazepam`: Sternbach identified chlordiazepoxide in 1955; marketed as Librium by 1960; Valium followed in 1963; initially appeared less toxic and less likely to cause dependence than older drugs.
+
+- Wilkinson C. Tools of the trade: the evolution of the obstetric vacuum extractor. O&G Magazine 17(4) (2015).  
+  <https://www.ogmagazine.org.au/17/4-17/evolution-obstetric-vacuum-extractor/>  
+  Type: journal.
+  - `malmstrom-vacuum-extractor`: Design and use of the vacuum extractor over 300 years; Malmström's original cup design; Simpson's air tractor abandoned in favour of forceps; Malmström publicised his design in 1957.
+
+- Willem Kolff and the dawn of modern nephrology (review). PubMed Central PMC11466315.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC11466315/>  
+  Type: journal.
+  - `kolff-dialysis`: Fifteen years after Georg Haas's last human dialysis in Giessen, Kolff's 1943 machine used cellophane tubing on a rotating drum; built with an engineer; 15 of 16 patients died.
+
+- William B. Kouwenhoven: a father of CPR. JEMS.  
+  <https://www.jems.com/patient-care/cardiac-resuscitation/william-b-kouwenhoven-a-father-of-cpr/>  
+  Type: journal.
+  - `beck-defibrillation`: Pectus excavatum operation in 1947; fibrillation as the chest was closed; Beck massaged the heart for 45 minutes before the shock.
 
 - William C. DeVries. Encyclopedia.com.  
   <https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/william-c-devries>  
@@ -3288,6 +3833,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `smallpox-eradication`: Ali Maow Maalin, 23-year-old hospital cook and former vaccinator in Merca; contact with two infected children in October 1977.
 
+- World Health Organization. History of WHO.  
+  <https://www.who.int/about/history>  
+  Type: institution.
+  - `who-founded`: The constitution would come into force when 26 UN members ratified it; it came into force on 7 April 1948; the first Health Assembly opened in Geneva on 24 June 1948 with 53 of 55 member states.
+
 - World Health Organization. Malaria vaccine implementation programme.  
   <https://www.who.int/initiatives/malaria-vaccine-implementation-programme>  
   Type: institution.
@@ -3338,6 +3888,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `face-transplants`: First full-face transplant at Vall d'Hebron Hospital, Barcelona, March 2010, led by Joan Pere Barret.
 
+- Wright BA. An historical review of electroconvulsive therapy. Jefferson Journal of Psychiatry 8(2) (1990).  
+  <https://core.ac.uk/download/46967235.pdf>  
+  Type: journal.
+  - `convulsive-therapy-ect`: First clinical trial of ECT by Cerletti and Bini at the University of Rome in 1938; on 23 January 1934 Meduna injected camphor oil into a patient in catatonic stupor for four years; improvement with five seizures; switch to Metrazol for an immediate convulsion.
+
 - Wrightington, Wigan and Leigh NHS Foundation Trust. Pioneer of hip replacement surgery: Professor Sir John Charnley.  
   <https://www.wwl.nhs.uk/pioneer-of-hip-replacement-surgery>  
   Type: institution.
@@ -3387,6 +3942,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ccjm.org/content/57/1_suppl_1/S-4.full.pdf>  
   Type: journal.
   - `benzodiazepines-diazepam`: Sternbach at Roche's Medicinal Chemistry Research Department, Nutley, from 1941; chlordiazepoxide introduced in 1960 as the first clinically marketed benzodiazepine.
+
+- Yale Center for Clinical Investigation. Chemotherapy: from the trenches of warfare a weapon to fight cancer.  
+  <https://medicine.yale.edu/ycci/clinicaltrials/learnmore/tradition/chemotherapy/>  
+  Type: university.
+  - `nitrogen-mustard-chemotherapy`: First patient a man in the terminal stages of lymphosarcoma no longer responding to radiation; results a military secret until published in JAMA in 1946.
+
+- Yale Medicine Magazine. Surgeons find new twists to an old story.  
+  <https://medicine.yale.edu/news/yale-medicine-magazine/surgeons-find-new-twists-to-an-old-story/>  
+  Type: university.
+  - `nitrogen-mustard-chemotherapy`: Goodman and Gilman worked under a secret government contract; discovery classified; J.D. mentioned only once, in JAMA in 1946.
+
+- Yale School of Medicine. The birth of chemotherapy at Yale: from wartime secrecy to modern cancer care.  
+  <https://medicine.yale.edu/news-article/the-birth-of-chemotherapy-at-yale-from-wartime-secrecy-to-modern-cancer-care/>  
+  Type: university.
+  - `nitrogen-mustard-chemotherapy`: In 1942 Yale physicians gave the first intravenous chemotherapy to a patient with advanced lymphoma; nitrogen mustard from classified research; lymphoma in mice and rabbits shrank; on 27 August 1942 J.D. became the first person to receive it; prototype alkylating agent.
+
+- Yearbook of the United Nations 1947–48: World Health Organization.  
+  <https://cdn.un.org/unyearbook/yun/chapter_pdf/1947-48YUN/1947-48_P2_SEC8.pdf>  
+  Type: primary.
+  - `who-founded`: On 7 April 1948 WHO came officially into being, 26 Members of the United Nations having accepted its Constitution.
 
 - yourgenome (Wellcome Connecting Science). The dawn of DNA profiling.  
   <https://www.yourgenome.org/theme/the-dawn-of-dna-profiling-the-eureka-moment-that-revolutionised-crime-solving/>  

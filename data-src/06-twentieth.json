@@ -4358,7 +4358,8 @@
       }
     ],
     "related": [
-      "pantridge-mobile-defibrillator"
+      "pantridge-mobile-defibrillator",
+      "beck-defibrillation"
     ],
     "suggestedBy": "wikipedia-timeline"
   },
@@ -4806,7 +4807,8 @@
       }
     ],
     "related": [
-      "cyclosporine"
+      "cyclosporine",
+      "kidney-transplant-twins"
     ],
     "suggestedBy": "wikipedia-timeline"
   },
@@ -5254,7 +5256,8 @@
       }
     ],
     "related": [
-      "modern-cpr"
+      "modern-cpr",
+      "beck-defibrillation"
     ],
     "suggestedBy": "wikipedia-timeline"
   },
@@ -9496,6 +9499,2026 @@
     "related": [
       "koch-tuberculosis",
       "streptomycin-trial"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "early-gender-affirming-surgery",
+    "title": "Early gender-affirming surgeries in Berlin and Dresden",
+    "summary": "Between 1922 and 1931, surgeons working with Magnus Hirschfeld's Institute for Sexual Science in Berlin performed some of the first gender-affirming operations, for Dora Richter and others. The Danish painter Lili Elbe had a series of operations in Berlin and Dresden in 1930–31 and died after the last.",
+    "explanation": "Hirschfeld founded the Institute for Sexual Science in Berlin in 1919, and he and colleagues such as Ludwig Levy-Lenz, Erwin Gohrbandt and the Dresden gynaecologist Kurt Warnekros began offering surgery to trans patients. Dora Richter, who worked at the institute, had an orchidectomy in 1922 and later a vaginoplasty, and is usually regarded as the first person to complete a series of gender-affirming operations.\n\nLili Elbe was assessed at the institute in March 1930 and had her first operation in Berlin. Her later operations, at the Dresden Women's Clinic under Warnekros, included the transplantation of ovarian tissue and, in June 1931, an attempted uterus transplant. She died of complications in September 1931.",
+    "date": {
+      "start": 1922,
+      "end": 1931,
+      "display": "1922–1931",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Dora Richter's first operation in 1922; Lili Elbe's operations from March 1930 to June 1931."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "gender-affirming care",
+      "sexology"
+    ],
+    "locations": [
+      {
+        "name": "Institute for Sexual Science, Berlin",
+        "modern": "Berlin, Germany",
+        "lat": 52.52,
+        "lon": 13.37,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Assessment of patients and the first operations"
+      },
+      {
+        "name": "Dresden Women's Clinic",
+        "modern": "Dresden, Germany",
+        "lat": 51.05,
+        "lon": 13.74,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Lili Elbe's later operations"
+      }
+    ],
+    "people": [
+      {
+        "name": "Magnus Hirschfeld",
+        "role": "Sexologist; founder of the institute"
+      },
+      {
+        "name": "Dora Richter",
+        "role": "Patient"
+      },
+      {
+        "name": "Lili Elbe",
+        "role": "Painter and patient"
+      },
+      {
+        "name": "Erwin Gohrbandt",
+        "role": "Surgeon"
+      },
+      {
+        "name": "Kurt Warnekros",
+        "role": "Gynaecologist, Dresden"
+      }
+    ],
+    "whatChanged": "Surgery began to be used to help transgender people live in their gender.",
+    "whyItMattered": "These operations were forerunners of modern gender-affirming surgery.",
+    "limitations": [
+      "Accounts differ on the number, dates and surgeons of the operations.",
+      "The procedures were highly experimental, and some, such as the uterus transplant, had no realistic chance of success."
+    ],
+    "harms": "Lili Elbe died of complications about three months after her last operation, an attempted uterus transplant.",
+    "contested": "Who was first is debated: most researchers regard Dora Richter as the first person to complete gender-affirming surgery, while Lili Elbe's case became the best known. Britannica attributes Elbe's first operation to Warnekros; other accounts name Gohrbandt in Berlin.",
+    "sources": [
+      {
+        "citation": "Styles R. Did you know trans-affirming surgery began in Berlin? The Berliner.",
+        "url": "https://www.the-berliner.com/berlin/trans-affirming-care-history-in-berlin/",
+        "kind": "journal",
+        "supports": "Hirschfeld's Institute for Sexual Science with Levy-Lenz, Warnekros and Gohrbandt; Dora Richter widely recognised as the first to undergo a series of gender-affirming surgeries, with an orchidectomy in 1922; she worked at the institute."
+      },
+      {
+        "citation": "Magnus-Hirschfeld-Stiftung. Lili Elbe (LSBTIQ biographies).",
+        "url": "https://mh-stiftung.de/en/projects/lsbtiq-biographies/lili-elbe/",
+        "kind": "institution",
+        "supports": "Lili Elbe, Danish painter, one of the first people to undergo gender-affirming operations in Hirschfeld's institute and the Dresden Women's Clinic under Warnekros; died in Dresden in September 1931."
+      },
+      {
+        "citation": "Homolulu Berlin. Lili Elbe (1882–1931): Klinikum Am Urban.",
+        "url": "https://homoluluberlin.de/?p=10118",
+        "kind": "institution",
+        "supports": "Arrived in Berlin on 1 March 1930 for examinations at the institute; fourth operation presumably in June 1931; died on 13 September 1931; most researchers regard Dora Richter as the first to undergo complete gender-affirming surgery."
+      },
+      {
+        "citation": "Loyola University Chicago. Man into Woman: publication history.",
+        "url": "https://wpmu.luc.edu/narrative/publicationHistory.html",
+        "kind": "university",
+        "supports": "Entered Hirschfeld's institute in March 1930; Warnekros performed all but the first of four operations over sixteen months; the first, an orchiectomy, by Gohrbandt in Berlin."
+      },
+      {
+        "citation": "Encyclopaedia Britannica. Lili Elbe.",
+        "url": "https://www.britannica.com/biography/Lili-Elbe",
+        "kind": "book",
+        "supports": "First of five highly experimental surgeries in 1930, performed (by this account) by Warnekros after examination by Hirschfeld."
+      },
+      {
+        "citation": "Connelly C. Lili Elbe. The New European.",
+        "url": "https://www.thenewworld.co.uk/brexit-news-lili-elbe-charlie-connelly-30586/",
+        "kind": "journal",
+        "supports": "Hirschfeld founded the institute in 1919; operations in Dresden to implant ovaries; in June 1931 she returned for a uterus transplant."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "prontosil-sulfonamides",
+    "title": "Prontosil, the first sulfonamide antibacterial drug",
+    "summary": "In late 1932 Gerhard Domagk at Bayer's laboratories in Elberfeld, Germany, found that a red dye, later named Prontosil, cured mice of lethal streptococcal infections. Launched in 1935, it was the first drug that could treat a wide range of bacterial infections inside the body.",
+    "explanation": "Inspired by Paul Ehrlich's idea that dyes might attack microbes selectively, Domagk, head of experimental pathology at IG Farben's Bayer laboratories from 1927, tested azo dyes made by the company's chemists in infected mice. One, KL730, protected mice from streptococci at very low doses, although it did nothing to the bacteria in a test tube. A patent was filed on Christmas Day 1932 and the drug was tested quietly in patients before Domagk published in 1935.\n\nIn 1936 Leonard Colebrook in London reported that deaths from childbed fever fell from over 20% to 4% with Prontosil. Researchers soon found that the body breaks it down to sulfanilamide, the active part, which led to a family of cheaper sulfonamide drugs. Domagk received the 1939 Nobel Prize.",
+    "date": {
+      "start": 1932,
+      "end": 1935,
+      "display": "1932–1935",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Effect found in late 1932; drug marketed and first paper published in 1935."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "drug discovery",
+      "pharmaceutical industry",
+      "infectious disease"
+    ],
+    "locations": [
+      {
+        "name": "Bayer laboratories (IG Farben), Elberfeld",
+        "modern": "Wuppertal, Germany",
+        "lat": 51.26,
+        "lon": 7.15,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gerhard Domagk",
+        "role": "Pathologist and bacteriologist"
+      },
+      {
+        "name": "Leonard Colebrook",
+        "role": "Physician who tested Prontosil against childbed fever"
+      }
+    ],
+    "whatChanged": "Common, often fatal bacterial infections such as streptococcal sepsis could be treated with a drug.",
+    "whyItMattered": "Deaths from meningitis, childbed fever and pneumonia fell sharply, and the sulfonamides opened the antibiotic era a few years before penicillin.",
+    "limitations": [
+      "Salvarsan had earlier treated syphilis; Prontosil was the first drug effective against a wide range of bacteria.",
+      "Prontosil worked only in the body; its active part was sulfanilamide."
+    ],
+    "sources": [
+      {
+        "citation": "Bayer. Gerhard Domagk (biography).",
+        "url": "https://www.bayer.com/en/about-us/history/biographies/gerhard-domagk",
+        "kind": "institution",
+        "supports": "Prontosil introduced in 1935; for the first time even severe coccal infections could be treated; deaths from meningitis, childbed fever and pneumonia declined sharply; Nobel Prize 1939."
+      },
+      {
+        "citation": "University of Bristol, Molecule of the Month. Sulfanilamide (and its relatives).",
+        "url": "https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamidejs.htm",
+        "kind": "university",
+        "supports": "Directed experimental pathology at IG Farben, Elberfeld; late 1932 KL730 worked against streptococci in mice but not in vitro; patent applied for on Christmas Day 1932; secret clinical trials; first paper on Prontosil."
+      },
+      {
+        "citation": "University of Bristol, Molecule of the Month. Sulfanilamide (history page).",
+        "url": "https://www.chm.bris.ac.uk/motm/sulfanilamide2/sulfanilamideh.htm",
+        "kind": "university",
+        "supports": "German patent granted on 2 January 1935; Colebrook's 1936 work for the Medical Research Council; mortality from over 20% to 4%; sulfanilamide."
+      },
+      {
+        "citation": "EBSCO Research Starters. Domagk discovers that sulfonamides can save lives.",
+        "url": "https://ebsco.com/research-starters/history/domagk-discovers-sulfonamides-can-save-lives",
+        "kind": "institution",
+        "supports": "1932–1935, Elberfeld; director of experimental pathology from 1927; Ehrlich's trypan dyes suggested azo dyes; sulfanilamide the active component of Prontosil."
+      },
+      {
+        "citation": "Barros Veloso AJ. Sulphonamides: glory and misfortunes. Medicina Interna 4(3):174 (1997).",
+        "url": "https://www.spmi.pt/revista/vol04/eng_vol4_n3_1997_174_177.pdf",
+        "kind": "journal",
+        "supports": "Domagk at Bayer, IG Farbenindustrie, Elberfeld, showed the antibacterial action of Prontosil in mice infected with lethal doses of streptococcus."
+      }
+    ],
+    "related": [
+      "salvarsan",
+      "penicillin"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "insulin-coma-therapy",
+    "title": "Insulin coma therapy for schizophrenia: adopted, then debunked",
+    "summary": "In 1933 Manfred Sakel at the University of Vienna's psychiatric clinic began treating schizophrenia by giving patients enough insulin to put them into a coma, day after day for weeks. Widely adopted, the treatment was shown in the 1950s to have no specific benefit and was abandoned.",
+    "explanation": "Around 1930, working at a private clinic in Berlin, Sakel had used small doses of insulin to ease morphine withdrawal. Believing that patients' mental state improved after accidental comas, he returned to Vienna in 1933 and deliberately induced deep hypoglycaemic comas in people with schizophrenia. In 1934 he claimed full remission in 70% of patients.\n\nThe treatment spread rapidly, including to British mental hospitals, where large units treated up to 20 patients at once. Patients were put into comas five or six mornings a week for up to ten weeks. In 1953 the psychiatrist Harold Bourne argued in The Lancet that there was no evidence it worked, and a later randomised trial found no specific benefit. It fell out of use in the 1960s as antipsychotic drugs spread.",
+    "date": {
+      "start": 1933,
+      "end": 1933,
+      "display": "1933",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Sakel began treating schizophrenia in Vienna in 1933 and published results in 1934."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "psychiatry",
+      "evidence and error"
+    ],
+    "locations": [
+      {
+        "name": "University Psychiatric Clinic, Vienna",
+        "modern": "Vienna, Austria",
+        "lat": 48.22,
+        "lon": 16.35,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Manfred Sakel",
+        "role": "Psychiatrist"
+      },
+      {
+        "name": "Harold Bourne",
+        "role": "Psychiatrist who challenged the treatment in 1953"
+      }
+    ],
+    "whatChanged": "It introduced an intensive physical treatment for schizophrenia, later shown to be ineffective.",
+    "whyItMattered": "Its rise and fall became a lesson in the need for controlled evidence before treatments are widely adopted.",
+    "limitations": [
+      "Sakel's high success rates came from uncontrolled observations.",
+      "Leading psychiatrists continued to recommend it for years after Bourne's critique."
+    ],
+    "harms": "Repeated deep comas were risky and required constant supervision because of the danger of further collapses. Many thousands of patients underwent a gruelling treatment with no specific benefit.",
+    "sources": [
+      {
+        "citation": "Freudenthal R, Moncrieff J. 'A landmark in psychiatric progress'? The role of evidence in the rise and fall of insulin coma therapy. History of Psychiatry (2022).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8886299",
+        "doi": "10.1177/0957154X211062538",
+        "kind": "journal",
+        "supports": "Widely used for schizophrenia from the 1930s to the 1960s; usually regarded as useless and dangerous; Bourne's later comments; evidence behind its use and decline."
+      },
+      {
+        "citation": "Tattersall R. Insulin and the mind: coma therapy in schizophrenia. Diabetes Digest.",
+        "url": "https://diabetesonthenet.com/wp-content/uploads/dd8-1-6-8.pdf",
+        "kind": "journal",
+        "supports": "Around 1930 Sakel worked at a Berlin clinic for morphine addicts; returned to Vienna in 1933; claimed 70% full remission in 1934; up to 20 patients treated together; Bourne's 1953 critique."
+      },
+      {
+        "citation": "Tattersall R. Insulin and the mind (online version). Diabetes on the Net.",
+        "url": "https://diabetesonthenet.com/diabetes-digest/insulin-and-the-mind-coma-therapy-in-schizophrenia/",
+        "kind": "journal",
+        "supports": "In 1933 Sakel returned to Vienna to the university psychiatric clinic and began testing whether insulin coma could cure schizophrenia."
+      },
+      {
+        "citation": "The insulin myth, 60 years on. BJPsych Bulletin (Cambridge Core).",
+        "url": "https://www.cambridge.org/core/product/46DDAD707E6C62F9C6305E2D1BD01358/core-reader",
+        "kind": "journal",
+        "supports": "Bourne's 1953 Lancet paper 'The insulin myth'; comas for up to 15 minutes, five or six mornings a week, for up to ten weeks; developed by Sakel at the Vienna clinic; textbooks still advocated it in 1960; a randomised trial showed it was not useful."
+      }
+    ],
+    "related": [
+      "convulsive-therapy-ect",
+      "prefrontal-leucotomy"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "convulsive-therapy-ect",
+    "title": "Convulsive therapy and electroconvulsive therapy (ECT)",
+    "summary": "On 23 January 1934 the Hungarian psychiatrist Ladislas Meduna induced seizures with camphor in a patient with catatonia near Budapest, starting convulsive therapy. On 11 April 1938 Ugo Cerletti and Lucio Bini in Rome used electric current instead, giving the first electroconvulsive therapy.",
+    "explanation": "Meduna believed, from studying brain tissue, that epilepsy and schizophrenia were antagonistic, so that seizures might relieve psychosis. At the Lipótmező asylum outside Budapest he injected camphor oil into a man who had been in a catatonic stupor for four years; after five induced seizures he improved dramatically. Meduna then switched to pentylenetetrazol (Metrazol or Cardiazol), which produced seizures almost at once.\n\nIn Rome, Cerletti sought a simpler and more controllable way to cause seizures. On 11 April 1938 at the university's Clinic for Nervous and Mental Disorders, he and Bini passed a current through the head of a patient, starting ECT. The electrical method rapidly replaced Meduna's drugs, and Metrazol therapy was abandoned. Modern ECT is given under anaesthesia.",
+    "date": {
+      "start": 1934,
+      "end": 1938,
+      "display": "1934–1938",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First chemically induced seizure treatment on 23 January 1934; first ECT on 11 April 1938."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "psychiatry"
+    ],
+    "locations": [
+      {
+        "name": "Lipótmező asylum, Budapest",
+        "modern": "Budapest, Hungary",
+        "lat": 47.52,
+        "lon": 19.0,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Meduna's first convulsive treatments"
+      },
+      {
+        "name": "Clinic for Nervous and Mental Disorders, University of Rome",
+        "modern": "Rome, Italy",
+        "lat": 41.9,
+        "lon": 12.51,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Cerletti and Bini's first ECT"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ladislas Meduna",
+        "role": "Neuropsychiatrist"
+      },
+      {
+        "name": "Ugo Cerletti",
+        "role": "Professor of neuropsychiatry, Rome"
+      },
+      {
+        "name": "Lucio Bini",
+        "role": "Psychiatrist"
+      }
+    ],
+    "whatChanged": "Induced seizures became a treatment for severe mental illness.",
+    "whyItMattered": "ECT, given under anaesthesia, remains one of the most effective treatments for severe depression and some other conditions.",
+    "limitations": [
+      "Meduna's theory that epilepsy and schizophrenia exclude each other was wrong.",
+      "Early ECT was given without anaesthesia; modern treatment uses anaesthesia and muscle relaxants."
+    ],
+    "contested": "ECT remains both highly effective and highly controversial, partly because of its history of overuse and its side effects.",
+    "sources": [
+      {
+        "citation": "Wright BA. An historical review of electroconvulsive therapy. Jefferson Journal of Psychiatry 8(2) (1990).",
+        "url": "https://core.ac.uk/download/46967235.pdf",
+        "kind": "journal",
+        "supports": "First clinical trial of ECT by Cerletti and Bini at the University of Rome in 1938; on 23 January 1934 Meduna injected camphor oil into a patient in catatonic stupor for four years; improvement with five seizures; switch to Metrazol for an immediate convulsion."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). History of electroconvulsive therapy (ECT).",
+        "url": "https://litfl.com/history-of-ect/",
+        "kind": "institution",
+        "supports": "ECT under general anaesthesia; first performed in 1938 by Cerletti and Bini in Rome; one of the most effective and controversial therapies; Meduna's view that the diseases were antagonistic; first injection on 23 January 1934; 11 April 1938."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). Ladislas Meduna.",
+        "url": "https://litfl.com/ladislas-meduna/",
+        "kind": "institution",
+        "supports": "First camphor-induced convulsive treatment on 23 January 1934 at Lipótmező asylum; methods supplanted by the electrical approach of Cerletti and Bini in 1938."
+      },
+      {
+        "citation": "Ladislas J. von Meduna: a brief biography. Cérebro & Mente.",
+        "url": "https://cerebromente.org.br/n04/historia/meduna_i.htm",
+        "kind": "journal",
+        "supports": "Meduna used another hospital, Lipótmező, outside Budapest; camphor in a 33-year-old catatonic patient; metrazol (Cardiazol) more effective and quick-acting; metrazol therapy later abandoned in favour of electroshock."
+      },
+      {
+        "citation": "The weird and brilliant innovations that led to electroconvulsive therapy. Fast Company.",
+        "url": "https://www.fastcompany.com/91623228/electroshock-therapy-history-benefits",
+        "kind": "journal",
+        "supports": "At the Clinic for Nervous and Mental Disorders in Rome on 11 April 1938, Cerletti and Bini placed electrodes on the temples of a patient; Metrazol or Cardiazol achieved a faster convulsion."
+      }
+    ],
+    "related": [
+      "insulin-coma-therapy",
+      "prefrontal-leucotomy"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "yellow-fever-17d",
+    "title": "The 17D yellow fever vaccine",
+    "summary": "In 1937 Max Theiler and Hugh Smith at the Rockefeller Foundation's laboratories in New York reported 17D, a strain of yellow fever virus weakened by long culture in chick embryo tissue. Tested in Brazil from 1937, the 17D vaccine is still in use, and Theiler received the 1951 Nobel Prize.",
+    "explanation": "Yellow fever kills up to half of people who develop its severe form. Earlier attempts at vaccines had failed, partly because the cause was unknown until it was shown to be a virus in the late 1920s. Theiler, who moved to the Rockefeller Foundation in 1930, found that mice could be used to study it, and in 1931 a vaccine from virus grown in mouse brains was tested, but it needed human immune serum and could cause brain inflammation.\n\nTheiler and his colleagues then grew the Asibi strain of the virus over and over in tissue cultures, at first with mouse embryo tissue and later with chick embryo from which the brain and spinal cord had been removed. After well over 100 passages, one line, 17D, had lost its dangerous effects. Smith took it to Brazil in 1937, where vaccination began, and it was licensed in 1938.",
+    "date": {
+      "start": 1937,
+      "end": 1937,
+      "display": "1937",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "17D strain reported in the Journal of Experimental Medicine in 1937; vaccination began in Brazil the same year."
+    },
+    "type": "invention",
+    "evidence": [
+      "laboratory",
+      "trial",
+      "published-report"
+    ],
+    "category": "prevention",
+    "tags": [],
+    "themes": [
+      "vaccines",
+      "viruses",
+      "tropical medicine"
+    ],
+    "locations": [
+      {
+        "name": "Rockefeller Foundation laboratories, New York",
+        "modern": "New York, New York, USA",
+        "lat": 40.76,
+        "lon": -73.96,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Development of the 17D strain"
+      },
+      {
+        "name": "Rio de Janeiro",
+        "modern": "Rio de Janeiro, Brazil",
+        "lat": -22.91,
+        "lon": -43.17,
+        "radiusKm": 15,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "First large-scale vaccine production and use"
+      }
+    ],
+    "people": [
+      {
+        "name": "Max Theiler",
+        "role": "Virologist"
+      },
+      {
+        "name": "Hugh Smith",
+        "role": "Virologist who took the vaccine to Brazil"
+      },
+      {
+        "name": "Wray Lloyd",
+        "role": "Began the tissue-culture passages"
+      }
+    ],
+    "whatChanged": "Yellow fever could be prevented with a safe, cheap vaccine giving long-lasting immunity.",
+    "whyItMattered": "More than 850 million doses have been given, and the 17D vaccine remains the main defence against yellow fever.",
+    "limitations": [
+      "Earlier mouse-brain vaccines, used from 1931, needed human serum and carried serious risks.",
+      "Yellow fever still causes outbreaks where vaccination coverage is low."
+    ],
+    "sources": [
+      {
+        "citation": "Nature Milestones in Vaccines: Yellow fever vaccine (2020).",
+        "url": "https://www.nature.com/articles/d42859-020-00012-9",
+        "kind": "journal",
+        "supports": "Theiler at Harvard, then the Rockefeller Foundation from 1930; 1931 test of a mouse-brain French-strain vaccine with immune serum; Theiler and Smith's 1937 J Exp Med papers on a live attenuated strain grown in chick embryo tissue; licensed in 1938; more than 850 million doses; 1951 Nobel Prize."
+      },
+      {
+        "citation": "Nature Milestones in Vaccines: Yellow fever vaccine (PDF).",
+        "url": "https://media.nature.com/original/magazine-assets/d42859-020-00012-9/d42859-020-00012-9.pdf",
+        "kind": "journal",
+        "supports": "Up to half of people with severe disease die; mouse-brain virus could cause encephalitis; 17D isolated after passages in mouse embryonic tissue and later chick embryo without brain and spinal cord."
+      },
+      {
+        "citation": "Monath TP, et al. (review). The 17D yellow fever vaccine: history and duration of protection. Ther Adv Vaccines (2014).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3991151",
+        "kind": "journal",
+        "supports": "Since its development in 1937, the live-attenuated 17D vaccine has been one of the most effective vaccines; Theiler created the first attenuated strain."
+      },
+      {
+        "citation": "Benchimol JL, et al. The early use of yellow fever virus strain 17D for vaccine production in Brazil – a review. Mem Inst Oswaldo Cruz 96(6):849 (2001).",
+        "url": "https://www.scielo.br/j/mioc/a/Mk9HP3HbF8qgPN4KTxysFTS/?lang=en",
+        "kind": "journal",
+        "supports": "Use of 17D for vaccine production in Brazil since its introduction in 1937."
+      },
+      {
+        "citation": "Burruss H. Oral history interview (1986). NIH History Office.",
+        "url": "https://history.nih.gov/download/attachments/14844135/Burruss%2C%20Harry%20oral%20history%201986.pdf?api=v2",
+        "kind": "archive",
+        "supports": "17D developed in New York from the Asibi strain through passages in minced chick embryo and then embryo without brain and spinal cord; in 1937 the strain was sent to Rio de Janeiro with Hugh Smith."
+      },
+      {
+        "citation": "Soper FL, Smith HH. Vaccination with virus 17D in the control of jungle yellow fever in Brazil. NLM Digital Collections.",
+        "url": "https://digirepo.nlm.nih.gov/pdf/nlm:nlmuid-101584650X65-doc",
+        "kind": "primary",
+        "supports": "In December 1933 Lloyd transferred the Asibi strain to tissue culture; later passages in whole chick embryo and in chick embryo without the central nervous system gave virus 17D."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "prefrontal-leucotomy",
+    "title": "Prefrontal leucotomy (lobotomy) is introduced in Lisbon",
+    "summary": "On 12 November 1935 the Portuguese neurologist Egas Moniz and the neurosurgeon Almeida Lima in Lisbon injected alcohol into the frontal lobes of a psychiatric patient's brain, beginning the operation of prefrontal leucotomy. Moniz won the 1949 Nobel Prize, but the operation caused great harm and was abandoned.",
+    "explanation": "At a neurology congress in London in August 1935, Moniz heard John Fulton and Carlyle Jacobsen describe chimpanzees that became calmer after their frontal lobes were removed. Because gout had deformed his hands, Lima carried out the operations under his direction: holes were drilled in the skull and alcohol injected to destroy frontal lobe tissue, and later a wire loop, the leucotome, was used to cut nerve fibres.\n\nIn the United States, Walter Freeman popularised the operation and developed a quick version through the eye sockets. Lobotomy was performed in many countries, mainly on people with schizophrenia, until drugs such as chlorpromazine replaced it from the mid-1950s.",
+    "date": {
+      "start": 1935,
+      "end": 1935,
+      "display": "12 November 1935",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first operation; results were published in 1936, which some sources give as the date of introduction."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "mind-brain",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "psychiatry",
+      "psychosurgery",
+      "research ethics"
+    ],
+    "locations": [
+      {
+        "name": "Lisbon",
+        "modern": "Lisbon, Portugal",
+        "lat": 38.72,
+        "lon": -9.14,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Egas Moniz",
+        "role": "Neurologist"
+      },
+      {
+        "name": "Pedro Almeida Lima",
+        "role": "Neurosurgeon who performed the operations"
+      },
+      {
+        "name": "Walter Freeman",
+        "role": "American neuropsychiatrist who popularised lobotomy"
+      }
+    ],
+    "whatChanged": "Brain surgery was used to try to treat severe mental illness.",
+    "whyItMattered": "The rapid spread of lobotomy, and the harm it did, became a lasting warning about adopting drastic treatments without good evidence.",
+    "limitations": [
+      "Improvements were judged without control groups.",
+      "The Nobel committee's praise reflected the lack of other treatments at the time."
+    ],
+    "harms": "Lobotomy was performed on many thousands of people in many countries, often without meaningful consent, and could leave them permanently changed or disabled.",
+    "contested": "Moniz's Nobel Prize remains one of the most criticised in its history, and there have been calls for it to be withdrawn.",
+    "sources": [
+      {
+        "citation": "Jansson B. Controversial psychosurgery resulted in a Nobel Prize. NobelPrize.org.",
+        "url": "https://nobelprize.org/prizes/medicine/1949/moniz/article",
+        "kind": "institution",
+        "supports": "In 1936 Moniz introduced prefrontal leukotomy, incisions destroying connections of the prefrontal region; it became popular in many countries; Nobel Prize 1949; Jacobsen and Fulton's chimpanzee data at the 1935 London conference."
+      },
+      {
+        "citation": "Tan SY, Yip A. António Egas Moniz (1874–1955): lobotomy pioneer and Nobel laureate. Singapore Med J 55(4):175 (2014).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4291941",
+        "kind": "journal",
+        "supports": "Moniz introduced the infamous frontal lobotomy; Almeida Lima assisted because Moniz had gouty hands."
+      },
+      {
+        "citation": "Egas Moniz (1875–1955): the father of psychosurgery. British Journal of Psychiatry (Cambridge Core).",
+        "url": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/egas-moniz-18751955-the-father-of-psychosurgery/BD1CCFD07C2B4C2F2DBB9CB2E2F6300A",
+        "kind": "journal",
+        "supports": "With Almeida Lima, drilled holes and injected alcohol into the frontal lobes; later the leucotome; Freeman's transorbital lobotomy; abandoned with the advent of the phenothiazines."
+      },
+      {
+        "citation": "Proto (Massachusetts General Hospital). On 12 November 1935, Moniz's first leucotomy.",
+        "url": "https://protomag-dev.partners.org/?p=13150",
+        "kind": "journal",
+        "supports": "On 12 November 1935 Moniz attempted surgery to relieve severe mental disorder; Lima drilled holes and injected alcohol."
+      },
+      {
+        "citation": "EBSCO Research Starters. Egas Moniz develops the prefrontal lobotomy.",
+        "url": "https://www.ebsco.com/research-starters/history/egas-moniz-develops-prefrontal-lobotomy",
+        "kind": "institution",
+        "supports": "November–December 1935, Lisbon; Almeida Lima performed the first prefrontal lobotomy under Moniz's direction; Freeman; London congress in August 1935."
+      },
+      {
+        "citation": "Egas Moniz, un Nobel controversé. Le Quotidien du Médecin.",
+        "url": "https://cancerologie.lequotidiendumedecin.fr/actu-medicale/egas-moniz-un-nobel-controverse",
+        "kind": "journal",
+        "supports": "Many asked the Nobel Foundation to withdraw Moniz's prize because his results were obtained in disregard of ethics and patients' rights."
+      },
+      {
+        "citation": "Egas Moniz, o médico que ganhou um Prêmio Nobel. Seu Dinheiro (2026).",
+        "url": "https://www.seudinheiro.com/2026/economia/medico-que-ganhou-um-nobel-por-fazer-12-furos-no-cerebro-de-pacientes-mlem/",
+        "kind": "journal",
+        "supports": "Leucotomy spread to dozens of countries; optimistic reports without control groups; the practice declined with the arrival of the first antipsychotics around 1956."
+      }
+    ],
+    "related": [
+      "insulin-coma-therapy",
+      "convulsive-therapy-ect"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "finochietto-retractor",
+    "title": "Finochietto's rib spreader for chest surgery",
+    "summary": "In 1936 the Argentine surgeon Enrique Finochietto of the Rawson Hospital in Buenos Aires improved the rack-and-pinion rib spreader used to hold the ribs apart in chest surgery. Retractors based on his design, such as the Burford–Finochietto, are still standard in open chest surgery.",
+    "explanation": "To operate inside the chest, surgeons must hold the ribs apart. A rack-and-pinion rib spreader with a screw lock had been introduced in 1914 by the French surgeon Théodore Tuffier.\n\nFinochietto, chief of surgery at the Rawson Hospital and professor of surgery in Buenos Aires, modified the design in 1936. A gifted designer, he devised some 67 surgical instruments and other items. A later version, the Burford–Finochietto retractor, a robust ratchet-operated spreader with changeable blades, became one of the most familiar instruments in thoracic surgery.",
+    "date": {
+      "start": 1936,
+      "end": 1936,
+      "display": "1936",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Year given for Finochietto's modification by several sources."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "surgical instruments",
+      "thoracic surgery"
+    ],
+    "locations": [
+      {
+        "name": "Rawson Hospital, Buenos Aires",
+        "modern": "Buenos Aires, Argentina",
+        "lat": -34.63,
+        "lon": -58.39,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Enrique Finochietto",
+        "role": "Surgeon and instrument designer"
+      },
+      {
+        "name": "Ricardo Finochietto",
+        "role": "Surgeon; his brother"
+      }
+    ],
+    "whatChanged": "Surgeons could open the chest more safely and keep it open steadily during long operations.",
+    "whyItMattered": "Finochietto-style retractors are standard in open heart and lung surgery.",
+    "limitations": [
+      "Finochietto improved an earlier design by Tuffier rather than inventing the rib spreader.",
+      "Few primary sources describe the 1936 design itself."
+    ],
+    "sources": [
+      {
+        "citation": "Kernahan PJ. Beyond the retractor: the surgical contributions of Enrique and Ricardo Finochietto. American Surgeon 90(4):523 (2024).",
+        "url": "https://www.pubmed.gov/36306278/",
+        "kind": "journal",
+        "supports": "The Finochietto thoracic retractor is familiar to most surgeons; the Finochietto brothers' contributions extend far beyond a single instrument."
+      },
+      {
+        "citation": "Surgical eponyms: retractors. British Journal of Surgery 110(9):1122 (2023).",
+        "url": "https://academic.oup.com/bjs/article/110/9/1122/6958497",
+        "kind": "journal",
+        "supports": "Burford–Finochietto self-retaining rib spreader with changeable blades; Finochietto chief surgeon at the Rawson Hospital and professor in Buenos Aires; 67 surgical items and instruments."
+      },
+      {
+        "citation": "University of North Carolina Health Sciences Library. Enrique Finochietto (1881–1948).",
+        "url": "https://hsl.lib.unc.edu/?p=3831",
+        "kind": "university",
+        "supports": "Chief of the surgical division at the Rawson Hospital, Buenos Aires, where he designed his own surgical pavilion."
+      },
+      {
+        "citation": "An introduction to Finochietto retractors. Acheron Instruments.",
+        "url": "https://acheron-instruments.com/post/an-introduction-to-finochietto-retractors",
+        "kind": "institution",
+        "supports": "Rack-and-pinion rib spreader introduced in 1914 by a French surgeon; modified by Finochietto in 1936; screw lock."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "kolff-dialysis",
+    "title": "Kolff's artificial kidney saves its first life",
+    "summary": "In 1943 Willem Kolff, a young doctor in Kampen in the occupied Netherlands, began treating kidney failure with a rotating-drum artificial kidney built from cellophane sausage casing and improvised parts. Most early patients died, but on 11 September 1945 dialysis saved Sofia Schafstadt, aged 67.",
+    "explanation": "Without working kidneys, waste builds up in the blood and causes death. Kolff wrapped about 20 metres of cellophane tubing around a slatted drum that turned in a bath of dialysing fluid; as the patient's blood flowed through the tubing, waste diffused out. The director of a local enamel factory helped build it during the German occupation.\n\nKolff treated his first patient in 1943, but the machine at first only improved patients' condition temporarily. Schafstadt, a prisoner held as a Nazi collaborator, regained consciousness after 11 hours of dialysis, and her kidneys recovered. After the war Kolff gave machines to hospitals in London, Montreal and New York, and later worked in the United States on artificial organs, including the artificial heart.",
+    "date": {
+      "start": 1943,
+      "end": 1945,
+      "display": "1943–1945",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "First patient treated in 1943; first survivor treated on 11 September 1945."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "devices",
+      "kidney disease",
+      "war and medicine"
+    ],
+    "locations": [
+      {
+        "name": "Kampen Municipal Hospital",
+        "modern": "Kampen, Netherlands",
+        "lat": 52.55,
+        "lon": 5.91,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Willem Kolff",
+        "role": "Physician and inventor"
+      },
+      {
+        "name": "Sofia Schafstadt",
+        "role": "First patient saved by dialysis"
+      }
+    ],
+    "whatChanged": "Kidney failure could be treated by cleaning the blood with a machine.",
+    "whyItMattered": "Haemodialysis now keeps millions of people with kidney failure alive, and Kolff's work began the field of artificial organs.",
+    "limitations": [
+      "Georg Haas had dialysed patients earlier, in Giessen in the 1920s, without lasting success.",
+      "Sources differ on whether Schafstadt was Kolff's 16th or 17th patient."
+    ],
+    "sources": [
+      {
+        "citation": "Kolff WJ. The artificial kidney and its effect on the development of other artificial organs. Lasker Award essay (2002).",
+        "url": "https://laskerfoundation.org/wp-content/uploads/2021/01/2002_kolff.pdf",
+        "kind": "primary",
+        "supports": "Rotating-drum artificial kidney, the first clinically effective artificial kidney; first patient treated in Kampen in 1943; the patient treated on 11 September 1945."
+      },
+      {
+        "citation": "Willem Kolff and the dawn of modern nephrology (review). PubMed Central PMC11466315.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11466315/",
+        "kind": "journal",
+        "supports": "Fifteen years after Georg Haas's last human dialysis in Giessen, Kolff's 1943 machine used cellophane tubing on a rotating drum; built with an engineer; 15 of 16 patients died."
+      },
+      {
+        "citation": "International Center for Artificial Organs and Transplantation (ICAOT). Virtual collections: Kolff rotating drum.",
+        "url": "https://icaot.org/virtual-collections/",
+        "kind": "museum",
+        "supports": "Kolff Rotating Drum dialysis machine of 1943; 20-metre tube of cellophane sausage casing on a slatted wooden drum; Sofia Maria Schafstadt, first surviving patient, 11 September 1945."
+      },
+      {
+        "citation": "The National WWII Museum. Medical innovations: under occupation, the development of dialysis.",
+        "url": "https://www.nationalww2museum.org/war/articles/medical-innovations-dialysis",
+        "kind": "museum",
+        "supports": "Kolff developed the first dialysis machine in secret under German occupation; after the war he went to the United States; the first successful patient was a collaborator."
+      },
+      {
+        "citation": "Transonic. First artificial kidney built in war-torn Netherlands by W. J. Kolff (2016).",
+        "url": "https://blog.transonic.com/artificial-kidney-w.j.-kolff",
+        "kind": "institution",
+        "supports": "Stainless steel drum in dialysing fluid; manufactured with the director of the Kampen enamel factory; on 11 September 1945 Schafstadt was dialysed for 11 hours."
+      },
+      {
+        "citation": "Kolff dialysis machine 1943–1945 (symposium abstract). VEITH Symposium (2024).",
+        "url": "https://veithsymposium.org/2024/abstracts/vei/1277.pdf",
+        "kind": "journal",
+        "supports": "Schafstadt recovered and lived another seven years; after the war machines given to Hammersmith Hospital (London), Royal Victoria Hospital (Montreal) and Mount Sinai (New York)."
+      }
+    ],
+    "related": [
+      "kidney-transplant-twins",
+      "jarvik-7-artificial-heart"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "nitrogen-mustard-chemotherapy",
+    "title": "Nitrogen mustard begins cancer chemotherapy",
+    "summary": "On 27 August 1942 at New Haven Hospital, a team led by the Yale pharmacologists Louis Goodman and Alfred Gilman gave nitrogen mustard, a chemical relative of mustard gas, to a man with advanced lymphoma known as J.D. His tumours shrank. The work, secret in wartime, was published in 1946.",
+    "explanation": "Working under a secret government contract on chemical warfare agents, Goodman and Gilman noticed that nitrogen mustard was especially toxic to lymph cells. In mice and rabbits it made lymphoma tumours shrink dramatically. With the surgeon Gustaf Lindskog they treated J.D., whose lymphosarcoma no longer responded to radiation.\n\nHis tumours regressed for a time, and further trials followed at Yale, Chicago and New York. Secrecy delayed publication until 1946. Nitrogen mustard became the model for the alkylating agents, a major class of cancer drugs still used today.",
+    "date": {
+      "start": 1942,
+      "end": 1942,
+      "display": "27 August 1942",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first treatment, from records reconstructed by Yale surgeons; results published in 1946."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "cancer",
+      "chemotherapy",
+      "war and medicine"
+    ],
+    "locations": [
+      {
+        "name": "New Haven Hospital and Yale School of Medicine",
+        "modern": "New Haven, Connecticut, USA",
+        "lat": 41.3,
+        "lon": -72.93,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Louis Goodman",
+        "role": "Pharmacologist"
+      },
+      {
+        "name": "Alfred Gilman",
+        "role": "Pharmacologist"
+      },
+      {
+        "name": "Gustaf Lindskog",
+        "role": "Surgeon"
+      },
+      {
+        "name": "J.D.",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "It showed that a drug could shrink a cancer in a person.",
+    "whyItMattered": "It launched medical oncology; combination chemotherapy and many later cancer drugs build on it.",
+    "limitations": [
+      "The first responses were temporary; lasting cures from chemotherapy came only later, with combinations of drugs.",
+      "The story that chemotherapy began with the 1943 Bari air raid is a myth: the Yale treatment came 15 months earlier."
+    ],
+    "sources": [
+      {
+        "citation": "Yale School of Medicine. The birth of chemotherapy at Yale: from wartime secrecy to modern cancer care.",
+        "url": "https://medicine.yale.edu/news-article/the-birth-of-chemotherapy-at-yale-from-wartime-secrecy-to-modern-cancer-care/",
+        "kind": "university",
+        "supports": "In 1942 Yale physicians gave the first intravenous chemotherapy to a patient with advanced lymphoma; nitrogen mustard from classified research; lymphoma in mice and rabbits shrank; on 27 August 1942 J.D. became the first person to receive it; prototype alkylating agent."
+      },
+      {
+        "citation": "Yale Center for Clinical Investigation. Chemotherapy: from the trenches of warfare a weapon to fight cancer.",
+        "url": "https://medicine.yale.edu/ycci/clinicaltrials/learnmore/tradition/chemotherapy/",
+        "kind": "university",
+        "supports": "First patient a man in the terminal stages of lymphosarcoma no longer responding to radiation; results a military secret until published in JAMA in 1946."
+      },
+      {
+        "citation": "Yale Medicine Magazine. Surgeons find new twists to an old story.",
+        "url": "https://medicine.yale.edu/news/yale-medicine-magazine/surgeons-find-new-twists-to-an-old-story/",
+        "kind": "university",
+        "supports": "Goodman and Gilman worked under a secret government contract; discovery classified; J.D. mentioned only once, in JAMA in 1946."
+      },
+      {
+        "citation": "Debunking the legend that chemotherapy came from a WWII tragedy. HistoryNet.",
+        "url": "https://historynet.com/online-exclusive-mustard-gas-medical-myth/",
+        "kind": "journal",
+        "supports": "The first successful human chemotherapy trial used a form of mustard gas made for the Army, 15 months before the Bari raid; first reported publicly in 1946."
+      },
+      {
+        "citation": "The first use of nitrogen mustard (history feature). MDedge.",
+        "url": "https://cdn.mdedge.com/files/s3fs-public/issues/articles/70173_main_4.pdf",
+        "kind": "journal",
+        "supports": "The clandestine treatment at Yale was the first therapeutic use of nitrogen mustard; protocols at Yale, the University of Chicago and Sloan-Kettering; secrecy prevented publication until 1946."
+      },
+      {
+        "citation": "National History Day project: Compound X (citing Yale Alumni Magazine, 2011).",
+        "url": "https://site.nhd.org/82152043/ProjX",
+        "kind": "institution",
+        "supports": "Winternitz arranged the contract and assigned Gilman and Goodman to nitrogen mustards in 1942; Lindskog allowed them to test it."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "beck-defibrillation",
+    "title": "Beck restarts a fibrillating heart with an electric shock",
+    "summary": "In 1947 the Cleveland surgeon Claude Beck was closing the chest of a 14-year-old boy after an operation when the boy's heart went into ventricular fibrillation. After 45 minutes of hand massage, Beck applied an experimental defibrillator directly to the heart and restored its rhythm. The boy recovered fully.",
+    "explanation": "In ventricular fibrillation the heart quivers chaotically instead of pumping, and death follows within minutes. The boy, Richard Heyard, was being operated on at University Hospitals of Cleveland for a sunken chest. Beck reopened the chest and massaged the heart by hand while a colleague fetched a device he had been developing.\n\nThe first shock failed. Beck continued massage and then gave a second shock, which restored a normal rhythm. Beck went on to build defibrillators, taught resuscitation courses from 1950, and in 1955 his team reversed a cardiac arrest that had occurred outside the operating room.",
+    "date": {
+      "start": 1947,
+      "end": 1947,
+      "display": "December 1947",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "University Hospitals dates the operation to December 1947."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "cardiology",
+      "resuscitation",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "University Hospitals of Cleveland",
+        "modern": "Cleveland, Ohio, USA",
+        "lat": 41.51,
+        "lon": -81.61,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Claude Beck",
+        "role": "Cardiac surgeon"
+      },
+      {
+        "name": "Richard Heyard",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "A heart in fibrillation could be shocked back into a normal rhythm.",
+    "whyItMattered": "Defibrillation became central to resuscitation, leading to external defibrillators and today's automated devices in public places.",
+    "limitations": [
+      "Electric shocks had been used earlier to revive people, as far back as the eighteenth century.",
+      "The shock was applied to the exposed heart; shocks through the closed chest came later."
+    ],
+    "sources": [
+      {
+        "citation": "University Hospitals. UH celebrates 70th anniversary of world's first successful cardiac defibrillation (2018).",
+        "url": "https://uhhospitals.org/for-clinicians/articles-and-news/articles/2018/01/uh-celebrates-70th-anniversary-of-worlds-first-successful-cardiac-defibrillation",
+        "kind": "institution",
+        "supports": "In December 1947 Beck operated on a 14-year-old boy to repair a congenital chest defect; ventricular fibrillation; first shock failed; massage and a second shock succeeded; the boy lived a normal life."
+      },
+      {
+        "citation": "Case Western Reserve University. The beat goes on (Think magazine, 2018).",
+        "url": "https://case.edu/think/fall2018/beat.html",
+        "kind": "university",
+        "supports": "Beck squeezed the dying boy's heart by hand; a colleague fetched an experimental device; paddles on the heart; first successful defibrillation; Beck later built his own machine."
+      },
+      {
+        "citation": "William B. Kouwenhoven: a father of CPR. JEMS.",
+        "url": "https://www.jems.com/patient-care/cardiac-resuscitation/william-b-kouwenhoven-a-father-of-cpr/",
+        "kind": "journal",
+        "supports": "Pectus excavatum operation in 1947; fibrillation as the chest was closed; Beck massaged the heart for 45 minutes before the shock."
+      },
+      {
+        "citation": "Life in the Fast Lane (LITFL). Claude Beck.",
+        "url": "https://litfl.com/claude-beck/",
+        "kind": "institution",
+        "supports": "First successful defibrillation of the human heart (1947); resuscitation course from 1950; first successful reversal of out-of-hospital cardiac arrest with defibrillation on 22 June 1955."
+      },
+      {
+        "citation": "News 5 Cleveland. The story of how the defibrillator was born in Cleveland (2017).",
+        "url": "https://www.news5cleveland.com/news/70th-anniversary-of-first-defibrillation-in-the-world-which-happened-in-cleveland",
+        "kind": "journal",
+        "supports": "The patient was Richard Heyard, a 14-year-old from Stark County, at University Hospitals; heart restarted with two jolts after 45 minutes."
+      },
+      {
+        "citation": "Cakulev I, Efimov IR, Waldo AL. Cardioversion: past, present, and future. Circulation 120:1623 (2009).",
+        "url": "https://www.defibrillation.ru/download/Circulation,2009October20,v120,16,1623-1632.pdf",
+        "kind": "journal",
+        "supports": "Possibly the first description of resuscitation by electric shock was by Charles Kite in 1788."
+      }
+    ],
+    "related": [
+      "modern-cpr",
+      "pantridge-mobile-defibrillator"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "paracetamol-brodie-axelrod",
+    "title": "Paracetamol is identified as a safer painkiller",
+    "summary": "In 1948 Bernard Brodie and Julius Axelrod in New York showed that the painkiller acetanilide caused a harmful blood disorder through one breakdown product, aniline, while another, N-acetyl-p-aminophenol, relieved pain without it. They suggested using it instead. It is now paracetamol, or acetaminophen.",
+    "explanation": "Popular headache remedies such as Bromo-Seltzer contained acetanilide or phenacetin, and some heavy users developed methaemoglobinaemia, in which the blood carries less oxygen. In 1946 the Institute for the Study of Analgesic and Sedative Drugs funded research into why. Axelrod, a chemist at the New York City Laboratory of Industrial Hygiene, worked with Brodie at the Goldwater Memorial Hospital research group in New York.\n\nThey developed sensitive tests for acetanilide's breakdown products in blood and urine, and found that aniline levels rose with methaemoglobin, while N-acetyl-p-aminophenol was the main product and had painkilling activity. Their 1948 paper, 'The fate of acetanilide in man', recommended it as a replacement. Paracetamol became one of the most widely used medicines in the world.",
+    "date": {
+      "start": 1948,
+      "end": 1948,
+      "display": "1948",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Published in the Journal of Pharmacology and Experimental Therapeutics in 1948."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "mechanisms"
+    ],
+    "themes": [
+      "drug discovery",
+      "pain",
+      "pharmacology"
+    ],
+    "locations": [
+      {
+        "name": "Goldwater Memorial Hospital, Welfare Island",
+        "modern": "Roosevelt Island, New York, USA",
+        "lat": 40.76,
+        "lon": -73.95,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Bernard Brodie",
+        "role": "Pharmacologist"
+      },
+      {
+        "name": "Julius Axelrod",
+        "role": "Chemist; later a Nobel laureate"
+      }
+    ],
+    "whatChanged": "Doctors gained a painkiller and fever reducer without the blood toxicity of its parent drugs.",
+    "whyItMattered": "Paracetamol is now among the most widely used medicines for pain and fever, and the work helped found the study of drug metabolism.",
+    "limitations": [
+      "Paracetamol itself had been made decades earlier but had been little used.",
+      "In overdose paracetamol can cause fatal liver damage."
+    ],
+    "sources": [
+      {
+        "citation": "National Library of Medicine, Profiles in Science. Julius Axelrod: work on the sympathomimetic amines, 1946–1958.",
+        "url": "https://profiles.nlm.nih.gov/spotlight/hh/feature/amines",
+        "kind": "institution",
+        "supports": "1946 grant from the Institute for the Study of Analgesic and Sedative Drugs to the Laboratory of Industrial Hygiene; users of non-aspirin analgesics such as Bromo-Seltzer developed methaemoglobinaemia; acetanilide the problem; they suggested acetaminophen; 1948 paper 'The fate of acetanilide in man'."
+      },
+      {
+        "citation": "Brodie BB, Axelrod J. The fate of acetanilide in man. J Pharmacol Exp Ther 94:29–38 (1948). NLM Profiles in Science record.",
+        "url": "https://profiles.nlm.nih.gov/101584577X4",
+        "kind": "primary",
+        "supports": "Acetanilide contributed to methaemoglobinaemia; they suggested manufacturers replace it with acetaminophen."
+      },
+      {
+        "citation": "Kopin IJ. Julius Axelrod (1912–2004). Biographical Memoirs of the National Academy of Sciences 87 (2005).",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/axelrod-julius.pdf",
+        "kind": "institution",
+        "supports": "In early 1946 the Institute for the Study of Analgesic and Sedative Drugs approached Axelrod's laboratory; experiments in Brodie's laboratory; the metabolite had analgesic activity and did not cause methaemoglobinaemia."
+      },
+      {
+        "citation": "Garrison–Morton. Brodie BB, Axelrod J (1948), acetanilide and its metabolic products.",
+        "url": "https://historyofmedicine.com/id/9974",
+        "kind": "book",
+        "supports": "Paracetamol the major metabolite of acetanilide in human blood and an effective analgesic; unlike its precursors it does not cause methaemoglobinaemia."
+      },
+      {
+        "citation": "Axelrod, Julius. Encyclopedia.com.",
+        "url": "https://www.encyclopedia.com/books/culture-magazines/axelrod-julius",
+        "kind": "book",
+        "supports": "Axelrod developed a sensitive assay for aniline in blood and urine; aniline and methaemoglobin levels correlated; N-acetyl-p-aminophenol could replace acetanilide."
+      },
+      {
+        "citation": "Axelrod, Julius. Complete Dictionary of Scientific Biography (Encyclopedia.com).",
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/axelrod-julius",
+        "kind": "book",
+        "supports": "In 1949 James Shannon became director of intramural research at the National Heart Institute, and Axelrod, Brodie and many other Goldwater scientists followed."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "who-founded",
+    "title": "The World Health Organization is founded",
+    "summary": "On 7 April 1948 the constitution of the World Health Organization came into force, after the 26th member state of the United Nations ratified it. Based in Geneva, WHO took over the work of earlier international health bodies and became the UN agency for global health.",
+    "explanation": "International cooperation on health began with the International Sanitary Conferences, the first in Paris in 1851, and continued through the Paris-based Office International d'Hygiène Publique and the League of Nations Health Organization. At the founding of the United Nations in 1945, delegates proposed a single global health body.\n\nAn International Health Conference in New York adopted WHO's constitution in June 1946, and 61 states signed it that July. It came into force on 7 April 1948, now marked each year as World Health Day, and the first World Health Assembly opened in Geneva on 24 June 1948. WHO went on to lead campaigns such as the eradication of smallpox.",
+    "date": {
+      "start": 1948,
+      "end": 1948,
+      "display": "7 April 1948",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date the constitution entered into force."
+    },
+    "type": "implementation",
+    "evidence": [
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "global health",
+      "international organisations"
+    ],
+    "locations": [
+      {
+        "name": "World Health Organization headquarters, Geneva",
+        "modern": "Geneva, Switzerland",
+        "lat": 46.23,
+        "lon": 6.13,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [],
+    "whatChanged": "The world gained a single permanent organisation to coordinate international health work.",
+    "whyItMattered": "WHO sets international health standards, coordinates responses to epidemics and led the eradication of smallpox.",
+    "limitations": [
+      "WHO depends on member states for funding and cooperation and cannot enforce its recommendations.",
+      "It built on earlier bodies, such as the Office International d'Hygiène Publique and the League of Nations Health Organization."
+    ],
+    "sources": [
+      {
+        "citation": "World Health Organization. History of WHO.",
+        "url": "https://www.who.int/about/history",
+        "kind": "institution",
+        "supports": "The constitution would come into force when 26 UN members ratified it; it came into force on 7 April 1948; the first Health Assembly opened in Geneva on 24 June 1948 with 53 of 55 member states."
+      },
+      {
+        "citation": "Yearbook of the United Nations 1947–48: World Health Organization.",
+        "url": "https://cdn.un.org/unyearbook/yun/chapter_pdf/1947-48YUN/1947-48_P2_SEC8.pdf",
+        "kind": "primary",
+        "supports": "On 7 April 1948 WHO came officially into being, 26 Members of the United Nations having accepted its Constitution."
+      },
+      {
+        "citation": "Gavi. 75 years later: the birth of the World Health Organization (2023).",
+        "url": "https://www.gavi.org/vaccineswork/75-years-later-birth-world-health-organization",
+        "kind": "institution",
+        "supports": "The International Sanitary Conferences ultimately led to WHO; the constitution entered into force on 7 April 1948."
+      },
+      {
+        "citation": "Preamble to the Constitution of the World Health Organization (SSWM record).",
+        "url": "https://www.sswm.info/node/784",
+        "kind": "institution",
+        "supports": "Adopted by the International Health Conference, New York, 19–22 June 1946; signed on 22 July 1946 by 61 states; entered into force on 7 April 1948."
+      }
+    ],
+    "related": [
+      "smallpox-eradication"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "ridley-intraocular-lens",
+    "title": "Harold Ridley implants an artificial lens in the eye",
+    "summary": "On 29 November 1949 at St Thomas' Hospital, London, Harold Ridley implanted a plastic lens inside a woman's eye after removing her cataract. He chose Perspex after noticing that splinters of it from shattered aircraft canopies caused no inflammation in airmen's eyes.",
+    "explanation": "After cataract surgery, patients needed thick, heavy spectacles because the eye's own lens had been removed. During the Second World War, treating injured RAF pilots at Moorfields Eye Hospital, Ridley saw that fragments of Perspex (polymethyl methacrylate) from cockpit canopies lay in the eye without causing a reaction.\n\nIn 1948 he met privately with John Pike of the optical firm Rayner, and with John Holt of ICI, which made the plastic, to design a lens. The first operation, on a woman in her forties, was kept secret. Today the great majority of cataract operations include an intraocular lens.",
+    "date": {
+      "start": 1949,
+      "end": 1949,
+      "display": "29 November 1949",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first implant, given consistently by several sources."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "ophthalmology",
+      "devices",
+      "biomaterials"
+    ],
+    "locations": [
+      {
+        "name": "St Thomas' Hospital, London",
+        "modern": "London, England, UK",
+        "lat": 51.5,
+        "lon": -0.12,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Harold Ridley",
+        "role": "Ophthalmic surgeon"
+      },
+      {
+        "name": "John Pike",
+        "role": "Optical scientist at Rayner"
+      },
+      {
+        "name": "John Holt",
+        "role": "Chemist at ICI"
+      }
+    ],
+    "whatChanged": "The lens removed in cataract surgery could be replaced inside the eye, restoring sight without thick spectacles.",
+    "whyItMattered": "Lens implants are now part of most of the millions of cataract operations performed every year.",
+    "limitations": [
+      "Ideas for an artificial lens had been discussed earlier, but none had been implanted.",
+      "Adoption was slow; Ridley later asked whether implants had begun 'a generation too soon'.",
+      "Sources give the first patient's age as 42 or 45."
+    ],
+    "sources": [
+      {
+        "citation": "American Academy of Ophthalmology. Harold Ridley, MD (biography).",
+        "url": "https://WWW.AAO.ORG/biographies-detail/harold-ridley-md",
+        "kind": "institution",
+        "supports": "Ridley at Moorfields when war was declared; Perspex used in Spitfire and Hurricane canopies; met John Pike of Rayner to design the first IOL; first implant on 29 November 1949; his later reflection on whether it began a generation too soon."
+      },
+      {
+        "citation": "Hurley S. A visionary innovation: Harold Ridley and the first intra-ocular surgery. Science Museum blog (2024).",
+        "url": "https://blog.sciencemuseum.org.uk/a-visionary-innovation-harold-ridley-and-the-first-intra-ocular-surgery/",
+        "kind": "museum",
+        "supports": "Collaboration with John Pike of Rayner and John Holt of ICI; for those before him an intraocular lens had been a theoretical idea; operation at St Thomas' kept secret."
+      },
+      {
+        "citation": "A brief history of IOL materials. The Ophthalmologist.",
+        "url": "https://theophthalmologist.com/subspecialties/a-brief-history-of-iol-materials",
+        "kind": "journal",
+        "supports": "Splinters of PMMA from a shattered canopy in a pilot's eyes; on 29 November 1949 at St Thomas' Ridley inserted the first lens into a 42-year-old woman."
+      },
+      {
+        "citation": "Harold Ridley and the first intraocular lens (chapter). Springer.",
+        "url": "https://rd.springer.com/chapter/10.1007/978-3-319-59641-9_14",
+        "kind": "book",
+        "supports": "Acrylic lens implanted in a 45-year-old woman on 29 November 1949; Perspex chosen after observing that embedded fragments caused no inflammation in pilots' eyes."
+      },
+      {
+        "citation": "Surgeon who saw the way forward (obituary). The Irish Times (2001).",
+        "url": "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/news/surgeon-who-saw-the-way-forward-1.311155",
+        "kind": "journal",
+        "supports": "About six million of seven million cataract operations a year depend on lens implantation, a technique he first performed at St Thomas's in 1949."
+      }
+    ],
+    "related": [
+      "bath-laserphaco"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "copenhagen-polio-ventilation",
+    "title": "Copenhagen's polio epidemic gives birth to intensive care",
+    "summary": "During Copenhagen's severe polio epidemic of 1952, the anaesthetist Bjørn Ibsen showed that patients whose breathing was paralysed could be kept alive by tracheostomy and hand-squeezed positive-pressure ventilation. Students ventilated patients round the clock, and the first intensive care unit followed in 1953.",
+    "explanation": "Blegdam Hospital, the city's hospital for infectious diseases, was admitting around 50 polio patients a day, 10 to 20 of them with failing breathing, and had one tank respirator and six cuirass respirators. Nearly all patients with breathing involvement were dying. Ibsen, who had earlier kept a child with tetanus alive by sedation and hand ventilation, was called in to see Vivi Ebert, a 12-year-old who was suffocating.\n\nHe placed a tube in her windpipe through a tracheostomy and pumped air into her lungs with a rubber bag, keeping her alive. The hospital adopted the method for all such patients, with medical students taking shifts to squeeze the bags. In December 1953 the world's first intensive care unit opened at Copenhagen's Kommunehospitalet.",
+    "date": {
+      "start": 1952,
+      "end": 1953,
+      "display": "1952–1953",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Ibsen's first patient treated on 27 August 1952; first intensive care unit opened in December 1953."
+    },
+    "type": "practice",
+    "evidence": [
+      "published-report",
+      "programme-records"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "public-health"
+    ],
+    "themes": [
+      "intensive care",
+      "anaesthesia",
+      "epidemics"
+    ],
+    "locations": [
+      {
+        "name": "Blegdam Hospital, Copenhagen",
+        "modern": "Copenhagen, Denmark",
+        "lat": 55.7,
+        "lon": 12.57,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Bjørn Ibsen",
+        "role": "Anaesthetist"
+      },
+      {
+        "name": "Henry Cai Alexander Lassen",
+        "role": "Chief physician at Blegdam Hospital"
+      },
+      {
+        "name": "Vivi Ebert",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "Patients who could not breathe could be kept alive for long periods with positive-pressure ventilation through the windpipe.",
+    "whyItMattered": "It gave rise to intensive care medicine and modern mechanical ventilation, used for millions of patients, including during the COVID-19 pandemic.",
+    "limitations": [
+      "Positive-pressure ventilation had been used earlier in anaesthesia; the advance was applying it for days or weeks to paralysed patients.",
+      "Ventilating by hand needed huge numbers of helpers; mechanical ventilators soon replaced it."
+    ],
+    "sources": [
+      {
+        "citation": "Ángeles-Sistac D, Morán-Chorro I, Morales-Quinteros L. Bjørn Ibsen: what made intensive care so critical? Cureus 16(8):e67281 (2024).",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11411485/",
+        "doi": "10.7759/cureus.67281",
+        "kind": "journal",
+        "supports": "Intensive care institutionalised by Ibsen during the 1952 Copenhagen polio epidemic; tracheostomy, suctioning and round-the-clock positive pressure ventilation from August 1952."
+      },
+      {
+        "citation": "International Anesthesia Research Society. The past, present, and future of innovation in critical care.",
+        "url": "https://iars.org/?p=53653",
+        "kind": "institution",
+        "supports": "Blegdam Hospital received around 50 admissions a day, 10 to 20 with respiratory failure; nearly all with respiratory involvement died; Ibsen had earlier saved a tetanic child with sedation, curare and bag ventilation."
+      },
+      {
+        "citation": "West JB. The physiological challenges of the 1952 Copenhagen poliomyelitis epidemic and a renaissance in clinical respiratory physiology. J Appl Physiol (2005).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1351016",
+        "kind": "journal",
+        "supports": "Large numbers of bulbar polio cases with respiratory paralysis; the hospital had only one Emerson tank respirator and six cuirass respirators; some 1,500 students took part in hand ventilation."
+      },
+      {
+        "citation": "How a polio outbreak in Copenhagen led to the invention of the ventilator. Smithsonian Magazine (2020).",
+        "url": "https://www.smithsonianmag.com/innovation/how-polio-outbreak-copenhagen-led-to-invention-ventilator-180975045/",
+        "kind": "journal",
+        "supports": "Twelve-year-old Vivi Ebert dying on 27 August 1952; Blegdamshospitalet the fever hospital; positive-pressure bagging not widely used at the time; Lassen's description of the crisis."
+      },
+      {
+        "citation": "University of Florida. Treatment of polio led to the evolution of the modern ICU (2011).",
+        "url": "https://news.drgator.ufl.edu/2011/12/16/treatment-of-polio-led-to-the-evolution-of-the-modern-icu",
+        "kind": "university",
+        "supports": "Not nearly enough iron lungs; Ibsen suggested positive-pressure ventilation by tracheostomy; first intensive care unit established at Kommunehospitalet in Copenhagen in December 1953."
+      }
+    ],
+    "related": [
+      "polio-vaccine-trials"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "briggs-king-nuclear-transfer",
+    "title": "Nuclear transfer in frog eggs lays the basis for cloning",
+    "summary": "In 1952 Robert Briggs and Thomas King at the Institute for Cancer Research in Philadelphia removed the nucleus from frog eggs and replaced it with a nucleus from a cell of an early embryo. Some of the eggs developed into tadpoles. Their nuclear transfer technique became the basis of cloning.",
+    "explanation": "Biologists wanted to know whether the nucleus of a cell loses some of its genetic potential as the cell specialises. Nuclear transplantation had been performed only in amoebae. Briggs, joined by King, who had trained in microsurgery, removed the nucleus of eggs of the leopard frog Rana pipiens and injected a nucleus taken from a blastula, an early embryo.\n\nThe eggs developed normally, showing that the technique worked. They found that nuclei from later stages supported development less well, but in 1958 John Gurdon, using a different frog, showed that nuclei from specialised cells could still direct development. Somatic cell nuclear transfer, used to clone Dolly the sheep in 1996, descends from their method.",
+    "date": {
+      "start": 1952,
+      "end": 1952,
+      "display": "1952",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Published in the Proceedings of the National Academy of Sciences in 1952."
+    },
+    "type": "discovery",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "mechanisms",
+    "tags": [],
+    "themes": [
+      "embryology",
+      "cloning",
+      "genetics"
+    ],
+    "locations": [
+      {
+        "name": "Institute for Cancer Research and Lankenau Hospital Research Institute, Philadelphia",
+        "modern": "Philadelphia, Pennsylvania, USA",
+        "lat": 39.95,
+        "lon": -75.17,
+        "radiusKm": 15,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Robert Briggs",
+        "role": "Embryologist"
+      },
+      {
+        "name": "Thomas King",
+        "role": "Embryologist and microsurgeon"
+      },
+      {
+        "name": "John Gurdon",
+        "role": "Biologist who extended the technique"
+      }
+    ],
+    "whatChanged": "Scientists could test what a cell's nucleus is able to do by moving it into an egg.",
+    "whyItMattered": "Nuclear transfer led to animal cloning and to research on stem cells and how cells become specialised.",
+    "limitations": [
+      "They used nuclei from early embryos; cloning from adult cells came much later.",
+      "Their findings that later nuclei were restricted were partly overturned by Gurdon's work."
+    ],
+    "sources": [
+      {
+        "citation": "Embryo Project Encyclopedia. 'Transplantation of living nuclei from blastula cells into enucleated frogs' eggs' (1952), by Robert Briggs and Thomas J. King.",
+        "url": "https://keep.lib.asu.edu/system/files/embryo/pdfs/embryo124780.xhtml.pdf",
+        "kind": "university",
+        "supports": "1952 PNAS article from experiments at the Institute for Cancer Research and Lankenau Hospital Research Institute, Philadelphia; first successful nuclear transplantation with amphibian embryos; previously only in amoebae."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Thomas Joseph King Jr. (1921–2000).",
+        "url": "https://embryo.asu.edu/pages/thomas-joseph-king-jr-1921-2000",
+        "kind": "university",
+        "supports": "Briggs recruited King for his microsurgery training in 1950; in 1952 transferred nuclei produced viable tadpoles; Gurdon induced development from much later stages."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Somatic cell nuclear transfer in mammals (1938–2013).",
+        "url": "https://embryo.asu.edu/pages/somatic-cell-nuclear-transfer-mammals-1938-2013",
+        "kind": "university",
+        "supports": "Briggs and King transplanted a nucleus from a Rana pipiens blastula cell into an enucleated egg; the embryo developed normally; the techniques serve as the basis for SCNT."
+      },
+      {
+        "citation": "Embryo Project Encyclopedia. Thomas Joseph King Jr. (handle record).",
+        "url": "https://embryo.asu.edu/handle/10776/2273",
+        "kind": "university",
+        "supports": "In 1958 Gurdon's Xenopus results challenged the idea that nuclei lose developmental potential; modern SCNT uses techniques similar to those Briggs and King developed."
+      },
+      {
+        "citation": "Robert W. Briggs. Biographical Memoirs, National Academy of Sciences.",
+        "url": "https://www.nasonline.org/wp-content/uploads/2024/06/briggs-robert-w.pdf",
+        "kind": "institution",
+        "supports": "Briggs recruited Tom King to the nuclear transplantation project and in 1952 they had their first success."
+      }
+    ],
+    "related": [
+      "dolly-cloned-sheep"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "frozen-sperm-pregnancies",
+    "title": "Pregnancies from frozen human sperm",
+    "summary": "In 1953 Raymond Bunge and Jerome Sherman at the University of Iowa reported that three women had become pregnant with human sperm that had been frozen with glycerol, stored on dry ice and thawed. The work made sperm banks possible.",
+    "explanation": "Attempts to preserve sperm by freezing went back nearly a century, but frozen sperm rarely survived. In 1949 British scientists found that glycerol protected fowl sperm during freezing. Sherman, a zoology graduate student working in Iowa's urology department, combined glycerol with slow cooling and storage on solid carbon dioxide.\n\nBunge, of the university's new infertility clinic, arranged for the frozen sperm to be used in artificial insemination at the clinic. Newspaper headlines about 'fatherhood after death' brought both men heavy criticism. Freezing sperm is now routine, including for people facing cancer treatment.",
+    "date": {
+      "start": 1953,
+      "end": 1953,
+      "display": "1953",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Pregnancies and the freezing method reported in 1953."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [],
+    "themes": [
+      "assisted reproduction",
+      "cryopreservation"
+    ],
+    "locations": [
+      {
+        "name": "University of Iowa College of Medicine, Iowa City",
+        "modern": "Iowa City, Iowa, USA",
+        "lat": 41.66,
+        "lon": -91.53,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jerome Sherman",
+        "role": "Zoology graduate student; developed the freezing method"
+      },
+      {
+        "name": "Raymond Bunge",
+        "role": "Urologist"
+      }
+    ],
+    "whatChanged": "Human sperm could be stored frozen and still produce a pregnancy.",
+    "whyItMattered": "Sperm freezing underpins sperm banks, donor insemination and fertility preservation.",
+    "limitations": [
+      "The method built on the earlier British discovery that glycerol protects sperm during freezing.",
+      "Storage in liquid nitrogen later replaced dry ice."
+    ],
+    "sources": [
+      {
+        "citation": "University of Iowa Carver College of Medicine. First cryobank for frozen semen; first human pregnancy from frozen sperm (1953).",
+        "url": "https://medicine.uiowa.edu/node/5401",
+        "kind": "university",
+        "supports": "The first cryobank for frozen semen established at Iowa, based on work by Sherman and Bunge in the Department of Urology; first successful human pregnancy from frozen sperm."
+      },
+      {
+        "citation": "Sherman JK, Bunge RG. Observations on preservation of human spermatozoa at low temperatures. Proc Soc Exp Biol Med 82 (1953).",
+        "url": "https://www.ebm-journal.org/journals/experimental-biology-and-medicine/articles/10.3181/00379727-82-20219/full",
+        "kind": "primary",
+        "supports": "Department of Urology, State University of Iowa; Sherman a PhD candidate; survival of human sperm at low temperatures; comparison of freezing methods including dry ice."
+      },
+      {
+        "citation": "Farm to table: the story of the development of the first sperm bank and frozen sperm pregnancies. Journal of Urology 215(5S):e284 (2026).",
+        "url": "https://iro.uiowa.edu/esploro/outputs/abstract/HF02-10FARM-TO-TABLE-THE-STORY-OF/9985157516502771",
+        "kind": "journal",
+        "supports": "In 1953 Bunge and Sherman published findings on the fertilising capacity of frozen human sperm in three women; Sherman first hired to freeze-dry renal tissue."
+      },
+      {
+        "citation": "CALS Encyclopedia of Arkansas. Jerome Kalman Sherman.",
+        "url": "https://encyclopediaofarkansas.net/entries/jerome-kalman-sherman-8019/",
+        "kind": "institution",
+        "supports": "In 1949 British scientists reported impregnating chickens with frozen semen treated with glycerol; Sherman began his own experiments; Bunge of the new infertility clinic arranged human trials."
+      },
+      {
+        "citation": "Peak Iowa: how two UI scientists bred the first sperm bank. Little Village.",
+        "url": "https://littlevillagemag.com/peak-iowa-how-two-ui-scientists-bred-the-first-sperm-bank/",
+        "kind": "journal",
+        "supports": "Attempts to freeze sperm for almost 100 years; Sherman determined the glycerol-to-semen ratio; concerns about how to share the news."
+      }
+    ],
+    "related": [
+      "icsi-brussels"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "gibbon-heart-lung-machine",
+    "title": "Gibbon's heart-lung machine makes open-heart surgery possible",
+    "summary": "On 6 May 1953 at Jefferson Medical College Hospital in Philadelphia, John Gibbon used a heart-lung machine he had spent two decades developing to close a hole in the heart of 18-year-old Cecelia Bavolek. It was the first successful open-heart operation with a machine taking over the work of the heart and lungs.",
+    "explanation": "In 1930, assisting the surgeon Edward Churchill in Boston, Gibbon watched a woman die from a blood clot in her lungs, and resolved to build a machine that could take over circulation and breathing during surgery. From 1934, working with his wife Mary, he developed a pump-oxygenator and tested it in animals before using it in people.\n\nBavolek was in heart failure from an atrial septal defect. She was supported by the machine for about 45 minutes while the hole was closed, and recovered. Gibbon's first attempt, on a 15-month-old in 1952, had failed because of a wrong diagnosis, and other early patients died. Teams elsewhere, especially at the Mayo Clinic, went on to make bypass routine.",
+    "date": {
+      "start": 1953,
+      "end": 1953,
+      "display": "6 May 1953",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the operation."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "cardiac surgery",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Jefferson Medical College Hospital, Philadelphia",
+        "modern": "Philadelphia, Pennsylvania, USA",
+        "lat": 39.95,
+        "lon": -75.16,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "John H. Gibbon Jr.",
+        "role": "Surgeon and inventor"
+      },
+      {
+        "name": "Mary Hopkinson Gibbon",
+        "role": "Collaborator and perfusionist"
+      },
+      {
+        "name": "Cecelia Bavolek",
+        "role": "Patient"
+      }
+    ],
+    "whatChanged": "Surgeons could stop the heart and operate inside it while a machine kept the patient alive.",
+    "whyItMattered": "Cardiopulmonary bypass made possible valve repair, coronary bypass, congenital heart surgery and heart transplantation.",
+    "limitations": [
+      "Earlier attempts, including Gibbon's own in 1952, had failed.",
+      "Other surgeons, using cross-circulation and later improved machines, contributed as much to making open-heart surgery routine."
+    ],
+    "sources": [
+      {
+        "citation": "Thomas Jefferson University Archives. Dr John H. Gibbon Jr. and Jefferson's heart-lung machine.",
+        "url": "https://library.jefferson.edu/archives/collections/highlights/Gibbon",
+        "kind": "university",
+        "supports": "On 6 May 1953 at Jefferson Medical College Hospital; first successful intracardiac surgery of its kind; Model II machine; in 1930 Gibbon assisted Churchill in an emergency pulmonary embolectomy."
+      },
+      {
+        "citation": "Parry T. Heart and lung. Jefferson Magazine (2020).",
+        "url": "https://magazine.jefferson.edu/issues/fall-2020/heart-and-lung.html",
+        "kind": "university",
+        "supports": "First successful cardiopulmonary bypass surgery in May 1953; fatal setbacks occurred; Cecelia Bavolek born with an atrial septal defect, in heart failure at 18."
+      },
+      {
+        "citation": "American Heart Association. The chaotic beginnings of the tool that made heart surgery possible (2024).",
+        "url": "https://www.heart.org/en/news/2024/11/04/the-chaotic-beginnings-of-the-tool-that-made-heart-surgery-possible",
+        "kind": "institution",
+        "supports": "Used successfully for the first time on 6 May 1953; in 1952 Gibbon operated on a 15-month-old thought to have an atrial septal defect; Mary Gibbon's role."
+      },
+      {
+        "citation": "The chaotic beginnings of the tool that made heart surgery possible. Medical Design & Development (AHA News).",
+        "url": "https://www.medicaldesigndevelopment.com/topics/surgical/news/22925484/the-chaotic-beginnings-of-the-tool-that-made-heart-surgery-possible",
+        "kind": "journal",
+        "supports": "The diagnosis was wrong and the child died; Bavolek on the machine for 45 minutes; cross-circulation operation on 26 March 1954; the Mayo team's work."
+      },
+      {
+        "citation": "EBSCO Research Starters. Gibbon develops the heart-lung machine.",
+        "url": "https://www.ebsco.com/research-starters/health-and-medicine/gibbon-develops-heart-lung-machine",
+        "kind": "institution",
+        "supports": "Fall 1934 to 6 May 1953; developed and tested in animals and then humans the first device to oxygenate and circulate blood during surgery."
+      },
+      {
+        "citation": "Gibbon's open-heart surgery, 70 years on. WHYY (2023).",
+        "url": "https://whyy.org/articles/philadelphia-open-heart-surgery-70th-anniversary-dr-john-gibbon/amp",
+        "kind": "journal",
+        "supports": "First successful open-heart surgery on an 18-year-old woman; Gibbon's wife was his perfusionist."
+      }
+    ],
+    "related": [
+      "favaloro-coronary-bypass",
+      "first-heart-transplant"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "edler-hertz-echocardiography",
+    "title": "Edler and Hertz record the heart with ultrasound",
+    "summary": "On 29 October 1953 in Lund, Sweden, the cardiologist Inge Edler and the physicist Hellmuth Hertz recorded echoes from a beating heart with an ultrasound device lent by Siemens. Their technique, echocardiography, became a basic tool of cardiology.",
+    "explanation": "Edler, head of cardiology at Lund's University Hospital, was responsible for assessing patients before heart surgery and wanted a better way to judge narrowing of the mitral valve. Hertz, a physics graduate student whose father, the Nobel laureate Gustav Hertz, had directed a Siemens research laboratory, knew that industrial 'reflectoscopes' used ultrasound echoes to find flaws in metal.\n\nIn May 1953 they borrowed a device for a weekend and saw echoes moving with the heartbeat. Siemens then lent them a reflectoscope, which arrived in October 1953 and was never returned. Hertz rigged a camera to record the oscilloscope trace, and they published in 1954. They later used ultrasound to diagnose fluid around the heart and a heart tumour.",
+    "date": {
+      "start": 1953,
+      "end": 1953,
+      "display": "29 October 1953",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the first recording, published in 1954."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "diagnosis",
+    "tags": [],
+    "themes": [
+      "imaging",
+      "cardiology",
+      "physics in medicine"
+    ],
+    "locations": [
+      {
+        "name": "University Hospital, Lund",
+        "modern": "Lund, Sweden",
+        "lat": 55.71,
+        "lon": 13.19,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Inge Edler",
+        "role": "Cardiologist"
+      },
+      {
+        "name": "Carl Hellmuth Hertz",
+        "role": "Physicist"
+      }
+    ],
+    "whatChanged": "The moving structures of the heart could be seen without surgery, catheters or X-rays.",
+    "whyItMattered": "Echocardiography is now used routinely to diagnose heart valve disease, heart failure and congenital heart defects.",
+    "limitations": [
+      "Others had experimented earlier with ultrasound in medicine, though Edler and Hertz said they were unaware of that work.",
+      "The first recordings showed only lines on a screen; two-dimensional images came later."
+    ],
+    "sources": [
+      {
+        "citation": "Lund University Faculty of Medicine. Inge Edler and Hellmuth Hertz.",
+        "url": "https://www.medicine.lu.se/node/11",
+        "kind": "university",
+        "supports": "Department of Internal Medicine in Lund, 29 October 1953; first time a sensor was placed on a cardiac patient; equipment borrowed from Siemens; Edler 42 and Hertz 36."
+      },
+      {
+        "citation": "Wettrell G. Echocardiogram: the first ultrasound picture of the moving heart. Hektoen International (2017).",
+        "url": "https://hekint.org/2017/01/27/echocardiogram-the-first-ultrasound-picture-of-the-moving-heart/",
+        "kind": "journal",
+        "supports": "First echocardiogram recorded on 29 October 1953; Gustav Hertz had directed the Siemens research laboratory; the reflectoscope in use until 1965."
+      },
+      {
+        "citation": "Wettrell G. Chance favors the prepared mind. Hektoen International.",
+        "url": "https://hekint.org/?p=1532",
+        "kind": "journal",
+        "supports": "Met in May 1953; Edler aimed to evaluate mitral stenosis; Siemens built ultrasonic reflectoscopes for industrial use; loaned for one year and never returned; pericardial effusion diagnosed in 1955 and atrial myxoma a year later."
+      },
+      {
+        "citation": "Singh S, Goyal A. The origin of echocardiography: a tribute to Inge Edler. Tex Heart Inst J (2007).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3673607/",
+        "kind": "journal",
+        "supports": "First echocardiographic recording on Thursday 29 October 1953, published in 1954; Siemens Ultrasound Reflectoscope; a completely new non-invasive diagnostic technique."
+      },
+      {
+        "citation": "Siemens Healthineers MedMuseum. A honeymoon at Siemens: the birth of echocardiography (2021).",
+        "url": "https://www.medmuseum.siemens-healthineers.com/en/stories-from-the-museum/echokardiographie",
+        "kind": "museum",
+        "supports": "In May 1953 Hertz borrowed an ultrasound materials-testing device; it was unsuitable for advanced examinations; Siemens contacts provided a medical device."
+      },
+      {
+        "citation": "Fechas de la ecocardiografía. CardioLatina (2026).",
+        "url": "https://www.cardiolatina.com/wp-content/uploads/2026/05/FECHAS-Ecocardiograf%C3%ADa.pdf",
+        "kind": "journal",
+        "supports": "Hertz devised an attachment to record the oscilloscope output; first M-mode recording on 29 October 1953; both later recalled being unaware of earlier ultrasound imaging experiments."
+      }
+    ],
+    "related": [
+      "donald-obstetric-ultrasound"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "kidney-transplant-twins",
+    "title": "The first successful kidney transplant, between identical twins",
+    "summary": "On 23 December 1954 at the Peter Bent Brigham Hospital in Boston, surgeons transplanted a kidney from Ronald Herrick into his identical twin Richard, who was dying of kidney failure. Because the twins were genetically identical, the kidney was not rejected. It was the first lastingly successful organ transplant.",
+    "explanation": "Kidneys transplanted between unrelated people had always been rejected by the recipient's immune system. When Richard Herrick, aged 23, was referred to the hospital, his doctors realised that an identical twin's kidney might be accepted. The team confirmed that the brothers were identical, including by comparing fingerprints at a police station, despite criticism of operating on a healthy donor.\n\nJ. Hartwell Harrison removed a kidney from Ronald, and Joseph Murray attached it in Richard, in a five-and-a-half-hour operation; the nephrologist John Merrill had used dialysis to stabilise Richard beforehand. Richard returned to an active life, and Ronald suffered no ill effects. Murray shared the 1990 Nobel Prize.",
+    "date": {
+      "start": 1954,
+      "end": 1954,
+      "display": "23 December 1954",
+      "kind": "point",
+      "approximate": false,
+      "precision": "day",
+      "basis": "Date of the operation."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "transplantation",
+      "research ethics"
+    ],
+    "locations": [
+      {
+        "name": "Peter Bent Brigham Hospital, Boston",
+        "modern": "Boston, Massachusetts, USA",
+        "lat": 42.34,
+        "lon": -71.11,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "discovery-site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Joseph Murray",
+        "role": "Plastic and transplant surgeon"
+      },
+      {
+        "name": "J. Hartwell Harrison",
+        "role": "Urologist who removed the donor kidney"
+      },
+      {
+        "name": "John Merrill",
+        "role": "Nephrologist"
+      },
+      {
+        "name": "Ronald and Richard Herrick",
+        "role": "Donor and recipient"
+      }
+    ],
+    "whatChanged": "It showed that a transplanted human organ could work for years in another person.",
+    "whyItMattered": "It opened the era of organ transplantation; with anti-rejection drugs, kidney transplants between unrelated people followed in the early 1960s.",
+    "limitations": [
+      "A temporary, partial kidney transplant had been carried out earlier at the same hospital, in 1946.",
+      "The method worked only between identical twins until immunosuppressive drugs were developed."
+    ],
+    "sources": [
+      {
+        "citation": "Mass General Brigham. How a landmark operation at Brigham and Women's Hospital 70 years ago opened the door for organ transplantation (2024).",
+        "url": "https://www.massgeneralbrigham.org/en/about/newsroom/articles/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation",
+        "kind": "institution",
+        "supports": "Operation by Murray, Harrison and Merrill at the Peter Bent Brigham Hospital; Harrison removed the kidney from Ronald and Murray attached it in Richard; identical genes would prevent rejection."
+      },
+      {
+        "citation": "Mass General Brigham news. How a landmark operation opened the door for organ transplantation.",
+        "url": "https://news.massgeneralbrigham.org/en/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation",
+        "kind": "institution",
+        "supports": "Richard returned to a healthy and active life, and Ronald suffered no ill effects."
+      },
+      {
+        "citation": "Abdi R. John Putnam Merrill: the unsung hero behind the first successful renal transplantation. Frontiers in Transplantation 4:1620534 (2025).",
+        "url": "https://www.frontiersin.org/articles/10.3389/frtra.2025.1620534/full",
+        "doi": "10.3389/frtra.2025.1620534",
+        "kind": "journal",
+        "supports": "First successful renal transplantation between the Herrick twins at the Peter Bent Brigham Hospital in 1954; Merrill's dialysis machine stabilised the diseased twin; Harrison's donor nephrectomy."
+      },
+      {
+        "citation": "Harvard Magazine. The Harvard doctor who made kidney transplants possible.",
+        "url": "https://www.harvardmagazine.com/index%2Ephp/alumni-profiles/harvard-joseph-murray-transplantation",
+        "kind": "university",
+        "supports": "Kidney transplants between unrelated persons were rejected; Murray verified the twins were identical by fingerprinting at a police station; disapproval among scientists; 23-year-old Richard Herrick; transplants between unrelated people in 1962."
+      },
+      {
+        "citation": "Stier C. A tale from Boston's history: the first human organ transplantation. Nature blogs.",
+        "url": "https://blogs.nature.com/blog/a-tale-from-boston-s-history-the-first-human-organ-transplantation/",
+        "kind": "journal",
+        "supports": "The twins gave Murray an opportunity to transplant without immune rejection; the operation took five and a half hours."
+      },
+      {
+        "citation": "Guinness World Records. First successful kidney transplant.",
+        "url": "https://www.guinnessworldrecords.com/world-records/first-successful-kidney-transplant",
+        "kind": "institution",
+        "supports": "23 December 1954 at the Peter Bent Brigham Hospital; Murray's 1990 Nobel Prize; an earlier partial kidney transplant at the same hospital in 1946."
+      }
+    ],
+    "related": [
+      "kolff-dialysis",
+      "liver-transplant",
+      "cyclosporine"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "malmstrom-vacuum-extractor",
+    "title": "Malmström's vacuum extractor for assisted birth",
+    "summary": "In 1953–54 the Swedish obstetrician Tage Malmström described a practical vacuum extractor: a metal cup held to the baby's head by suction, with a chain through which the doctor could pull during a difficult birth. It became a widely used alternative to forceps.",
+    "explanation": "James Young Simpson had tried a suction 'air tractor' in Edinburgh in 1849 but abandoned it for forceps. Malmström's cup was a hollow metal hemisphere; suction drew the baby's scalp into it, forming a swelling that held it firmly, and a hand pump created the vacuum. Unlike earlier suction cups, it was designed to transmit traction.\n\nHe described it in a Swedish journal in 1953 and in Acta Obstetricia et Gynecologica Scandinavica in 1954, with a fuller account in 1957. Use spread rapidly in Europe, though American doctors were more cautious about risks to the baby. Later soft and disposable cups developed from his design, and vacuum delivery causes less injury to the mother's pelvic floor than forceps.",
+    "date": {
+      "start": 1954,
+      "end": 1954,
+      "display": "1954",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Described in Swedish in 1953 and in an international journal in 1954."
+    },
+    "type": "invention",
+    "evidence": [
+      "published-report"
+    ],
+    "category": "maternal",
+    "tags": [],
+    "themes": [
+      "childbirth",
+      "devices"
+    ],
+    "locations": [
+      {
+        "name": "Gothenburg",
+        "modern": "Gothenburg, Sweden",
+        "lat": 57.71,
+        "lon": 11.97,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "discovery-site"
+      }
+    ],
+    "locationNote": "Mapped to Gothenburg, where Malmström's extractor was manufactured; the sources consulted do not name his hospital.",
+    "people": [
+      {
+        "name": "Tage Malmström",
+        "role": "Obstetrician"
+      }
+    ],
+    "whatChanged": "Doctors gained a gentler instrument than forceps for helping deliver a baby when labour stalls.",
+    "whyItMattered": "Vacuum extraction is now a common method of assisted vaginal birth around the world.",
+    "limitations": [
+      "An earlier suction device by James Young Simpson in 1849 had been abandoned.",
+      "Vacuum delivery can cause scalp swelling and, rarely, bleeding in or around the baby's head."
+    ],
+    "sources": [
+      {
+        "citation": "Wilkinson C. Tools of the trade: the evolution of the obstetric vacuum extractor. O&G Magazine 17(4) (2015).",
+        "url": "https://www.ogmagazine.org.au/17/4-17/evolution-obstetric-vacuum-extractor/",
+        "kind": "journal",
+        "supports": "Design and use of the vacuum extractor over 300 years; Malmström's original cup design; Simpson's air tractor abandoned in favour of forceps; Malmström publicised his design in 1957."
+      },
+      {
+        "citation": "Dietz HP. Aldo Vacca's legacy. O&G Magazine 17(1) (2015).",
+        "url": "https://www.ogmagazine.org.au/17/1-17/aldo-vacca-legacy/",
+        "kind": "journal",
+        "supports": "The first practicable device was proposed by Malmström in Sweden in 1954; forceps carry about five times the odds of levator trauma compared with vacuum."
+      },
+      {
+        "citation": "Malmström, Tage (1911–1995): Vacuum extractor. Eponyms and Names in Obstetrics and Gynaecology (Cambridge University Press).",
+        "url": "https://www.cambridge.org/core/books/eponyms-and-names-in-obstetrics-and-gynaecology/malmstrom-tage-19111995/C794C2F4E2EF6C8F8A2152C6A1826BFB",
+        "kind": "book",
+        "supports": "References: Malmström, Nord Med 1953; Acta Obstet Gynecol Scand 1954; Bird's modification."
+      },
+      {
+        "citation": "Hingorani V, et al. Evaluation of vacuum extractor and forceps deliveries. J Obstet Gynaecol India (1963).",
+        "url": "https://jogi.co.in/storage/articles/files/filebase/Archives\\1963\\sep\\1963_323_330_Sep.pdf",
+        "kind": "journal",
+        "supports": "Use spread throughout the world, particularly Europe, since Malmström designed his instrument in 1954; American authors emphasised foetal risks; unlike earlier suction cups, it also functions as a traction instrument."
+      },
+      {
+        "citation": "Science Museum Group Collection. Malmström's obstetrical vacuum extractor, Gothenburg, Sweden, 1979.",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co96571/malmstroms-obstetrical-vacuum-extractor-gothenburg-sweden-1979",
+        "kind": "museum",
+        "supports": "Designed by Malmström in the 1950s and made by AB Vacuum Extractor in Gothenburg; used in place of forceps; revived Simpson's 1849 idea."
+      },
+      {
+        "citation": "Medela. Dr de Jong's guidelines on vacuum extraction.",
+        "url": "https://pimd.medela.com/200-surgical-and-woundcare/articles/pvs-insights/dr.-de-jong-s-guidelines.pdf",
+        "kind": "institution",
+        "supports": "Malmström's metal cup a hollow hemisphere allowing formation of a chignon; hand pump and gauge; modern cups developed from the Malmström device."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "tetracycline",
+    "title": "Tetracycline, an antibiotic improved by chemistry",
+    "summary": "In 1952 Lloyd Conover, a chemist at Pfizer, made tetracycline by replacing a chlorine atom in the natural antibiotic Aureomycin with hydrogen. It soon became the most prescribed broad-spectrum antibiotic in the United States, and showed that natural antibiotics could be improved by chemistry.",
+    "explanation": "The first tetracycline antibiotics, discovered as natural products of soil bacteria, were reported in 1948: Aureomycin (chlortetracycline), found by Benjamin Duggar's soil-screening team at Lederle, and Terramycin (oxytetracycline), found by Pfizer. Conover joined a Pfizer team that, with the Harvard chemist R. B. Woodward, worked out the structures of these molecules.\n\nRealising that the molecules could be altered, Conover removed the chlorine from Aureomycin by catalytic reduction. The product, tetracycline, was more potent and went on sale in 1953. It was used against many infections, including pneumonia and gonorrhoea, and the approach of modifying natural antibiotics became standard in the industry.",
+    "date": {
+      "start": 1952,
+      "end": 1955,
+      "display": "1952–1955",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Made in 1952; marketed in 1953; US patent granted in January 1955."
+    },
+    "type": "invention",
+    "evidence": [
+      "laboratory",
+      "published-report"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "antibiotics",
+      "drug discovery",
+      "pharmaceutical industry"
+    ],
+    "locations": [],
+    "locationNote": "Not mapped: the sources consulted name Pfizer's research department but not the laboratory where the work was done.",
+    "people": [
+      {
+        "name": "Lloyd Conover",
+        "role": "Chemist at Pfizer"
+      },
+      {
+        "name": "Robert Burns Woodward",
+        "role": "Harvard chemist who worked with the Pfizer team"
+      },
+      {
+        "name": "Benjamin Duggar",
+        "role": "Botanist who led Lederle's soil screening that found Aureomycin"
+      }
+    ],
+    "whatChanged": "It showed that a natural antibiotic could be chemically modified into a better drug.",
+    "whyItMattered": "Tetracycline became one of the most widely used antibiotics, and semi-synthetic modification became the main way new antibiotics were made.",
+    "limitations": [
+      "Tetracyclines had been discovered earlier as natural products; Conover's was the first useful antibiotic made by chemically modifying one.",
+      "Bacterial resistance to tetracyclines is now widespread."
+    ],
+    "contested": "The tetracycline patent was challenged for years, including claims that it had been obtained by fraud on the Patent Office; the courts upheld it in 1982.",
+    "sources": [
+      {
+        "citation": "Lemelson-MIT Program. Lloyd Conover: tetracycline.",
+        "url": "https://lemelson.mit.edu/resources/lloyd-conover",
+        "kind": "university",
+        "supports": "First antibiotic made by chemically modifying a naturally produced drug; team exploring Terramycin and Aureomycin with R. B. Woodward; tetracycline developed in 1952 and patented in 1955; most prescribed broad-spectrum antibiotic in the US within three years; patent upheld in 1982."
+      },
+      {
+        "citation": "Science History Institute. Lloyd H. Conover Papers (finding aid).",
+        "url": "https://sciencehistory.libraryhost.com/repositories/3/resources/65",
+        "kind": "archive",
+        "supports": "In 1952 Conover stripped the aureomycin molecule of chlorine and replaced it with hydrogen; tetracycline more potent; patented in 1955; effective against salmonella, gonorrhoea and pneumonia."
+      },
+      {
+        "citation": "National Inventors Hall of Fame. Lloyd H. Conover: tetracycline, US Patent 2,699,054.",
+        "url": "https://invent.org/inductees/lloyd-h-conover",
+        "kind": "institution",
+        "supports": "Invented tetracycline in 1952; commercialised in 1953; quickly the most prescribed broad-spectrum antibiotic."
+      },
+      {
+        "citation": "Nelson ML, Levy SB. The history of the tetracyclines. Ann N Y Acad Sci (2011).",
+        "url": "https://www.researchgate.net/profile/Mark_Nelson19/publication/51907943_The_history_of_the_tetracyclines/links/59e4e956458515250246e9ee/The-history-of-the-tetracyclines.pdf",
+        "kind": "journal",
+        "supports": "Tetracyclines discovered as natural products from actinomycete soil bacteria and first reported in 1948; Aureomycin discovered by Lederle; Duggar headed the soil screening."
+      },
+      {
+        "citation": "University of Bristol, Molecule of the Month. Doxycycline (2011).",
+        "url": "https://www.chm.bris.ac.uk/motm/doxycycline/DOXYCYCLINE%20-%20MOTM%20September%202011.pdf",
+        "kind": "university",
+        "supports": "In 1952 chlortetracycline could be hydrogenated to tetracycline; Pfizer isolated oxytetracycline; Woodward's team solved its structure in 1953."
+      },
+      {
+        "citation": "United States v. Pfizer (complaint concerning the tetracycline patent). US Department of Justice (1974).",
+        "url": "https://www.justice.gov/d9/case-documents/attachments/1974/05/30/339310.pdf",
+        "kind": "primary",
+        "supports": "Action alleging fraud on the Patent Office in obtaining the Conover tetracycline patent issued to Pfizer on 11 January 1955."
+      }
+    ],
+    "related": [
+      "nubian-tetracycline",
+      "penicillin"
     ],
     "suggestedBy": "wikipedia-timeline"
   }
