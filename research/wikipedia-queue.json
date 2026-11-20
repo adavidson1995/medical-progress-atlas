@@ -3243,9 +3243,9 @@
    "claim": "Human Genome Project draft",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "human-genome-project",
+   "note": "Wikipedia gives 2000 for the draft; the draft was announced in June 2000 and published in February 2001, and the project was declared complete in April 2003."
   },
   {
    "wid": "w296",
@@ -3419,8 +3419,8 @@
    "claim": "Complete human genome sequence",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "t2t-complete-human-genome",
    "note": ""
   }
  ],

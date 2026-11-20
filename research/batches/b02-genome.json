@@ -1,0 +1,239 @@
+{
+  "entries": [
+    {
+      "id": "human-genome-project",
+      "title": "The Human Genome Project publishes a draft, then a near-complete sequence",
+      "summary": "An international consortium of 20 groups in six countries published a draft human genome sequence in 2001 and announced an essentially complete sequence in April 2003, two years ahead of schedule. It covered about 92% of the genome.",
+      "explanation": "The Human Genome Project began formally in 1990, when the US National Institutes of Health and Department of Energy published a plan for the first five years of an expected 15-year effort. Sequencing was carried out by the International Human Genome Sequencing Consortium: 20 groups in the United States, the United Kingdom, Japan, France, Germany and China. A draft was announced in June 2000 and published in Nature in February 2001, alongside a competing draft from the company Celera Genomics.\n\nIn April 2003 the consortium announced an essentially complete sequence, as complete as the sequencing technology of the time allowed. The project also changed scientific practice: the sequence was released publicly shortly after it was produced, under the 1996 Bermuda Principles on open data.",
+      "date": {
+        "start": 2000,
+        "end": 2003,
+        "display": "2000–2003",
+        "kind": "span",
+        "approximate": false,
+        "precision": "year",
+        "basis": "Draft announced in June 2000 and published on 15 February 2001; completion announced in April 2003. The project itself began in 1990."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "genetics",
+        "open data",
+        "international collaboration"
+      ],
+      "locations": [
+        {
+          "name": "Whitehead Institute/MIT Center for Genome Research, Cambridge, Massachusetts",
+          "modern": "Cambridge, Massachusetts, USA",
+          "lat": 42.36,
+          "lon": -71.09,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Listed first among the sequencing centres, which were ordered by amount of sequence contributed"
+        },
+        {
+          "name": "Washington University, St. Louis",
+          "modern": "St. Louis, Missouri, USA",
+          "lat": 38.64,
+          "lon": -90.26,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Sequencing centre"
+        },
+        {
+          "name": "Beijing Genomics Institute/Human Genome Center",
+          "modern": "Beijing, China",
+          "lat": 39.9,
+          "lon": 116.4,
+          "radiusKm": 30,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Sequencing centre"
+        }
+      ],
+      "locationNote": "Twenty groups in six countries took part. The map shows three of the sequencing centres named in the 2001 paper; the others are not mapped.",
+      "people": [
+        {
+          "name": "International Human Genome Sequencing Consortium",
+          "role": "Twenty sequencing groups in six countries"
+        },
+        {
+          "name": "Francis Collins",
+          "role": "Director of the US National Human Genome Research Institute; de facto leader of the consortium"
+        }
+      ],
+      "whatChanged": "A reference sequence of the human genome became freely available, so that researchers could locate genes and variants without first mapping and sequencing the region themselves.",
+      "whyItMattered": "It underpins much of modern genetics, including the search for disease genes and genetic testing, and set a precedent for releasing large biological datasets openly.",
+      "limitations": [
+        "The 2003 sequence was 'essentially complete' but still missed about 8% of the genome, mostly highly repetitive regions; those were finished only in 2022.",
+        "The reference was a patchwork from a small number of anonymous donors, so on its own it cannot capture variation between people."
+      ],
+      "sources": [
+        {
+          "citation": "International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature 409(6822):860–921 (15 February 2001).",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11237011/",
+          "doi": "10.1038/35057062",
+          "kind": "journal",
+          "supports": "Draft sequence published 15 February 2001; collaboration of 20 groups from the US, UK, Japan, France, Germany and China; sequencing centres listed in order of sequence contributed, with the Whitehead Institute first; Washington University and the Beijing Genomics Institute among the centres."
+        },
+        {
+          "citation": "National Human Genome Research Institute. Human Genome Project fact sheet and completion FAQ.",
+          "url": "https://www.genome.gov/human-genome-project/completion-faq",
+          "kind": "institution",
+          "supports": "International consortium of 20 centres in six countries; essentially complete sequence announced April 2003; draft data made publicly available shortly after production; Collins as de facto leader of the consortium; reference built from anonymous donors."
+        },
+        {
+          "citation": "National Human Genome Research Institute. Human Genome Project timeline.",
+          "url": "https://www.genome.gov/12011251",
+          "kind": "institution",
+          "supports": "1990 five-year plan for an expected 15-year project; 1996 Bermuda Principles on open data access; completion in April 2003."
+        },
+        {
+          "citation": "National Human Genome Research Institute. What is the Human Genome Project?",
+          "url": "https://www.genome.gov/11511417/what-is-the-human-genome-project/",
+          "kind": "institution",
+          "supports": "Goals exceeded by 2003, two years ahead of the projected 2005 completion; draft contained more than 150,000 gaps."
+        },
+        {
+          "citation": "Green E. The human genome sequence is now complete. NHGRI Director's Page, 7 April 2022.",
+          "url": "https://www.genome.gov/es/node/84831",
+          "kind": "institution",
+          "supports": "The 2003 sequence accounted for an estimated 92% of the human genome."
+        },
+        {
+          "citation": "Nurk S, Koren S, Rhie A, Rautiainen M, et al. The complete sequence of a human genome. Science 376(6588):44–53 (2022).",
+          "url": "https://eichlerlab.gs.washington.edu/eichler/pdfs/Nurk-T2T_Science_2022.pdf",
+          "doi": "10.1126/science.abj6987",
+          "kind": "journal",
+          "supports": "Reference genome traces to the publicly funded Human Genome Project, alongside a competing Celera effort; it covered only the euchromatic fraction."
+        }
+      ],
+      "related": [
+        "t2t-complete-human-genome"
+      ]
+    },
+    {
+      "id": "t2t-complete-human-genome",
+      "title": "The last 8% of a human genome is sequenced",
+      "summary": "In 2022 the Telomere-to-Telomere (T2T) Consortium published a complete, gapless 3.055-billion-base-pair sequence of a human genome. It covered every chromosome except Y, including the repetitive regions the Human Genome Project could not finish.",
+      "explanation": "The reference human genome released from 2000 onwards covered the gene-rich parts of the chromosomes but left about 8% unfinished: highly repetitive regions such as centromeres and the arrays of ribosomal DNA genes, which the short sequence reads of the time could not piece together. That missing 8% is comparable in size to a whole chromosome.\n\nThe T2T Consortium, led by researchers at the US National Human Genome Research Institute, the University of California, Santa Cruz, and the University of Washington, used newer long-read sequencing on a cell line that carries only one copy of each chromosome, which made the repeats easier to assemble. Their main paper, one of six in Science on 1 April 2022, reported gapless sequences for all chromosomes except Y, corrected errors in the earlier reference and added nearly 200 million base pairs of new sequence.",
+      "date": {
+        "start": 2022,
+        "end": 2022,
+        "display": "31 March 2022",
+        "kind": "point",
+        "approximate": false,
+        "precision": "day",
+        "basis": "Published online in Science on 31 March 2022 (print issue of 1 April 2022)."
+      },
+      "type": "discovery",
+      "evidence": [
+        "laboratory",
+        "published-report"
+      ],
+      "category": "mechanisms",
+      "tags": [
+        "diagnosis"
+      ],
+      "themes": [
+        "genetics",
+        "sequencing technology"
+      ],
+      "locations": [
+        {
+          "name": "National Human Genome Research Institute, Bethesda",
+          "modern": "Bethesda, Maryland, USA",
+          "lat": 39.0,
+          "lon": -77.1,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Consortium leadership; main funder"
+        },
+        {
+          "name": "University of California, Santa Cruz",
+          "modern": "Santa Cruz, California, USA",
+          "lat": 36.99,
+          "lon": -122.06,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Consortium leadership"
+        },
+        {
+          "name": "University of Washington, Seattle",
+          "modern": "Seattle, Washington, USA",
+          "lat": 47.65,
+          "lon": -122.31,
+          "radiusKm": 5,
+          "precision": "settlement",
+          "type": "discovery-site",
+          "role": "Consortium leadership"
+        }
+      ],
+      "locationNote": "The consortium involved many institutions; the map shows the three that led it.",
+      "people": [
+        {
+          "name": "Telomere-to-Telomere (T2T) Consortium",
+          "role": "International research consortium"
+        },
+        {
+          "name": "Adam Phillippy, Karen Miga and Evan Eichler",
+          "role": "Consortium leaders (NHGRI, UC Santa Cruz and University of Washington)"
+        }
+      ],
+      "whatChanged": "Researchers could study the repetitive parts of the genome, such as centromeres, that had been missing from the reference for two decades, and found more than 2 million additional variants using the new sequence.",
+      "whyItMattered": "A gap-free reference makes it possible to look for disease-related variation in regions that were previously invisible, and to compare genomes more accurately.",
+      "limitations": [
+        "Chromosome Y was not included in the 2022 paper.",
+        "It is the sequence of a single cell line, so on its own it cannot represent variation between people.",
+        "\"Complete\" refers to this one genome; it does not mean that the function of all its sequence is understood."
+      ],
+      "sources": [
+        {
+          "citation": "Nurk S, Koren S, Rhie A, Rautiainen M, et al. The complete sequence of a human genome. Science 376(6588):44–53 (2022).",
+          "url": "https://eichlerlab.gs.washington.edu/eichler/pdfs/Nurk-T2T_Science_2022.pdf",
+          "doi": "10.1126/science.abj6987",
+          "kind": "journal",
+          "supports": "Complete 3.055-billion-base-pair sequence (T2T-CHM13); gapless assemblies for all chromosomes except Y; remaining 8% of the genome; reference since 2000 covered only the euchromatic fraction; errors corrected; nearly 200 million base pairs of new sequence; ribosomal DNA arrays; NHGRI affiliation of lead authors."
+        },
+        {
+          "citation": "National Institutes of Health. Researchers generate the first complete, gapless sequence of a human genome. News release, 31 March 2022.",
+          "url": "https://www.nih.gov/news-events/news-releases/researchers-generate-first-complete-gapless-sequence-human-genome",
+          "kind": "institution",
+          "supports": "Publication date; leadership from NHGRI, UC Santa Cruz and the University of Washington; NHGRI as primary funder; cell line with one copy of each chromosome; longer sequence reads; more than 2 million additional variants; six papers in Science; the last 8% comparable in size to a chromosome."
+        },
+        {
+          "citation": "Green E. The human genome sequence is now complete. NHGRI Director's Page, 7 April 2022.",
+          "url": "https://www.genome.gov/es/node/84831",
+          "kind": "institution",
+          "supports": "Human Genome Project sequence of 2003 accounted for about 92% of the genome; T2T papers published on 1 April 2022."
+        }
+      ],
+      "related": [
+        "human-genome-project"
+      ]
+    }
+  ],
+  "queue": {
+    "w311": {
+      "status": "added",
+      "atlasId": "t2t-complete-human-genome",
+      "note": ""
+    },
+    "w295": {
+      "status": "added",
+      "atlasId": "human-genome-project",
+      "note": "Wikipedia gives 2000 for the draft; the draft was announced in June 2000 and published in February 2001, and the project was declared complete in April 2003."
+    }
+  }
+}

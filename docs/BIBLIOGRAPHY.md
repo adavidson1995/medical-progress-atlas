@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-19 by `scripts/validate-data.mjs`. 333 distinct sources across 81 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 340 distinct sources across 83 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -477,6 +477,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `ivf-1978`: Two IVF births in 1978: Louise Brown (Jean Purdy, Patrick Steptoe, Robert Edwards) and Kanupriya Agarwal (Subhas Mukerji, Sunit Mukherjee, Saroj Kanti Bhattacharya), 3 October.
 
+- Green E. The human genome sequence is now complete. NHGRI Director's Page, 7 April 2022.  
+  <https://www.genome.gov/es/node/84831>  
+  Type: institution.
+  - `human-genome-project`: The 2003 sequence accounted for an estimated 92% of the human genome.
+  - `t2t-complete-human-genome`: Human Genome Project sequence of 2003 accounted for about 92% of the genome; T2T papers published on 1 April 2022.
+
 - Greenberg JA. Beyond antenatal corticosteroids: what did Mont Liggins teach us? (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3046760/>  
   Type: journal.
@@ -636,6 +642,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00002-1/fulltext>  
   Type: journal.
   - `ebola-ring-vaccination`: International collaboration including WHO, Médecins Sans Frontières and Guinean authorities; 'Ebola, that's enough'.
+
+- International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature 409(6822):860–921 (15 February 2001).  
+  DOI: [10.1038/35057062](https://doi.org/10.1038/35057062), <https://pubmed.ncbi.nlm.nih.gov/11237011/>  
+  Type: journal.
+  - `human-genome-project`: Draft sequence published 15 February 2001; collaboration of 20 groups from the US, UK, Japan, France, Germany and China; sequencing centres listed in order of sequence contributed, with the Whitehead Institute first; Washington University and the Beijing Genomics Institute among the centres.
 
 - Introducing the *Wu ze you xing tu manuscript from Mawangdui. Early China (Cambridge University Press), 2020.  
   <https://www.cambridge.org/core/journals/early-china/article/introducing-the-wu-ze-you-xing-tu-manuscript-from-mawangdui/8B31FB01F5E501DACE140F8ABEACF8AB/share/62fdb2249a2c5f859385f713d686eb3c72914d16>  
@@ -903,6 +914,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `hahnemann-homeopathy`: No health conditions with reliable evidence of effectiveness; homeopathy should not be used for chronic, serious or potentially serious conditions; ideas of similars and memory of highly diluted substances; people may put their health at risk by rejecting or delaying effective treatments.
 
+- National Human Genome Research Institute. Human Genome Project fact sheet and completion FAQ.  
+  <https://www.genome.gov/human-genome-project/completion-faq>  
+  Type: institution.
+  - `human-genome-project`: International consortium of 20 centres in six countries; essentially complete sequence announced April 2003; draft data made publicly available shortly after production; Collins as de facto leader of the consortium; reference built from anonymous donors.
+
+- National Human Genome Research Institute. Human Genome Project timeline.  
+  <https://www.genome.gov/12011251>  
+  Type: institution.
+  - `human-genome-project`: 1990 five-year plan for an expected 15-year project; 1996 Bermuda Principles on open data access; completion in April 2003.
+
+- National Human Genome Research Institute. What is the Human Genome Project?  
+  <https://www.genome.gov/11511417/what-is-the-human-genome-project/>  
+  Type: institution.
+  - `human-genome-project`: Goals exceeded by 2003, two years ahead of the projected 2005 completion; draft contained more than 150,000 gaps.
+
+- National Institutes of Health. Researchers generate the first complete, gapless sequence of a human genome. News release, 31 March 2022.  
+  <https://www.nih.gov/news-events/news-releases/researchers-generate-first-complete-gapless-sequence-human-genome>  
+  Type: institution.
+  - `t2t-complete-human-genome`: Publication date; leadership from NHGRI, UC Santa Cruz and the University of Washington; NHGRI as primary funder; cell line with one copy of each chromosome; longer sequence reads; more than 2 million additional variants; six papers in Science; the last 8% comparable in size to a chromosome.
+
 - National MagLab (National High Magnetic Field Laboratory). Electrocardiograph – 1903.  
   <https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/electrocardiograph-1903/>  
   Type: institution.
@@ -1008,6 +1039,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://notevenpast.org/?p=687>  
   Type: university.
   - `badianus-manuscript`: Brought to the Vatican in 1626; rediscovered in 1929; blend of European and Aztec cultures; returned to Mexico by Pope John Paul II.
+
+- Nurk S, Koren S, Rhie A, Rautiainen M, et al. The complete sequence of a human genome. Science 376(6588):44–53 (2022).  
+  DOI: [10.1126/science.abj6987](https://doi.org/10.1126/science.abj6987), <https://eichlerlab.gs.washington.edu/eichler/pdfs/Nurk-T2T_Science_2022.pdf>  
+  Type: journal.
+  - `human-genome-project`: Reference genome traces to the publicly funded Human Genome Project, alongside a competing Celera effort; it covered only the euchromatic fraction.
+  - `t2t-complete-human-genome`: Complete 3.055-billion-base-pair sequence (T2T-CHM13); gapless assemblies for all chromosomes except Y; remaining 8% of the genome; reference since 2000 covered only the euchromatic fraction; errors corrected; nearly 200 million base pairs of new sequence; ribosomal DNA arrays; NHGRI affiliation of lead authors.
 
 - OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).  
   <https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation>  
