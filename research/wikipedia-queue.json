@@ -944,9 +944,9 @@
    "claim": "First documented English hospital, Canterbury",
    "place": "Canterbury",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "canterbury-hospitals",
+   "note": "Covers both of Lanfranc's foundations, St John's Northgate and the leper hospital at Harbledown."
   },
   {
    "wid": "w087",
@@ -977,8 +977,8 @@
    "claim": "Order founded to treat St Anthony's fire",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "antonine-order",
    "note": ""
   },
   {
@@ -988,8 +988,8 @@
    "claim": "Texts on women's medicine",
    "place": "Salerno",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "trotula-womens-medicine",
    "note": ""
   },
   {
@@ -999,8 +999,8 @@
    "claim": "St Bartholomew's Hospital founded",
    "place": "London",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "st-bartholomews-hospital",
    "note": ""
   },
   {
@@ -1021,9 +1021,9 @@
    "claim": "Chirurgia",
    "place": "Salerno",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "roger-of-salerno-chirurgia",
+   "note": "Wikipedia gives 1170; the sources date the Practica chirurgiae to about 1180."
   },
   {
    "wid": "w094",
@@ -1054,9 +1054,9 @@
    "claim": "Santo Spirito hospital, Rome",
    "place": "Rome",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "santo-spirito-hospital",
+   "note": "Wikipedia gives 1203; the sources date the foundation to 1198, with endowment in 1201 and the order's rule confirmed in 1204."
   },
   {
    "wid": "w097",
@@ -1109,8 +1109,8 @@
    "claim": "Botany and pharmacy compendium",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "ibn-al-baytar-simples",
    "note": ""
   },
   {
@@ -1120,9 +1120,9 @@
    "claim": "Convex lenses for long sight",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "spectacles-invention",
+   "note": "Merged with w110. Bacon wrote on magnifying lenses in 1267, not 1249, and did not describe spectacles, which appeared in Tuscany about 1286."
   },
   {
    "wid": "w103",
@@ -1142,8 +1142,8 @@
    "claim": "Quinze-Vingts, Paris",
    "place": "Paris",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "quinze-vingts",
    "note": ""
   },
   {
@@ -1186,8 +1186,8 @@
    "claim": "Systematic human dissection resumed",
    "place": "Bologna",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "mondino-dissection",
    "note": ""
   },
   {
@@ -1197,8 +1197,8 @@
    "claim": "Santa Maria Nuova hospital, Florence",
    "place": "Florence",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "santa-maria-nuova",
    "note": ""
   },
   {
@@ -1208,9 +1208,9 @@
    "claim": "Concave lenses for myopia",
    "place": "Italy",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "spectacles-invention",
+   "note": "Correction: Wikipedia dates concave lenses for myopia to 1300; the earliest documents for them are from Florence and Milan in the 1460s (Ilardi)."
   },
   {
    "wid": "w111",
@@ -1285,8 +1285,8 @@
    "claim": "Pathological anatomy",
    "place": "Florence",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "benivieni-pathology",
    "note": ""
   },
   {
@@ -1307,9 +1307,9 @@
    "claim": "Chemicals in medicine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "paracelsus-chemical-medicine",
+   "note": "The entry covers Paracelsus's chemical medicine; Wikipedia also names Fabricius and Stromayr in the same line, whose work on other subjects is not part of this claim."
   },
   {
    "wid": "w120",
@@ -1329,8 +1329,8 @@
    "claim": "Treatment of gunshot wounds",
    "place": "Paris",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "pare-gunshot-wounds",
    "note": ""
   },
   {
@@ -1340,8 +1340,8 @@
    "claim": "Royal charter, London",
    "place": "London",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "college-of-physicians-london",
    "note": ""
   },
   {
@@ -1384,8 +1384,8 @@
    "claim": "Contagion by seed-like entities",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "fracastoro-contagion",
    "note": ""
   },
   {
@@ -1406,9 +1406,9 @@
    "claim": "Pulmonary circulation described",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "servetus-colombo-pulmonary",
+   "note": "Merged with w130 (Colombo); related to Ibn al-Nafis's earlier description."
   },
   {
    "wid": "w129",
@@ -1428,9 +1428,9 @@
    "claim": "Pulmonary circulation in detail",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "servetus-colombo-pulmonary",
+   "note": "Merged with w128 (Servetus)."
   },
   {
    "wid": "w131",
@@ -1439,8 +1439,8 @@
    "claim": "Colóquios: treatise on Indian diseases and drugs",
    "place": "Goa",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "garcia-de-orta-coloquios",
    "note": ""
   },
   {
@@ -1450,9 +1450,9 @@
    "claim": "The Surgions Mate; lemon juice against scurvy",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "woodall-surgions-mate",
+   "note": "Dated to the book's publication in 1617; Wikipedia gives Woodall's life dates."
   },
   {
    "wid": "w133",
@@ -1461,9 +1461,9 @@
    "claim": "Compound microscope invented",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "compound-microscope",
+   "note": "Entered as contested: the c. 1590 Janssen claim was made only in 1655; firm records begin in 1619."
   },
   {
    "wid": "w134",
@@ -1472,9 +1472,9 @@
    "claim": "Compendium of Materia Medica",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "li-shizhen-bencao",
+   "note": "Wikipedia gives 1596 for printing; the Library of Congress dates the first printing to 1593."
   },
   {
    "wid": "w135",

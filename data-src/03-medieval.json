@@ -790,7 +790,9 @@
       }
     ],
     "related": [
-      "al-majusi-royal-book"
+      "al-majusi-royal-book",
+      "trotula-womens-medicine",
+      "roger-of-salerno-chirurgia"
     ],
     "suggestedBy": "wikipedia-timeline"
   },
@@ -1317,6 +1319,1097 @@
       "al-majusi-royal-book",
       "ibn-al-nafis-pulmonary-circulation",
       "vesalius-fabrica"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "canterbury-hospitals",
+    "title": "Lanfranc founds hospitals at Canterbury",
+    "summary": "In 1084 or early 1085 Archbishop Lanfranc founded two hospitals outside Canterbury: St John's, Northgate, for the poor, aged and sick, and St Nicholas, Harbledown, for 60 people with leprosy. They are among the earliest hospitals in England with a documented foundation date.",
+    "explanation": "Lanfranc, the first Norman archbishop of Canterbury, set up the two houses as a pair. St John's Hospital, just outside the north gate of the walled city, took in poor, infirm, blind and aged men and women. St Nicholas's, at Harbledown on the pilgrims' road into the city, was a leper hospital for sixty residents. The monk Eadmer recorded the foundations.\n\nBoth survive as almshouses. St Nicholas's served people with leprosy until around 1400, when, as the disease became rare, its places were given to the poor, aged and sick. Lanfranc's foundations were soon followed by leper hospitals on the outskirts of towns across England.",
+    "date": {
+      "start": 1084,
+      "end": 1085,
+      "display": "c. 1084 CE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Founded by Lanfranc in 1084 or early 1085."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text",
+      "archaeological"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "hospitals",
+      "leprosy",
+      "almshouses"
+    ],
+    "locations": [
+      {
+        "name": "St John's Hospital, Northgate",
+        "modern": "Canterbury, England",
+        "lat": 51.28,
+        "lon": 1.08,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area",
+        "role": "Hospital for the poor, aged and sick"
+      },
+      {
+        "name": "St Nicholas's Hospital, Harbledown",
+        "modern": "Harbledown, England",
+        "lat": 51.28,
+        "lon": 1.05,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area",
+        "role": "Leper hospital for 60 residents"
+      }
+    ],
+    "people": [
+      {
+        "name": "Lanfranc",
+        "role": "Archbishop of Canterbury and founder"
+      }
+    ],
+    "whatChanged": "Permanent, endowed houses were set up in England to care for the sick poor and to separate and support people with leprosy.",
+    "whyItMattered": "They are among the oldest documented hospital foundations in England, and they began a wave of leper hospitals across the country.",
+    "limitations": [
+      "Harbledown is often called England's first leper hospital, but there is evidence of an earlier, late Saxon leper hospital at Winchester.",
+      "St John's was an almshouse for the poor and sick rather than a place of medical treatment."
+    ],
+    "sources": [
+      {
+        "citation": "Kent Historic Environment Record. Monument record TR 15 NE 4: St John's Hospital, Northgate, Canterbury.",
+        "url": "https://heritage.kent.gov.uk/Monument/mke4494",
+        "kind": "institution",
+        "supports": "Founded by Lanfranc in 1084 or early 1085 for the poor, aged and sick; buildings from the 11th to 15th centuries survive."
+      },
+      {
+        "citation": "Canterbury Archaeological Trust. St John's Hospital 1084–1984.",
+        "url": "https://canterburytrust.co.uk/_files/ugd/805c19_def881241ce149f0a5c728183fbe573e.pdf?index=true",
+        "kind": "institution",
+        "supports": "Founded together with the leper hospital of St Nicholas at Harbledown by Lanfranc in 1084 or early 1085; apart from Gundulf's hospital at Chatham, no other hospital in Britain has so early a documented foundation date."
+      },
+      {
+        "citation": "Kent Archaeological Society. Medieval hospitals in Kent (Archaeologia Cantiana 29).",
+        "url": "https://kentarchaeology.org.uk/journal/29/medieval-hospitals-kent",
+        "kind": "journal",
+        "supports": "St John the Baptist founded in 1084 by Lanfranc for poor, infirm, blind or aged men and women; continues as almshouses."
+      },
+      {
+        "citation": "Kent Historic Environment Record. St Nicholas' Hospital, Church Hill, Harbledown.",
+        "url": "https://heritage.kent.gov.uk/Monument/MKE114367",
+        "kind": "institution",
+        "supports": "Founded by Lanfranc in 1084 for 60 lepers; converted to almshouses in the 14th century."
+      },
+      {
+        "citation": "Historic England. Which medieval leper hospital is still a working almshouse today?",
+        "url": "https://historicengland.org.uk/listing/what-is-designation/heritage-highlights/which-medieval-leper-hospital-is-still-a-working-almshouse-today",
+        "kind": "institution",
+        "supports": "Believed to be England's first leper hospital; founded about 1084 by Lanfranc and a lazar house until around 1400."
+      },
+      {
+        "citation": "Building History. A life apart: leper hospitals.",
+        "url": "https://www.buildinghistory.org/articles/heritagemercy2.shtml",
+        "kind": "institution",
+        "supports": "Lanfranc built the first independent hospitals in England; Eadmer's account of Harbledown; leper hospitals then spread across the country; new evidence of a late Saxon leper hospital at Winchester."
+      },
+      {
+        "citation": "Kent Historic Environment Record. The Old Leper Church of St Nicholas, Harbledown.",
+        "url": "https://heritage.kent.gov.uk/Monument/MKE24222",
+        "kind": "institution",
+        "supports": "Founded c. 1084 for lepers; c. 1400 the places filled by the poor, aged and sick; Harbledown the last step of pilgrims on their way to Canterbury."
+      },
+      {
+        "citation": "Canterbury Archaeological Trust. St John's Hospital, Northgate.",
+        "url": "https://www.canterbury-archaeology.org.uk/?p=755",
+        "kind": "institution",
+        "supports": "Founded by the first Norman archbishop of Canterbury, Lanfranc, in about 1085."
+      },
+      {
+        "citation": "Sparks M. St Gregory's Priory, Canterbury: a re-assessment. Archaeologia Cantiana 118.",
+        "url": "https://www.kentarchaeology.org.uk/journal/118/st-gregorys-priory-canterbury-re-assessment",
+        "kind": "journal",
+        "supports": "Lanfranc founded St Nicholas at Harbledown as a refuge for lepers and St John's in Northgate as an almshouse for the poor and sick, in 1084."
+      }
+    ],
+    "related": [
+      "st-bartholomews-hospital"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "antonine-order",
+    "title": "The Antonines care for victims of St Anthony's fire",
+    "summary": "Around 1095 the nobleman Gaston of Valloire, believing his son had been cured of 'St Anthony's fire' at the saint's relics in the Dauphiné, founded a lay brotherhood to care for sufferers. The Antonines' hospitals spread across Europe; the disease was ergotism, caused by a fungus on rye.",
+    "explanation": "Ergotism, known in the Middle Ages as St Anthony's fire or holy fire, struck in waves and could cause gangrene of the limbs, convulsions and hallucinations. It comes from eating rye infected with the ergot fungus.\n\nAround 1095 Gaston of Valloire and his son set up a hospital near the church in the Dauphiné that held relics of St Anthony the Great. Their community, sanctioned by Pope Urban II, was at first made up of laymen. It grew into the Hospital Brothers of St Anthony, whose houses across Europe cared for sufferers. Their main treatment was a diet of grain free of the fungus.",
+    "date": {
+      "start": 1095,
+      "end": 1095,
+      "display": "c. 1095 CE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Founded around 1095; one source gives 1100."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "hospitals",
+      "ergotism",
+      "religious orders"
+    ],
+    "locations": [
+      {
+        "name": "Saint-Antoine-l'Abbaye (La Motte-Saint-Didier)",
+        "modern": "Saint-Antoine-l'Abbaye, Isère, France",
+        "lat": 45.18,
+        "lon": 5.22,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gaston of Valloire",
+        "role": "Nobleman and founder"
+      }
+    ],
+    "whatChanged": "A religious order was set up specifically to care for people with one disease.",
+    "whyItMattered": "The Antonines ran hospitals across Europe devoted to the care of a single disease.",
+    "limitations": [
+      "The founding story of a miraculous cure is a pious legend.",
+      "Contemporaries attributed the disease and its cures to the saint; the fungal cause was understood only much later."
+    ],
+    "sources": [
+      {
+        "citation": "Daily Medieval. The Hospital Brothers of Saint Anthony (5 February 2024).",
+        "url": "https://dailymedieval.blogspot.com/2024/02/the-hospital-brothers-of-saint-anthony.html",
+        "kind": "institution",
+        "supports": "In 1095 Gaston of Valloire founded the order, sanctioned by Urban II, believing his son cured of St Anthony's fire; they built a hospital near the church of St Anthony; the brothers were laymen."
+      },
+      {
+        "citation": "Horgan J. St. Anthony's Fire. World History Encyclopedia.",
+        "url": "https://www.worldhistory.org/St_Anthony's_Fire/",
+        "kind": "institution",
+        "supports": "A common medieval illness that came in waves; the Order of Hospitallers of St Anthony established around 1100 to care for people with ergotism."
+      },
+      {
+        "citation": "Horgan J. St. Anthony's Fire: ergotism and its treatment in the medieval world. Brewminate.",
+        "url": "https://brewminate.com/st-anthonys-fire-ergotism-and-its-treatment-in-the-medieval-world/",
+        "kind": "institution",
+        "supports": "Ergotism caused by eating rye contaminated with ergot; gangrene, convulsions and hallucinations; hospitals founded across Europe; main treatment a diet of grain free of ergot; the disease declined as wheat replaced rye."
+      },
+      {
+        "citation": "Horgan J. St. Anthony's Fire. Brewminate.",
+        "url": "https://brewminate.com/?p=131160",
+        "kind": "institution",
+        "supports": "Ergotism caused by fungus-contaminated rye; gangrene, convulsions, sores and hallucinations."
+      }
+    ],
+    "related": [],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "trotula-womens-medicine",
+    "title": "The Trotula: women's medicine from Salerno",
+    "summary": "In twelfth-century Salerno, three texts on women's health — on the conditions of women, on treatments for women and on cosmetics — were gathered into the Trotula, the most influential compendium on women's medicine in medieval Europe. One of the three draws on the teaching of Trota, a woman healer of Salerno.",
+    "explanation": "The Trotula was long thought to be one book by a woman called Trotula, a female professor at Salerno. The historian Monica Green has shown that it is an ensemble of three independent works, each by a different author. The Book on the Conditions of Women largely derives from a work recently translated from Arabic, and On Women's Cosmetics was probably written by a man.\n\nOn Treatments for Women, however, appears to be largely the work of Trota, a Salernitan healer who died in the mid-twelfth century or earlier and who had direct access to her women patients' bodies. Apart from Hildegard of Bingen, she is the only woman known to have been credited with medical writing in Europe before the fifteenth century.",
+    "date": {
+      "start": 1100,
+      "end": 1200,
+      "display": "12th century CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "century",
+      "basis": "The three texts were written in twelfth-century Salerno and assembled later in that century."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "maternal",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "women's health",
+      "women in medicine",
+      "medical texts"
+    ],
+    "locations": [
+      {
+        "name": "Salerno",
+        "modern": "Salerno, Italy",
+        "lat": 40.68,
+        "lon": 14.77,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "text-origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Trota of Salerno",
+        "role": "Healer behind On Treatments for Women"
+      }
+    ],
+    "whatChanged": "Knowledge about women's diseases, their treatment and cosmetics was collected into a widely copied handbook.",
+    "whyItMattered": "The Trotula was the most influential text on women's medicine in medieval Europe, and it preserves the work of one of the very few medieval women medical authors.",
+    "limitations": [
+      "'Trotula' is the title of the compendium, not the name of a woman, and two of its three parts were probably written by men.",
+      "How much of On Treatments for Women Trota wrote herself is uncertain."
+    ],
+    "sources": [
+      {
+        "citation": "Green MH (ed. and trans.). The Trotula: A Medieval Compendium of Women's Medicine. University of Pennsylvania Press, 2001.",
+        "url": "https://www.pennpress.org/9780812235890/the-trotula/",
+        "kind": "book",
+        "supports": "The traditional attribution to a female professor at Salerno; the Trotula is not a single treatise but an ensemble of three works from twelfth-century southern Italy."
+      },
+      {
+        "citation": "Penn Today. The Trotula (book announcement).",
+        "url": "https://penntoday.upenn.edu/node/149164",
+        "kind": "university",
+        "supports": "Three independent works, each by a different author; Conditions of Women and Women's Cosmetics probably of male authorship."
+      },
+      {
+        "citation": "Project MUSE. The Trotula: A Medieval Compendium of Women's Medicine (contents).",
+        "url": "https://muse.jhu.edu/book/24644",
+        "kind": "book",
+        "supports": "The most influential compendium on women's medicine in medieval Europe; its three parts: On the Conditions of Women, On Treatments for Women, On Women's Cosmetics."
+      },
+      {
+        "citation": "Green M. Speaking of Trotula: a woman in medieval medicine. Brewminate.",
+        "url": "https://brewminate.com/speaking-of-trotula-a-woman-in-medieval-medicine/",
+        "kind": "institution",
+        "supports": "Trotula is a compendium of three twelfth-century texts, not a woman's name; the Book on the Conditions of Women largely derives from a work recently translated from Arabic; the cosmetics text probably by a male author."
+      },
+      {
+        "citation": "Green M. Trota of Salerno. Brewminate.",
+        "url": "https://brewminate.com/?p=129135",
+        "kind": "institution",
+        "supports": "Trota died in the mid-twelfth century or earlier; before the 15th century only Hildegard of Bingen and Trota are known to have been credited with medical writing; she had direct access to her women patients' bodies."
+      },
+      {
+        "citation": "Raking Light. Review of The Trotula (Green, 2001).",
+        "url": "https://rakinglight.co.uk/book-reviews/the-trotula-a-medieval-compendium-of-womens-medicine/",
+        "kind": "institution",
+        "supports": "Green concludes that Treatments for Women appears to be largely by Trota."
+      }
+    ],
+    "related": [
+      "salerno-medical-school"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "st-bartholomews-hospital",
+    "title": "Rahere founds St Bartholomew's Hospital in London",
+    "summary": "In 1123 Rahere, a courtier of Henry I who had vowed to found a hospital after falling ill on pilgrimage to Rome, founded St Bartholomew's priory and hospital for the sick poor at Smithfield, outside London's walls. Barts has cared for patients on the same site ever since.",
+    "explanation": "According to the Book of the Foundation of St Bartholomew's, Rahere fell gravely ill on a pilgrimage to Rome and vowed to build a hospital for the poor if he recovered. On his way home he had a vision of St Bartholomew, who told him to build at Smithfield. Henry I granted the land, just outside the city walls, and in 1123 Rahere founded an Augustinian priory with a hospital to shelter sick and poor Londoners.\n\nThe hospital and priory became separate institutions by 1420. Barts has provided continuous patient care on its original site for longer than any other hospital in England, and the oldest document in its archive, a grant of 1137, was sealed in Rahere's presence.",
+    "date": {
+      "start": 1123,
+      "end": 1123,
+      "display": "1123 CE",
+      "kind": "point",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Founded in 1123."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text",
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "hospitals",
+      "continuity over centuries"
+    ],
+    "locations": [
+      {
+        "name": "St Bartholomew's Hospital, West Smithfield",
+        "modern": "London, England",
+        "lat": 51.52,
+        "lon": -0.1,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Rahere",
+        "role": "Founder and first prior"
+      },
+      {
+        "name": "Henry I",
+        "role": "King who granted the land"
+      }
+    ],
+    "whatChanged": "London gained a permanent hospital for the sick poor.",
+    "whyItMattered": "Barts became one of the great teaching hospitals and is the oldest hospital in England still working on its original site.",
+    "limitations": [
+      "The story of Rahere's illness and vision comes from the Book of the Foundation, a pious account; little is known of his early life, and the tradition that he was a court jester may be legend."
+    ],
+    "sources": [
+      {
+        "citation": "The National Archives. Hospital records: St Bartholomew's Hospital.",
+        "url": "https://www.nationalarchives.gov.uk/hospital-records/hospitals/188/",
+        "kind": "archive",
+        "supports": "Founded with the priory in 1123 by Rahere, formerly a courtier of Henry I, after a vow made while sick on a pilgrimage to Rome and a vision of St Bartholomew; continuous patient care on the same site longer than any other hospital in England."
+      },
+      {
+        "citation": "Barts Health NHS Trust. St Bartholomew's Hospital: our history.",
+        "url": "https://www.bartshealth.nhs.uk/st-bartholomews-our-history",
+        "kind": "institution",
+        "supports": "Founded with the priory in 1123 by Rahere; continuous care on the same site; the oldest document in the archives is a grant of 1137."
+      },
+      {
+        "citation": "London Museum. The 900-year history of St Bartholomew's Hospital.",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/900-year-history-st-bartholomews-hospital/",
+        "kind": "museum",
+        "supports": "Rahere fell very sick on a pilgrimage to Rome; Henry I granted land at Smithfield, outside the city walls, for a priory and a hospital to shelter sick and poor Londoners."
+      },
+      {
+        "citation": "Knight C. A history of Bart's, Britain's oldest hospital. Gresham College lecture, 4 May 2023.",
+        "url": "https://www.gresham.ac.uk/node/15401",
+        "kind": "university",
+        "supports": "900 years of continuous patient care on the same site; the Book of the Foundation; the vision of St Bartholomew directing him to Smithfield."
+      },
+      {
+        "citation": "Encyclopaedia Britannica. Saint Bartholomew's Hospital.",
+        "url": "https://www.britannica.com/print/article/516833",
+        "kind": "book",
+        "supports": "Oldest hospital in London, founded in 1123 by the Augustinian Rahere, who also founded the adjacent priory."
+      },
+      {
+        "citation": "Parks and Gardens UK. St Bartholomew's Hospital.",
+        "url": "https://www.parksandgardens.org/places/st-bartholomews-hospital-including-st-bartholomew-the-less-church",
+        "kind": "institution",
+        "supports": "Hospital and priory became separate institutions by 1420."
+      },
+      {
+        "citation": "Green R, Ahmed M. St. Bartholomew's Hospital, London. Hektoen International, 2017.",
+        "url": "https://hekint.org/2017/02/23/st-bartholomews-hospital-london/",
+        "kind": "journal",
+        "supports": "Founded in 1123 by the legendary Rahere, a former court jester and favourite of Henry I; now an internationally renowned teaching hospital."
+      },
+      {
+        "citation": "Londonist. Who was St Bart, and why does he have a hospital in London? (2016).",
+        "url": "https://londonist.com/2016/06/who-was-st-bart-and-why-does-he-have-a-hospital-in-london",
+        "kind": "institution",
+        "supports": "Rahere is sometimes portrayed as a jester or minstrel, but little is known about his early life."
+      }
+    ],
+    "related": [
+      "canterbury-hospitals",
+      "woodall-surgions-mate"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "roger-of-salerno-chirurgia",
+    "title": "Roger of Salerno writes the Practica chirurgiae",
+    "summary": "Around 1180 the surgeon Roger Frugardi, known as Roger of Salerno, produced the Practica chirurgiae, a concise, practical handbook of surgery. It described end-to-end suture and recommended seaweed for goitre, and it remained a classic of European surgery for some three centuries.",
+    "explanation": "Roger (before 1140–c. 1195), widely known as Rogerius Salernitanus, taught and practised at Parma. His Practica chirurgiae, probably composed about 1180, may have been compiled by his pupil Guido Aretino from his lecture notes.\n\nThe book is brief and practical. It describes end-to-end suture of wounds, mercury ointment for chronic skin diseases and seaweed for goitre, and includes an early description of surgery on the thyroid. It also supported the medieval belief that the formation of pus was a necessary stage in wound healing. Roland of Parma's later revision and many glosses kept it in use for centuries.",
+    "date": {
+      "start": 1170,
+      "end": 1180,
+      "display": "c. 1180 CE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Probably composed about 1180; some sources give about 1170."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "surgery",
+    "tags": [],
+    "themes": [
+      "medical texts",
+      "surgical teaching"
+    ],
+    "locations": [
+      {
+        "name": "Salerno",
+        "modern": "Salerno, Italy",
+        "lat": 40.68,
+        "lon": 14.77,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "The medical school he is named after"
+      },
+      {
+        "name": "Parma",
+        "modern": "Parma, Italy",
+        "lat": 44.8,
+        "lon": 10.33,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Where he taught and practised"
+      }
+    ],
+    "people": [
+      {
+        "name": "Roger Frugardi (Roger of Salerno)",
+        "role": "Surgeon and author"
+      },
+      {
+        "name": "Roland of Parma",
+        "role": "Pupil who revised the work"
+      }
+    ],
+    "whatChanged": "Surgery gained a short, systematic Latin textbook for teaching and practice.",
+    "whyItMattered": "Many later medieval surgical texts were based on Roger's work, and it was used for some three hundred years.",
+    "limitations": [
+      "Its authorship is uncertain: some historians think a pupil compiled it from Roger's lectures.",
+      "It endorsed the medieval belief that the formation of pus ('laudable pus') was a necessary stage of wound healing."
+    ],
+    "sources": [
+      {
+        "citation": "Encyclopedia.com (Science and Its Times). Roger of Salerno.",
+        "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/roger-salerno",
+        "kind": "book",
+        "supports": "Practica chirurgiae probably composed about 1180; taught at Parma; Guido Aretino may have compiled it from his notes c. 1170; a classic for at least three centuries; end-to-end sutures, mercurial inunction, seaweed for goitre; supported 'laudable pus'; Roland of Parma."
+      },
+      {
+        "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: Roger of Salerno (1140–1195).",
+        "url": "https://www.historyofmedicine.com/author/d/rogerius-salernitanus-frugard-frugardi-roggerio-frugardo-rdiger-frutgard-roger-of-parma-roger-of-salerno-",
+        "kind": "book",
+        "supports": "Practica chirurgiae appeared about 1180, describing end-to-end suture, mercurial inunction in chronic skin diseases and seaweed for goitre."
+      },
+      {
+        "citation": "Roger Frugardi and Roland of Parma: surgery in medieval Parma. Acta Biomedica (PubMed Central).",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7927497",
+        "kind": "journal",
+        "supports": "Roger Frugardi (before 1140–about 1195), known as Rogerius Salernitanus; a handbook of surgery containing an early description of thyroidectomy, influential until the late Renaissance; Roland's Rolandina."
+      }
+    ],
+    "related": [
+      "salerno-medical-school",
+      "albucasis-tasrif"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "santo-spirito-hospital",
+    "title": "Innocent III founds the hospital of Santo Spirito",
+    "summary": "From 1198 Pope Innocent III turned an old pilgrims' hostel by the Vatican into the hospital of Santo Spirito in Sassia, run by the Order of the Holy Spirit from Montpellier, for the sick and for abandoned babies. Its foundling wheel let infants be left anonymously.",
+    "explanation": "The site had held a hostel for Saxon pilgrims since the eighth century. In 1198, the year he became pope, Innocent III founded a hospital there, entrusting it to the Hospitallers of the Holy Spirit, whose main house was at Montpellier; he endowed it in 1201 and confirmed the order's rule in 1204. Legend says he acted after fishermen brought up drowned babies from the Tiber in their nets.\n\nThe hospital cared for the sick and took in foundlings, and a wheel set in its wall let a mother place a baby inside without being seen. Santo Spirito became a model for hospitals of the order across Europe, and was rebuilt after a fire in 1471 with a great frescoed ward.",
+    "date": {
+      "start": 1198,
+      "end": 1204,
+      "display": "1198–1204 CE",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "Founded in 1198; endowed in 1201; the order's rule confirmed in 1204."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text",
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [
+      "maternal"
+    ],
+    "themes": [
+      "hospitals",
+      "foundlings",
+      "charity"
+    ],
+    "locations": [
+      {
+        "name": "Santo Spirito in Sassia",
+        "modern": "Rome, Italy",
+        "lat": 41.9,
+        "lon": 12.46,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Innocent III",
+        "role": "Pope and founder"
+      },
+      {
+        "name": "Guy of Montpellier",
+        "role": "Founder of the Order of the Holy Spirit"
+      }
+    ],
+    "whatChanged": "A large hospital for the sick and for abandoned infants was set up under papal patronage, with a way to leave babies anonymously.",
+    "whyItMattered": "Santo Spirito became the model for a network of hospitals of the Holy Spirit and for foundling care in Europe.",
+    "limitations": [
+      "The story of the drowned babies is a legend illustrated in the hospital's later frescoes.",
+      "Claims that it was Europe's first hospital, or the first building designed as one, overlook earlier hospitals such as the Basileias and Fabiola's in Rome."
+    ],
+    "sources": [
+      {
+        "citation": "Metzler S. Rome's Ospedale Santo Spirito: from ruin to revival. Hektoen International, 2026.",
+        "url": "https://hekint.org/2026/02/13/romes-ospedale-santo-spirito-from-ruin-to-revival/",
+        "kind": "journal",
+        "supports": "A pilgrims' hostel from 797; in 1198 Innocent III established a hospital for foundlings and the infirm; the foundling wheel to preserve anonymity; the fresco of the dream of Innocent III; Sixtus IV."
+      },
+      {
+        "citation": "Medicina nei Secoli 25(2):565–580, 2013. L'ospedale di Santo Spirito in Saxia di Roma nel Duecento.",
+        "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/232/216/434",
+        "kind": "journal",
+        "supports": "Innocent III's role from the first months of his pontificate (1198); the Order of the Holy Spirit with its main hospital at Montpellier; endowment in 1201 and confirmation of the order's rule in 1204."
+      },
+      {
+        "citation": "Mattoni S, et al. The Santo Spirito in Saxia Hospital, in Rome. Italian Journal of Public Health.",
+        "url": "https://riviste.unimi.it/index.php/ijphjournal/article/download/22946/20495/68549",
+        "kind": "journal",
+        "supports": "The Schola Saxonum, founded in 727, rebuilt as a hospital after 1198; the legend of the drowned infants and the fifteenth-century frescoes."
+      },
+      {
+        "citation": "Presciutti DB. Dead infants, cruel mothers, and heroic popes: the visual rhetoric of foundling care at the hospital of Santo Spirito, Rome. Renaissance Quarterly, 2018.",
+        "url": "https://core-prod.cambridgecore.org/core/journals/renaissance-quarterly/article/dead-infants-cruel-mothers-and-heroic-popes-the-visual-rhetoric-of-foundling-care-at-the-hospital-of-santo-spirito-rome/E57207DA11C3939C1B8149213AD7EC02",
+        "kind": "journal",
+        "supports": "The legend that Innocent founded Santo Spirito as a foundling hospital after victims of infanticide were found in the Tiber; fresco cycle of the late 1470s."
+      },
+      {
+        "citation": "Aleteia. The oldest hospital in Europe was founded by a pope (2021).",
+        "url": "https://aleteia.org/2021/08/18/the-oldest-hospital-in-europe-was-founded-by-a-pope/",
+        "kind": "institution",
+        "supports": "Founded in 1198 on the site of a hospice for Saxon pilgrims; Guy de Montpellier, founder of the Order of the Holy Spirit, appointed to run it."
+      },
+      {
+        "citation": "The History Blog. Restoration of the Renaissance ward of Santo Spirito in Saxia.",
+        "url": "https://www.thehistoryblog.com/?p=64670",
+        "kind": "institution",
+        "supports": "The 'wheel of the exposed'; the 1471 fire; hospitals built on its model spread across Europe."
+      }
+    ],
+    "related": [
+      "fabiola-rome-hospital",
+      "basileias-hospital"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "ibn-al-baytar-simples",
+    "title": "Ibn al-Baytar's compendium of simple drugs",
+    "summary": "The Andalusian botanist and pharmacist Ibn al-Baytar (c. 1190–1248), chief herbalist to the Ayyubid sultans in Cairo, compiled al-Jamiʿ, an alphabetical guide to some 1,400 plant, animal and mineral medicines drawn from about 150 earlier authorities and his own field observations.",
+    "explanation": "Born in Málaga, Ibn al-Baytar studied plants in Seville with teachers including Abu'l-Abbas al-Nabati. From 1219 he travelled along the North African coast and as far as Anatolia collecting plants, and after 1224 the Ayyubid sultan al-Kamil made him chief herbalist in Cairo. He followed the sultan to Damascus, collected plants in Syria and Arabia, and died in Damascus in 1248.\n\nHis Compendium of Simple Medicaments and Foods (Kitab al-Jamiʿ li-mufradat al-adwiya wa'l-aghdhiya) lists its drugs alphabetically and combines the work of Dioscorides, Galen, al-Razi and others with what he had seen himself. A second book, al-Mughni, arranged simple remedies by the illnesses they treat.",
+    "date": {
+      "start": 1224,
+      "end": 1248,
+      "display": "c. 1224–1248 CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "His years as chief herbalist to the Ayyubids, to his death in 1248; the Jamiʿ was written late in his life."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "pharmacy",
+      "medicinal plants",
+      "Islamic medicine"
+    ],
+    "locations": [
+      {
+        "name": "Cairo",
+        "modern": "Cairo, Egypt",
+        "lat": 30.04,
+        "lon": 31.24,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Chief herbalist to the Ayyubid sultans"
+      },
+      {
+        "name": "Damascus",
+        "modern": "Damascus, Syria",
+        "lat": 33.51,
+        "lon": 36.29,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Later life; died 1248"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ibn al-Baytar",
+        "role": "Botanist and pharmacist"
+      }
+    ],
+    "whatChanged": "Knowledge of medicinal substances from many earlier writers was checked against field observation and gathered into one alphabetical reference.",
+    "whyItMattered": "Al-Jamiʿ was the largest medieval book of plants and drugs and was later printed in Arabic and translated into Latin, German and French.",
+    "limitations": [
+      "Much of the book is compiled from earlier authors.",
+      "Sources give his birth as about 1190 or 1197."
+    ],
+    "sources": [
+      {
+        "citation": "Vernet J. Ibn al-Bayṭār al-Mālaqī. Dictionary of Scientific Biography (Encyclopedia.com).",
+        "url": "https://www.encyclopedia.com/doc/1G2-2830900318.html",
+        "kind": "book",
+        "supports": "Born Málaga c. 1190, died Damascus 1248; studied in Seville with al-Nabati; chief herbalist in Cairo under al-Kamil and al-Salih; al-Mughni dedicated to al-Salih; al-Jamiʿ lists some 1,400 animal, vegetable and mineral medicines alphabetically, from his own observations and some 150 authorities."
+      },
+      {
+        "citation": "Ibn al-Baitar: a 13th-century botanical scientist and his suggestions on urinary tract problems. European Review for Medical and Pharmacological Sciences (supplement), 2020.",
+        "url": "https://www.mednet.gr/archives/2020-sup2/pdf/148.pdf",
+        "kind": "journal",
+        "supports": "Born in Málaga; recognised as the greatest botanist and pharmacist of his time; al-Jamiʿ the largest plant and drug book of the Middle Ages; published in Arabic in 1875 and translated into Latin, German and French."
+      },
+      {
+        "citation": "Muslim Heritage. Ibn al-Bayṭār's al-Mughnī.",
+        "url": "https://muslimheritage.com/ibn-al-baytar-al-mughni/",
+        "kind": "institution",
+        "supports": "Died in Damascus in 1248; travels from Spain through North Africa and Egypt to Turkey and Damascus; al-Jamiʿ ordered alphabetically, al-Mughni by medical benefit."
+      },
+      {
+        "citation": "Tehqeeqat. Ibn al-Bayṭār (article PDF).",
+        "url": "https://tehqeeqat.org/downloadpdf/20403",
+        "kind": "journal",
+        "supports": "Left Málaga in 1219 to collect plants along North Africa and in Anatolia; entered al-Kamil's service as chief herbalist after 1224; went with him to Damascus in 1227."
+      }
+    ],
+    "related": [
+      "dioscorides-materia-medica",
+      "li-shizhen-bencao"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "spectacles-invention",
+    "title": "Spectacles are invented in Italy",
+    "summary": "Eyeglasses with convex lenses for the long-sighted appeared in Tuscany around 1286: a friar preaching in Florence in 1306 said the art was less than twenty years old. By the mid-fifteenth century Florentine workshops also made concave lenses to correct short sight.",
+    "explanation": "Magnifying lenses were known earlier; in 1267 the English friar Roger Bacon discussed how glass spheres could make small things appear larger. Spectacles worn before the eyes were new. In a sermon in Florence in February 1306 (some sources give 1305), the Dominican Giordano da Pisa said it was not yet twenty years since the art of making eyeglasses had been found, and that he had met the inventor, whose name is unknown. A chronicle of his convent in Pisa says that Friar Alessandro della Spina made spectacles himself and gave them away.\n\nThese first spectacles had convex lenses for presbyopia. Letters of the 1460s show the dukes of Milan ordering large numbers of spectacles from Florence, graded for age, including concave lenses for the short-sighted: the first written mention of them.",
+    "date": {
+      "start": 1286,
+      "end": 1465,
+      "display": "c. 1286–1460s CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "From the invention of convex spectacles about 1286, dated from Giordano's sermon, to the first documents for concave lenses in the 1460s."
+    },
+    "type": "invention",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [],
+    "themes": [
+      "eye care",
+      "optics",
+      "craft innovation"
+    ],
+    "locations": [
+      {
+        "name": "Pisa",
+        "modern": "Pisa, Italy",
+        "lat": 43.72,
+        "lon": 10.4,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "discovery-site",
+        "role": "Convent of Giordano da Pisa and Alessandro della Spina"
+      },
+      {
+        "name": "Florence",
+        "modern": "Florence, Italy",
+        "lat": 43.77,
+        "lon": 11.25,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "documented-practice",
+        "role": "Giordano's sermon of 1306; 15th-century spectacle trade, including concave lenses"
+      }
+    ],
+    "people": [
+      {
+        "name": "Giordano da Pisa",
+        "role": "Dominican preacher who recorded the invention"
+      },
+      {
+        "name": "Alessandro della Spina",
+        "role": "Dominican friar who made and spread spectacles"
+      }
+    ],
+    "whatChanged": "People whose sight failed with age, and later the short-sighted, could have their vision corrected.",
+    "whyItMattered": "Spectacles extended the working and reading lives of scholars and craftsmen.",
+    "limitations": [
+      "The inventor is unknown, and Pisa's claim, though favoured, is not certain; Venice also has early evidence of manufacture.",
+      "Bacon described magnifying lenses but not spectacles."
+    ],
+    "sources": [
+      {
+        "citation": "The Ophthalmologist. The Ophthalmologist's Time Machine, chapter 36: the spectacular invention of spectacles (January 2026).",
+        "url": "https://theophthalmologist.com/issues/2026/articles/january/the-ophthalmologists-time-machine-chapter-36/",
+        "kind": "journal",
+        "supports": "The estimate of the date comes from the sermon of Friar Giordano da Rivalto of Pisa at Santa Maria Novella in Florence: 'It is not yet twenty years since there was found the art…'."
+      },
+      {
+        "citation": "All About Vision. A history of glasses (with Neil Handley, British Optical Association Museum).",
+        "url": "https://www.allaboutvision.com/eyewear/eyeglasses/history-of-glasses/",
+        "kind": "institution",
+        "supports": "The first written mention of spectacles is Giordano da Pisa's sermon, saying they had been around for less than 20 years."
+      },
+      {
+        "citation": "Consiglio Nazionale delle Ricerche, Istituto Nazionale di Ottica. Muse/Stradano (2023), pp. 93–103.",
+        "url": "https://viola.ino.cnr.it/wp-content/uploads/2024/08/2023_3_Muse_Stradano_pp1-116-93-103.pdf",
+        "kind": "institution",
+        "supports": "Giordano da Pisa's sermon at Santa Maria Novella; the Pisan convent chronicle on Alessandro della Spina, who made spectacles himself; evidence of spectacles in use in Venice at the end of the 13th century."
+      },
+      {
+        "citation": "uCatholic. Wear glasses? You can thank this medieval Catholic friar.",
+        "url": "https://www.ucatholic.com/blog/wear-glasses-you-can-thank-this-medieval-catholic-friar-for-them/",
+        "kind": "institution",
+        "supports": "Sermon of 23 February 1306; he had seen the inventor; Alessandro della Spina made eyeglasses and gave them away."
+      },
+      {
+        "citation": "Ilardi V. Eyeglasses and concave lenses in fifteenth-century Florence and Milan: new documents. Renaissance Quarterly, 1976.",
+        "url": "https://www.cambridge.org/core/journals/renaissance-quarterly/article/eyeglasses-and-concave-lenses-in-fifteenthcentury-florence-and-milan-new-documents/4232170036589FEED6441FEAE5EC17E6",
+        "kind": "journal",
+        "supports": "Documents show concave lenses for myopes made in Florence from at least the mid-fifteenth century; Florence the leading centre of high-quality eyeglasses."
+      },
+      {
+        "citation": "Utrecht University Repository. Note on Ilardi's findings.",
+        "url": "https://dspace.library.uu.nl/handle/1874/33280",
+        "kind": "university",
+        "supports": "Sforza orders of the 1460s for convex lenses graded by age and concave lenses in two grades, the first written mention of concave eyeglasses; convex eyeglasses invented around 1286."
+      },
+      {
+        "citation": "Brown University (Joukowsky Institute). Lenses and optics: Roger Bacon, Perspectiva, 1267.",
+        "url": "https://webhelper.brown.edu/joukowsky/courses/13things/7338.html",
+        "kind": "university",
+        "supports": "Bacon's work on optics and the use of glass spheres as magnifiers; spectacles developed later, around 1280–1290, by a disputed inventor."
+      },
+      {
+        "citation": "Ilardi V. Renaissance Vision from Spectacles to Telescopes. American Philosophical Society, 2007.",
+        "url": "https://www.degruyterbrill.com/document/doi/10.70249/9780871693914/html",
+        "kind": "book",
+        "supports": "History of eyeglasses from their invention in Italy c. 1286; in the 15th century the ability to grind convex lenses for levels of presbyopia and concave lenses for myopia."
+      },
+      {
+        "citation": "Ilardi V. Renaissance Vision from Spectacles to Telescopes (publisher's description, PaperBackSwap).",
+        "url": "https://paperbackswap.com/Renaissance-Vision-Spectacles-Vincent-Ilardi/book/0871692597",
+        "kind": "book",
+        "supports": "Eyeglasses eased the textual studies of scholars and the work of craftsmen; Florence rather than Venice dominated the 15th-century market."
+      },
+      {
+        "citation": "SuperScout. Eyeglasses (innovation record).",
+        "url": "https://superscout.co/innovation/eyeglasses",
+        "kind": "institution",
+        "supports": "On 23 February 1306 Giordano da Pisa said the art was discovered less than twenty years earlier and that he had seen and spoken to the inventor; Rosen and Ilardi date it to about 1286; the inventor's name is unknown; Pisa and Venice both have claims."
+      }
+    ],
+    "related": [
+      "hunayn-translations"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "quinze-vingts",
+    "title": "Louis IX founds the Quinze-Vingts for the blind",
+    "summary": "Around 1260 King Louis IX of France built a hospice in Paris for 300 poor blind people, the Quinze-Vingts ('fifteen twenties'). The oldest institution for the blind in the world, it survives today as France's national eye hospital.",
+    "explanation": "Louis IX, later Saint Louis, founded the house on the rue Saint-Honoré near the Louvre to take in the blind poor of Paris, who would otherwise have lived by begging. Its name records the number of residents, counted in scores: fifteen times twenty, or 300. The residents lived as a community under a chaplain, and the king's charters granted them privileges, including the right to beg.\n\nA popular story says it was built for 300 knights blinded on crusade, but historians regard this as a legend. The Quinze-Vingts moved to the faubourg Saint-Antoine in 1779 and is now the Centre hospitalier national d'ophtalmologie des Quinze-Vingts.",
+    "date": {
+      "start": 1256,
+      "end": 1260,
+      "display": "c. 1260 CE",
+      "kind": "point",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Usually dated to 1260; one study gives 1256."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "disability",
+      "blindness",
+      "hospitals"
+    ],
+    "locations": [
+      {
+        "name": "Hospice des Quinze-Vingts, rue Saint-Honoré",
+        "modern": "Paris, France",
+        "lat": 48.86,
+        "lon": 2.34,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Louis IX (Saint Louis)",
+        "role": "King of France and founder"
+      }
+    ],
+    "whatChanged": "Blind people were given a permanent, royally endowed home and community.",
+    "whyItMattered": "It is the oldest institution for the blind still in existence and the root of France's national ophthalmology hospital.",
+    "limitations": [
+      "It was a residential community for the blind rather than a place of medical treatment.",
+      "The story of 300 blinded crusaders is a legend."
+    ],
+    "sources": [
+      {
+        "citation": "Wheatley E. Blindness, discipline, and reward: Louis IX and the foundation of the Hospice des Quinze-Vingts. Disability Studies Quarterly 22(4), 2002.",
+        "url": "https://dsq-sds.org/article/id/1331/",
+        "kind": "journal",
+        "supports": "Louis IX founded a residential hospice for the blind, named for the 300 residents it was meant to house (dated here to 1256)."
+      },
+      {
+        "citation": "Historical Marker Database. Hospice des Quinze-Vingts (Histoire de Paris marker).",
+        "url": "https://hmdb.org/m.asp?m=248971",
+        "kind": "institution",
+        "supports": "Saint Louis had a hospice built here in 1260 for 15 times 20, or 300, blind people; later transferred to the faubourg Saint-Antoine."
+      },
+      {
+        "citation": "Sortir à Paris. Heritage Days: the history of the Quinze-Vingts hospital.",
+        "url": "https://sortiraparis.com/en/news/heritage-days/articles/299648-heritage-days-2024-discover-the-history-of-the-15-20-hospital-in-paris",
+        "kind": "institution",
+        "supports": "The story of 300 blinded crusader knights is regarded by hospital historians as a legend."
+      },
+      {
+        "citation": "UCLA, Paris: Capital of the Nineteenth Century project. The Quinze-Vingts.",
+        "url": "https://paris.cdh.ucla.edu/the-quinze-vingts",
+        "kind": "university",
+        "supports": "The oldest hospital for the blind in the world; built between 1260 and 1325; the blind held privileges as official beggars; moved in 1779 under Louis XVI."
+      },
+      {
+        "citation": "Institut de la Vision. Quinze-Vingts National Ophthalmology Hospital.",
+        "url": "https://www.institut-vision.org/en/22-partnerships/institutions/59-lalala.html",
+        "kind": "institution",
+        "supports": "Founded in 1260 on the rue Saint-Honoré for 300 poor blind people of Paris; a chaplain headed the community."
+      },
+      {
+        "citation": "Diocèse de Paris. Saint Louis, les pauvres et les malades.",
+        "url": "https://dioceseparis.fr/saint-louis-les-pauvres-et-les.html",
+        "kind": "institution",
+        "supports": "He founded the Quinze-Vingts for 300 blind people who would otherwise have been condemned to poverty and begging."
+      },
+      {
+        "citation": "Structurae. Centre hospitalier national d'ophtalmologie des Quinze-Vingts.",
+        "url": "https://structurae.net/en/structures/centre-hospitalier-national-dophtalmologie-des-quinze-vingts",
+        "kind": "institution",
+        "supports": "The name means three hundred, the number of beds, for poor blind people; now France's national ophthalmology hospital."
+      }
+    ],
+    "related": [
+      "spectacles-invention"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "mondino-dissection",
+    "title": "Mondino de' Luzzi revives human dissection",
+    "summary": "In January 1315 the Bologna professor Mondino de' Luzzi publicly dissected the body of an executed woman, and in 1316 he finished the Anathomia, the first European book since antiquity devoted entirely to anatomy and based on human dissection. It remained the standard dissecting manual until Vesalius.",
+    "explanation": "Human dissection had been practised in Alexandria but then largely abandoned for many centuries. By the early fourteenth century Bologna had become a centre of anatomical study, and Mondino, who taught anatomy and surgery there, reintroduced systematic teaching of anatomy based on dissection of the human body.\n\nHis Anathomia, completed in 1316 and first printed in 1478, is less a description of the body by systems than a dissecting manual: it takes the organs in the order in which the dissector reached them. It went through 39 editions. Public anatomy lessons of this kind usually illustrated what earlier authorities had written rather than testing it, with a reader at the lectern while a barber or surgeon cut.",
+    "date": {
+      "start": 1315,
+      "end": 1316,
+      "display": "1315–1316 CE",
+      "kind": "span",
+      "approximate": false,
+      "precision": "year",
+      "basis": "The public dissection of January 1315 and the completion of the Anathomia in 1316."
+    },
+    "type": "demonstration",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "mechanisms",
+    "tags": [
+      "surgery"
+    ],
+    "themes": [
+      "anatomy",
+      "medical teaching",
+      "authority versus observation"
+    ],
+    "locations": [
+      {
+        "name": "University of Bologna",
+        "modern": "Bologna, Italy",
+        "lat": 44.49,
+        "lon": 11.34,
+        "radiusKm": 3,
+        "precision": "settlement",
+        "type": "documented-practice"
+      }
+    ],
+    "people": [
+      {
+        "name": "Mondino de' Luzzi",
+        "role": "Anatomist and physician"
+      }
+    ],
+    "whatChanged": "Dissection of the human body returned to European medical teaching.",
+    "whyItMattered": "Mondino's method and book made human dissection a regular part of medical education for two centuries, laying the ground for Vesalius.",
+    "limitations": [
+      "Calling it the first dissection in Europe since antiquity overlooks earlier post-mortem openings, such as one recorded at Cremona in 1286.",
+      "Like other public anatomies of the time, his dissections mainly illustrated what Galen and the Arabic authorities had written rather than testing it."
+    ],
+    "harms": "The bodies used were those of executed criminals, dissected without consent.",
+    "sources": [
+      {
+        "citation": "Encyclopaedia Britannica. Mondino de' Luzzi.",
+        "url": "https://www.britannica.com/print/article/389092",
+        "kind": "book",
+        "supports": "c. 1270–c. 1326; Anathomia (MS 1316; printed 1478) the first European book since antiquity entirely devoted to anatomy and based on dissection of human cadavers; reintroduced systematic anatomy teaching; performed dissections at public lectures; standard handbook, 39 editions."
+      },
+      {
+        "citation": "Encyclopedia.com. Mondino de' Luzzi.",
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/mondino-de-luzzi",
+        "kind": "book",
+        "supports": "Bologna a centre for anatomical study based on human dissection; in January 1315 he dissected the body of a woman; completed the Anathomia by the end of the following year; organs discussed in the order they appeared to the dissector."
+      },
+      {
+        "citation": "Di Matteo B, et al. Mondino de' Liuzzi. Clinical Orthopaedics and Related Research, 2017.",
+        "url": "https://doi.org/10.1007/s11999-016-5213-5",
+        "kind": "journal",
+        "supports": "Known as the 'Restorer of Anatomy'; in 1315 performed the first documented public dissection in more than 1,700 years, in January, on the body of a female criminal."
+      },
+      {
+        "citation": "Becker Medical Library, Washington University. Vesalius: early life.",
+        "url": "https://beckerexhibits.wustl.edu/vesalius/early-life.html",
+        "kind": "university",
+        "supports": "The first definitive example of human dissection for studying anatomy dates from 1315 in Bologna; public anatomy lessons illustrated what earlier authors had written, with a lector reading while a surgeon or barber dissected."
+      },
+      {
+        "citation": "Virchows Archiv (2013). Article on the history of the autopsy and pathological anatomy (SpringerMedizin).",
+        "url": "https://www.springermedizin.at/article/10.1007/s00428-013-1387-3",
+        "kind": "journal",
+        "supports": "Salimbene of Parma records a physician of Cremona who opened the body of a patient who died in the pestilence of 1286."
+      }
+    ],
+    "related": [
+      "alexandria-human-dissection",
+      "vesalius-fabrica",
+      "benivieni-pathology"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "santa-maria-nuova",
+    "title": "Folco Portinari founds Santa Maria Nuova in Florence",
+    "summary": "In June 1288 the Florentine merchant Folco Portinari, father of Dante's Beatrice, founded the hospital of Santa Maria Nuova, urged on by his household's servant Monna Tessa. It grew into Florence's great hospital, whose regulations were copied abroad, and it still treats patients today.",
+    "explanation": "Folco di Ricovero Portinari bought houses in the centre of Florence to receive poor people in need. Monna Tessa, who devoted her life to the sick, founded a congregation of women, the Oblates, who served in the hospital.\n\nBy around 1500 Santa Maria Nuova was so well run that Henry VII of England asked for its statutes as a model for the Savoy hospital in London, and in 1546 Ferdinand of Austria requested a copy of its regulations. Its physicians included Antonio Benivieni, and it still serves as the emergency hospital for the old city centre.",
+    "date": {
+      "start": 1288,
+      "end": 1288,
+      "display": "1288 CE",
+      "kind": "point",
+      "approximate": false,
+      "precision": "month",
+      "basis": "Founded in June 1288."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text",
+      "programme-records"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "hospitals",
+      "continuity over centuries",
+      "nursing"
+    ],
+    "locations": [
+      {
+        "name": "Ospedale di Santa Maria Nuova",
+        "modern": "Florence, Italy",
+        "lat": 43.77,
+        "lon": 11.26,
+        "radiusKm": 1,
+        "precision": "site",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Folco Portinari",
+        "role": "Merchant and founder"
+      },
+      {
+        "name": "Monna Tessa",
+        "role": "Portinari household servant who inspired the foundation and nursed the sick"
+      }
+    ],
+    "whatChanged": "Florence gained a large, well-organised hospital for the sick poor.",
+    "whyItMattered": "Its organisation became a model for hospitals elsewhere in Europe, and it has worked without interruption for more than 700 years.",
+    "limitations": [
+      "It is often called the oldest hospital in the world still operating; that depends on how continuous service is defined, and other hospitals, such as St Bartholomew's in London, are older."
+    ],
+    "sources": [
+      {
+        "citation": "Lippi D, Padeletti L. The spedale of Santa Maria Nuova in Florence. Hektoen International, 2017.",
+        "url": "https://hekint.org/2017/02/22/donatella-lippi-luigi-padeletti/",
+        "kind": "journal",
+        "supports": "Founded in June 1288 by Folco di Ricovero dei Portinari, father of Dante's Beatrice, who bought houses to receive poor people; the Oblates founded by Monna Tessa; Henry VII and Ferdinand of Austria (1546) requested its regulations; today the emergency hospital for the old city."
+      },
+      {
+        "citation": "Park K, Henderson J. 'The first hospital among Christians': the ospedale di Santa Maria Nuova in early sixteenth-century Florence. Medical History 35(2):164–188, 1991 (statutes, via CapDox).",
+        "url": "https://www.capdox.capuchin.org.au/?p=3853",
+        "kind": "journal",
+        "supports": "Francesco Portinari's letter to Henry VII of about 1500 incorporating the statutes; Folco Portinari founded the hospital."
+      },
+      {
+        "citation": "HiMeTop (Università Campus Bio-Medico). Ospedale di Santa Maria Nuova.",
+        "url": "https://himetop.unicampus.it/ospedale-di-santa-maria-nuova/",
+        "kind": "university",
+        "supports": "Florence's oldest hospital still active, founded in 1288 by Folco Portinari, encouraged by Monna Tessa, a nurse in the Portinari household."
+      },
+      {
+        "citation": "Feel Florence (Comune di Firenze). Museum of Santa Maria Nuova.",
+        "url": "https://www.feelflorence.it/en/node/12306",
+        "kind": "institution",
+        "supports": "On 23 June 1288 Folco Portinari donated the land on which the hospital was built."
+      },
+      {
+        "citation": "Hektoen International. Antonio Benivieni.",
+        "url": "https://hekint.org/?p=31717",
+        "kind": "journal",
+        "supports": "Benivieni was a staff physician at Santa Maria Nuova."
+      },
+      {
+        "citation": "Fantastic Florence. Medicine in Renaissance Florence: Santa Maria Nuova Hospital.",
+        "url": "https://fantasticflorence.com/?p=6612",
+        "kind": "institution",
+        "supports": "Founded in 1288 by Folco Portinari; active for over 700 years without interruption."
+      }
+    ],
+    "related": [
+      "benivieni-pathology",
+      "st-bartholomews-hospital"
     ],
     "suggestedBy": "wikipedia-timeline"
   }

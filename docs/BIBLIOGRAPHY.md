@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 948 distinct sources across 217 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 1070 distinct sources across 238 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -143,6 +143,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://plato.stanford.edu/archives/sum2015/entries/alcmaeon/>  
   Type: university.
   - `hippocratic-sacred-disease`: Alcmaeon's identification of the brain as the seat of intelligence influenced On the Sacred Disease.
+
+- Aleteia. The oldest hospital in Europe was founded by a pope (2021).  
+  <https://aleteia.org/2021/08/18/the-oldest-hospital-in-europe-was-founded-by-a-pope/>  
+  Type: institution.
+  - `santo-spirito-hospital`: Founded in 1198 on the site of a hospice for Saxon pilgrims; Guy de Montpellier, founder of the Order of the Holy Spirit, appointed to run it.
+
+- All About Vision. A history of glasses (with Neil Handley, British Optical Association Museum).  
+  <https://www.allaboutvision.com/eyewear/eyeglasses/history-of-glasses/>  
+  Type: institution.
+  - `spectacles-invention`: The first written mention of spectacles is Giordano da Pisa's sermon, saying they had been around for less than 20 years.
 
 - Allegranzi B, et al. Preventing sepsis in healthcare: 200 years after the birth of Ignaz Semmelweis (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/>  
@@ -379,6 +389,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `dolly-cloned-sheep`: Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells.
 
+- Barts Health NHS Trust. St Bartholomew's Hospital: our history.  
+  <https://www.bartshealth.nhs.uk/st-bartholomews-our-history>  
+  Type: institution.
+  - `st-bartholomews-hospital`: Founded with the priory in 1123 by Rahere; continuous care on the same site; the oldest document in the archives is a grant of 1137.
+
 - Basil's house of healing. Christian History Institute.  
   <https://christianhistoryinstitute.org/magazine/article/basils-house-of-healing>  
   Type: institution.
@@ -413,6 +428,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.medicinabuenosaires.com/revistas/vol81-21/n6/1007eng.pdf>  
   Type: journal.
   - `bcg-vaccine`: On 18 July 1921 in the maternity nursery of the Hôpital de la Charité in Paris, Weill-Hallé and Turpin administered BCG to a newborn of a mother with tuberculosis; consultation with Calmette.
+
+- Becker Medical Library, Washington University. Vesalius: early life.  
+  <https://beckerexhibits.wustl.edu/vesalius/early-life.html>  
+  Type: university.
+  - `mondino-dissection`: The first definitive example of human dissection for studying anatomy dates from 1315 in Bologna; public anatomy lessons illustrated what earlier authors had written, with a lector reading while a surgeon or barber dissected.
 
 - Beleña JM, Núñez M. Fidel Pagés, the true discoverer of epidural anesthesia, on the centenary of his publication Anestesia metamérica (1921–2021). Cirugía y Cirujanos / Medigraphic (2023).  
   <https://www.medigraphic.com/pdfs/rma/cma-2023/cma231l.pdf>  
@@ -490,6 +510,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `artificial-pancreas-hybrid-loop`: FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses.
 
+- Brewminate. Infection, imagination, and the practice of healing in the early modern world.  
+  <https://brewminate.com/infection-imagination-and-the-practice-of-healing-in-the-early-modern-world/>  
+  Type: institution.
+  - `fracastoro-contagion`: De contagione outlined three modes of transmission; its practical uptake was limited; humoral, miasmatic and contagion models coexisted.
+
 - Bridwell Library, Southern Methodist University. Dioscorides Pedanius.  
   <https://bridwell.omeka.net/exhibits/show/sellers/medicine/pedanius>  
   Type: university.
@@ -509,6 +534,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://profiles.nlm.nih.gov/101584577X4>  
   Type: primary.
   - `paracetamol-brodie-axelrod`: Acetanilide contributed to methaemoglobinaemia; they suggested manufacturers replace it with acetaminophen.
+
+- Brown University (Joukowsky Institute). Lenses and optics: Roger Bacon, Perspectiva, 1267.  
+  <https://webhelper.brown.edu/joukowsky/courses/13things/7338.html>  
+  Type: university.
+  - `spectacles-invention`: Bacon's work on optics and the use of glass spheres as magnifiers; spectacles developed later, around 1280–1290, by a disputed inventor.
 
 - Brugada J, Brugada P, Brugada R. Brugada syndrome: the syndrome of right bundle branch block, ST segment elevation in V1 to V3 and sudden death. PubMed Central (2001).  
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569891/>  
@@ -534,6 +564,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/min-chueh-chang-1908-1991>  
   Type: university.
   - `chang-ivf-rabbits`: 1959 experiment with black rabbits' eggs and sperm, transfer to a white female, black offspring; later studies in hamsters, mice and rats; basis for human IVF by Steptoe and Edwards.
+
+- Building History. A life apart: leper hospitals.  
+  <https://www.buildinghistory.org/articles/heritagemercy2.shtml>  
+  Type: institution.
+  - `canterbury-hospitals`: Lanfranc built the first independent hospitals in England; Eadmer's account of Harbledown; leper hospitals then spread across the country; new evidence of a late Saxon leper hospital at Winchester.
 
 - Bundeszentrale für politische Bildung. Salvarsan-Ampulle (Shared History Projekt).  
   <https://www.bpb.de/themen/zeit-kulturgeschichte/geteilte-geschichte/340570/salvarsan-ampulle/>  
@@ -569,6 +604,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://encyclopediaofarkansas.net/entries/jerome-kalman-sherman-8019/>  
   Type: institution.
   - `frozen-sperm-pregnancies`: In 1949 British scientists reported impregnating chickens with frozen semen treated with glycerol; Sherman began his own experiments; Bunge of the new infertility clinic arranged human trials.
+
+- Canterbury Archaeological Trust. St John's Hospital 1084–1984.  
+  <https://canterburytrust.co.uk/_files/ugd/805c19_def881241ce149f0a5c728183fbe573e.pdf?index=true>  
+  Type: institution.
+  - `canterbury-hospitals`: Founded together with the leper hospital of St Nicholas at Harbledown by Lanfranc in 1084 or early 1085; apart from Gundulf's hospital at Chatham, no other hospital in Britain has so early a documented foundation date.
+
+- Canterbury Archaeological Trust. St John's Hospital, Northgate.  
+  <https://www.canterbury-archaeology.org.uk/?p=755>  
+  Type: institution.
+  - `canterbury-hospitals`: Founded by the first Norman archbishop of Canterbury, Lanfranc, in about 1085.
 
 - Carlo Urbani and SARS (review). Journal of Preventive Medicine and Hygiene.  
   <https://www.jpmh.org/index.php/jpmh/article/download/2134/856/12540>  
@@ -630,6 +675,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `ephrem-edessa-famine-hospital`: Ordained deacon at Edessa; set up some 300 beds in the public porticoes during the famine.
 
+- Chalmers A. The General Biographical Dictionary: Linacre, Thomas (From Old Books).  
+  <https://words.fromoldbooks.org/Chalmers-Biography/l/linacre-thomas.html>  
+  Type: book.
+  - `college-of-physicians-london`: Letters patent of 1518 gave the college the right to examine and admit practitioners within London and seven miles, and to license throughout the kingdom except graduates of Oxford or Cambridge.
+
 - Chalmers I. Underuse of antenatal corticosteroids and future litigation (listed in 'Iain Chalmers: a bibliography', James Lind Library).  
   <https://www.jameslindlibrary.org/blogs/iain-chalmers-a-bibliography/>  
   Type: journal.
@@ -659,6 +709,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.elsevier.es/es-revista-revista-mexicana-oftalmologia-321-pdf-download-X0187451916498073>  
   Type: journal.
   - `badianus-manuscript`: Martín de la Cruz, native of Xochimilco, physician at the Colegio de Santa Cruz de Tlatelolco; mid-16th century.
+
+- Chemistry in medicine (Paracelsus). CHIMIA 74(6):507–508, 2020.  
+  <https://chimia.ch/chimia/article/download/2020_507/393/11048>  
+  Type: journal.
+  - `paracelsus-chemical-medicine`: City physician and professor at Basel in 1527–28; poisons can become medicines since the dose determines toxicity; the three substances sulphur, mercury and salt.
 
 - Cherry JD. Epidemic pertussis and acellular pertussis vaccine failure (review). Current Epidemiology Reports (2015).  
   <https://link.springer.com/doi/10.1007/s40471-015-0041-9>  
@@ -740,6 +795,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `early-gender-affirming-surgery`: Hirschfeld founded the institute in 1919; operations in Dresden to implant ovaries; in June 1931 she returned for a uterus transplant.
 
+- Consiglio Nazionale delle Ricerche, Istituto Nazionale di Ottica. Muse/Stradano (2023), pp. 93–103.  
+  <https://viola.ino.cnr.it/wp-content/uploads/2024/08/2023_3_Muse_Stradano_pp1-116-93-103.pdf>  
+  Type: institution.
+  - `spectacles-invention`: Giordano da Pisa's sermon at Santa Maria Novella; the Pisan convent chronicle on Alessandro della Spina, who made spectacles himself; evidence of spectacles in use in Venice at the end of the 13th century.
+
 - Contraception (chapter). Taylor & Francis.  
   <https://www.taylorfrancis.com/books/9780203074596/chapters/10.4324/9780203074596-17>  
   Type: book.
@@ -764,6 +824,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1038/440755a](https://doi.org/10.1038/440755a), <https://carta.anthropogeny.org/node/311021>  
   Type: journal.
   - `mehrgarh-dental`: Eleven drilled molar crowns from nine adults; Neolithic graveyard in Pakistan dated 7,500–9,000 years ago; a long tradition of proto-dentistry.
+
+- CORE. Article on Realdo Colombo and the pulmonary circulation.  
+  <https://core.ac.uk/works/66895717>  
+  Type: university.
+  - `servetus-colombo-pulmonary`: Colombo seems to have arrived at his conclusions independently of Servetus; he understood the function of the cardiac valves.
 
 - Coronary bypass pioneer (profile of René Favaloro). University of Pittsburgh Health Sciences Library, digital collection.  
   <https://dec.hsls.pitt.edu/files/original/5f53a80bb549404b7a8c81d0467d2ad785dc2115.pdf>  
@@ -807,6 +872,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `al-kindi-drug-degrees`: Born in Kufa, educated in Baghdad; De gradibus applied mathematics to drug strength; Roger Bacon found the method extremely difficult and almost unknown among Latin physicians.
 
+- Daily Medieval. The Hospital Brothers of Saint Anthony (5 February 2024).  
+  <https://dailymedieval.blogspot.com/2024/02/the-hospital-brothers-of-saint-anthony.html>  
+  Type: institution.
+  - `antonine-order`: In 1095 Gaston of Valloire founded the order, sanctioned by Urban II, believing his son cured of St Anthony's fire; they built a hospital near the church of St Anthony; the brothers were laymen.
+
 - Day J. Crocuses in context: a diachronic survey of the crocus motif in the Aegean Bronze Age. Hesperia 80(3):337 (2011).  
   <https://ascsa.edu.gr/uploads/media/hesperia/hesperia.80.3.0337.pdf>  
   Type: journal.
@@ -837,6 +907,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `human-embryonic-stem-cells`: Publication date; cells derived from the inner cell mass of donated human blastocysts; WARF patent application.
 
+- Di Matteo B, et al. Mondino de' Liuzzi. Clinical Orthopaedics and Related Research, 2017.  
+  <https://doi.org/10.1007/s11999-016-5213-5>  
+  Type: journal.
+  - `mondino-dissection`: Known as the 'Restorer of Anatomy'; in 1315 performed the first documented public dissection in more than 1,700 years, in January, on the body of a female criminal.
+
 - Diabetes device a step closer to artificial pancreas. MDDI Online, 29 September 2016.  
   <https://mddionline.com/business/diabetes-device-a-step-closer-to-artificial-pancreas>  
   Type: journal.
@@ -861,6 +936,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://chemistryworld.com/news/digging-up-ancient-drug-formulations-/5780.article>  
   Type: journal.
   - `pozzino-medicinal-tablets`: Discovered in 1974 and excavated in 1989–1990; zinc around 75% of the sample; Pliny the Elder and Dioscorides describe zinc compounds for eyes and skin.
+
+- Diocèse de Paris. Saint Louis, les pauvres et les malades.  
+  <https://dioceseparis.fr/saint-louis-les-pauvres-et-les.html>  
+  Type: institution.
+  - `quinze-vingts`: He founded the Quinze-Vingts for 300 blind people who would otherwise have been condemned to poverty and begging.
 
 - Diop S, et al. Overview of surgical and anesthesia practice in sub-Saharan Africa during the 19th century: the example of the people of Bunyoro. Pan African Medical Journal 2021;40:120.  
   DOI: [10.11604/pamj.2021.40.120.32092](https://doi.org/10.11604/pamj.2021.40.120.32092), <https://www.panafrican-med-journal.com/content/article/40/120/full>  
@@ -896,6 +976,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://read.qxmd.com/read/30671154/does-modern-research-concerning-chinese-medicine-acupoints-relate-to-original-prescriptions-if-not-why-not>  
   Type: journal.
   - `huangfu-mi-acupuncture`: Huang Fu Mi's Zhen Jiu Jia Yi Jing regarded as the earliest text (282 CE) on differential diagnosis and clinical acumoxa therapy.
+
+- Donaldson IML. Ambroise Paré's accounts of new methods for treating gunshot wounds and burns. Journal of the Royal Society of Medicine (PubMed Central), 2015.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC4672255>  
+  Type: journal.
+  - `pare-gunshot-wounds`: France at war in 1537; Giovanni da Vigo was the principal authority on gunshot wounds, holding them poisoned by gunpowder and to be cauterised with hot oil; the remedy Paré used when the oil ran out.
 
 - Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clinical Microbiology Reviews 2009.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2620631/>  
@@ -1007,6 +1092,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `statins`: Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck.
 
+- EBSCO Research Starters. Fracastoro discovers that contagion spreads disease.  
+  <https://www.ebsco.com/research-starters/consumer-health/fracastoro-discovers-contagion-spreads-disease>  
+  Type: institution.
+  - `fracastoro-contagion`: Verona, 1546; diseases transmitted by direct contact, infected objects and contaminated air; caused by self-multiplying seeds.
+
 - EBSCO Research Starters. Galen.  
   <https://ebsco.com/research-starters/biography/galen>  
   Type: institution.
@@ -1016,6 +1106,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/health-and-medicine/gibbon-develops-heart-lung-machine>  
   Type: institution.
   - `gibbon-heart-lung-machine`: Fall 1934 to 6 May 1953; developed and tested in animals and then humans the first device to oxygenate and circulate blood during surgery.
+
+- EBSCO Research Starters. Girolamo Fracastoro.  
+  <https://ebsco.com/research-starters/history/girolamo-fracastoro>  
+  Type: institution.
+  - `fracastoro-contagion`: Born in Verona; theories on 'seminaria' prefiguring germ theory; the syphilis poem printed in 1530.
 
 - EBSCO Research Starters. Hopkins postulates the presence of vitamins.  
   <https://ebsco.com/research-starters/history/hopkins-postulates-presence-vitamins>  
@@ -1031,6 +1126,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/consumer-health/rotavirus-vaccine>  
   Type: institution.
   - `rotavirus-vaccines`: Rotavirus can cause severe dehydration requiring hospitalisation; RotaTeq three oral doses and Rotarix two; first licensing 1998, withdrawal, safer versions in 2006 and 2008.
+
+- EBSCO Research Starters. Zacharias Janssen.  
+  <https://ebsco.com/research-starters/biography/zacharias-janssen>  
+  Type: institution.
+  - `compound-microscope`: Janssen's family moved to Middelburg, where his father had a spectacles shop; his claim rests on the testimony of his son and of William Boreel in 1655.
 
 - EDSITEment (NEH). Medicine in Babylonia activity sheet.  
   <https://webarchive.library.unt.edu/web/20090511171859/http://edsitement.neh.gov/lesson_images/lesson633/Activity4_G01.pdf>  
@@ -1071,6 +1171,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.implantable-device.com/2012/01/23/elema-schoenander-and-the-very-first-human-implants-of-a-pacemaker-in-sweden-1958-and-uruguay-1960/>  
   Type: archive.
   - `implantable-pacemaker`: Elmqvist's design with silicon transistors; developed with Senning at the Karolinska; implants in Uruguay in 1960.
+
+- Ellis H. Ambroise Paré. British Journal of Hospital Medicine 71(3), 2010.  
+  <https://storage.imrpress.com/IMR/hmed/application/10.12968/hmed.2010.71.3.46980.pdf>  
+  Type: journal.
+  - `pare-gunshot-wounds`: At Turin in 1537 he exhausted his boiling oil, applied egg yolk, turpentine and rose oil, and found next morning those men comfortable while the cauterised were in pain.
 
 - Ellis H. Hieronymus Fabricius: professor of anatomy at Padua in Vesalius' footsteps. British Journal of Hospital Medicine 2019;80(2):109.  
   DOI: [10.12968/hmed.2019.80.2.109](https://doi.org/10.12968/hmed.2019.80.2.109), <https://storage.imrpress.com/IMR/hmed/application/10.12968/hmed.2019.80.2.109.pdf>  
@@ -1177,6 +1282,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `landsteiner-blood-groups`: Returned to the University of Vienna in 1897 and in 1901 published the discovery of the human ABO blood groups; 1930 Nobel Prize; blood typing made transfusion routine.
 
+- Encyclopaedia Britannica. Li Shizhen (print version).  
+  <https://www.britannica.com:443/print/article/338673>  
+  Type: book.
+  - `li-shizhen-bencao`: Described 1,892 drugs; distillation and the uses of mercury, ephedrine, chaulmoogra oil, iodine and smallpox inoculation.
+
+- Encyclopaedia Britannica. Li Shizhen.  
+  <https://www.britannica.com/biography/Li-Shizhen>  
+  Type: book.
+  - `li-shizhen-bencao`: 1518–1593; completed in 1578, partly a compilation of smaller works; 1,094 herbs, 444 animal and 275 mineral substances; some 11,000 prescriptions.
+
 - Encyclopaedia Britannica. Lili Elbe.  
   <https://www.britannica.com/biography/Lili-Elbe>  
   Type: book.
@@ -1186,6 +1301,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.britannica.com/biography/Louis-Pasteur/Spontaneous-generation>  
   Type: book.
   - `pasteur-spontaneous-generation`: In 1859 Pasteur decided to settle the dispute, believing his germ theory could not be substantiated while spontaneous generation was believed; swan-neck flask kept boiled broth sterile.
+
+- Encyclopaedia Britannica. Mondino de' Luzzi.  
+  <https://www.britannica.com/print/article/389092>  
+  Type: book.
+  - `mondino-dissection`: c. 1270–c. 1326; Anathomia (MS 1316; printed 1478) the first European book since antiquity entirely devoted to anatomy and based on dissection of human cadavers; reintroduced systematic anatomy teaching; performed dissections at public lectures; standard handbook, 39 editions.
+
+- Encyclopaedia Britannica. Paracelsus (article history).  
+  <https://www.britannica.com/biography/Paracelsus/article-history>  
+  Type: book.
+  - `paracelsus-chemical-medicine`: 1493–1541; the German-Swiss physician who established the role of chemistry in medicine; lectures announced on 5 June 1527 open to anyone; left Basel.
+
+- Encyclopaedia Britannica. Paracelsus: assessment.  
+  <https://britannica.com/EBchecked/topic/442424/Paracelsus/5505/Assessment>  
+  Type: book.
+  - `paracelsus-chemical-medicine`: Prepared and used new chemical remedies containing mercury, sulphur, iron and copper sulphate, as the first London Pharmacopoeia of 1618 shows.
+
+- Encyclopaedia Britannica. Paracelsus.  
+  <https://www.britannica.com/biography/Paracelsus>  
+  Type: book.
+  - `paracelsus-chemical-medicine`: Great Surgery Book in 1536 and a clinical description of syphilis in 1530; his father taught chemistry at the Fugger Bergschule; the recognised authorities Galen and Avicenna.
 
 - Encyclopaedia Britannica. Patricia Bath.  
   <https://www.britannica.com/biography/Patricia-Bath>  
@@ -1197,6 +1332,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `paul-of-aegina-surgery`: Born c. 625 on Aegina, died c. 690; Alexandrian physician and surgeon; Epitome in seven books based on Galen, Oribasius and Aëtius; influenced Arab medicine; al-Razi drew on it; Abu al-Qasim borrowed heavily from the sixth, surgical book for the surgery chapter of al-Tasrif; lithotomy and trephination.
   - `albucasis-tasrif`: Abu al-Qasim borrowed heavily from the sixth, surgical book of Paul's Epitome for the surgery chapter of al-Tasrif.
+
+- Encyclopaedia Britannica. Saint Bartholomew's Hospital.  
+  <https://www.britannica.com/print/article/516833>  
+  Type: book.
+  - `st-bartholomews-hospital`: Oldest hospital in London, founded in 1123 by the Augustinian Rahere, who also founded the adjacent priory.
 
 - Encyclopaedia Britannica. Stereotaxic surgery.  
   <https://www.britannica.com/print/article/565672>  
@@ -1218,15 +1358,50 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `women-medical-degrees-us`: Founded 1850, two years after Seneca Falls; first building at 627 Arch Street; first graduating class included Ann Preston, later the first female dean of a US medical school; first medical school in the world for women authorised to award the MD.
 
+- Encyclopedia.com (Dictionary of Scientific Biography). Colombo, Realdo.  
+  <https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/colombo-realdo>  
+  Type: book.
+  - `servetus-colombo-pulmonary`: Born Cremona c. 1510, died Rome 1559; De re anatomica in fifteen books, 1559; rich experience in dissection, vivisection and autopsy.
+
+- Encyclopedia.com (Dictionary of Scientific Biography). Orta, Garcia d'.  
+  <https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/orta-garcia-dor-da-orta>  
+  Type: book.
+  - `garcia-de-orta-coloquios`: Born Castelo de Vide c. 1500, died Goa c. 1568; travelled with de Sousa along the coast of India and Ceylon 1534–38; dialogues with a newly arrived colleague; his description of Asian cholera became a standard reference; chronic dysentery, cobra bite and datura poisoning.
+
 - Encyclopedia.com (New Catholic Encyclopedia). Sergius of Resaina.  
   <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sergius-resaina>  
   Type: book.
   - `sergius-syriac-galen`: He studied in Alexandria and became a physician.
 
+- Encyclopedia.com (Science and Its Times). Roger of Salerno.  
+  <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/roger-salerno>  
+  Type: book.
+  - `roger-of-salerno-chirurgia`: Practica chirurgiae probably composed about 1180; taught at Parma; Guido Aretino may have compiled it from his notes c. 1170; a classic for at least three centuries; end-to-end sutures, mercurial inunction, seaweed for goitre; supported 'laudable pus'; Roland of Parma.
+
 - Encyclopedia.com (Women in World History). Fabiola (d. 399 CE).  
   <https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/fabiola-d-399-ce>  
   Type: book.
   - `fabiola-rome-hospital`: Founder of the first public hospital in Rome; opened a nosocomeion, apparently the first of its kind there; founded a house for pilgrims at Portus; details come from Jerome's Letter 77 to Oceanus, written in 399.
+
+- Encyclopedia.com. John Woodall.  
+  <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/john-woodall>  
+  Type: book.
+  - `woodall-surgions-mate`: The book recommended lemons, limes, tamarinds and oranges for scurvy.
+
+- Encyclopedia.com. Mondino de' Luzzi.  
+  <https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/mondino-de-luzzi>  
+  Type: book.
+  - `mondino-dissection`: Bologna a centre for anatomical study based on human dissection; in January 1315 he dissected the body of a woman; completed the Anathomia by the end of the following year; organs discussed in the order they appeared to the dissector.
+
+- Encyclopedia.com. Paracelsus.  
+  <https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/paracelsus>  
+  Type: book.
+  - `paracelsus-chemical-medicine`: Burned the works of Galen and Avicenna in 1527; experiments that developed into iatrochemistry; advocated mercury for syphilis.
+
+- Encyclopedia.com. Paré, Ambroise.  
+  <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ambroise-pare>  
+  Type: book.
+  - `pare-gunshot-wounds`: Gunshot wounds considered poisonous and cauterised with boiling oil; at Turin (1536 by his account, published almost fifty years later) he ran out and used egg yolk, oil of roses and turpentine; further experiments; concluded the wounds were not poisonous; first treatise in 1545.
 
 - Endo A and the discovery of statins: 50 years on. PubMed Central, PMC9491398.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9491398>  
@@ -1313,6 +1488,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `pertussis-vaccine`: 1934–35 field trial of more than 1,500 children; trials in 1936 and follow-up in 1938.
 
+- Fantastic Florence. Medicine in Renaissance Florence: Santa Maria Nuova Hospital.  
+  <https://fantasticflorence.com/?p=6612>  
+  Type: institution.
+  - `santa-maria-nuova`: Founded in 1288 by Folco Portinari; active for over 700 years without interruption.
+
 - Farm to table: the story of the development of the first sperm bank and frozen sperm pregnancies. Journal of Urology 215(5S):e284 (2026).  
   <https://iro.uiowa.edu/esploro/outputs/abstract/HF02-10FARM-TO-TABLE-THE-STORY-OF/9985157516502771>  
   Type: journal.
@@ -1327,6 +1507,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.cardiolatina.com/wp-content/uploads/2026/05/FECHAS-Ecocardiograf%C3%ADa.pdf>  
   Type: journal.
   - `edler-hertz-echocardiography`: Hertz devised an attachment to record the oscilloscope output; first M-mode recording on 29 October 1953; both later recalled being unaware of earlier ultrasound imaging experiments.
+
+- Feel Florence (Comune di Firenze). Museum of Santa Maria Nuova.  
+  <https://www.feelflorence.it/en/node/12306>  
+  Type: institution.
+  - `santa-maria-nuova`: On 23 June 1288 Folco Portinari donated the land on which the hospital was built.
 
 - Fidel Pagés: centenary of the discovery of epidural anesthesia. Revista da Sociedade Portuguesa de Anestesiologia.  
   <https://revistas.rcaap.pt/anestesiologia/article/download/23688/17858/93388>  
@@ -1439,6 +1624,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `oribasius-collections`: Physician to the emperor Julian; a compiler of existing knowledge rather than an original writer; compiled the Synagoge.
 
+- Garrison–Morton (HistoryofMedicine.com). Author entry: Roger of Salerno (1140–1195).  
+  <https://www.historyofmedicine.com/author/d/rogerius-salernitanus-frugard-frugardi-roggerio-frugardo-rdiger-frutgard-roger-of-parma-roger-of-salerno->  
+  Type: book.
+  - `roger-of-salerno-chirurgia`: Practica chirurgiae appeared about 1180, describing end-to-end suture, mercurial inunction in chronic skin diseases and seaweed for goitre.
+
+- Garrison–Morton (HistoryofMedicine.com). Author entry: Woodall, John.  
+  <https://historyofmedicine.com/author/d/john-woodall>  
+  Type: book.
+  - `woodall-surgions-mate`: London, 1617; the first textbook for naval surgeons; an early advocate of limes and lemons against scurvy; the 1639 edition required reading for East India Company surgeons.
+
+- Garrison–Morton (HistoryofMedicine.com). Benivieni A. De abditis nonnullis ac mirandis morborum et sanationum causis. Florence, 1507. Entry 2836.  
+  <https://historyofmedicine.com/id/2836>  
+  Type: book.
+  - `benivieni-pathology`: Records twenty post-mortem examinations, with gallstones, urinary calculi, scirrhous cancer of the stomach, a fibrous cardiac tumour and peritonitis from intestinal perforation; the first physician known to have asked relatives' permission for necropsies; edited by his brother Girolamo with Giovanni Rosati.
+
 - Garrison–Morton (HistoryofMedicine.com). Oribasius, Collectionum medicarum reliquae, ed. J. Raeder, 1926–1933. Entry 8756.  
   <https://beta.historyofmedicine.com/id/8756>  
   Type: book.
@@ -1463,6 +1663,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.historyofmedicine.com/author/d/william-harvey>  
   Type: book.
   - `harvey-circulation`: Discovery and experimental proof of the circulation of the blood; notes for the 1616 Lumleian lecture show he had completed his demonstration by then.
+
+- Garrison–Morton archive. Author entry: Orta, Garcia de.  
+  <https://archive.historyofmedicine.com/author/d/garcia-de-garcia-dorta-orta>  
+  Type: book.
+  - `garcia-de-orta-coloquios`: Goa, 1563, printed by João de Endem; the first account of Indian materia medica and the first textbook on tropical medicine by a European; a classic account of Asiatic cholera, the first by a European; among the first books printed in India; sailed in 1534 as chief physician of Martim Afonso de Sousa's armada; died in Goa in 1568.
+
+- Garrison–Morton archive. Entry 2836.  
+  <https://archive.historyofmedicine.com/id/2836>  
+  Type: book.
+  - `benivieni-pathology`: The first book on pathological anatomy, presenting the first reports of autopsies made specifically to determine the cause of death.
 
 - Garrison–Morton. Brodie BB, Axelrod J (1948), acetanilide and its metabolic products.  
   <https://historyofmedicine.com/id/9974>  
@@ -1529,6 +1739,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `human-genome-project`: The 2003 sequence accounted for an estimated 92% of the human genome.
   - `t2t-complete-human-genome`: Human Genome Project sequence of 2003 accounted for about 92% of the genome; T2T papers published on 1 April 2022.
+
+- Green M. Speaking of Trotula: a woman in medieval medicine. Brewminate.  
+  <https://brewminate.com/speaking-of-trotula-a-woman-in-medieval-medicine/>  
+  Type: institution.
+  - `trotula-womens-medicine`: Trotula is a compendium of three twelfth-century texts, not a woman's name; the Book on the Conditions of Women largely derives from a work recently translated from Arabic; the cosmetics text probably by a male author.
+
+- Green M. Trota of Salerno. Brewminate.  
+  <https://brewminate.com/?p=129135>  
+  Type: institution.
+  - `trotula-womens-medicine`: Trota died in the mid-twelfth century or earlier; before the 15th century only Hildegard of Bingen and Trota are known to have been credited with medical writing; she had direct access to her women patients' bodies.
+
+- Green MH (ed. and trans.). The Trotula: A Medieval Compendium of Women's Medicine. University of Pennsylvania Press, 2001.  
+  <https://www.pennpress.org/9780812235890/the-trotula/>  
+  Type: book.
+  - `trotula-womens-medicine`: The traditional attribution to a female professor at Salerno; the Trotula is not a single treatise but an ensemble of three works from twelfth-century southern Italy.
+
+- Green R, Ahmed M. St. Bartholomew's Hospital, London. Hektoen International, 2017.  
+  <https://hekint.org/2017/02/23/st-bartholomews-hospital-london/>  
+  Type: journal.
+  - `st-bartholomews-hospital`: Founded in 1123 by the legendary Rahere, a former court jester and favourite of Henry I; now an internationally renowned teaching hospital.
 
 - Greenberg JA. Beyond antenatal corticosteroids: what did Mont Liggins teach us? (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3046760/>  
@@ -1677,6 +1907,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `alzheimer-disease-described`: Fifty-one-year-old Auguste Deter, admitted in November 1901, was jealous, confused, forgetful and frequently lost; her brain was sent to Munich; report to the Tübingen conference; Bielschowsky silver stain; atrophic brain.
 
+- Hektoen International. Antonio Benivieni.  
+  <https://hekint.org/?p=31717>  
+  Type: journal.
+  - `santa-maria-nuova`: Benivieni was a staff physician at Santa Maria Nuova.
+  - `benivieni-pathology`: Dissected corpses and recorded his findings about seventy years before Vesalius; practice in Florence from around 1470 as physician, surgeon and obstetrician; staff physician at Santa Maria Nuova.
+
 - Hektoen International. Article on the history of leukaemia (weisses Blut).  
   <https://hekint.org/?p=49208>  
   Type: journal.
@@ -1757,6 +1993,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `boston-inoculation-1721`: Onesimus informed Mather; Boylston inoculated 282 residents; 6 deaths (2.1%) among inoculated vs 884 of 5,759 (15.3%) among non-inoculated cases.
 
+- HiMeTop (Università Campus Bio-Medico). Ospedale di Santa Maria Nuova.  
+  <https://himetop.unicampus.it/ospedale-di-santa-maria-nuova/>  
+  Type: university.
+  - `santa-maria-nuova`: Florence's oldest hospital still active, founded in 1288 by Folco Portinari, encouraged by Monna Tessa, a nurse in the Portinari household.
+
 - Hingorani V, et al. Evaluation of vacuum extractor and forceps deliveries. J Obstet Gynaecol India (1963).  
   <https://jogi.co.in/storage/articles/files/filebase/Archives\1963\sep\1963_323_330_Sep.pdf>  
   Type: journal.
@@ -1771,6 +2012,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.hirudotherapysociety.org/en/biography/paul-of-aegina>  
   Type: institution.
   - `paul-of-aegina-surgery`: Compiled at Alexandria in the mid-seventh century, when the city passed from Byzantine to Arab rule; Book VI on surgery influential in Islamic and Western medicine.
+
+- Historic England. Which medieval leper hospital is still a working almshouse today?  
+  <https://historicengland.org.uk/listing/what-is-designation/heritage-highlights/which-medieval-leper-hospital-is-still-a-working-almshouse-today>  
+  Type: institution.
+  - `canterbury-hospitals`: Believed to be England's first leper hospital; founded about 1084 by Lanfranc and a lazar house until around 1400.
+
+- Historical Marker Database. Hospice des Quinze-Vingts (Histoire de Paris marker).  
+  <https://hmdb.org/m.asp?m=248971>  
+  Type: institution.
+  - `quinze-vingts`: Saint Louis had a hospice built here in 1260 for 15 times 20, or 300, blind people; later transferred to the faubourg Saint-Antoine.
 
 - History News Network. The surprising story of the first blood transfusion.  
   <https://www.historynewsnetwork.org/article/the-surprising-story-of-the-first-blood-transfusio>  
@@ -1842,6 +2093,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `ebers-papyrus`: 110 pages in hieratic; a chapter on mental disorders; Edwin Smith bought it in 1862; said to have been found in the Assasif district of the Theban necropolis; purchased by Georg Ebers and kept in Leipzig.
 
+- HistoryofInformation.com. Who discovered the pulmonary circulation? Servetus, Valverde or Colombo?  
+  <https://www.historyofinformation.com/detail.php?id=1867>  
+  Type: institution.
+  - `servetus-colombo-pulmonary`: Servetus's Christianismi Restitutio (1553); Colombo's De re anatomica (Venice, 1559) known for the pulmonary circulation from right ventricle to left via the lungs; first published by Valverde in Rome in 1556.
+
 - HistoryOfWar.org. Siege of Methone, late 355 – early 354 BC.  
   <https://www.historyofwar.org/articles/siege_methone.html>  
   Type: institution.
@@ -1876,6 +2132,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://umaryland.cloud-cme.com/assets/umaryland/activities/15768/HoM%20Syllabus%20(Hopkins%20-%20Feeding%20experiments).pdf>  
   Type: primary.
   - `hopkins-accessory-food-factors`: Results first obtained in 1906–07; reference to work by Stepp and by Osborne and Mendel; milk additions to synthetic diets; results communicated in October 1911.
+
+- Horgan J. St. Anthony's Fire: ergotism and its treatment in the medieval world. Brewminate.  
+  <https://brewminate.com/st-anthonys-fire-ergotism-and-its-treatment-in-the-medieval-world/>  
+  Type: institution.
+  - `antonine-order`: Ergotism caused by eating rye contaminated with ergot; gangrene, convulsions and hallucinations; hospitals founded across Europe; main treatment a diet of grain free of ergot; the disease declined as wheat replaced rye.
+
+- Horgan J. St. Anthony's Fire. Brewminate.  
+  <https://brewminate.com/?p=131160>  
+  Type: institution.
+  - `antonine-order`: Ergotism caused by fungus-contaminated rye; gangrene, convulsions, sores and hallucinations.
+
+- Horgan J. St. Anthony's Fire. World History Encyclopedia.  
+  <https://www.worldhistory.org/St_Anthony's_Fire/>  
+  Type: institution.
+  - `antonine-order`: A common medieval illness that came in waves; the Order of Hospitallers of St Anthony established around 1100 to care for people with ergotism.
 
 - Houghton Library, Harvard University. Onesimus and the discovery of inoculation (exhibition text).  
   <https://library.harvard.edu/exhibits/houghton-library-lobby-gallery-0>  
@@ -1922,6 +2193,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `donald-obstetric-ultrasound`: 100 patients; illustrations of ovarian cysts and fibroids and of the fetal skull.
 
+- Ibn al-Baitar: a 13th-century botanical scientist and his suggestions on urinary tract problems. European Review for Medical and Pharmacological Sciences (supplement), 2020.  
+  <https://www.mednet.gr/archives/2020-sup2/pdf/148.pdf>  
+  Type: journal.
+  - `ibn-al-baytar-simples`: Born in Málaga; recognised as the greatest botanist and pharmacist of his time; al-Jamiʿ the largest plant and drug book of the Middle Ages; published in Arabic in 1875 and translated into Latin, German and French.
+
 - icddr,b. Oral rehydration therapy.  
   <https://www.icddrb.org/oral-rehydration-therapy>  
   Type: institution.
@@ -1941,6 +2217,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://spectrum.ieee.org/forget-electrodes-the-first-ekg-machine-used-buckets-of-saline-solution-and-telephone-wire>  
   Type: institution.
   - `waller-einthoven-ecg`: Einthoven, professor of physiology at Leiden, and his string galvanometer gave the medical world an important diagnostic tool for heart disease; Einthoven's group corrected Waller's measurements mathematically.
+
+- Ilardi V. Eyeglasses and concave lenses in fifteenth-century Florence and Milan: new documents. Renaissance Quarterly, 1976.  
+  <https://www.cambridge.org/core/journals/renaissance-quarterly/article/eyeglasses-and-concave-lenses-in-fifteenthcentury-florence-and-milan-new-documents/4232170036589FEED6441FEAE5EC17E6>  
+  Type: journal.
+  - `spectacles-invention`: Documents show concave lenses for myopes made in Florence from at least the mid-fifteenth century; Florence the leading centre of high-quality eyeglasses.
+
+- Ilardi V. Renaissance Vision from Spectacles to Telescopes (publisher's description, PaperBackSwap).  
+  <https://paperbackswap.com/Renaissance-Vision-Spectacles-Vincent-Ilardi/book/0871692597>  
+  Type: book.
+  - `spectacles-invention`: Eyeglasses eased the textual studies of scholars and the work of craftsmen; Florence rather than Venice dominated the 15th-century market.
+
+- Ilardi V. Renaissance Vision from Spectacles to Telescopes. American Philosophical Society, 2007.  
+  <https://www.degruyterbrill.com/document/doi/10.70249/9780871693914/html>  
+  Type: book.
+  - `spectacles-invention`: History of eyeglasses from their invention in Italy c. 1286; in the 15th century the ability to grind convex lenses for levels of presbyopia and concave lenses for myopia.
 
 - Illness, remedies and medical care in Han China. Ancient History Sites.  
   <https://www.ancient-history-sites.com/?p=173994>  
@@ -1981,6 +2272,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://retinalphysician.com/issues/2015/march/innovation-in-retina/>  
   Type: journal.
   - `argus-ii-retinal-prosthesis`: Humayun and Greenberg's work at Johns Hopkins; Second Sight; CE mark 2011 and FDA approval February 2013.
+
+- Institut de la Vision. Quinze-Vingts National Ophthalmology Hospital.  
+  <https://www.institut-vision.org/en/22-partnerships/institutions/59-lalala.html>  
+  Type: institution.
+  - `quinze-vingts`: Founded in 1260 on the rue Saint-Honoré for 300 poor blind people of Paris; a chaplain headed the community.
 
 - Institut für Geschichte der Medizin der Robert Bosch Stiftung (Stuttgart). Samuel Hahnemann and the beginnings of homoeopathy.  
   <https://www.igm-bosch.de/samuel-hahnemann-and-the-beginnings-of-homoeopathy.html>  
@@ -2097,6 +2393,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lind-scurvy-trial`: The Treatise's therapeutic recommendations had little impact.
 
+- James Lind Library. Paré A (1545, 1552, 1564, 1575): accounts of the treatment of gunshot wounds.  
+  <https://www.jameslindlibrary.org/?p=1259>  
+  Type: institution.
+  - `pare-gunshot-wounds`: The 1537 expedition to relieve Turin; Paré published accounts in 1545, 1552, 1564, 1575 and later; avoiding cauterisation was less painful and less damaging.
+
 - James Lind Library. Paul Ehrlich and studies of the effects of dyes on infectious organisms (the introduction of arsphenamine).  
   <https://www.jameslindlibrary.org/articles/the-introduction-of-chemotherapy-using-arsphenamine-the-first-magic-bullet/>  
   Type: institution.
@@ -2116,6 +2417,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://nobelprize.org/prizes/medicine/1949/moniz/article>  
   Type: institution.
   - `prefrontal-leucotomy`: In 1936 Moniz introduced prefrontal leukotomy, incisions destroying connections of the prefrontal region; it became popular in many countries; Nobel Prize 1949; Jacobsen and Fulton's chimpanzee data at the 1935 London conference.
+
+- Jawad AS. The Royal College of Physicians of London 500th anniversary. Saudi Medical Journal 39(2):121, 2018.  
+  <https://smj.org.sa/content/39/2/121.full.pdf>  
+  Type: journal.
+  - `college-of-physicians-london`: To prevent unqualified practitioners, so that 'ignorant and rash practisers' could be restrained; Parliament ratified the charter in 1523 and extended its remit to all England; the name 'Royal' adopted gradually in the 17th century.
 
 - Jeffreys AJ. Genetic fingerprinting. Nature Medicine 11(10) (2005), Lasker Award commentary.  
   <https://laskerfoundation.org/wp-content/uploads/2021/01/2005_jeffreys.pdf>  
@@ -2147,6 +2453,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/>  
   Type: journal.
   - `snow-broad-street`: Already declining epidemic, partly because people left the area.
+
+- Jolliffe P. Thomas Linacre: humanist, scholar, physician and priest. Catholic Medical Quarterly 67(3), 2017.  
+  <https://cmq.org.uk/CMQ/2017/Aug/thomas_linacre.html>  
+  Type: journal.
+  - `college-of-physicians-london`: Linacre (1460–1524), physician to Henry VIII, petitioned with Cardinal Wolsey and five other physicians for a college to license qualified doctors in London.
 
 - Joseph Lister and the performance of antiseptic surgery (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3744349/>  
@@ -2188,6 +2499,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `landsteiner-blood-groups`: The clumping reaction reported by Landois for animal blood transfused to humans could occur between human individuals; Landsteiner's 1901 paper.
 
+- Kent Archaeological Society. Medieval hospitals in Kent (Archaeologia Cantiana 29).  
+  <https://kentarchaeology.org.uk/journal/29/medieval-hospitals-kent>  
+  Type: journal.
+  - `canterbury-hospitals`: St John the Baptist founded in 1084 by Lanfranc for poor, infirm, blind or aged men and women; continues as almshouses.
+
+- Kent Historic Environment Record. Monument record TR 15 NE 4: St John's Hospital, Northgate, Canterbury.  
+  <https://heritage.kent.gov.uk/Monument/mke4494>  
+  Type: institution.
+  - `canterbury-hospitals`: Founded by Lanfranc in 1084 or early 1085 for the poor, aged and sick; buildings from the 11th to 15th centuries survive.
+
+- Kent Historic Environment Record. St Nicholas' Hospital, Church Hill, Harbledown.  
+  <https://heritage.kent.gov.uk/Monument/MKE114367>  
+  Type: institution.
+  - `canterbury-hospitals`: Founded by Lanfranc in 1084 for 60 lepers; converted to almshouses in the 14th century.
+
+- Kent Historic Environment Record. The Old Leper Church of St Nicholas, Harbledown.  
+  <https://heritage.kent.gov.uk/Monument/MKE24222>  
+  Type: institution.
+  - `canterbury-hospitals`: Founded c. 1084 for lepers; c. 1400 the places filled by the poor, aged and sick; Harbledown the last step of pilgrims on their way to Canterbury.
+
 - Kentake Page. Patricia E. Bath.  
   <https://www.kentakepage.com/?p=18326>  
   Type: institution.
@@ -2222,6 +2553,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.catholic.com/encyclopedia/fabiola-saint>  
   Type: book.
   - `fabiola-rome-hospital`: She erected a hospital at Rome and waited on the inmates herself, not shunning those with repulsive wounds and sores; Jerome's eulogy in a letter to Oceanus.
+
+- Knight C. A history of Bart's, Britain's oldest hospital. Gresham College lecture, 4 May 2023.  
+  <https://www.gresham.ac.uk/node/15401>  
+  Type: university.
+  - `st-bartholomews-hospital`: 900 years of continuous patient care on the same site; the Book of the Foundation; the vision of St Bartholomew directing him to Smithfield.
 
 - Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature 402(6762):656–660 (1999).  
   DOI: [10.1038/45230](https://doi.org/10.1038/45230), <https://ideas.repec.org/a/nat/nature/v402y1999i6762d10.1038_45230.html>  
@@ -2348,6 +2684,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: archive.
   - `annedda-scurvy`: Taignoagny and Domagaya kidnapped at Gaspé in 1534; twenty-five Frenchmen died of scurvy before the cure was learned.
 
+- Library of Congress. Ben cao gang mu (Compendium of Materia Medica).  
+  <https://www.loc.gov/item/2021666452>  
+  Type: archive.
+  - `li-shizhen-bencao`: 52 juan of text and two of illustrations; 1,892 entries, 374 added by Li Shizhen (1518–93); about 11,000 prescriptions; first draft completed in 1578; printed after his death in 1593 by Hu Chenglong in Jinling; inscribed on the Memory of the World Register in 2011.
+
 - Library of Congress. The Canon of Medicine (manuscript).  
   <https://www.loc.gov/item/2021667335>  
   Type: archive.
@@ -2443,6 +2784,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `liposuction`: Illouz's wet technique of 1977 reduced haemorrhagic risk; Fournier's syringe technique of 1983; Klein's tumescent technique by 1987.
 
+- Lippi D, Padeletti L. The spedale of Santa Maria Nuova in Florence. Hektoen International, 2017.  
+  <https://hekint.org/2017/02/22/donatella-lippi-luigi-padeletti/>  
+  Type: journal.
+  - `santa-maria-nuova`: Founded in June 1288 by Folco di Ricovero dei Portinari, father of Dante's Beatrice, who bought houses to receive poor people; the Oblates founded by Monna Tessa; Henry VII and Ferdinand of Austria (1546) requested its regulations; today the emergency hospital for the old city.
+
 - Litynski GS. Laparoscopy – the early attempts: spotlighting Georg Kelling and Hans Christian Jacobaeus. JSLS (1997).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3015224>  
   Type: journal.
@@ -2453,6 +2799,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `andean-trepanation`: About half of patients in 400–200 BCE died; 17–25% of Inca-period patients died; no written records.
 
+- Live Science. Who invented the microscope?  
+  <https://www.livescience.com/39649-who-invented-the-microscope.html>  
+  Type: institution.
+  - `compound-microscope`: It is unclear who invented the microscope; Lippershey and the Janssens of Middelburg have both been credited; Boreel's letters say Zacharias wrote to him about a microscope in the early 1590s.
+
 - Liver buds made from stem cells restore function in mice. Nature News (2013).  
   <https://dx.doi.org/10.1038%2Fnature.2013.13324>  
   Type: journal.
@@ -2462,6 +2813,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.livius.org/articles/person/wedjahor-resne/>  
   Type: institution.
   - `sais-house-of-life`: Naophoros statue about 70 cm high, brought to Italy by Hadrian, now in the Vatican Museums; Darius allowed him to return and ordered him to supervise the destroyed 'houses of life'; statue probably made soon after his return.
+
+- London Museum. The 900-year history of St Bartholomew's Hospital.  
+  <https://www.londonmuseum.org.uk/collections/london-stories/900-year-history-st-bartholomews-hospital/>  
+  Type: museum.
+  - `st-bartholomews-hospital`: Rahere fell very sick on a pilgrimage to Rome; Henry I granted land at Smithfield, outside the city walls, for a priory and a hospital to shelter sick and poor Londoners.
 
 - London School of Hygiene & Tropical Medicine. About John Snow (John Snow bicentenary).  
   <https://johnsnowbicentenary.lshtm.ac.uk/about-john-snow/>  
@@ -2477,6 +2833,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.lshtm.ac.uk/newsevents/news/2019/john-snow-memorial-pump-marking-historic-cholera-outbreak-reinstalled-its>  
   Type: university.
   - `snow-broad-street`: Outbreak claimed over 600 lives in Soho.
+
+- Londonist. Who was St Bart, and why does he have a hospital in London? (2016).  
+  <https://londonist.com/2016/06/who-was-st-bart-and-why-does-he-have-a-hospital-in-london>  
+  Type: institution.
+  - `st-bartholomews-hospital`: Rahere is sometimes portrayed as a jester or minstrel, but little is known about his early life.
 
 - Loudon I. Ignaz Phillip Semmelweis' studies of death in childbirth. Journal of the Royal Society of Medicine (James Lind Library).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/>  
@@ -2538,6 +2899,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `pozzino-medicinal-tablets`: Wreck in the Gulf of Baratti near Piombino at about 18 m, near Etruscan Populonia; mortar, bronze cupping vessel, iron probe, tin pyxides and 136 wooden vials.
 
+- Markham C (trans.). Colloquies on the Simples and Drugs of India by Garcia da Orta. London, 1913 (Düsseldorf University Library).  
+  <https://lessing.ub.uni-duesseldorf.de/download/pdf/4722055.pdf>  
+  Type: primary.
+  - `garcia-de-orta-coloquios`: English translation; the work includes the first descriptions of the treatment of diseases such as cholera.
+
 - Mass General Brigham news. How a landmark operation opened the door for organ transplantation.  
   <https://news.massgeneralbrigham.org/en/operation-at-brigham-and-womens-hospital-70-years-ago-opened-the-door-for-organ-transplantation>  
   Type: institution.
@@ -2568,10 +2934,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: archive.
   - `variolation-traditions`: Variolation used in Africa, the Ottoman Empire, China and India before its adoption in the West; Montagu's daughter inoculated in England.
 
+- Math and Science History. The history of microscopes.  
+  <https://mathsciencehistory.com/?p=441>  
+  Type: institution.
+  - `compound-microscope`: Galileo's occhiolino; Drebbel's microscope with two convex lenses presented in Rome; Galileo sent a new occhiolino to Cesi on 23 September 1624; Faber's letter of 13 April 1625.
+
 - Matsuki A. [New studies on the history of anesthesiology: a new study on Seishu Hanaoka's 'Nyugan Chiken Roku']. Masui 2000;49(9):1038–1043. Abstract reproduced by general-anaesthesia.com. (pp. 1038–1043)  
   <https://www.general-anaesthesia.com/seishu-hanaoka.html>  
   Type: journal.
   - `hanaoka-general-anaesthesia`: Date 13 October 1804; patient Kan Aiya, aged 60; uncertainty over who transcribed the case manuscript.
+
+- Mattoni S, et al. The Santo Spirito in Saxia Hospital, in Rome. Italian Journal of Public Health.  
+  <https://riviste.unimi.it/index.php/ijphjournal/article/download/22946/20495/68549>  
+  Type: journal.
+  - `santo-spirito-hospital`: The Schola Saxonum, founded in 727, rebuilt as a hospital after 1198; the legend of the drowned infants and the fifteenth-century frescoes.
 
 - May 9, 1960: FDA approves first birth control pill. ABA Journal.  
   <https://www.abajournal.com/magazine/article/960-fda-birth-control-pill>  
@@ -2608,6 +2984,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `streptomycin-trial`: Original trial report (record and full text at the James Lind Library).
 
+- Medicina nei Secoli 25(2):565–580, 2013. L'ospedale di Santo Spirito in Saxia di Roma nel Duecento.  
+  <https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/232/216/434>  
+  Type: journal.
+  - `santo-spirito-hospital`: Innocent III's role from the first months of his pontificate (1198); the Order of the Holy Spirit with its main hospital at Montpellier; endowment in 1201 and confirmation of the order's rule in 1204.
+
 - Medicine in early China (chapter). Cambridge University Press (Cambridge Core).  
   <https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader>  
   Type: book.
@@ -2632,6 +3013,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.contractpharma.com/contents/view_online-exclusives/2017-04-19/inventing-the-mdi-a-history-in-modern-inhalation-therapy/>  
   Type: journal.
   - `metered-dose-inhaler`: Thiel on the Riker team in 1956; squeeze-bulb glass nebuliser; CFC propellants used in early formulations.
+
+- Metzler S. Rome's Ospedale Santo Spirito: from ruin to revival. Hektoen International, 2026.  
+  <https://hekint.org/2026/02/13/romes-ospedale-santo-spirito-from-ruin-to-revival/>  
+  Type: journal.
+  - `santo-spirito-hospital`: A pilgrims' hostel from 797; in 1198 Innocent III established a hospital for foundlings and the infirm; the foundling wheel to preserve anonymity; the fresco of the dream of Innocent III; Sixtus IV.
 
 - Miasma. Mètode Science Studies Journal.  
   <https://metode.org/issues/seccions-revistes/sociofolcologia-seccions-seccions/miasma.html>  
@@ -2698,6 +3084,31 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `laennec-stethoscope`: Chef de service at the Necker Hospital in 1816 where he described the stethoscope; published 1819; over 300 foreign students.
 
+- Müller I (ed.). The Surgions Mate: the first compendium on naval medicine, surgery and drug therapy (London 1617). Springer, 2016.  
+  <https://www.springer.com/book/9783319255729>  
+  Type: book.
+  - `woodall-surgions-mate`: Paracelsian drugs, the treatment of gunshot wounds and the strong recommendation of lemon juice against scurvy.
+
+- Museo Galileo. Galileo's microscope: the compound microscope.  
+  <https://brunelleschi.imss.fi.it/esplora/microscopio/dswmedia/storia/estoria1_st.html>  
+  Type: museum.
+  - `compound-microscope`: In 1625 Faber gave the instrument, until then called occhialino and other names, the name microscope.
+
+- Museo Galileo. History of the microscope (Galileo's microscope: chronology).  
+  <https://brunelleschi.imss.fi.it/esplora/microscopio/dswmedia/storia/pdf/estoria04.pdf>  
+  Type: museum.
+  - `compound-microscope`: Drebbel's microscopes in England between 1619 and 1623; Johann Faber's letter of 13 April 1625 to Federico Cesi naming the 'microscope'; the Apiarium of 1625.
+
+- Museo Galileo. Origin and development of the microscope.  
+  <https://catalogue.museogalileo.it/multimedia/OriginDevelopmentMicroscopeBis.html>  
+  Type: museum.
+  - `compound-microscope`: The origins of the microscope are linked to those of the telescope; Faber coined the word in 1625.
+
+- Museo Galileo. Realdo Colombo (biography).  
+  <https://brunelleschi.imss.fi.it/itineraries/biography/RealdoColombo.html>  
+  Type: museum.
+  - `servetus-colombo-pulmonary`: Probably elaborated his theory of pulmonary circulation while teaching at Pisa (1546–1548); described in the same years by Servetus (1553); illustrated more fully in De re anatomica (1559); taught at the Sapienza in Rome from 1548 until his death.
+
 - Museum of Cycladic Art. The fresco of women from the 'adyton' of Xeste 3, Akrotiri, Thera.  
   <https://cycladic.gr/en/?p=66243>  
   Type: museum.
@@ -2712,6 +3123,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://muslimheritage.com/?p=4787>  
   Type: institution.
   - `albucasis-tasrif`: Born at Madinat al-Zahra near Córdoba in 936, died 1013; al-Tasrif completed about 1000 after almost fifty years of practice; an illustrated encyclopedia of medicine and surgery.
+
+- Muslim Heritage. Ibn al-Bayṭār's al-Mughnī.  
+  <https://muslimheritage.com/ibn-al-baytar-al-mughni/>  
+  Type: institution.
+  - `ibn-al-baytar-simples`: Died in Damascus in 1248; travels from Spain through North Africa and Egypt to Turkey and Damascus; al-Jamiʿ ordered alphabetically, al-Mughni by medical benefit.
 
 - Muslim Heritage. Ibn Sina's The Canon of Medicine.  
   <https://muslimheritage.com/ibn-sinas-the-canon-of-medicine/>  
@@ -2850,6 +3266,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://theconversation.com/natures-first-aid-kit-a-fungus-growing-on-the-side-of-birch-trees-117290>  
   Type: journal.
   - `otzi-birch-fungus`: Hikers found Ötzi in an alpine glacier on the Austrian–Italian border in 1991; pieces of fungus on leather cords; the scientists who identified it speculated about medical use.
+
+- NC State University. Paracelsus, alchemist and physician (The Rise of Modern Science).  
+  <https://sites.google.com/ncsu.edu/rise-of-modern-science/home/outline-1/paracelsus-alchemist-physician>  
+  Type: university.
+  - `paracelsus-chemical-medicine`: Lectured in the vernacular; burned Galen and Avicenna; proposed heavy metals such as mercury for syphilis; exiled from Basel by 1528.
 
 - Nelson ML, et al. Brief communication: mass spectroscopic characterization of tetracycline in the skeletal remains of an ancient population from Sudanese Nubia 350–550 CE. American Journal of Physical Anthropology 2010 (abstract as quoted by Phys.org and others).  
   <https://phys.org/news/2010-08-ancient-brew-masters-drug-secrets.pdf>  
@@ -3087,6 +3508,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `alza-controlled-drug-delivery`: Judah Folkman and Zaffaroni as pioneers of controlled drug delivery; ALZA founded in 1968 as the first company dedicated to the field.
 
+- Park K, Henderson J. 'The first hospital among Christians': the ospedale di Santa Maria Nuova in early sixteenth-century Florence. Medical History 35(2):164–188, 1991 (statutes, via CapDox).  
+  <https://www.capdox.capuchin.org.au/?p=3853>  
+  Type: journal.
+  - `santa-maria-nuova`: Francesco Portinari's letter to Henry VII of about 1500 incorporating the statutes; Folco Portinari founded the hospital.
+
+- Parks and Gardens UK. St Bartholomew's Hospital.  
+  <https://www.parksandgardens.org/places/st-bartholomews-hospital-including-st-bartholomew-the-less-church>  
+  Type: institution.
+  - `st-bartholomews-hospital`: Hospital and priory became separate institutions by 1420.
+
 - Parks Canada. Cartier-Brébeuf National Historic Site: Wintering (1535–1536).  
   <https://parks.canada.ca/lhn-nhs/qc/cartierbrebeuf/culture/histoire-history/evenement-event/cartier/c>  
   Type: institution.
@@ -3122,10 +3553,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hooke-micrographia`: Hooke was first to show the cell; devised one of the earliest microscopes; the cell underlies understanding of the unit of life.
 
+- Pearce JMS. Scurvy before James Lind / James Cook and scurvy. Hektoen International.  
+  <https://hekint.org/?p=29764>  
+  Type: journal.
+  - `woodall-surgions-mate`: Blane persuaded the Admiralty in 1795 to issue lemon juice; the link between citrus and scurvy was recognised earlier by Vasco da Gama (1497), Richard Hawkins (1593) and Woodall.
+
+- Pearce JMS. The wayward Paracelsus. Hektoen International.  
+  <https://hekint.org/?p=34785>  
+  Type: journal.
+  - `paracelsus-chemical-medicine`: Appointed town physician of Basel with a professorship in June 1527; three weeks later burned the writings of Galen and Avicenna, saying reading never makes a physician; conjoined alchemy and secret remedies with chemical medicines.
+
 - Penicillin production (letter). Chemical & Engineering News.  
   <https://cen.acs.org/articles/86/i36/Penicillin-Production.html>  
   Type: journal.
   - `penicillin`: Oxford work from 1939; first in vivo demonstration; Pfizer mass production from 1944; Fleming, Florey and Chain shared the 1945 Nobel Prize.
+
+- Penn Today. The Trotula (book announcement).  
+  <https://penntoday.upenn.edu/node/149164>  
+  Type: university.
+  - `trotula-womens-medicine`: Three independent works, each by a different author; Conditions of Women and Women's Cosmetics probably of male authorship.
 
 - Pestka S, Krause CD, Walter MR. Interferons, interferon-like cytokines, and their receptors. Immunological Reviews (2004).  
   <https://insight.jci.org/references/scholar/3878/B31>  
@@ -3192,10 +3638,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `who-founded`: Adopted by the International Health Conference, New York, 19–22 June 1946; signed on 22 July 1946 by 61 states; entered into force on 7 April 1948.
 
+- Presciutti DB. Dead infants, cruel mothers, and heroic popes: the visual rhetoric of foundling care at the hospital of Santo Spirito, Rome. Renaissance Quarterly, 2018.  
+  <https://core-prod.cambridgecore.org/core/journals/renaissance-quarterly/article/dead-infants-cruel-mothers-and-heroic-popes-the-visual-rhetoric-of-foundling-care-at-the-hospital-of-santo-spirito-rome/E57207DA11C3939C1B8149213AD7EC02>  
+  Type: journal.
+  - `santo-spirito-hospital`: The legend that Innocent founded Santo Spirito as a foundling hospital after victims of infanticide were found in the Tiber; fresco cycle of the late 1470s.
+
 - Professor John Pickup interview. DESANG.  
   <https://desang.net/?p=8617>  
   Type: institution.
   - `insulin-pump`: CSII was Harry Keen's idea; Pickup part of the first trial of a portable insulin pump; the pump is now in the Science Museum, London.
+
+- Project MUSE. The Trotula: A Medieval Compendium of Women's Medicine (contents).  
+  <https://muse.jhu.edu/book/24644>  
+  Type: book.
+  - `trotula-womens-medicine`: The most influential compendium on women's medicine in medieval Europe; its three parts: On the Conditions of Women, On Treatments for Women, On Women's Cosmetics.
 
 - Proto (Massachusetts General Hospital). On 12 November 1935, Moniz's first leucotomy.  
   <https://protomag-dev.partners.org/?p=13150>  
@@ -3242,6 +3698,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `mellanby-rickets`: History of rickets and the discovery of vitamin D, cod-liver oil and sunlight; animal experiments and the anti-rachitic properties of cod-liver oil.
 
+- Raking Light. Review of The Trotula (Green, 2001).  
+  <https://rakinglight.co.uk/book-reviews/the-trotula-a-medieval-compendium-of-womens-medicine/>  
+  Type: institution.
+  - `trotula-womens-medicine`: Green concludes that Treatments for Women appears to be largely by Trota.
+
 - Raphals L. Review of Donald Harper, Early Chinese Medical Literature: The Mawangdui Medical Manuscripts (London: Kegan Paul, 1998). Project MUSE.  
   <https://muse.jhu.edu/article/8677/summary>  
   Type: journal.
@@ -3251,6 +3712,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://rarebooksdigest.com/2014/06/26/the-first-illustrated-textbook-of-surgery/>  
   Type: institution.
   - `albucasis-tasrif`: Widely described as the first illustrated textbook of surgery; more than 200 illustrations of instruments; translated by Gerard of Cremona at Toledo and later printed in Venice.
+
+- Realdo Colombo in the fifth centenary of his birth. Italian Journal of Anatomy and Embryology 121(1) suppl.:91, 2016.  
+  <https://oajournals.fupress.net/index.php/ijae/article/download/2229/2227/2157>  
+  Type: journal.
+  - `servetus-colombo-pulmonary`: With Colombo the doctrine of passage through invisible pores of the septum was definitively rejected; Ibn al-Nafis and Servetus had already described the pulmonary circulation.
 
 - Recalling how fetal ultrasound transformed pregnancy care. AuntMinnieEurope (2013).  
   <https://www.auntminnieeurope.com/clinical-news/article/15646079/recalling-how-fetal-ultrasound-transformed-pregnancy-care>  
@@ -3342,6 +3808,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `favaloro-coronary-bypass`: Favaloro performed the first saphenous vein anastomosis on 9 May 1967 with 13 more cases by October, publishing in April 1968; paternity of the procedure debatable; earlier operations by Kolesov and Goetz.
 
+- Roddis LH. Garcia da Orta: European pioneer in tropical medicine (University of Pittsburgh, Health Sciences Library).  
+  <https://dec.hsls.pitt.edu/files/original/c27d3e92c23709377856d0072e7be3befc30111a.pdf>  
+  Type: university.
+  - `garcia-de-orta-coloquios`: The first European writer on tropical medicine; published The Simples and Drugs of India in Goa in 1563; the first scientific European description of many Asian plants and drugs.
+
+- Roger Frugardi and Roland of Parma: surgery in medieval Parma. Acta Biomedica (PubMed Central).  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC7927497>  
+  Type: journal.
+  - `roger-of-salerno-chirurgia`: Roger Frugardi (before 1140–about 1195), known as Rogerius Salernitanus; a handbook of surgery containing an early description of thyroidectomy, influential until the late Renaissance; Roland's Rolandina.
+
 - Roguin A. Rene Theophile Hyacinthe Laënnec (1781–1826): the man behind the stethoscope. Clinical Medicine & Research (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1570491/>  
   Type: journal.
@@ -3387,6 +3863,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `varro-minute-creatures`: Varro (116–27 BC), director of the library at Rome and author of a work on agriculture, warned against homesteads near swamps because of minute creatures invisible to the eye that float in the air and enter the body through the mouth and nose; Fracastoro's later seminaria.
 
+- Royal College of Physicians. History of the RCP: image gallery.  
+  <https://history.rcp.ac.uk/gallery>  
+  Type: institution.
+  - `college-of-physicians-london`: Linacre persuaded Henry VIII to found a college along the lines of the academies in Italy, to regulate medicine in the City of London and 7 miles around; Linacre the first president.
+
+- Royal College of Physicians. History timeline.  
+  <https://history.rcplondon.ac.uk/timeline>  
+  Type: institution.
+  - `college-of-physicians-london`: Act of parliament extending the college's regulation to all England; Linacre left his house on Knightrider Street to the college; Harvey's Lumleian lectures; Pharmacopoeia Londinensis, 1618.
+
 - Royal College of Physicians. Inspiring physicians: James Francis Pantridge.  
   <https://history.rcp.ac.uk/inspiring-physicians/james-francis-pantridge>  
   Type: institution.
@@ -3396,6 +3882,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://history.rcplondon.ac.uk/inspiring-physicians/sir-james-whyte-black>  
   Type: institution.
   - `propranolol-beta-blocker`: Used Ahlquist's work to seek a beta-receptor antagonist; joined ICI at Alderley Park; propranolol by 1963; revolutionised treatment of ischaemic heart disease; cimetidine.
+
+- Royal College of Physicians. The 1518 charter of incorporation (English translation).  
+  <https://www.rcp.ac.uk/media/13ub5ika/1518-charter-english-translation.pdf>  
+  Type: primary.
+  - `college-of-physicians-london`: Dated 23 September 1518; granted on the petition of John Chamber, Thomas Linacre, Fernandez de Victoria, Nicholas Halsewell, Giovanni Franceschi and Robert Yaxley; a perpetual college for physicians practising in London and within seven miles; modelled on cities in Italy.
+
+- Royal Museums Greenwich. The surgeons mate, by John Woodall (2022).  
+  <https://www.rmg.co.uk/stories/maritime-history/library-archive/surgeons-mate-john-woodall>  
+  Type: museum.
+  - `woodall-surgions-mate`: Born around 1570; worked in Europe; freeman of the Barber-Surgeons' Company; first Surgeon-General of the East India Company in 1613; surgeon at St Bartholomew's; first published 1617; listings of the surgeon's chest.
 
 - Royal Society Archives. Amyand C. Paper, 'Of an inguinal rupture with a pin in the appendix coeci incrusted with stone; with some observations of wounds in the gutts', 1735. CLP/12ii/70.  
   <https://makingscience.royalsociety.org/items/clp_12ii_70/paper-of-an-inguinal-rupture-with-a-pin-in-the-appendix-coeci-incrusted-with-stone-with-some-observations-of-wounds-in-the-gutts-by-claudius-claude-amyand>  
@@ -3482,6 +3978,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `babylonian-diagnostic-handbook`: Catalogue names King Adad-apla-iddina; editorial work in the middle of the 11th century BCE; Heeßel's edition of the Diagnostic Handbook.
 
+- Science 2.0. Hieronymus Fracastorius.  
+  <https://www.science20.com/scientist/hieronymus_fracastorius>  
+  Type: institution.
+  - `fracastoro-contagion`: Transmission by contact, by fomites such as garments, and at a distance as with smallpox and plague; he integrated the influence of the stars into his theory of epidemics.
+
 - Science History Institute. Joseph Priestley (historical profile).  
   <https://sciencehistory.org/historical-profile/joseph-priestley>  
   Type: institution.
@@ -3537,6 +4038,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `snow-broad-street`: Data gathered from records and households; outbreak already petering out when the handle was removed.
 
+- Scientific American. The physician who presaged the germ theory of disease nearly 500 years ago.  
+  <https://www.scientificamerican.com/article/the-physician-who-presaged-the-germ-theory-of-disease-nearly-500-years-ago/>  
+  Type: journal.
+  - `fracastoro-contagion`: Published De contagione in 1546; discussions of typhus, syphilis and leprosy; diseases caused by imperceptible seedlike entities (seminaria) that multiply and are unique to each disease; spread by direct contact, by fomites such as clothing, and over long distances through the air.
+
 - Scurvy. The Canadian Encyclopedia.  
   <https://thecanadianencyclopedia.ca/en/article/scurvy>  
   Type: institution.
@@ -3581,6 +4087,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1111/j.1399-5618.2009.00706.x](https://doi.org/10.1111/j.1399-5618.2009.00706.x), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3712976/>  
   Type: journal.
   - `cade-lithium`: Bundoora Repatriation Hospital, Melbourne; 10 patients treated with lithium citrate and carbonate; earlier 19th-century use forgotten; Schou's randomised placebo trial published 1954; US approval 1970 as the 50th country.
+
+- Shorvon S. The Royal College of Physicians at 500 years: changing roles and challenges. The Lancet, 2018 (UCL Discovery).  
+  <https://discovery.ucl.ac.uk/10059700/3/Shorvon_FILE%202%20CLEAN%20Sept11The%20art%20of%20medicine.pdf>  
+  Type: journal.
+  - `college-of-physicians-london`: Henry VIII issued the charter on 23 September 1518 at Linacre's behest; licensing powers placed for the first time in the hands of men educated in medicine; powers over the City of London and seven miles around.
 
 - Shot@Life. History of the rotavirus vaccine.  
   <https://shotatlife.org/?p=39319>  
@@ -3632,10 +4143,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `yellow-fever-17d`: In December 1933 Lloyd transferred the Asibi strain to tissue culture; later passages in whole chick embryo and in chick embryo without the central nervous system gave virus 17D.
 
+- Sortir à Paris. Heritage Days: the history of the Quinze-Vingts hospital.  
+  <https://sortiraparis.com/en/news/heritage-days/articles/299648-heritage-days-2024-discover-the-history-of-the-15-20-hospital-in-paris>  
+  Type: institution.
+  - `quinze-vingts`: The story of 300 blinded crusader knights is regarded by hospital historians as a legend.
+
+- Southwestern University Special Collections. Ambroise Paré, Les Oeuvres (1585).  
+  <https://suspeccoll.southwestern.edu/exhibits/show/bookasartifact/ambroisepareprosthetic>  
+  Type: university.
+  - `pare-gunshot-wounds`: Began as a barber-surgeon apprentice at the Hôtel-Dieu in Paris in 1533; boiling oil poured over gunshot wounds believed poisonous.
+
 - Sozomen. Ecclesiastical History, book 3, chapter 16 (Nicene and Post-Nicene Fathers; St-Takla.org).  
   <https://st-takla.org/books/en/ecf/202/2020353.html>  
   Type: primary.
   - `ephrem-edessa-famine-hospital`: When Edessa was severely visited by famine, Ephrem left his solitary cell and rebuked the rich for letting the poor die instead of sharing their surplus.
+
+- Sparks M. St Gregory's Priory, Canterbury: a re-assessment. Archaeologia Cantiana 118.  
+  <https://www.kentarchaeology.org.uk/journal/118/st-gregorys-priory-canterbury-re-assessment>  
+  Type: journal.
+  - `canterbury-hospitals`: Lanfranc founded St Nicholas at Harbledown as a refuge for lepers and St John's in Northgate as an almshouse for the poor and sick, in 1084.
 
 - Spinal cord injury: past, present, and future (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2031949/>  
@@ -3712,6 +4238,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `argus-ii-retinal-prosthesis`: First visual prosthesis to become commercially available; CE mark 2011; FDA approval early 2013 for humanitarian use; retinitis pigmentosa.
 
+- Structurae. Centre hospitalier national d'ophtalmologie des Quinze-Vingts.  
+  <https://structurae.net/en/structures/centre-hospitalier-national-dophtalmologie-des-quinze-vingts>  
+  Type: institution.
+  - `quinze-vingts`: The name means three hundred, the number of beds, for poor blind people; now France's national ophthalmology hospital.
+
 - Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache (Saxon Academy of Sciences, Leipzig). Papyrus Edwin Smith: metadata and provenance.  
   <https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith>  
   Type: university.
@@ -3721,6 +4252,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.the-berliner.com/berlin/trans-affirming-care-history-in-berlin/>  
   Type: journal.
   - `early-gender-affirming-surgery`: Hirschfeld's Institute for Sexual Science with Levy-Lenz, Warnekros and Gohrbandt; Dora Richter widely recognised as the first to undergo a series of gender-affirming surgeries, with an orchidectomy in 1922; she worked at the institute.
+
+- SuperScout. Eyeglasses (innovation record).  
+  <https://superscout.co/innovation/eyeglasses>  
+  Type: institution.
+  - `spectacles-invention`: On 23 February 1306 Giordano da Pisa said the art was discovered less than twenty years earlier and that he had seen and spoken to the inventor; Rosen and Ilardi date it to about 1286; the inventor's name is unknown; Pisa and Venice both have claims.
 
 - Surgeon who saw the way forward (obituary). The Irish Times (2001).  
   <https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/news/surgeon-who-saw-the-way-forward-1.311155>  
@@ -3786,6 +4322,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.technologystories.org/wp-content/uploads/2015/04/Wright_article.pdf>  
   Type: institution.
   - `davy-nitrous-oxide`: Beddoes opened the Pneumatic Institution in Clifton in 1798; Davy joined in October 1798; 580-page book published in summer 1800; Wells's nitrous oxide demonstration at MGH in January 1845 failed because the gas gave too light an unconsciousness.
+
+- Tehqeeqat. Ibn al-Bayṭār (article PDF).  
+  <https://tehqeeqat.org/downloadpdf/20403>  
+  Type: journal.
+  - `ibn-al-baytar-simples`: Left Málaga in 1219 to collect plants along North Africa and in Anatolia; entered al-Kamil's service as chief herbalist after 1224; went with him to Damascus in 1227.
 
 - Tel Aviv University. TAU scientists print first ever 3D heart using patient's own cells (16 April 2019).  
   <https://english.tau.ac.il/node/2442>  
@@ -3922,6 +4463,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `shipp-obstetrics-school-utah`: Diary entry of 14 March 1878 recording her graduation; in the autumn of 1878 she opened her School of Obstetrics and Nursing.
 
+- The History Blog. Restoration of the Renaissance ward of Santo Spirito in Saxia.  
+  <https://www.thehistoryblog.com/?p=64670>  
+  Type: institution.
+  - `santo-spirito-hospital`: The 'wheel of the exposed'; the 1471 fire; hospitals built on its model spread across Europe.
+
 - The history of sonography in obstetrics and gynaecology. PubMed Central, PMC3987368.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3987368>  
   Type: journal.
@@ -3977,6 +4523,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `human-insulin-recombinant`: FDA approval of Humulin on 28 October 1982 after five months of review.
 
+- The National Archives. Hospital records: St Bartholomew's Hospital.  
+  <https://www.nationalarchives.gov.uk/hospital-records/hospitals/188/>  
+  Type: archive.
+  - `st-bartholomews-hospital`: Founded with the priory in 1123 by Rahere, formerly a courtier of Henry I, after a vow made while sick on a pilgrimage to Rome and a vision of St Bartholomew; continuous patient care on the same site longer than any other hospital in England.
+
 - The National WWII Museum. Medical innovations: under occupation, the development of dialysis.  
   <https://www.nationalww2museum.org/war/articles/medical-innovations-dialysis>  
   Type: museum.
@@ -4011,6 +4562,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.nobelprize.org/uploads/2018/06/advanced-medicineprize2008.pdf>  
   Type: institution.
   - `hiv-identified`: 1983 isolation (Science, 1983), named LAV; lymph node cells from patients with lymphadenopathy; Gallo's HTLV-III (1984) and Levy's ARV; named HIV-1 in 1985; blood screening; combination therapy and its limits.
+
+- The Ophthalmologist. The Ophthalmologist's Time Machine, chapter 36: the spectacular invention of spectacles (January 2026).  
+  <https://theophthalmologist.com/issues/2026/articles/january/the-ophthalmologists-time-machine-chapter-36/>  
+  Type: journal.
+  - `spectacles-invention`: The estimate of the date comes from the sermon of Friar Giordano da Rivalto of Pisa at Santa Maria Novella in Florence: 'It is not yet twenty years since there was found the art…'.
 
 - The origins of preimplantation genetic testing. PET (Progress Educational Trust) BioNews.  
   <https://www.progress.org.uk/the-origins-of-preimplantation-genetic-testing/>  
@@ -4167,6 +4723,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `badianus-manuscript`: First illustrated text of Nahua medicine, 185 illustrations; composed by Martín de la Cruz in Nahuatl, translated by Juan Badiano at the Colegio de Santa Cruz de Tlatelolco; commissioned by Jacobo de Grado for Francisco de Mendoza; returned in 1990; now at INAH.
 
+- uCatholic. Wear glasses? You can thank this medieval Catholic friar.  
+  <https://www.ucatholic.com/blog/wear-glasses-you-can-thank-this-medieval-catholic-friar-for-them/>  
+  Type: institution.
+  - `spectacles-invention`: Sermon of 23 February 1306; he had seen the inventor; Alessandro della Spina made eyeglasses and gave them away.
+
 - UCL. Introducing Assyrian Medicine: healthcare fit for a king.  
   <https://www.ucl.ac.uk/arts-humanities/hebrew-jewish/research/research-projects/introducing-assyrian-medicine-healthcare-fit-king>  
   Type: university.
@@ -4176,6 +4737,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_f.html>  
   Type: university.
   - `snow-broad-street`: Snow's own words that the handle was removed the following day; myth about the map's role; errors in later maps.
+
+- UCLA, Paris: Capital of the Nineteenth Century project. The Quinze-Vingts.  
+  <https://paris.cdh.ucla.edu/the-quinze-vingts>  
+  Type: university.
+  - `quinze-vingts`: The oldest hospital for the blind in the world; built between 1260 and 1325; the blind held privileges as official beggars; moved in 1779 under Louis XVI.
 
 - Udjahorresnet, Democedes and Darius I: the reform of the House of Life as consequence of the Egyptian physicians' failure to heal the Achaemenid ruler. Journal of the Egyptian Expedition.  
   <https://egyptianexpedition.org/articles/udjahorresnet-democedes-and-darius-i-the-reform-of-the-house-of-life-as-consequence-of-the-egyptian-physicians-failure-to-heal-the-achaemenid-ruler/>  
@@ -4191,6 +4757,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ulstertransportmuseum.org/stories/father-emergency-medicine>  
   Type: museum.
   - `pantridge-mobile-defibrillator`: Collaboration with Mawhinney, Geddes and engineer John Anderson; defibrillator installed in Belfast ambulances as the 'Pantridge plan'.
+
+- UNESCO Memory of the World Committee for Asia and the Pacific. Ben Cao Gang Mu.  
+  <https://mowcaparchives.org/mwc/inct/detl/11>  
+  Type: institution.
+  - `li-shizhen-bencao`: Begun at the age of 31 and completed 27 years later in 1578; 1,892 drugs and 11,096 prescriptions; the oldest surviving copy, printed in 1593, has two volumes of 1,109 illustrations.
 
 - UNESCO Memory of the World Register. Huang Di Nei Jing (Yellow Emperor's Inner Canon), nomination 2010-15.  
   <https://media.unesco.org/sites/default/files/webform/mow001/china_huan_di_nei.pdf>  
@@ -4276,6 +4847,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://medicine.uiowa.edu/node/5401>  
   Type: university.
   - `frozen-sperm-pregnancies`: The first cryobank for frozen semen established at Iowa, based on work by Sherman and Bunge in the Department of Urology; first successful human pregnancy from frozen sperm.
+
+- University of Iowa, Heirs of Hippocrates no. 136. Antonio Benivieni.  
+  <https://heirs.lib.uiowa.edu/record.php?id=136>  
+  Type: university.
+  - `benivieni-pathology`: Among the first physicians to study syphilis; the first book on pathological anatomy, published by his brother in 1507; 111 observations covering some twenty post-mortem examinations made to determine the cause of death.
+
+- University of Iowa, Heirs of Hippocrates no. 245. Garcia de Orta.  
+  <https://heirs.lib.uiowa.edu/record.php?id=245>  
+  Type: university.
+  - `garcia-de-orta-coloquios`: Settled in Goa with a large practice and medical garden; published the Colóquios in 1563; described the classic symptoms of cholera and brought the disease to the attention of Europe.
+
+- University of Iowa, Heirs of Hippocrates. Woodall J. The surgeons mate (1639).  
+  <https://heirs.lib.uiowa.edu/record.php?id=386.7>  
+  Type: university.
+  - `woodall-surgions-mate`: Appointed the first surgeon-general of the East India Company in 1613; selected surgeons, treated injured workmen at the Blackwall hospital and supplied ships with surgeons' chests; published The Surgeons Mate in 1617; the earliest comprehensive clinical account of scurvy to prescribe lemon juice.
 
 - University of Iowa, HEIRS. Ibn Butlan, Theatrum sanitatis (Casanatense codex 4182).  
   <https://heirs.lib.uiowa.edu/record.php?id=70>  
@@ -4412,6 +4998,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `shipp-obstetrics-school-utah`: One of Utah's first female doctors; established a school of obstetrics and nursing (1878/1879) that trained five hundred women as licensed midwives; delivered more than 5,000 children.
 
+- Utrecht University Repository. Note on Ilardi's findings.  
+  <https://dspace.library.uu.nl/handle/1874/33280>  
+  Type: university.
+  - `spectacles-invention`: Sforza orders of the 1460s for convex lenses graded by age and concave lenses in two grades, the first written mention of concave eyeglasses; convex eyeglasses invented around 1286.
+
 - Van Steirteghem A, quoted in: Celebrating ICSI's twentieth anniversary (summary of Human Reproduction editorial).  
   <https://www.inviafertility.com/blog/blog/conception/drvkarande/celebrating-icsis-twentieth-anniversary-and-the-birth-of-more-than-2-5-million-children/>  
   Type: institution.
@@ -4426,6 +5017,17 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://scielo.isciii.es/pdf/sm/v67s1/humanidades3.pdf>  
   Type: journal.
   - `pages-epidural`: Pagés a true pioneer of epidural anaesthesia; Dogliotti's segmental peridural anaesthesia ignored Pagés's work published ten years earlier; earlier intradural and caudal techniques.
+
+- Vernet J. Ibn al-Bayṭār al-Mālaqī. Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://www.encyclopedia.com/doc/1G2-2830900318.html>  
+  Type: book.
+  - `ibn-al-baytar-simples`: Born Málaga c. 1190, died Damascus 1248; studied in Seville with al-Nabati; chief herbalist in Cairo under al-Kamil and al-Salih; al-Mughni dedicated to al-Salih; al-Jamiʿ lists some 1,400 animal, vegetable and mineral medicines alphabetically, from his own observations and some 150 authorities.
+
+- Virchows Archiv (2013). Article on the history of the autopsy and pathological anatomy (SpringerMedizin).  
+  <https://www.springermedizin.at/article/10.1007/s00428-013-1387-3>  
+  Type: journal.
+  - `mondino-dissection`: Salimbene of Parma records a physician of Cremona who opened the body of a patient who died in the pestilence of 1286.
+  - `benivieni-pathology`: The Cremona autopsy of 1286; Benivieni, Bonet, Boerhaave and Morgagni as the line of pathological anatomy.
 
 - von Behring E, Kitasato S. Ueber das Zustandekommen der Diphtherie-Immunität und der Tetanus-Immunität bei Thieren. Deutsche Medizinische Wochenschrift 1890;16(49):1113–1114 (as cited in PubMed Central reviews). (pp. 1113–1114)  
   DOI: [10.1055/s-0029-1207589](https://doi.org/10.1055/s-0029-1207589), <https://pmc.ncbi.nlm.nih.gov/articles/PMC7151993/>  
@@ -4476,6 +5078,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC11609463/>  
   Type: journal.
   - `liggins-antenatal-steroids`: Reduction in respiratory distress syndrome; remaining questions on timing, dose and setting.
+
+- Wheatley E. Blindness, discipline, and reward: Louis IX and the foundation of the Hospice des Quinze-Vingts. Disability Studies Quarterly 22(4), 2002.  
+  <https://dsq-sds.org/article/id/1331/>  
+  Type: journal.
+  - `quinze-vingts`: Louis IX founded a residential hospice for the blind, named for the 300 residents it was meant to house (dated here to 1256).
+
+- Whewell W. History of the Inductive Sciences, vol. II (1858), p. 446.  
+  <https://geology.19thcenturyscience.org/books/1858-Whewell-HistSci/Vol-II/PDFpages/1858-Whewell-HistSci-II-0446.pdf>  
+  Type: book.
+  - `servetus-colombo-pulmonary`: Servetus, burned at Geneva as a heretic in 1553, first spoke distinctly of the small circulation in Christianismi Restitutio, which was also burned; his view mixed with ideas of the vital spirit; Colombo, Vesalius's successor at Padua, established it.
 
 - Whitrow M. Julius Wagner-Jauregg (images in psychiatry). Am J Psychiatry 165(10) (2008).  
   <https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08081271>  

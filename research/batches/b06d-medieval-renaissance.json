@@ -1,0 +1,2161 @@
+{
+ "entries": [
+  {
+   "id": "canterbury-hospitals",
+   "title": "Lanfranc founds hospitals at Canterbury",
+   "summary": "In 1084 or early 1085 Archbishop Lanfranc founded two hospitals outside Canterbury: St John's, Northgate, for the poor, aged and sick, and St Nicholas, Harbledown, for 60 people with leprosy. They are among the earliest hospitals in England with a documented foundation date.",
+   "explanation": "Lanfranc, the first Norman archbishop of Canterbury, set up the two houses as a pair. St John's Hospital, just outside the north gate of the walled city, took in poor, infirm, blind and aged men and women. St Nicholas's, at Harbledown on the pilgrims' road into the city, was a leper hospital for sixty residents. The monk Eadmer recorded the foundations.\n\nBoth survive as almshouses. St Nicholas's served people with leprosy until around 1400, when, as the disease became rare, its places were given to the poor, aged and sick. Lanfranc's foundations were soon followed by leper hospitals on the outskirts of towns across England.",
+   "date": {
+    "start": 1084,
+    "end": 1085,
+    "display": "c. 1084 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "year",
+    "basis": "Founded by Lanfranc in 1084 or early 1085."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text",
+    "archaeological"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "hospitals",
+    "leprosy",
+    "almshouses"
+   ],
+   "locations": [
+    {
+     "name": "St John's Hospital, Northgate",
+     "modern": "Canterbury, England",
+     "lat": 51.28,
+     "lon": 1.08,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area",
+     "role": "Hospital for the poor, aged and sick"
+    },
+    {
+     "name": "St Nicholas's Hospital, Harbledown",
+     "modern": "Harbledown, England",
+     "lat": 51.28,
+     "lon": 1.05,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area",
+     "role": "Leper hospital for 60 residents"
+    }
+   ],
+   "people": [
+    {
+     "name": "Lanfranc",
+     "role": "Archbishop of Canterbury and founder"
+    }
+   ],
+   "whatChanged": "Permanent, endowed houses were set up in England to care for the sick poor and to separate and support people with leprosy.",
+   "whyItMattered": "They are among the oldest documented hospital foundations in England, and they began a wave of leper hospitals across the country.",
+   "limitations": [
+    "Harbledown is often called England's first leper hospital, but there is evidence of an earlier, late Saxon leper hospital at Winchester.",
+    "St John's was an almshouse for the poor and sick rather than a place of medical treatment."
+   ],
+   "sources": [
+    {
+     "citation": "Kent Historic Environment Record. Monument record TR 15 NE 4: St John's Hospital, Northgate, Canterbury.",
+     "url": "https://heritage.kent.gov.uk/Monument/mke4494",
+     "kind": "institution",
+     "supports": "Founded by Lanfranc in 1084 or early 1085 for the poor, aged and sick; buildings from the 11th to 15th centuries survive."
+    },
+    {
+     "citation": "Canterbury Archaeological Trust. St John's Hospital 1084–1984.",
+     "url": "https://canterburytrust.co.uk/_files/ugd/805c19_def881241ce149f0a5c728183fbe573e.pdf?index=true",
+     "kind": "institution",
+     "supports": "Founded together with the leper hospital of St Nicholas at Harbledown by Lanfranc in 1084 or early 1085; apart from Gundulf's hospital at Chatham, no other hospital in Britain has so early a documented foundation date."
+    },
+    {
+     "citation": "Kent Archaeological Society. Medieval hospitals in Kent (Archaeologia Cantiana 29).",
+     "url": "https://kentarchaeology.org.uk/journal/29/medieval-hospitals-kent",
+     "kind": "journal",
+     "supports": "St John the Baptist founded in 1084 by Lanfranc for poor, infirm, blind or aged men and women; continues as almshouses."
+    },
+    {
+     "citation": "Kent Historic Environment Record. St Nicholas' Hospital, Church Hill, Harbledown.",
+     "url": "https://heritage.kent.gov.uk/Monument/MKE114367",
+     "kind": "institution",
+     "supports": "Founded by Lanfranc in 1084 for 60 lepers; converted to almshouses in the 14th century."
+    },
+    {
+     "citation": "Historic England. Which medieval leper hospital is still a working almshouse today?",
+     "url": "https://historicengland.org.uk/listing/what-is-designation/heritage-highlights/which-medieval-leper-hospital-is-still-a-working-almshouse-today",
+     "kind": "institution",
+     "supports": "Believed to be England's first leper hospital; founded about 1084 by Lanfranc and a lazar house until around 1400."
+    },
+    {
+     "citation": "Building History. A life apart: leper hospitals.",
+     "url": "https://www.buildinghistory.org/articles/heritagemercy2.shtml",
+     "kind": "institution",
+     "supports": "Lanfranc built the first independent hospitals in England; Eadmer's account of Harbledown; leper hospitals then spread across the country; new evidence of a late Saxon leper hospital at Winchester."
+    },
+    {
+     "citation": "Kent Historic Environment Record. The Old Leper Church of St Nicholas, Harbledown.",
+     "url": "https://heritage.kent.gov.uk/Monument/MKE24222",
+     "kind": "institution",
+     "supports": "Founded c. 1084 for lepers; c. 1400 the places filled by the poor, aged and sick; Harbledown the last step of pilgrims on their way to Canterbury."
+    },
+    {
+     "citation": "Canterbury Archaeological Trust. St John's Hospital, Northgate.",
+     "url": "https://www.canterbury-archaeology.org.uk/?p=755",
+     "kind": "institution",
+     "supports": "Founded by the first Norman archbishop of Canterbury, Lanfranc, in about 1085."
+    },
+    {
+     "citation": "Sparks M. St Gregory's Priory, Canterbury: a re-assessment. Archaeologia Cantiana 118.",
+     "url": "https://www.kentarchaeology.org.uk/journal/118/st-gregorys-priory-canterbury-re-assessment",
+     "kind": "journal",
+     "supports": "Lanfranc founded St Nicholas at Harbledown as a refuge for lepers and St John's in Northgate as an almshouse for the poor and sick, in 1084."
+    }
+   ],
+   "related": [
+    "st-bartholomews-hospital"
+   ]
+  },
+  {
+   "id": "antonine-order",
+   "title": "The Antonines care for victims of St Anthony's fire",
+   "summary": "Around 1095 the nobleman Gaston of Valloire, believing his son had been cured of 'St Anthony's fire' at the saint's relics in the Dauphiné, founded a lay brotherhood to care for sufferers. The Antonines' hospitals spread across Europe; the disease was ergotism, caused by a fungus on rye.",
+   "explanation": "Ergotism, known in the Middle Ages as St Anthony's fire or holy fire, struck in waves and could cause gangrene of the limbs, convulsions and hallucinations. It comes from eating rye infected with the ergot fungus.\n\nAround 1095 Gaston of Valloire and his son set up a hospital near the church in the Dauphiné that held relics of St Anthony the Great. Their community, sanctioned by Pope Urban II, was at first made up of laymen. It grew into the Hospital Brothers of St Anthony, whose houses across Europe cared for sufferers. Their main treatment was a diet of grain free of the fungus.",
+   "date": {
+    "start": 1095,
+    "end": 1095,
+    "display": "c. 1095 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Founded around 1095; one source gives 1100."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "hospitals",
+    "ergotism",
+    "religious orders"
+   ],
+   "locations": [
+    {
+     "name": "Saint-Antoine-l'Abbaye (La Motte-Saint-Didier)",
+     "modern": "Saint-Antoine-l'Abbaye, Isère, France",
+     "lat": 45.18,
+     "lon": 5.22,
+     "radiusKm": 3,
+     "precision": "settlement",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Gaston of Valloire",
+     "role": "Nobleman and founder"
+    }
+   ],
+   "whatChanged": "A religious order was set up specifically to care for people with one disease.",
+   "whyItMattered": "The Antonines ran hospitals across Europe devoted to the care of a single disease.",
+   "limitations": [
+    "The founding story of a miraculous cure is a pious legend.",
+    "Contemporaries attributed the disease and its cures to the saint; the fungal cause was understood only much later."
+   ],
+   "sources": [
+    {
+     "citation": "Daily Medieval. The Hospital Brothers of Saint Anthony (5 February 2024).",
+     "url": "https://dailymedieval.blogspot.com/2024/02/the-hospital-brothers-of-saint-anthony.html",
+     "kind": "institution",
+     "supports": "In 1095 Gaston of Valloire founded the order, sanctioned by Urban II, believing his son cured of St Anthony's fire; they built a hospital near the church of St Anthony; the brothers were laymen."
+    },
+    {
+     "citation": "Horgan J. St. Anthony's Fire. World History Encyclopedia.",
+     "url": "https://www.worldhistory.org/St_Anthony's_Fire/",
+     "kind": "institution",
+     "supports": "A common medieval illness that came in waves; the Order of Hospitallers of St Anthony established around 1100 to care for people with ergotism."
+    },
+    {
+     "citation": "Horgan J. St. Anthony's Fire: ergotism and its treatment in the medieval world. Brewminate.",
+     "url": "https://brewminate.com/st-anthonys-fire-ergotism-and-its-treatment-in-the-medieval-world/",
+     "kind": "institution",
+     "supports": "Ergotism caused by eating rye contaminated with ergot; gangrene, convulsions and hallucinations; hospitals founded across Europe; main treatment a diet of grain free of ergot; the disease declined as wheat replaced rye."
+    },
+    {
+     "citation": "Horgan J. St. Anthony's Fire. Brewminate.",
+     "url": "https://brewminate.com/?p=131160",
+     "kind": "institution",
+     "supports": "Ergotism caused by fungus-contaminated rye; gangrene, convulsions, sores and hallucinations."
+    }
+   ],
+   "related": []
+  },
+  {
+   "id": "trotula-womens-medicine",
+   "title": "The Trotula: women's medicine from Salerno",
+   "summary": "In twelfth-century Salerno, three texts on women's health — on the conditions of women, on treatments for women and on cosmetics — were gathered into the Trotula, the most influential compendium on women's medicine in medieval Europe. One of the three draws on the teaching of Trota, a woman healer of Salerno.",
+   "explanation": "The Trotula was long thought to be one book by a woman called Trotula, a female professor at Salerno. The historian Monica Green has shown that it is an ensemble of three independent works, each by a different author. The Book on the Conditions of Women largely derives from a work recently translated from Arabic, and On Women's Cosmetics was probably written by a man.\n\nOn Treatments for Women, however, appears to be largely the work of Trota, a Salernitan healer who died in the mid-twelfth century or earlier and who had direct access to her women patients' bodies. Apart from Hildegard of Bingen, she is the only woman known to have been credited with medical writing in Europe before the fifteenth century.",
+   "date": {
+    "start": 1100,
+    "end": 1200,
+    "display": "12th century CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "century",
+    "basis": "The three texts were written in twelfth-century Salerno and assembled later in that century."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "maternal",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "women's health",
+    "women in medicine",
+    "medical texts"
+   ],
+   "locations": [
+    {
+     "name": "Salerno",
+     "modern": "Salerno, Italy",
+     "lat": 40.68,
+     "lon": 14.77,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Trota of Salerno",
+     "role": "Healer behind On Treatments for Women"
+    }
+   ],
+   "whatChanged": "Knowledge about women's diseases, their treatment and cosmetics was collected into a widely copied handbook.",
+   "whyItMattered": "The Trotula was the most influential text on women's medicine in medieval Europe, and it preserves the work of one of the very few medieval women medical authors.",
+   "limitations": [
+    "'Trotula' is the title of the compendium, not the name of a woman, and two of its three parts were probably written by men.",
+    "How much of On Treatments for Women Trota wrote herself is uncertain."
+   ],
+   "sources": [
+    {
+     "citation": "Green MH (ed. and trans.). The Trotula: A Medieval Compendium of Women's Medicine. University of Pennsylvania Press, 2001.",
+     "url": "https://www.pennpress.org/9780812235890/the-trotula/",
+     "kind": "book",
+     "supports": "The traditional attribution to a female professor at Salerno; the Trotula is not a single treatise but an ensemble of three works from twelfth-century southern Italy."
+    },
+    {
+     "citation": "Penn Today. The Trotula (book announcement).",
+     "url": "https://penntoday.upenn.edu/node/149164",
+     "kind": "university",
+     "supports": "Three independent works, each by a different author; Conditions of Women and Women's Cosmetics probably of male authorship."
+    },
+    {
+     "citation": "Project MUSE. The Trotula: A Medieval Compendium of Women's Medicine (contents).",
+     "url": "https://muse.jhu.edu/book/24644",
+     "kind": "book",
+     "supports": "The most influential compendium on women's medicine in medieval Europe; its three parts: On the Conditions of Women, On Treatments for Women, On Women's Cosmetics."
+    },
+    {
+     "citation": "Green M. Speaking of Trotula: a woman in medieval medicine. Brewminate.",
+     "url": "https://brewminate.com/speaking-of-trotula-a-woman-in-medieval-medicine/",
+     "kind": "institution",
+     "supports": "Trotula is a compendium of three twelfth-century texts, not a woman's name; the Book on the Conditions of Women largely derives from a work recently translated from Arabic; the cosmetics text probably by a male author."
+    },
+    {
+     "citation": "Green M. Trota of Salerno. Brewminate.",
+     "url": "https://brewminate.com/?p=129135",
+     "kind": "institution",
+     "supports": "Trota died in the mid-twelfth century or earlier; before the 15th century only Hildegard of Bingen and Trota are known to have been credited with medical writing; she had direct access to her women patients' bodies."
+    },
+    {
+     "citation": "Raking Light. Review of The Trotula (Green, 2001).",
+     "url": "https://rakinglight.co.uk/book-reviews/the-trotula-a-medieval-compendium-of-womens-medicine/",
+     "kind": "institution",
+     "supports": "Green concludes that Treatments for Women appears to be largely by Trota."
+    }
+   ],
+   "related": [
+    "salerno-medical-school"
+   ]
+  },
+  {
+   "id": "st-bartholomews-hospital",
+   "title": "Rahere founds St Bartholomew's Hospital in London",
+   "summary": "In 1123 Rahere, a courtier of Henry I who had vowed to found a hospital after falling ill on pilgrimage to Rome, founded St Bartholomew's priory and hospital for the sick poor at Smithfield, outside London's walls. Barts has cared for patients on the same site ever since.",
+   "explanation": "According to the Book of the Foundation of St Bartholomew's, Rahere fell gravely ill on a pilgrimage to Rome and vowed to build a hospital for the poor if he recovered. On his way home he had a vision of St Bartholomew, who told him to build at Smithfield. Henry I granted the land, just outside the city walls, and in 1123 Rahere founded an Augustinian priory with a hospital to shelter sick and poor Londoners.\n\nThe hospital and priory became separate institutions by 1420. Barts has provided continuous patient care on its original site for longer than any other hospital in England, and the oldest document in its archive, a grant of 1137, was sealed in Rahere's presence.",
+   "date": {
+    "start": 1123,
+    "end": 1123,
+    "display": "1123 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Founded in 1123."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text",
+    "programme-records"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "hospitals",
+    "continuity over centuries"
+   ],
+   "locations": [
+    {
+     "name": "St Bartholomew's Hospital, West Smithfield",
+     "modern": "London, England",
+     "lat": 51.52,
+     "lon": -0.1,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Rahere",
+     "role": "Founder and first prior"
+    },
+    {
+     "name": "Henry I",
+     "role": "King who granted the land"
+    }
+   ],
+   "whatChanged": "London gained a permanent hospital for the sick poor.",
+   "whyItMattered": "Barts became one of the great teaching hospitals and is the oldest hospital in England still working on its original site.",
+   "limitations": [
+    "The story of Rahere's illness and vision comes from the Book of the Foundation, a pious account; little is known of his early life, and the tradition that he was a court jester may be legend."
+   ],
+   "sources": [
+    {
+     "citation": "The National Archives. Hospital records: St Bartholomew's Hospital.",
+     "url": "https://www.nationalarchives.gov.uk/hospital-records/hospitals/188/",
+     "kind": "archive",
+     "supports": "Founded with the priory in 1123 by Rahere, formerly a courtier of Henry I, after a vow made while sick on a pilgrimage to Rome and a vision of St Bartholomew; continuous patient care on the same site longer than any other hospital in England."
+    },
+    {
+     "citation": "Barts Health NHS Trust. St Bartholomew's Hospital: our history.",
+     "url": "https://www.bartshealth.nhs.uk/st-bartholomews-our-history",
+     "kind": "institution",
+     "supports": "Founded with the priory in 1123 by Rahere; continuous care on the same site; the oldest document in the archives is a grant of 1137."
+    },
+    {
+     "citation": "London Museum. The 900-year history of St Bartholomew's Hospital.",
+     "url": "https://www.londonmuseum.org.uk/collections/london-stories/900-year-history-st-bartholomews-hospital/",
+     "kind": "museum",
+     "supports": "Rahere fell very sick on a pilgrimage to Rome; Henry I granted land at Smithfield, outside the city walls, for a priory and a hospital to shelter sick and poor Londoners."
+    },
+    {
+     "citation": "Knight C. A history of Bart's, Britain's oldest hospital. Gresham College lecture, 4 May 2023.",
+     "url": "https://www.gresham.ac.uk/node/15401",
+     "kind": "university",
+     "supports": "900 years of continuous patient care on the same site; the Book of the Foundation; the vision of St Bartholomew directing him to Smithfield."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Saint Bartholomew's Hospital.",
+     "url": "https://www.britannica.com/print/article/516833",
+     "kind": "book",
+     "supports": "Oldest hospital in London, founded in 1123 by the Augustinian Rahere, who also founded the adjacent priory."
+    },
+    {
+     "citation": "Parks and Gardens UK. St Bartholomew's Hospital.",
+     "url": "https://www.parksandgardens.org/places/st-bartholomews-hospital-including-st-bartholomew-the-less-church",
+     "kind": "institution",
+     "supports": "Hospital and priory became separate institutions by 1420."
+    },
+    {
+     "citation": "Green R, Ahmed M. St. Bartholomew's Hospital, London. Hektoen International, 2017.",
+     "url": "https://hekint.org/2017/02/23/st-bartholomews-hospital-london/",
+     "kind": "journal",
+     "supports": "Founded in 1123 by the legendary Rahere, a former court jester and favourite of Henry I; now an internationally renowned teaching hospital."
+    },
+    {
+     "citation": "Londonist. Who was St Bart, and why does he have a hospital in London? (2016).",
+     "url": "https://londonist.com/2016/06/who-was-st-bart-and-why-does-he-have-a-hospital-in-london",
+     "kind": "institution",
+     "supports": "Rahere is sometimes portrayed as a jester or minstrel, but little is known about his early life."
+    }
+   ],
+   "related": [
+    "canterbury-hospitals",
+    "woodall-surgions-mate"
+   ]
+  },
+  {
+   "id": "roger-of-salerno-chirurgia",
+   "title": "Roger of Salerno writes the Practica chirurgiae",
+   "summary": "Around 1180 the surgeon Roger Frugardi, known as Roger of Salerno, produced the Practica chirurgiae, a concise, practical handbook of surgery. It described end-to-end suture and recommended seaweed for goitre, and it remained a classic of European surgery for some three centuries.",
+   "explanation": "Roger (before 1140–c. 1195), widely known as Rogerius Salernitanus, taught and practised at Parma. His Practica chirurgiae, probably composed about 1180, may have been compiled by his pupil Guido Aretino from his lecture notes.\n\nThe book is brief and practical. It describes end-to-end suture of wounds, mercury ointment for chronic skin diseases and seaweed for goitre, and includes an early description of surgery on the thyroid. It also supported the medieval belief that the formation of pus was a necessary stage in wound healing. Roland of Parma's later revision and many glosses kept it in use for centuries.",
+   "date": {
+    "start": 1170,
+    "end": 1180,
+    "display": "c. 1180 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Probably composed about 1180; some sources give about 1170."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "surgery",
+   "tags": [],
+   "themes": [
+    "medical texts",
+    "surgical teaching"
+   ],
+   "locations": [
+    {
+     "name": "Salerno",
+     "modern": "Salerno, Italy",
+     "lat": 40.68,
+     "lon": 14.77,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "The medical school he is named after"
+    },
+    {
+     "name": "Parma",
+     "modern": "Parma, Italy",
+     "lat": 44.8,
+     "lon": 10.33,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Where he taught and practised"
+    }
+   ],
+   "people": [
+    {
+     "name": "Roger Frugardi (Roger of Salerno)",
+     "role": "Surgeon and author"
+    },
+    {
+     "name": "Roland of Parma",
+     "role": "Pupil who revised the work"
+    }
+   ],
+   "whatChanged": "Surgery gained a short, systematic Latin textbook for teaching and practice.",
+   "whyItMattered": "Many later medieval surgical texts were based on Roger's work, and it was used for some three hundred years.",
+   "limitations": [
+    "Its authorship is uncertain: some historians think a pupil compiled it from Roger's lectures.",
+    "It endorsed the medieval belief that the formation of pus ('laudable pus') was a necessary stage of wound healing."
+   ],
+   "sources": [
+    {
+     "citation": "Encyclopedia.com (Science and Its Times). Roger of Salerno.",
+     "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/roger-salerno",
+     "kind": "book",
+     "supports": "Practica chirurgiae probably composed about 1180; taught at Parma; Guido Aretino may have compiled it from his notes c. 1170; a classic for at least three centuries; end-to-end sutures, mercurial inunction, seaweed for goitre; supported 'laudable pus'; Roland of Parma."
+    },
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: Roger of Salerno (1140–1195).",
+     "url": "https://www.historyofmedicine.com/author/d/rogerius-salernitanus-frugard-frugardi-roggerio-frugardo-rdiger-frutgard-roger-of-parma-roger-of-salerno-",
+     "kind": "book",
+     "supports": "Practica chirurgiae appeared about 1180, describing end-to-end suture, mercurial inunction in chronic skin diseases and seaweed for goitre."
+    },
+    {
+     "citation": "Roger Frugardi and Roland of Parma: surgery in medieval Parma. Acta Biomedica (PubMed Central).",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7927497",
+     "kind": "journal",
+     "supports": "Roger Frugardi (before 1140–about 1195), known as Rogerius Salernitanus; a handbook of surgery containing an early description of thyroidectomy, influential until the late Renaissance; Roland's Rolandina."
+    }
+   ],
+   "related": [
+    "salerno-medical-school",
+    "albucasis-tasrif"
+   ]
+  },
+  {
+   "id": "santo-spirito-hospital",
+   "title": "Innocent III founds the hospital of Santo Spirito",
+   "summary": "From 1198 Pope Innocent III turned an old pilgrims' hostel by the Vatican into the hospital of Santo Spirito in Sassia, run by the Order of the Holy Spirit from Montpellier, for the sick and for abandoned babies. Its foundling wheel let infants be left anonymously.",
+   "explanation": "The site had held a hostel for Saxon pilgrims since the eighth century. In 1198, the year he became pope, Innocent III founded a hospital there, entrusting it to the Hospitallers of the Holy Spirit, whose main house was at Montpellier; he endowed it in 1201 and confirmed the order's rule in 1204. Legend says he acted after fishermen brought up drowned babies from the Tiber in their nets.\n\nThe hospital cared for the sick and took in foundlings, and a wheel set in its wall let a mother place a baby inside without being seen. Santo Spirito became a model for hospitals of the order across Europe, and was rebuilt after a fire in 1471 with a great frescoed ward.",
+   "date": {
+    "start": 1198,
+    "end": 1204,
+    "display": "1198–1204 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Founded in 1198; endowed in 1201; the order's rule confirmed in 1204."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text",
+    "programme-records"
+   ],
+   "category": "public-health",
+   "tags": [
+    "maternal"
+   ],
+   "themes": [
+    "hospitals",
+    "foundlings",
+    "charity"
+   ],
+   "locations": [
+    {
+     "name": "Santo Spirito in Sassia",
+     "modern": "Rome, Italy",
+     "lat": 41.9,
+     "lon": 12.46,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Innocent III",
+     "role": "Pope and founder"
+    },
+    {
+     "name": "Guy of Montpellier",
+     "role": "Founder of the Order of the Holy Spirit"
+    }
+   ],
+   "whatChanged": "A large hospital for the sick and for abandoned infants was set up under papal patronage, with a way to leave babies anonymously.",
+   "whyItMattered": "Santo Spirito became the model for a network of hospitals of the Holy Spirit and for foundling care in Europe.",
+   "limitations": [
+    "The story of the drowned babies is a legend illustrated in the hospital's later frescoes.",
+    "Claims that it was Europe's first hospital, or the first building designed as one, overlook earlier hospitals such as the Basileias and Fabiola's in Rome."
+   ],
+   "sources": [
+    {
+     "citation": "Metzler S. Rome's Ospedale Santo Spirito: from ruin to revival. Hektoen International, 2026.",
+     "url": "https://hekint.org/2026/02/13/romes-ospedale-santo-spirito-from-ruin-to-revival/",
+     "kind": "journal",
+     "supports": "A pilgrims' hostel from 797; in 1198 Innocent III established a hospital for foundlings and the infirm; the foundling wheel to preserve anonymity; the fresco of the dream of Innocent III; Sixtus IV."
+    },
+    {
+     "citation": "Medicina nei Secoli 25(2):565–580, 2013. L'ospedale di Santo Spirito in Saxia di Roma nel Duecento.",
+     "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/232/216/434",
+     "kind": "journal",
+     "supports": "Innocent III's role from the first months of his pontificate (1198); the Order of the Holy Spirit with its main hospital at Montpellier; endowment in 1201 and confirmation of the order's rule in 1204."
+    },
+    {
+     "citation": "Mattoni S, et al. The Santo Spirito in Saxia Hospital, in Rome. Italian Journal of Public Health.",
+     "url": "https://riviste.unimi.it/index.php/ijphjournal/article/download/22946/20495/68549",
+     "kind": "journal",
+     "supports": "The Schola Saxonum, founded in 727, rebuilt as a hospital after 1198; the legend of the drowned infants and the fifteenth-century frescoes."
+    },
+    {
+     "citation": "Presciutti DB. Dead infants, cruel mothers, and heroic popes: the visual rhetoric of foundling care at the hospital of Santo Spirito, Rome. Renaissance Quarterly, 2018.",
+     "url": "https://core-prod.cambridgecore.org/core/journals/renaissance-quarterly/article/dead-infants-cruel-mothers-and-heroic-popes-the-visual-rhetoric-of-foundling-care-at-the-hospital-of-santo-spirito-rome/E57207DA11C3939C1B8149213AD7EC02",
+     "kind": "journal",
+     "supports": "The legend that Innocent founded Santo Spirito as a foundling hospital after victims of infanticide were found in the Tiber; fresco cycle of the late 1470s."
+    },
+    {
+     "citation": "Aleteia. The oldest hospital in Europe was founded by a pope (2021).",
+     "url": "https://aleteia.org/2021/08/18/the-oldest-hospital-in-europe-was-founded-by-a-pope/",
+     "kind": "institution",
+     "supports": "Founded in 1198 on the site of a hospice for Saxon pilgrims; Guy de Montpellier, founder of the Order of the Holy Spirit, appointed to run it."
+    },
+    {
+     "citation": "The History Blog. Restoration of the Renaissance ward of Santo Spirito in Saxia.",
+     "url": "https://www.thehistoryblog.com/?p=64670",
+     "kind": "institution",
+     "supports": "The 'wheel of the exposed'; the 1471 fire; hospitals built on its model spread across Europe."
+    }
+   ],
+   "related": [
+    "fabiola-rome-hospital",
+    "basileias-hospital"
+   ]
+  },
+  {
+   "id": "ibn-al-baytar-simples",
+   "title": "Ibn al-Baytar's compendium of simple drugs",
+   "summary": "The Andalusian botanist and pharmacist Ibn al-Baytar (c. 1190–1248), chief herbalist to the Ayyubid sultans in Cairo, compiled al-Jamiʿ, an alphabetical guide to some 1,400 plant, animal and mineral medicines drawn from about 150 earlier authorities and his own field observations.",
+   "explanation": "Born in Málaga, Ibn al-Baytar studied plants in Seville with teachers including Abu'l-Abbas al-Nabati. From 1219 he travelled along the North African coast and as far as Anatolia collecting plants, and after 1224 the Ayyubid sultan al-Kamil made him chief herbalist in Cairo. He followed the sultan to Damascus, collected plants in Syria and Arabia, and died in Damascus in 1248.\n\nHis Compendium of Simple Medicaments and Foods (Kitab al-Jamiʿ li-mufradat al-adwiya wa'l-aghdhiya) lists its drugs alphabetically and combines the work of Dioscorides, Galen, al-Razi and others with what he had seen himself. A second book, al-Mughni, arranged simple remedies by the illnesses they treat.",
+   "date": {
+    "start": 1224,
+    "end": 1248,
+    "display": "c. 1224–1248 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "His years as chief herbalist to the Ayyubids, to his death in 1248; the Jamiʿ was written late in his life."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [],
+   "themes": [
+    "pharmacy",
+    "medicinal plants",
+    "Islamic medicine"
+   ],
+   "locations": [
+    {
+     "name": "Cairo",
+     "modern": "Cairo, Egypt",
+     "lat": 30.04,
+     "lon": 31.24,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Chief herbalist to the Ayyubid sultans"
+    },
+    {
+     "name": "Damascus",
+     "modern": "Damascus, Syria",
+     "lat": 33.51,
+     "lon": 36.29,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Later life; died 1248"
+    }
+   ],
+   "people": [
+    {
+     "name": "Ibn al-Baytar",
+     "role": "Botanist and pharmacist"
+    }
+   ],
+   "whatChanged": "Knowledge of medicinal substances from many earlier writers was checked against field observation and gathered into one alphabetical reference.",
+   "whyItMattered": "Al-Jamiʿ was the largest medieval book of plants and drugs and was later printed in Arabic and translated into Latin, German and French.",
+   "limitations": [
+    "Much of the book is compiled from earlier authors.",
+    "Sources give his birth as about 1190 or 1197."
+   ],
+   "sources": [
+    {
+     "citation": "Vernet J. Ibn al-Bayṭār al-Mālaqī. Dictionary of Scientific Biography (Encyclopedia.com).",
+     "url": "https://www.encyclopedia.com/doc/1G2-2830900318.html",
+     "kind": "book",
+     "supports": "Born Málaga c. 1190, died Damascus 1248; studied in Seville with al-Nabati; chief herbalist in Cairo under al-Kamil and al-Salih; al-Mughni dedicated to al-Salih; al-Jamiʿ lists some 1,400 animal, vegetable and mineral medicines alphabetically, from his own observations and some 150 authorities."
+    },
+    {
+     "citation": "Ibn al-Baitar: a 13th-century botanical scientist and his suggestions on urinary tract problems. European Review for Medical and Pharmacological Sciences (supplement), 2020.",
+     "url": "https://www.mednet.gr/archives/2020-sup2/pdf/148.pdf",
+     "kind": "journal",
+     "supports": "Born in Málaga; recognised as the greatest botanist and pharmacist of his time; al-Jamiʿ the largest plant and drug book of the Middle Ages; published in Arabic in 1875 and translated into Latin, German and French."
+    },
+    {
+     "citation": "Muslim Heritage. Ibn al-Bayṭār's al-Mughnī.",
+     "url": "https://muslimheritage.com/ibn-al-baytar-al-mughni/",
+     "kind": "institution",
+     "supports": "Died in Damascus in 1248; travels from Spain through North Africa and Egypt to Turkey and Damascus; al-Jamiʿ ordered alphabetically, al-Mughni by medical benefit."
+    },
+    {
+     "citation": "Tehqeeqat. Ibn al-Bayṭār (article PDF).",
+     "url": "https://tehqeeqat.org/downloadpdf/20403",
+     "kind": "journal",
+     "supports": "Left Málaga in 1219 to collect plants along North Africa and in Anatolia; entered al-Kamil's service as chief herbalist after 1224; went with him to Damascus in 1227."
+    }
+   ],
+   "related": [
+    "dioscorides-materia-medica",
+    "li-shizhen-bencao"
+   ]
+  },
+  {
+   "id": "spectacles-invention",
+   "title": "Spectacles are invented in Italy",
+   "summary": "Eyeglasses with convex lenses for the long-sighted appeared in Tuscany around 1286: a friar preaching in Florence in 1306 said the art was less than twenty years old. By the mid-fifteenth century Florentine workshops also made concave lenses to correct short sight.",
+   "explanation": "Magnifying lenses were known earlier; in 1267 the English friar Roger Bacon discussed how glass spheres could make small things appear larger. Spectacles worn before the eyes were new. In a sermon in Florence in February 1306 (some sources give 1305), the Dominican Giordano da Pisa said it was not yet twenty years since the art of making eyeglasses had been found, and that he had met the inventor, whose name is unknown. A chronicle of his convent in Pisa says that Friar Alessandro della Spina made spectacles himself and gave them away.\n\nThese first spectacles had convex lenses for presbyopia. Letters of the 1460s show the dukes of Milan ordering large numbers of spectacles from Florence, graded for age, including concave lenses for the short-sighted: the first written mention of them.",
+   "date": {
+    "start": 1286,
+    "end": 1465,
+    "display": "c. 1286–1460s CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "From the invention of convex spectacles about 1286, dated from Giordano's sermon, to the first documents for concave lenses in the 1460s."
+   },
+   "type": "invention",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [],
+   "themes": [
+    "eye care",
+    "optics",
+    "craft innovation"
+   ],
+   "locations": [
+    {
+     "name": "Pisa",
+     "modern": "Pisa, Italy",
+     "lat": 43.72,
+     "lon": 10.4,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "discovery-site",
+     "role": "Convent of Giordano da Pisa and Alessandro della Spina"
+    },
+    {
+     "name": "Florence",
+     "modern": "Florence, Italy",
+     "lat": 43.77,
+     "lon": 11.25,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Giordano's sermon of 1306; 15th-century spectacle trade, including concave lenses"
+    }
+   ],
+   "people": [
+    {
+     "name": "Giordano da Pisa",
+     "role": "Dominican preacher who recorded the invention"
+    },
+    {
+     "name": "Alessandro della Spina",
+     "role": "Dominican friar who made and spread spectacles"
+    }
+   ],
+   "whatChanged": "People whose sight failed with age, and later the short-sighted, could have their vision corrected.",
+   "whyItMattered": "Spectacles extended the working and reading lives of scholars and craftsmen.",
+   "limitations": [
+    "The inventor is unknown, and Pisa's claim, though favoured, is not certain; Venice also has early evidence of manufacture.",
+    "Bacon described magnifying lenses but not spectacles."
+   ],
+   "sources": [
+    {
+     "citation": "The Ophthalmologist. The Ophthalmologist's Time Machine, chapter 36: the spectacular invention of spectacles (January 2026).",
+     "url": "https://theophthalmologist.com/issues/2026/articles/january/the-ophthalmologists-time-machine-chapter-36/",
+     "kind": "journal",
+     "supports": "The estimate of the date comes from the sermon of Friar Giordano da Rivalto of Pisa at Santa Maria Novella in Florence: 'It is not yet twenty years since there was found the art…'."
+    },
+    {
+     "citation": "All About Vision. A history of glasses (with Neil Handley, British Optical Association Museum).",
+     "url": "https://www.allaboutvision.com/eyewear/eyeglasses/history-of-glasses/",
+     "kind": "institution",
+     "supports": "The first written mention of spectacles is Giordano da Pisa's sermon, saying they had been around for less than 20 years."
+    },
+    {
+     "citation": "Consiglio Nazionale delle Ricerche, Istituto Nazionale di Ottica. Muse/Stradano (2023), pp. 93–103.",
+     "url": "https://viola.ino.cnr.it/wp-content/uploads/2024/08/2023_3_Muse_Stradano_pp1-116-93-103.pdf",
+     "kind": "institution",
+     "supports": "Giordano da Pisa's sermon at Santa Maria Novella; the Pisan convent chronicle on Alessandro della Spina, who made spectacles himself; evidence of spectacles in use in Venice at the end of the 13th century."
+    },
+    {
+     "citation": "uCatholic. Wear glasses? You can thank this medieval Catholic friar.",
+     "url": "https://www.ucatholic.com/blog/wear-glasses-you-can-thank-this-medieval-catholic-friar-for-them/",
+     "kind": "institution",
+     "supports": "Sermon of 23 February 1306; he had seen the inventor; Alessandro della Spina made eyeglasses and gave them away."
+    },
+    {
+     "citation": "Ilardi V. Eyeglasses and concave lenses in fifteenth-century Florence and Milan: new documents. Renaissance Quarterly, 1976.",
+     "url": "https://www.cambridge.org/core/journals/renaissance-quarterly/article/eyeglasses-and-concave-lenses-in-fifteenthcentury-florence-and-milan-new-documents/4232170036589FEED6441FEAE5EC17E6",
+     "kind": "journal",
+     "supports": "Documents show concave lenses for myopes made in Florence from at least the mid-fifteenth century; Florence the leading centre of high-quality eyeglasses."
+    },
+    {
+     "citation": "Utrecht University Repository. Note on Ilardi's findings.",
+     "url": "https://dspace.library.uu.nl/handle/1874/33280",
+     "kind": "university",
+     "supports": "Sforza orders of the 1460s for convex lenses graded by age and concave lenses in two grades, the first written mention of concave eyeglasses; convex eyeglasses invented around 1286."
+    },
+    {
+     "citation": "Brown University (Joukowsky Institute). Lenses and optics: Roger Bacon, Perspectiva, 1267.",
+     "url": "https://webhelper.brown.edu/joukowsky/courses/13things/7338.html",
+     "kind": "university",
+     "supports": "Bacon's work on optics and the use of glass spheres as magnifiers; spectacles developed later, around 1280–1290, by a disputed inventor."
+    },
+    {
+     "citation": "Ilardi V. Renaissance Vision from Spectacles to Telescopes. American Philosophical Society, 2007.",
+     "url": "https://www.degruyterbrill.com/document/doi/10.70249/9780871693914/html",
+     "kind": "book",
+     "supports": "History of eyeglasses from their invention in Italy c. 1286; in the 15th century the ability to grind convex lenses for levels of presbyopia and concave lenses for myopia."
+    },
+    {
+     "citation": "Ilardi V. Renaissance Vision from Spectacles to Telescopes (publisher's description, PaperBackSwap).",
+     "url": "https://paperbackswap.com/Renaissance-Vision-Spectacles-Vincent-Ilardi/book/0871692597",
+     "kind": "book",
+     "supports": "Eyeglasses eased the textual studies of scholars and the work of craftsmen; Florence rather than Venice dominated the 15th-century market."
+    },
+    {
+     "citation": "SuperScout. Eyeglasses (innovation record).",
+     "url": "https://superscout.co/innovation/eyeglasses",
+     "kind": "institution",
+     "supports": "On 23 February 1306 Giordano da Pisa said the art was discovered less than twenty years earlier and that he had seen and spoken to the inventor; Rosen and Ilardi date it to about 1286; the inventor's name is unknown; Pisa and Venice both have claims."
+    }
+   ],
+   "related": [
+    "hunayn-translations"
+   ]
+  },
+  {
+   "id": "quinze-vingts",
+   "title": "Louis IX founds the Quinze-Vingts for the blind",
+   "summary": "Around 1260 King Louis IX of France built a hospice in Paris for 300 poor blind people, the Quinze-Vingts ('fifteen twenties'). The oldest institution for the blind in the world, it survives today as France's national eye hospital.",
+   "explanation": "Louis IX, later Saint Louis, founded the house on the rue Saint-Honoré near the Louvre to take in the blind poor of Paris, who would otherwise have lived by begging. Its name records the number of residents, counted in scores: fifteen times twenty, or 300. The residents lived as a community under a chaplain, and the king's charters granted them privileges, including the right to beg.\n\nA popular story says it was built for 300 knights blinded on crusade, but historians regard this as a legend. The Quinze-Vingts moved to the faubourg Saint-Antoine in 1779 and is now the Centre hospitalier national d'ophtalmologie des Quinze-Vingts.",
+   "date": {
+    "start": 1256,
+    "end": 1260,
+    "display": "c. 1260 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Usually dated to 1260; one study gives 1256."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "disability",
+    "blindness",
+    "hospitals"
+   ],
+   "locations": [
+    {
+     "name": "Hospice des Quinze-Vingts, rue Saint-Honoré",
+     "modern": "Paris, France",
+     "lat": 48.86,
+     "lon": 2.34,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Louis IX (Saint Louis)",
+     "role": "King of France and founder"
+    }
+   ],
+   "whatChanged": "Blind people were given a permanent, royally endowed home and community.",
+   "whyItMattered": "It is the oldest institution for the blind still in existence and the root of France's national ophthalmology hospital.",
+   "limitations": [
+    "It was a residential community for the blind rather than a place of medical treatment.",
+    "The story of 300 blinded crusaders is a legend."
+   ],
+   "sources": [
+    {
+     "citation": "Wheatley E. Blindness, discipline, and reward: Louis IX and the foundation of the Hospice des Quinze-Vingts. Disability Studies Quarterly 22(4), 2002.",
+     "url": "https://dsq-sds.org/article/id/1331/",
+     "kind": "journal",
+     "supports": "Louis IX founded a residential hospice for the blind, named for the 300 residents it was meant to house (dated here to 1256)."
+    },
+    {
+     "citation": "Historical Marker Database. Hospice des Quinze-Vingts (Histoire de Paris marker).",
+     "url": "https://hmdb.org/m.asp?m=248971",
+     "kind": "institution",
+     "supports": "Saint Louis had a hospice built here in 1260 for 15 times 20, or 300, blind people; later transferred to the faubourg Saint-Antoine."
+    },
+    {
+     "citation": "Sortir à Paris. Heritage Days: the history of the Quinze-Vingts hospital.",
+     "url": "https://sortiraparis.com/en/news/heritage-days/articles/299648-heritage-days-2024-discover-the-history-of-the-15-20-hospital-in-paris",
+     "kind": "institution",
+     "supports": "The story of 300 blinded crusader knights is regarded by hospital historians as a legend."
+    },
+    {
+     "citation": "UCLA, Paris: Capital of the Nineteenth Century project. The Quinze-Vingts.",
+     "url": "https://paris.cdh.ucla.edu/the-quinze-vingts",
+     "kind": "university",
+     "supports": "The oldest hospital for the blind in the world; built between 1260 and 1325; the blind held privileges as official beggars; moved in 1779 under Louis XVI."
+    },
+    {
+     "citation": "Institut de la Vision. Quinze-Vingts National Ophthalmology Hospital.",
+     "url": "https://www.institut-vision.org/en/22-partnerships/institutions/59-lalala.html",
+     "kind": "institution",
+     "supports": "Founded in 1260 on the rue Saint-Honoré for 300 poor blind people of Paris; a chaplain headed the community."
+    },
+    {
+     "citation": "Diocèse de Paris. Saint Louis, les pauvres et les malades.",
+     "url": "https://dioceseparis.fr/saint-louis-les-pauvres-et-les.html",
+     "kind": "institution",
+     "supports": "He founded the Quinze-Vingts for 300 blind people who would otherwise have been condemned to poverty and begging."
+    },
+    {
+     "citation": "Structurae. Centre hospitalier national d'ophtalmologie des Quinze-Vingts.",
+     "url": "https://structurae.net/en/structures/centre-hospitalier-national-dophtalmologie-des-quinze-vingts",
+     "kind": "institution",
+     "supports": "The name means three hundred, the number of beds, for poor blind people; now France's national ophthalmology hospital."
+    }
+   ],
+   "related": [
+    "spectacles-invention"
+   ]
+  },
+  {
+   "id": "mondino-dissection",
+   "title": "Mondino de' Luzzi revives human dissection",
+   "summary": "In January 1315 the Bologna professor Mondino de' Luzzi publicly dissected the body of an executed woman, and in 1316 he finished the Anathomia, the first European book since antiquity devoted entirely to anatomy and based on human dissection. It remained the standard dissecting manual until Vesalius.",
+   "explanation": "Human dissection had been practised in Alexandria but then largely abandoned for many centuries. By the early fourteenth century Bologna had become a centre of anatomical study, and Mondino, who taught anatomy and surgery there, reintroduced systematic teaching of anatomy based on dissection of the human body.\n\nHis Anathomia, completed in 1316 and first printed in 1478, is less a description of the body by systems than a dissecting manual: it takes the organs in the order in which the dissector reached them. It went through 39 editions. Public anatomy lessons of this kind usually illustrated what earlier authorities had written rather than testing it, with a reader at the lectern while a barber or surgeon cut.",
+   "date": {
+    "start": 1315,
+    "end": 1316,
+    "display": "1315–1316 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "The public dissection of January 1315 and the completion of the Anathomia in 1316."
+   },
+   "type": "demonstration",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "mechanisms",
+   "tags": [
+    "surgery"
+   ],
+   "themes": [
+    "anatomy",
+    "medical teaching",
+    "authority versus observation"
+   ],
+   "locations": [
+    {
+     "name": "University of Bologna",
+     "modern": "Bologna, Italy",
+     "lat": 44.49,
+     "lon": 11.34,
+     "radiusKm": 3,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Mondino de' Luzzi",
+     "role": "Anatomist and physician"
+    }
+   ],
+   "whatChanged": "Dissection of the human body returned to European medical teaching.",
+   "whyItMattered": "Mondino's method and book made human dissection a regular part of medical education for two centuries, laying the ground for Vesalius.",
+   "limitations": [
+    "Calling it the first dissection in Europe since antiquity overlooks earlier post-mortem openings, such as one recorded at Cremona in 1286.",
+    "Like other public anatomies of the time, his dissections mainly illustrated what Galen and the Arabic authorities had written rather than testing it."
+   ],
+   "harms": "The bodies used were those of executed criminals, dissected without consent.",
+   "sources": [
+    {
+     "citation": "Encyclopaedia Britannica. Mondino de' Luzzi.",
+     "url": "https://www.britannica.com/print/article/389092",
+     "kind": "book",
+     "supports": "c. 1270–c. 1326; Anathomia (MS 1316; printed 1478) the first European book since antiquity entirely devoted to anatomy and based on dissection of human cadavers; reintroduced systematic anatomy teaching; performed dissections at public lectures; standard handbook, 39 editions."
+    },
+    {
+     "citation": "Encyclopedia.com. Mondino de' Luzzi.",
+     "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/mondino-de-luzzi",
+     "kind": "book",
+     "supports": "Bologna a centre for anatomical study based on human dissection; in January 1315 he dissected the body of a woman; completed the Anathomia by the end of the following year; organs discussed in the order they appeared to the dissector."
+    },
+    {
+     "citation": "Di Matteo B, et al. Mondino de' Liuzzi. Clinical Orthopaedics and Related Research, 2017.",
+     "url": "https://doi.org/10.1007/s11999-016-5213-5",
+     "kind": "journal",
+     "supports": "Known as the 'Restorer of Anatomy'; in 1315 performed the first documented public dissection in more than 1,700 years, in January, on the body of a female criminal."
+    },
+    {
+     "citation": "Becker Medical Library, Washington University. Vesalius: early life.",
+     "url": "https://beckerexhibits.wustl.edu/vesalius/early-life.html",
+     "kind": "university",
+     "supports": "The first definitive example of human dissection for studying anatomy dates from 1315 in Bologna; public anatomy lessons illustrated what earlier authors had written, with a lector reading while a surgeon or barber dissected."
+    },
+    {
+     "citation": "Virchows Archiv (2013). Article on the history of the autopsy and pathological anatomy (SpringerMedizin).",
+     "url": "https://www.springermedizin.at/article/10.1007/s00428-013-1387-3",
+     "kind": "journal",
+     "supports": "Salimbene of Parma records a physician of Cremona who opened the body of a patient who died in the pestilence of 1286."
+    }
+   ],
+   "related": [
+    "alexandria-human-dissection",
+    "vesalius-fabrica",
+    "benivieni-pathology"
+   ]
+  },
+  {
+   "id": "santa-maria-nuova",
+   "title": "Folco Portinari founds Santa Maria Nuova in Florence",
+   "summary": "In June 1288 the Florentine merchant Folco Portinari, father of Dante's Beatrice, founded the hospital of Santa Maria Nuova, urged on by his household's servant Monna Tessa. It grew into Florence's great hospital, whose regulations were copied abroad, and it still treats patients today.",
+   "explanation": "Folco di Ricovero Portinari bought houses in the centre of Florence to receive poor people in need. Monna Tessa, who devoted her life to the sick, founded a congregation of women, the Oblates, who served in the hospital.\n\nBy around 1500 Santa Maria Nuova was so well run that Henry VII of England asked for its statutes as a model for the Savoy hospital in London, and in 1546 Ferdinand of Austria requested a copy of its regulations. Its physicians included Antonio Benivieni, and it still serves as the emergency hospital for the old city centre.",
+   "date": {
+    "start": 1288,
+    "end": 1288,
+    "display": "1288 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "month",
+    "basis": "Founded in June 1288."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text",
+    "programme-records"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "hospitals",
+    "continuity over centuries",
+    "nursing"
+   ],
+   "locations": [
+    {
+     "name": "Ospedale di Santa Maria Nuova",
+     "modern": "Florence, Italy",
+     "lat": 43.77,
+     "lon": 11.26,
+     "radiusKm": 1,
+     "precision": "site",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Folco Portinari",
+     "role": "Merchant and founder"
+    },
+    {
+     "name": "Monna Tessa",
+     "role": "Portinari household servant who inspired the foundation and nursed the sick"
+    }
+   ],
+   "whatChanged": "Florence gained a large, well-organised hospital for the sick poor.",
+   "whyItMattered": "Its organisation became a model for hospitals elsewhere in Europe, and it has worked without interruption for more than 700 years.",
+   "limitations": [
+    "It is often called the oldest hospital in the world still operating; that depends on how continuous service is defined, and other hospitals, such as St Bartholomew's in London, are older."
+   ],
+   "sources": [
+    {
+     "citation": "Lippi D, Padeletti L. The spedale of Santa Maria Nuova in Florence. Hektoen International, 2017.",
+     "url": "https://hekint.org/2017/02/22/donatella-lippi-luigi-padeletti/",
+     "kind": "journal",
+     "supports": "Founded in June 1288 by Folco di Ricovero dei Portinari, father of Dante's Beatrice, who bought houses to receive poor people; the Oblates founded by Monna Tessa; Henry VII and Ferdinand of Austria (1546) requested its regulations; today the emergency hospital for the old city."
+    },
+    {
+     "citation": "Park K, Henderson J. 'The first hospital among Christians': the ospedale di Santa Maria Nuova in early sixteenth-century Florence. Medical History 35(2):164–188, 1991 (statutes, via CapDox).",
+     "url": "https://www.capdox.capuchin.org.au/?p=3853",
+     "kind": "journal",
+     "supports": "Francesco Portinari's letter to Henry VII of about 1500 incorporating the statutes; Folco Portinari founded the hospital."
+    },
+    {
+     "citation": "HiMeTop (Università Campus Bio-Medico). Ospedale di Santa Maria Nuova.",
+     "url": "https://himetop.unicampus.it/ospedale-di-santa-maria-nuova/",
+     "kind": "university",
+     "supports": "Florence's oldest hospital still active, founded in 1288 by Folco Portinari, encouraged by Monna Tessa, a nurse in the Portinari household."
+    },
+    {
+     "citation": "Feel Florence (Comune di Firenze). Museum of Santa Maria Nuova.",
+     "url": "https://www.feelflorence.it/en/node/12306",
+     "kind": "institution",
+     "supports": "On 23 June 1288 Folco Portinari donated the land on which the hospital was built."
+    },
+    {
+     "citation": "Hektoen International. Antonio Benivieni.",
+     "url": "https://hekint.org/?p=31717",
+     "kind": "journal",
+     "supports": "Benivieni was a staff physician at Santa Maria Nuova."
+    },
+    {
+     "citation": "Fantastic Florence. Medicine in Renaissance Florence: Santa Maria Nuova Hospital.",
+     "url": "https://fantasticflorence.com/?p=6612",
+     "kind": "institution",
+     "supports": "Founded in 1288 by Folco Portinari; active for over 700 years without interruption."
+    }
+   ],
+   "related": [
+    "benivieni-pathology",
+    "st-bartholomews-hospital"
+   ]
+  },
+  {
+   "id": "benivieni-pathology",
+   "title": "Benivieni links autopsy findings to causes of death",
+   "summary": "The Florentine physician Antonio Benivieni (1443–1502) recorded about twenty post-mortem examinations made to find out why patients had died, describing gallstones, bladder stones, stomach cancer and a perforated bowel. His notes, published in 1507, are the first book on pathological anatomy.",
+   "explanation": "Benivieni practised in Florence from around 1470 as physician, surgeon and obstetrician to leading families, and worked at the hospital of Santa Maria Nuova. In uncertain cases he asked patients' relatives for permission to open the body, the first physician known to have done so, and compared what he found with the illness he had seen.\n\nHe died before he could finish his book. His brother Girolamo, with the physician Giovanni Rosati, edited his manuscript and published it in 1507 as De abditis nonnullis ac mirandis morborum et sanationum causis (On some hidden and remarkable causes of diseases and cures). Its 111 short case histories include early observations of syphilis.",
+   "date": {
+    "start": 1507,
+    "end": 1507,
+    "display": "1507 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Published in Florence in 1507, from observations made over the previous decades."
+   },
+   "type": "observation",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "diagnosis",
+   "tags": [
+    "mechanisms"
+   ],
+   "themes": [
+    "pathology",
+    "autopsy",
+    "clinical description"
+   ],
+   "locations": [
+    {
+     "name": "Florence",
+     "modern": "Florence, Italy",
+     "lat": 43.77,
+     "lon": 11.25,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Antonio Benivieni",
+     "role": "Physician"
+    },
+    {
+     "name": "Girolamo Benivieni",
+     "role": "Brother who edited and published the book"
+    }
+   ],
+   "whatChanged": "Opening the body after death began to be used deliberately to explain the disease that had killed the patient.",
+   "whyItMattered": "Benivieni's approach is the starting point of pathological anatomy, later developed by Bonet and Morgagni.",
+   "limitations": [
+    "Bodies had been opened after death before, for example at Cremona in 1286; Benivieni's 'first' is the first book to collect such examinations to find causes of death.",
+    "The book was edited after his death, and only some of its 111 cases involve autopsy."
+   ],
+   "sources": [
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Benivieni A. De abditis nonnullis ac mirandis morborum et sanationum causis. Florence, 1507. Entry 2836.",
+     "url": "https://historyofmedicine.com/id/2836",
+     "kind": "book",
+     "supports": "Records twenty post-mortem examinations, with gallstones, urinary calculi, scirrhous cancer of the stomach, a fibrous cardiac tumour and peritonitis from intestinal perforation; the first physician known to have asked relatives' permission for necropsies; edited by his brother Girolamo with Giovanni Rosati."
+    },
+    {
+     "citation": "Garrison–Morton archive. Entry 2836.",
+     "url": "https://archive.historyofmedicine.com/id/2836",
+     "kind": "book",
+     "supports": "The first book on pathological anatomy, presenting the first reports of autopsies made specifically to determine the cause of death."
+    },
+    {
+     "citation": "University of Iowa, Heirs of Hippocrates no. 136. Antonio Benivieni.",
+     "url": "https://heirs.lib.uiowa.edu/record.php?id=136",
+     "kind": "university",
+     "supports": "Among the first physicians to study syphilis; the first book on pathological anatomy, published by his brother in 1507; 111 observations covering some twenty post-mortem examinations made to determine the cause of death."
+    },
+    {
+     "citation": "Hektoen International. Antonio Benivieni.",
+     "url": "https://hekint.org/?p=31717",
+     "kind": "journal",
+     "supports": "Dissected corpses and recorded his findings about seventy years before Vesalius; practice in Florence from around 1470 as physician, surgeon and obstetrician; staff physician at Santa Maria Nuova."
+    },
+    {
+     "citation": "Virchows Archiv (2013). Article on the history of the autopsy and pathological anatomy (SpringerMedizin).",
+     "url": "https://www.springermedizin.at/article/10.1007/s00428-013-1387-3",
+     "kind": "journal",
+     "supports": "The Cremona autopsy of 1286; Benivieni, Bonet, Boerhaave and Morgagni as the line of pathological anatomy."
+    }
+   ],
+   "related": [
+    "mondino-dissection",
+    "santa-maria-nuova"
+   ]
+  },
+  {
+   "id": "paracelsus-chemical-medicine",
+   "title": "Paracelsus brings chemistry into medicine",
+   "summary": "The Swiss-German physician Paracelsus (1493–1541) rejected the authority of Galen and Avicenna, publicly burning their books in Basel in 1527, and used new chemical remedies made from mercury, sulphur, iron and copper sulphate. He argued that whether a substance is a poison depends on the dose.",
+   "explanation": "Paracelsus learned chemistry at a mining school where his father taught. In June 1527 he was appointed town physician of Basel, with a professorship at the university. He lectured in German rather than Latin, invited anyone to attend, and burned the writings of Galen and Avicenna, saying that medicine needed experience rather than reading. He was forced out of Basel in 1528 and spent the rest of his life wandering.\n\nHe prepared remedies chemically, taught that the body was made of three principles (sulphur, mercury and salt), wrote a Great Surgery Book (1536) and a clinical description of syphilis (1530), and advocated mercury for syphilis. His chemical remedies entered the first London Pharmacopoeia of 1618.",
+   "date": {
+    "start": 1527,
+    "end": 1541,
+    "display": "1527–1541 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "From his appointment at Basel in 1527 to his death in 1541."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "mechanisms"
+   ],
+   "themes": [
+    "pharmacy",
+    "chemistry",
+    "authority versus observation"
+   ],
+   "locations": [
+    {
+     "name": "Basel",
+     "modern": "Basel, Switzerland",
+     "lat": 47.56,
+     "lon": 7.59,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "locationNote": "Mapped to Basel, where he taught in 1527–28; he practised in many towns across central Europe.",
+   "people": [
+    {
+     "name": "Paracelsus (Theophrastus von Hohenheim)",
+     "role": "Physician and alchemist"
+    }
+   ],
+   "whatChanged": "Chemically prepared mineral remedies, and the idea that dose decides toxicity, entered medicine.",
+   "whyItMattered": "Paracelsus's chemical medicine (iatrochemistry) helped lay the ground for pharmacology and toxicology.",
+   "limitations": [
+    "His medicine mixed chemistry with alchemy, astrology and secret remedies.",
+    "His attacks on established medicine provoked such opposition that he was forced out of Basel within a year."
+   ],
+   "sources": [
+    {
+     "citation": "Encyclopaedia Britannica. Paracelsus.",
+     "url": "https://www.britannica.com/biography/Paracelsus",
+     "kind": "book",
+     "supports": "Great Surgery Book in 1536 and a clinical description of syphilis in 1530; his father taught chemistry at the Fugger Bergschule; the recognised authorities Galen and Avicenna."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Paracelsus (article history).",
+     "url": "https://www.britannica.com/biography/Paracelsus/article-history",
+     "kind": "book",
+     "supports": "1493–1541; the German-Swiss physician who established the role of chemistry in medicine; lectures announced on 5 June 1527 open to anyone; left Basel."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Paracelsus: assessment.",
+     "url": "https://britannica.com/EBchecked/topic/442424/Paracelsus/5505/Assessment",
+     "kind": "book",
+     "supports": "Prepared and used new chemical remedies containing mercury, sulphur, iron and copper sulphate, as the first London Pharmacopoeia of 1618 shows."
+    },
+    {
+     "citation": "Pearce JMS. The wayward Paracelsus. Hektoen International.",
+     "url": "https://hekint.org/?p=34785",
+     "kind": "journal",
+     "supports": "Appointed town physician of Basel with a professorship in June 1527; three weeks later burned the writings of Galen and Avicenna, saying reading never makes a physician; conjoined alchemy and secret remedies with chemical medicines."
+    },
+    {
+     "citation": "Chemistry in medicine (Paracelsus). CHIMIA 74(6):507–508, 2020.",
+     "url": "https://chimia.ch/chimia/article/download/2020_507/393/11048",
+     "kind": "journal",
+     "supports": "City physician and professor at Basel in 1527–28; poisons can become medicines since the dose determines toxicity; the three substances sulphur, mercury and salt."
+    },
+    {
+     "citation": "Encyclopedia.com. Paracelsus.",
+     "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/paracelsus",
+     "kind": "book",
+     "supports": "Burned the works of Galen and Avicenna in 1527; experiments that developed into iatrochemistry; advocated mercury for syphilis."
+    },
+    {
+     "citation": "NC State University. Paracelsus, alchemist and physician (The Rise of Modern Science).",
+     "url": "https://sites.google.com/ncsu.edu/rise-of-modern-science/home/outline-1/paracelsus-alchemist-physician",
+     "kind": "university",
+     "supports": "Lectured in the vernacular; burned Galen and Avicenna; proposed heavy metals such as mercury for syphilis; exiled from Basel by 1528."
+    }
+   ],
+   "related": [
+    "galen-pergamon",
+    "avicenna-canon"
+   ]
+  },
+  {
+   "id": "pare-gunshot-wounds",
+   "title": "Paré stops pouring boiling oil into gunshot wounds",
+   "summary": "At the siege of Turin in 1537 the young French army surgeon Ambroise Paré ran out of the boiling oil then used on gunshot wounds and dressed the rest with egg yolk, oil of roses and turpentine. Next morning he found those men resting comfortably, and he gave up cautery for such wounds.",
+   "explanation": "The leading authority, Giovanni da Vigo, taught that gunshot wounds were poisoned by gunpowder and must be cauterised with boiling oil. Paré, a barber-surgeon who had trained at the Hôtel-Dieu in Paris, followed this practice until his oil ran out at Turin. He went on to try other dressings and concluded that gunshot wounds were not poisonous and did not need cautery.\n\nHe published his findings in 1545 in La méthode de traicter les playes faites par les arquebuses et aultres bastons à feu, and in further accounts in 1552, 1564 and 1575.",
+   "date": {
+    "start": 1537,
+    "end": 1545,
+    "display": "1537–1545 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "From the Turin campaign of 1537 (some accounts say 1536) to his first published account in 1545."
+   },
+   "type": "observation",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "surgery",
+   "tags": [],
+   "themes": [
+    "war surgery",
+    "authority versus observation",
+    "comparison of treatments"
+   ],
+   "locations": [
+    {
+     "name": "Turin",
+     "modern": "Turin, Italy",
+     "lat": 45.07,
+     "lon": 7.69,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "The 1537 campaign where he ran out of oil"
+    },
+    {
+     "name": "Paris",
+     "modern": "Paris, France",
+     "lat": 48.86,
+     "lon": 2.35,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin",
+     "role": "Where his 1545 treatise was published"
+    }
+   ],
+   "people": [
+    {
+     "name": "Ambroise Paré",
+     "role": "Barber-surgeon"
+    }
+   ],
+   "whatChanged": "Surgeons began to abandon cautery with boiling oil for gunshot wounds in favour of soothing dressings.",
+   "whyItMattered": "It spared wounded soldiers great pain and harm, and it is a celebrated example of changing practice because of observed results rather than authority.",
+   "limitations": [
+    "The comparison was accidental, not a planned trial, and Paré told the story himself, in its fullest form decades later.",
+    "Sources date the Turin episode to 1536 or 1537."
+   ],
+   "harms": "Before the change, wounded soldiers were routinely scalded with boiling oil on the advice of the leading surgical authority.",
+   "sources": [
+    {
+     "citation": "Donaldson IML. Ambroise Paré's accounts of new methods for treating gunshot wounds and burns. Journal of the Royal Society of Medicine (PubMed Central), 2015.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4672255",
+     "kind": "journal",
+     "supports": "France at war in 1537; Giovanni da Vigo was the principal authority on gunshot wounds, holding them poisoned by gunpowder and to be cauterised with hot oil; the remedy Paré used when the oil ran out."
+    },
+    {
+     "citation": "James Lind Library. Paré A (1545, 1552, 1564, 1575): accounts of the treatment of gunshot wounds.",
+     "url": "https://www.jameslindlibrary.org/?p=1259",
+     "kind": "institution",
+     "supports": "The 1537 expedition to relieve Turin; Paré published accounts in 1545, 1552, 1564, 1575 and later; avoiding cauterisation was less painful and less damaging."
+    },
+    {
+     "citation": "Encyclopedia.com. Paré, Ambroise.",
+     "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ambroise-pare",
+     "kind": "book",
+     "supports": "Gunshot wounds considered poisonous and cauterised with boiling oil; at Turin (1536 by his account, published almost fifty years later) he ran out and used egg yolk, oil of roses and turpentine; further experiments; concluded the wounds were not poisonous; first treatise in 1545."
+    },
+    {
+     "citation": "Ellis H. Ambroise Paré. British Journal of Hospital Medicine 71(3), 2010.",
+     "url": "https://storage.imrpress.com/IMR/hmed/application/10.12968/hmed.2010.71.3.46980.pdf",
+     "kind": "journal",
+     "supports": "At Turin in 1537 he exhausted his boiling oil, applied egg yolk, turpentine and rose oil, and found next morning those men comfortable while the cauterised were in pain."
+    },
+    {
+     "citation": "Southwestern University Special Collections. Ambroise Paré, Les Oeuvres (1585).",
+     "url": "https://suspeccoll.southwestern.edu/exhibits/show/bookasartifact/ambroisepareprosthetic",
+     "kind": "university",
+     "supports": "Began as a barber-surgeon apprentice at the Hôtel-Dieu in Paris in 1533; boiling oil poured over gunshot wounds believed poisonous."
+    }
+   ],
+   "related": [
+    "vesalius-fabrica",
+    "lind-scurvy-trial"
+   ]
+  },
+  {
+   "id": "college-of-physicians-london",
+   "title": "Henry VIII charters the College of Physicians",
+   "summary": "On 23 September 1518 Henry VIII, at the urging of his physician Thomas Linacre, chartered a College of Physicians in London with power to license and discipline those practising physic in the city and within seven miles. In 1523 Parliament extended its licensing remit to all England.",
+   "explanation": "Linacre, a humanist scholar, persuaded the king to create a college modelled on the academies that regulated medicine in Italian cities. The charter named six founders, including Linacre, John Chamber and Fernandez de Victoria, and gave the college the right to examine and admit physicians so that 'ignorant and rash practisers' could be restrained.\n\nIt placed the licensing of medical practice in the hands of men educated in medicine. Linacre was the first president and left his house on Knightrider Street as the college's home. The college later sponsored anatomy lectures, at which William Harvey worked out his theory of the circulation, and in 1618 issued the first London Pharmacopoeia.",
+   "date": {
+    "start": 1518,
+    "end": 1518,
+    "display": "23 September 1518",
+    "kind": "point",
+    "approximate": false,
+    "precision": "day",
+    "basis": "Date of the royal charter."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "medical profession",
+    "regulation and licensing"
+   ],
+   "locations": [
+    {
+     "name": "City of London",
+     "modern": "London, England",
+     "lat": 51.51,
+     "lon": -0.1,
+     "radiusKm": 12,
+     "precision": "settlement",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Thomas Linacre",
+     "role": "Royal physician, founder and first president"
+    },
+    {
+     "name": "Henry VIII",
+     "role": "King who granted the charter"
+    }
+   ],
+   "whatChanged": "The right to practise as a physician in London came to depend on examination and licence by educated physicians.",
+   "whyItMattered": "The college became one of the main bodies regulating English medicine and a model for professional self-regulation.",
+   "limitations": [
+    "It covered physicians only, not surgeons or apothecaries, and graduates of Oxford and Cambridge were largely exempt outside London.",
+    "Licensing by learned bodies already existed elsewhere in Europe; the college was modelled on them."
+   ],
+   "sources": [
+    {
+     "citation": "Royal College of Physicians. The 1518 charter of incorporation (English translation).",
+     "url": "https://www.rcp.ac.uk/media/13ub5ika/1518-charter-english-translation.pdf",
+     "kind": "primary",
+     "supports": "Dated 23 September 1518; granted on the petition of John Chamber, Thomas Linacre, Fernandez de Victoria, Nicholas Halsewell, Giovanni Franceschi and Robert Yaxley; a perpetual college for physicians practising in London and within seven miles; modelled on cities in Italy."
+    },
+    {
+     "citation": "Shorvon S. The Royal College of Physicians at 500 years: changing roles and challenges. The Lancet, 2018 (UCL Discovery).",
+     "url": "https://discovery.ucl.ac.uk/10059700/3/Shorvon_FILE%202%20CLEAN%20Sept11The%20art%20of%20medicine.pdf",
+     "kind": "journal",
+     "supports": "Henry VIII issued the charter on 23 September 1518 at Linacre's behest; licensing powers placed for the first time in the hands of men educated in medicine; powers over the City of London and seven miles around."
+    },
+    {
+     "citation": "Jawad AS. The Royal College of Physicians of London 500th anniversary. Saudi Medical Journal 39(2):121, 2018.",
+     "url": "https://smj.org.sa/content/39/2/121.full.pdf",
+     "kind": "journal",
+     "supports": "To prevent unqualified practitioners, so that 'ignorant and rash practisers' could be restrained; Parliament ratified the charter in 1523 and extended its remit to all England; the name 'Royal' adopted gradually in the 17th century."
+    },
+    {
+     "citation": "Royal College of Physicians. History of the RCP: image gallery.",
+     "url": "https://history.rcp.ac.uk/gallery",
+     "kind": "institution",
+     "supports": "Linacre persuaded Henry VIII to found a college along the lines of the academies in Italy, to regulate medicine in the City of London and 7 miles around; Linacre the first president."
+    },
+    {
+     "citation": "Royal College of Physicians. History timeline.",
+     "url": "https://history.rcplondon.ac.uk/timeline",
+     "kind": "institution",
+     "supports": "Act of parliament extending the college's regulation to all England; Linacre left his house on Knightrider Street to the college; Harvey's Lumleian lectures; Pharmacopoeia Londinensis, 1618."
+    },
+    {
+     "citation": "Chalmers A. The General Biographical Dictionary: Linacre, Thomas (From Old Books).",
+     "url": "https://words.fromoldbooks.org/Chalmers-Biography/l/linacre-thomas.html",
+     "kind": "book",
+     "supports": "Letters patent of 1518 gave the college the right to examine and admit practitioners within London and seven miles, and to license throughout the kingdom except graduates of Oxford or Cambridge."
+    },
+    {
+     "citation": "Jolliffe P. Thomas Linacre: humanist, scholar, physician and priest. Catholic Medical Quarterly 67(3), 2017.",
+     "url": "https://cmq.org.uk/CMQ/2017/Aug/thomas_linacre.html",
+     "kind": "journal",
+     "supports": "Linacre (1460–1524), physician to Henry VIII, petitioned with Cardinal Wolsey and five other physicians for a college to license qualified doctors in London."
+    }
+   ],
+   "related": [
+    "harvey-circulation"
+   ]
+  },
+  {
+   "id": "fracastoro-contagion",
+   "title": "Fracastoro's theory of contagion",
+   "summary": "In 1546 the Veronese physician Girolamo Fracastoro argued in De contagione that contagious diseases are caused by tiny, imperceptible 'seeds' (seminaria), specific to each disease, that multiply and spread by direct contact, by objects such as clothing (fomites) and through the air at a distance.",
+   "explanation": "Fracastoro had already written a celebrated poem on syphilis, published in 1530. In De contagione et contagiosis morbis (On contagion and contagious diseases), he set out a theory of how contagion works and discussed diseases including typhus, syphilis and leprosy.\n\nHe held that each contagious disease had its own seeds, too small to see, which could multiply and pass from person to person in three ways: by direct contact, by infected objects such as clothing that kept the seeds alive, which he called fomites, and over a distance through the air.",
+   "date": {
+    "start": 1546,
+    "end": 1546,
+    "display": "1546 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Year of publication of De contagione."
+   },
+   "type": "discovery",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "mechanisms",
+   "tags": [
+    "public-health"
+   ],
+   "themes": [
+    "infectious disease",
+    "germ theory",
+    "contagion"
+   ],
+   "locations": [
+    {
+     "name": "Verona",
+     "modern": "Verona, Italy",
+     "lat": 45.44,
+     "lon": 10.99,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Girolamo Fracastoro",
+     "role": "Physician, poet and philosopher"
+    }
+   ],
+   "whatChanged": "Contagion was explained by specific, self-multiplying particles passed in defined ways.",
+   "whyItMattered": "Fracastoro's ideas foreshadowed germ theory by centuries and gave lasting terms for how infection spreads.",
+   "limitations": [
+    "His seeds were a philosophical idea, not microbes he could see, and he also invoked the influence of the stars on epidemics.",
+    "His theory had little practical effect at the time; miasma and humoral explanations remained dominant."
+   ],
+   "sources": [
+    {
+     "citation": "Scientific American. The physician who presaged the germ theory of disease nearly 500 years ago.",
+     "url": "https://www.scientificamerican.com/article/the-physician-who-presaged-the-germ-theory-of-disease-nearly-500-years-ago/",
+     "kind": "journal",
+     "supports": "Published De contagione in 1546; discussions of typhus, syphilis and leprosy; diseases caused by imperceptible seedlike entities (seminaria) that multiply and are unique to each disease; spread by direct contact, by fomites such as clothing, and over long distances through the air."
+    },
+    {
+     "citation": "EBSCO Research Starters. Fracastoro discovers that contagion spreads disease.",
+     "url": "https://www.ebsco.com/research-starters/consumer-health/fracastoro-discovers-contagion-spreads-disease",
+     "kind": "institution",
+     "supports": "Verona, 1546; diseases transmitted by direct contact, infected objects and contaminated air; caused by self-multiplying seeds."
+    },
+    {
+     "citation": "EBSCO Research Starters. Girolamo Fracastoro.",
+     "url": "https://ebsco.com/research-starters/history/girolamo-fracastoro",
+     "kind": "institution",
+     "supports": "Born in Verona; theories on 'seminaria' prefiguring germ theory; the syphilis poem printed in 1530."
+    },
+    {
+     "citation": "Brewminate. Infection, imagination, and the practice of healing in the early modern world.",
+     "url": "https://brewminate.com/infection-imagination-and-the-practice-of-healing-in-the-early-modern-world/",
+     "kind": "institution",
+     "supports": "De contagione outlined three modes of transmission; its practical uptake was limited; humoral, miasmatic and contagion models coexisted."
+    },
+    {
+     "citation": "Science 2.0. Hieronymus Fracastorius.",
+     "url": "https://www.science20.com/scientist/hieronymus_fracastorius",
+     "kind": "institution",
+     "supports": "Transmission by contact, by fomites such as garments, and at a distance as with smallpox and plague; he integrated the influence of the stars into his theory of epidemics."
+    }
+   ],
+   "related": [
+    "varro-minute-creatures",
+    "pasteur-spontaneous-generation",
+    "koch-tuberculosis"
+   ]
+  },
+  {
+   "id": "servetus-colombo-pulmonary",
+   "title": "Servetus and Colombo describe the pulmonary circulation",
+   "summary": "In 1553 the Spanish theologian Michael Servetus described blood passing from the right side of the heart to the left through the lungs, in a theological book burned with him at Geneva. In 1559 the anatomist Realdo Colombo set out the same pulmonary circulation from dissection and vivisection.",
+   "explanation": "Galen had taught that blood passed from the right to the left ventricle through invisible pores in the dividing wall of the heart. Servetus rejected this in Christianismi Restitutio (1553), in a passage about the formation of the vital spirit. He was burned as a heretic at Geneva that year, and almost all copies of the book were destroyed.\n\nRealdo Colombo, Vesalius's successor at Padua, who later taught in Pisa and Rome, probably worked out the theory independently. His De re anatomica (Venice, 1559), based on extensive dissection and vivisection, showed that blood does not cross the septum but goes to the lungs and returns to the heart, and described the heart valves. Ibn al-Nafis had described the pulmonary circulation in Cairo three centuries earlier.",
+   "date": {
+    "start": 1553,
+    "end": 1559,
+    "display": "1553–1559 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "From Servetus's Christianismi Restitutio (1553) to Colombo's De re anatomica (1559)."
+   },
+   "type": "discovery",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "mechanisms",
+   "tags": [],
+   "themes": [
+    "circulation of the blood",
+    "independent discovery",
+    "authority versus observation"
+   ],
+   "locations": [
+    {
+     "name": "Pisa",
+     "modern": "Pisa, Italy",
+     "lat": 43.72,
+     "lon": 10.4,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "discovery-site",
+     "role": "Colombo probably worked out the theory here, 1546–48"
+    },
+    {
+     "name": "Rome",
+     "modern": "Rome, Italy",
+     "lat": 41.9,
+     "lon": 12.5,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Colombo taught at the Sapienza from 1548 until his death in 1559"
+    }
+   ],
+   "locationNote": "Servetus's work is not mapped; the circles show Colombo's.",
+   "people": [
+    {
+     "name": "Michael Servetus",
+     "role": "Theologian and physician"
+    },
+    {
+     "name": "Realdo Colombo",
+     "role": "Anatomist"
+    }
+   ],
+   "whatChanged": "Galen's idea that blood seeps through the wall of the heart was rejected, and the route of blood through the lungs was described in Europe.",
+   "whyItMattered": "The pulmonary circulation was a key step towards Harvey's demonstration of the full circulation of the blood in 1628.",
+   "limitations": [
+    "Ibn al-Nafis had already described the pulmonary circulation in the thirteenth century.",
+    "Juan Valverde, Colombo's pupil, published the idea in 1556, before Colombo's own book, and priority among them is debated."
+   ],
+   "harms": "Servetus was burned at the stake for heresy in 1553, and his book was burned with him.",
+   "sources": [
+    {
+     "citation": "HistoryofInformation.com. Who discovered the pulmonary circulation? Servetus, Valverde or Colombo?",
+     "url": "https://www.historyofinformation.com/detail.php?id=1867",
+     "kind": "institution",
+     "supports": "Servetus's Christianismi Restitutio (1553); Colombo's De re anatomica (Venice, 1559) known for the pulmonary circulation from right ventricle to left via the lungs; first published by Valverde in Rome in 1556."
+    },
+    {
+     "citation": "Museo Galileo. Realdo Colombo (biography).",
+     "url": "https://brunelleschi.imss.fi.it/itineraries/biography/RealdoColombo.html",
+     "kind": "museum",
+     "supports": "Probably elaborated his theory of pulmonary circulation while teaching at Pisa (1546–1548); described in the same years by Servetus (1553); illustrated more fully in De re anatomica (1559); taught at the Sapienza in Rome from 1548 until his death."
+    },
+    {
+     "citation": "Encyclopedia.com (Dictionary of Scientific Biography). Colombo, Realdo.",
+     "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/colombo-realdo",
+     "kind": "book",
+     "supports": "Born Cremona c. 1510, died Rome 1559; De re anatomica in fifteen books, 1559; rich experience in dissection, vivisection and autopsy."
+    },
+    {
+     "citation": "Realdo Colombo in the fifth centenary of his birth. Italian Journal of Anatomy and Embryology 121(1) suppl.:91, 2016.",
+     "url": "https://oajournals.fupress.net/index.php/ijae/article/download/2229/2227/2157",
+     "kind": "journal",
+     "supports": "With Colombo the doctrine of passage through invisible pores of the septum was definitively rejected; Ibn al-Nafis and Servetus had already described the pulmonary circulation."
+    },
+    {
+     "citation": "CORE. Article on Realdo Colombo and the pulmonary circulation.",
+     "url": "https://core.ac.uk/works/66895717",
+     "kind": "university",
+     "supports": "Colombo seems to have arrived at his conclusions independently of Servetus; he understood the function of the cardiac valves."
+    },
+    {
+     "citation": "Whewell W. History of the Inductive Sciences, vol. II (1858), p. 446.",
+     "url": "https://geology.19thcenturyscience.org/books/1858-Whewell-HistSci/Vol-II/PDFpages/1858-Whewell-HistSci-II-0446.pdf",
+     "kind": "book",
+     "supports": "Servetus, burned at Geneva as a heretic in 1553, first spoke distinctly of the small circulation in Christianismi Restitutio, which was also burned; his view mixed with ideas of the vital spirit; Colombo, Vesalius's successor at Padua, established it."
+    }
+   ],
+   "related": [
+    "ibn-al-nafis-pulmonary-circulation",
+    "vesalius-fabrica",
+    "harvey-circulation"
+   ]
+  },
+  {
+   "id": "garcia-de-orta-coloquios",
+   "title": "Garcia de Orta's Colloquies on the drugs of India",
+   "summary": "In 1563 the Portuguese physician Garcia de Orta, who had worked in India since 1534, published in Goa the Colóquios dos simples e drogas da India, dialogues on Indian medicinal plants and drugs. It included a classic description of Asiatic cholera, the first by a European.",
+   "explanation": "Garcia de Orta sailed to India in 1534 as chief physician to the fleet of Martim Afonso de Sousa, travelled with him along the west coast of India and Ceylon, and then settled in Goa, where he built a large practice and a garden of medicinal plants.\n\nHis book, written as conversations between himself and a newly arrived colleague, describes the history, cultivation, clinical uses and effects of many Asian herbs, spices and drugs. He also observed chronic dysentery, cobra bite and datura poisoning, and his account of cholera became a standard reference. Printed in Goa by João de Endem, it is among the earliest books printed in India.",
+   "date": {
+    "start": 1563,
+    "end": 1563,
+    "display": "1563 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Published in Goa in 1563."
+   },
+   "type": "observation",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "diagnosis"
+   ],
+   "themes": [
+    "tropical medicine",
+    "medicinal plants",
+    "colonial medicine"
+   ],
+   "locations": [
+    {
+     "name": "Goa",
+     "modern": "Old Goa, India",
+     "lat": 15.5,
+     "lon": 73.91,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Garcia de Orta",
+     "role": "Physician and naturalist"
+    }
+   ],
+   "whatChanged": "European medicine received first-hand descriptions of Asian drugs and tropical diseases from a physician who had treated them.",
+   "whyItMattered": "The Colloquies is regarded as the first textbook of tropical medicine by a European and made Indian materia medica known in Europe through Latin translations.",
+   "limitations": [
+    "'First' means first by a European; cholera and these drugs were long known to physicians in Asia."
+   ],
+   "sources": [
+    {
+     "citation": "Garrison–Morton archive. Author entry: Orta, Garcia de.",
+     "url": "https://archive.historyofmedicine.com/author/d/garcia-de-garcia-dorta-orta",
+     "kind": "book",
+     "supports": "Goa, 1563, printed by João de Endem; the first account of Indian materia medica and the first textbook on tropical medicine by a European; a classic account of Asiatic cholera, the first by a European; among the first books printed in India; sailed in 1534 as chief physician of Martim Afonso de Sousa's armada; died in Goa in 1568."
+    },
+    {
+     "citation": "Encyclopedia.com (Dictionary of Scientific Biography). Orta, Garcia d'.",
+     "url": "https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/orta-garcia-dor-da-orta",
+     "kind": "book",
+     "supports": "Born Castelo de Vide c. 1500, died Goa c. 1568; travelled with de Sousa along the coast of India and Ceylon 1534–38; dialogues with a newly arrived colleague; his description of Asian cholera became a standard reference; chronic dysentery, cobra bite and datura poisoning."
+    },
+    {
+     "citation": "University of Iowa, Heirs of Hippocrates no. 245. Garcia de Orta.",
+     "url": "https://heirs.lib.uiowa.edu/record.php?id=245",
+     "kind": "university",
+     "supports": "Settled in Goa with a large practice and medical garden; published the Colóquios in 1563; described the classic symptoms of cholera and brought the disease to the attention of Europe."
+    },
+    {
+     "citation": "Roddis LH. Garcia da Orta: European pioneer in tropical medicine (University of Pittsburgh, Health Sciences Library).",
+     "url": "https://dec.hsls.pitt.edu/files/original/c27d3e92c23709377856d0072e7be3befc30111a.pdf",
+     "kind": "university",
+     "supports": "The first European writer on tropical medicine; published The Simples and Drugs of India in Goa in 1563; the first scientific European description of many Asian plants and drugs."
+    },
+    {
+     "citation": "Markham C (trans.). Colloquies on the Simples and Drugs of India by Garcia da Orta. London, 1913 (Düsseldorf University Library).",
+     "url": "https://lessing.ub.uni-duesseldorf.de/download/pdf/4722055.pdf",
+     "kind": "primary",
+     "supports": "English translation; the work includes the first descriptions of the treatment of diseases such as cholera."
+    }
+   ],
+   "related": [
+    "snow-broad-street"
+   ]
+  },
+  {
+   "id": "woodall-surgions-mate",
+   "title": "Woodall's Surgions Mate recommends lemon juice for scurvy",
+   "summary": "In 1617 John Woodall, first surgeon-general of the East India Company, published The Surgions Mate, a handbook for ships' surgeons on the contents of the surgeon's chest and how to treat wounds and disease at sea. It strongly recommended lemon juice against scurvy, 130 years before Lind's trial.",
+   "explanation": "Woodall, a London barber-surgeon who had worked in Europe, was appointed surgeon-general of the East India Company in 1613. He chose the company's surgeons, treated injured workmen at its dockside hospital at Blackwall, and supplied each ship with a surgeon's chest. He was also a surgeon at St Bartholomew's Hospital.\n\nThe Surgions Mate listed the instruments and medicines in the chest and their uses, and covered wounds, including gunshot wounds, amputation and dangerous diseases. Its chapter on scurvy recommended lemons, limes, tamarinds and oranges, with lemon juice above all. An enlarged edition of 1639 became required reading for the company's surgeons.",
+   "date": {
+    "start": 1617,
+    "end": 1617,
+    "display": "1617 CE",
+    "kind": "point",
+    "approximate": false,
+    "precision": "year",
+    "basis": "First published in London in 1617."
+   },
+   "type": "practice",
+   "evidence": [
+    "published-report"
+   ],
+   "category": "prevention",
+   "tags": [
+    "surgery",
+    "therapeutics"
+   ],
+   "themes": [
+    "naval medicine",
+    "scurvy",
+    "nutrition"
+   ],
+   "locations": [
+    {
+     "name": "London (East India Company, Blackwall)",
+     "modern": "London, England",
+     "lat": 51.51,
+     "lon": -0.05,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "John Woodall",
+     "role": "Surgeon-general of the East India Company"
+    }
+   ],
+   "whatChanged": "Ships' surgeons had a standard handbook and a standard chest, and an authoritative recommendation of citrus juice for scurvy.",
+   "whyItMattered": "It was the first textbook for naval surgeons, and its advice on citrus anticipated the measures that later ended scurvy at sea.",
+   "limitations": [
+    "His advice did not become standard practice; the Royal Navy issued lemon juice to its sailors only from 1795.",
+    "Others had noticed the benefit of citrus earlier, including on Portuguese and English voyages."
+   ],
+   "sources": [
+    {
+     "citation": "University of Iowa, Heirs of Hippocrates. Woodall J. The surgeons mate (1639).",
+     "url": "https://heirs.lib.uiowa.edu/record.php?id=386.7",
+     "kind": "university",
+     "supports": "Appointed the first surgeon-general of the East India Company in 1613; selected surgeons, treated injured workmen at the Blackwall hospital and supplied ships with surgeons' chests; published The Surgeons Mate in 1617; the earliest comprehensive clinical account of scurvy to prescribe lemon juice."
+    },
+    {
+     "citation": "Royal Museums Greenwich. The surgeons mate, by John Woodall (2022).",
+     "url": "https://www.rmg.co.uk/stories/maritime-history/library-archive/surgeons-mate-john-woodall",
+     "kind": "museum",
+     "supports": "Born around 1570; worked in Europe; freeman of the Barber-Surgeons' Company; first Surgeon-General of the East India Company in 1613; surgeon at St Bartholomew's; first published 1617; listings of the surgeon's chest."
+    },
+    {
+     "citation": "Müller I (ed.). The Surgions Mate: the first compendium on naval medicine, surgery and drug therapy (London 1617). Springer, 2016.",
+     "url": "https://www.springer.com/book/9783319255729",
+     "kind": "book",
+     "supports": "Paracelsian drugs, the treatment of gunshot wounds and the strong recommendation of lemon juice against scurvy."
+    },
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: Woodall, John.",
+     "url": "https://historyofmedicine.com/author/d/john-woodall",
+     "kind": "book",
+     "supports": "London, 1617; the first textbook for naval surgeons; an early advocate of limes and lemons against scurvy; the 1639 edition required reading for East India Company surgeons."
+    },
+    {
+     "citation": "Encyclopedia.com. John Woodall.",
+     "url": "https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/john-woodall",
+     "kind": "book",
+     "supports": "The book recommended lemons, limes, tamarinds and oranges for scurvy."
+    },
+    {
+     "citation": "Pearce JMS. Scurvy before James Lind / James Cook and scurvy. Hektoen International.",
+     "url": "https://hekint.org/?p=29764",
+     "kind": "journal",
+     "supports": "Blane persuaded the Admiralty in 1795 to issue lemon juice; the link between citrus and scurvy was recognised earlier by Vasco da Gama (1497), Richard Hawkins (1593) and Woodall."
+    }
+   ],
+   "related": [
+    "annedda-scurvy",
+    "lind-scurvy-trial",
+    "st-bartholomews-hospital"
+   ]
+  },
+  {
+   "id": "compound-microscope",
+   "title": "The compound microscope appears",
+   "summary": "Instruments combining two lenses to magnify small objects appeared in the decades around 1600. A Middelburg spectacle-maker's son later claimed his father invented one about 1590; Cornelis Drebbel showed microscopes in London from 1619, and in 1625 Galileo's circle in Rome named the instrument the 'microscope'.",
+   "explanation": "The compound microscope grew out of the same Dutch and Italian spectacle-making that produced the telescope. The case for the Middelburg spectacle-maker Zacharias Janssen rests on testimony given in 1655 by his son Johannes and by his childhood friend, the Dutch diplomat Willem Boreel, who recalled him speaking of a microscope in the early 1590s. The claim cannot be checked.\n\nBetter documented are the microscopes Cornelis Drebbel made in England from 1619 and Galileo's occhiolino ('little eye'), which he sent to Federico Cesi in 1624. In a letter of 13 April 1625 the Lincean Johann Faber proposed calling the instrument a microscope, as the academy had earlier named the telescope. Robert Hooke's Micrographia of 1665 later showed what it could reveal.",
+   "date": {
+    "start": 1590,
+    "end": 1625,
+    "display": "c. 1590–1625 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "From the claimed Janssen invention of about 1590 to the naming of the microscope in 1625."
+   },
+   "type": "invention",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "mechanisms",
+   "tags": [
+    "diagnosis"
+   ],
+   "themes": [
+    "optics",
+    "instruments",
+    "disputed priority"
+   ],
+   "locations": [
+    {
+     "name": "Middelburg",
+     "modern": "Middelburg, Netherlands",
+     "lat": 51.5,
+     "lon": 3.61,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "discovery-site",
+     "role": "Claimed site of the Janssen invention"
+    },
+    {
+     "name": "Rome",
+     "modern": "Rome, Italy",
+     "lat": 41.9,
+     "lon": 12.5,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice",
+     "role": "Galileo's occhiolino named 'microscope' by the Lincei, 1625"
+    }
+   ],
+   "people": [
+    {
+     "name": "Zacharias Janssen",
+     "role": "Spectacle-maker credited by his son"
+    },
+    {
+     "name": "Cornelis Drebbel",
+     "role": "Inventor who made microscopes in England"
+    },
+    {
+     "name": "Galileo Galilei",
+     "role": "Maker of the occhiolino"
+    },
+    {
+     "name": "Johann Faber",
+     "role": "Lincean who named the microscope"
+    }
+   ],
+   "whatChanged": "Objects too small for the naked eye could be magnified and examined.",
+   "whyItMattered": "The microscope later revealed cells, capillaries and microbes, making possible histology, microbiology and much of modern diagnosis.",
+   "limitations": [
+    "Who invented it, and when, is unknown: the Janssen claim was made decades later by an interested party, and Lippershey, Drebbel and Galileo have also been credited."
+   ],
+   "contested": "Priority is disputed among Zacharias Janssen and his father Hans, Hans Lippershey, Cornelis Drebbel and Galileo; the earliest firm records date from 1619 onward.",
+   "sources": [
+    {
+     "citation": "Museo Galileo. History of the microscope (Galileo's microscope: chronology).",
+     "url": "https://brunelleschi.imss.fi.it/esplora/microscopio/dswmedia/storia/pdf/estoria04.pdf",
+     "kind": "museum",
+     "supports": "Drebbel's microscopes in England between 1619 and 1623; Johann Faber's letter of 13 April 1625 to Federico Cesi naming the 'microscope'; the Apiarium of 1625."
+    },
+    {
+     "citation": "Museo Galileo. Origin and development of the microscope.",
+     "url": "https://catalogue.museogalileo.it/multimedia/OriginDevelopmentMicroscopeBis.html",
+     "kind": "museum",
+     "supports": "The origins of the microscope are linked to those of the telescope; Faber coined the word in 1625."
+    },
+    {
+     "citation": "Museo Galileo. Galileo's microscope: the compound microscope.",
+     "url": "https://brunelleschi.imss.fi.it/esplora/microscopio/dswmedia/storia/estoria1_st.html",
+     "kind": "museum",
+     "supports": "In 1625 Faber gave the instrument, until then called occhialino and other names, the name microscope."
+    },
+    {
+     "citation": "EBSCO Research Starters. Zacharias Janssen.",
+     "url": "https://ebsco.com/research-starters/biography/zacharias-janssen",
+     "kind": "institution",
+     "supports": "Janssen's family moved to Middelburg, where his father had a spectacles shop; his claim rests on the testimony of his son and of William Boreel in 1655."
+    },
+    {
+     "citation": "Live Science. Who invented the microscope?",
+     "url": "https://www.livescience.com/39649-who-invented-the-microscope.html",
+     "kind": "institution",
+     "supports": "It is unclear who invented the microscope; Lippershey and the Janssens of Middelburg have both been credited; Boreel's letters say Zacharias wrote to him about a microscope in the early 1590s."
+    },
+    {
+     "citation": "Math and Science History. The history of microscopes.",
+     "url": "https://mathsciencehistory.com/?p=441",
+     "kind": "institution",
+     "supports": "Galileo's occhiolino; Drebbel's microscope with two convex lenses presented in Rome; Galileo sent a new occhiolino to Cesi on 23 September 1624; Faber's letter of 13 April 1625."
+    }
+   ],
+   "related": [
+    "hooke-micrographia",
+    "spectacles-invention"
+   ]
+  },
+  {
+   "id": "li-shizhen-bencao",
+   "title": "Li Shizhen completes the Compendium of Materia Medica",
+   "summary": "In 1578, after 27 years of work, the Ming physician Li Shizhen (1518–1593) completed the Bencao gangmu, a 52-chapter encyclopedia describing 1,892 drugs from plants, animals and minerals, 374 of them added by him, with about 11,000 prescriptions. It was printed in Nanjing after his death.",
+   "explanation": "Li Shizhen began the work at the age of 31. He drew in part on earlier, smaller works of the same kind. The Compendium describes 1,094 herbs, 444 animal and 275 mineral substances and gives directions for preparing roughly 11,000 prescriptions. It describes processes such as distillation and the use of mercury, ephedrine, chaulmoogra oil, iodine and smallpox inoculation.\n\nThe text was not printed until 1593, the year of Li's death, by Hu Chenglong in Nanjing (Jinling), with two chapters of illustrations. It remains a foundational text of Chinese medicine and was inscribed on UNESCO's Memory of the World Register in 2011.",
+   "date": {
+    "start": 1578,
+    "end": 1593,
+    "display": "1578–1593 CE",
+    "kind": "span",
+    "approximate": false,
+    "precision": "year",
+    "basis": "Completed in draft in 1578; first printed in 1593."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [],
+   "themes": [
+    "Chinese medicine",
+    "pharmacy",
+    "medicinal plants"
+   ],
+   "locations": [
+    {
+     "name": "Nanjing (Jinling)",
+     "modern": "Nanjing, China",
+     "lat": 32.06,
+     "lon": 118.8,
+     "radiusKm": 15,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "locationNote": "Mapped to Nanjing, where it was first printed; the sources consulted do not say where Li wrote it.",
+   "people": [
+    {
+     "name": "Li Shizhen",
+     "role": "Physician, pharmacologist and naturalist"
+    }
+   ],
+   "whatChanged": "Chinese knowledge of medicinal substances was revised, checked and organised into one systematic reference.",
+   "whyItMattered": "The Bencao gangmu became the standard Chinese pharmacopoeia and is still printed and used today.",
+   "limitations": [
+    "Many of its entries rest on earlier texts and traditional theory, not on tests of effectiveness."
+   ],
+   "sources": [
+    {
+     "citation": "Library of Congress. Ben cao gang mu (Compendium of Materia Medica).",
+     "url": "https://www.loc.gov/item/2021666452",
+     "kind": "archive",
+     "supports": "52 juan of text and two of illustrations; 1,892 entries, 374 added by Li Shizhen (1518–93); about 11,000 prescriptions; first draft completed in 1578; printed after his death in 1593 by Hu Chenglong in Jinling; inscribed on the Memory of the World Register in 2011."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Li Shizhen.",
+     "url": "https://www.britannica.com/biography/Li-Shizhen",
+     "kind": "book",
+     "supports": "1518–1593; completed in 1578, partly a compilation of smaller works; 1,094 herbs, 444 animal and 275 mineral substances; some 11,000 prescriptions."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Li Shizhen (print version).",
+     "url": "https://www.britannica.com:443/print/article/338673",
+     "kind": "book",
+     "supports": "Described 1,892 drugs; distillation and the uses of mercury, ephedrine, chaulmoogra oil, iodine and smallpox inoculation."
+    },
+    {
+     "citation": "UNESCO Memory of the World Committee for Asia and the Pacific. Ben Cao Gang Mu.",
+     "url": "https://mowcaparchives.org/mwc/inct/detl/11",
+     "kind": "institution",
+     "supports": "Begun at the age of 31 and completed 27 years later in 1578; 1,892 drugs and 11,096 prescriptions; the oldest surviving copy, printed in 1593, has two volumes of 1,109 illustrations."
+    }
+   ],
+   "related": [
+    "ibn-al-baytar-simples",
+    "dioscorides-materia-medica",
+    "variolation-traditions"
+   ]
+  }
+ ],
+ "queue": {
+  "w086": {
+   "status": "added",
+   "atlasId": "canterbury-hospitals",
+   "note": "Covers both of Lanfranc's foundations, St John's Northgate and the leper hospital at Harbledown."
+  },
+  "w089": {
+   "status": "added",
+   "atlasId": "antonine-order",
+   "note": ""
+  },
+  "w090": {
+   "status": "added",
+   "atlasId": "trotula-womens-medicine",
+   "note": ""
+  },
+  "w091": {
+   "status": "added",
+   "atlasId": "st-bartholomews-hospital",
+   "note": ""
+  },
+  "w093": {
+   "status": "added",
+   "atlasId": "roger-of-salerno-chirurgia",
+   "note": "Wikipedia gives 1170; the sources date the Practica chirurgiae to about 1180."
+  },
+  "w096": {
+   "status": "added",
+   "atlasId": "santo-spirito-hospital",
+   "note": "Wikipedia gives 1203; the sources date the foundation to 1198, with endowment in 1201 and the order's rule confirmed in 1204."
+  },
+  "w101": {
+   "status": "added",
+   "atlasId": "ibn-al-baytar-simples",
+   "note": ""
+  },
+  "w102": {
+   "status": "added",
+   "atlasId": "spectacles-invention",
+   "note": "Merged with w110. Bacon wrote on magnifying lenses in 1267, not 1249, and did not describe spectacles, which appeared in Tuscany about 1286."
+  },
+  "w104": {
+   "status": "added",
+   "atlasId": "quinze-vingts",
+   "note": ""
+  },
+  "w108": {
+   "status": "added",
+   "atlasId": "mondino-dissection",
+   "note": ""
+  },
+  "w109": {
+   "status": "added",
+   "atlasId": "santa-maria-nuova",
+   "note": ""
+  },
+  "w110": {
+   "status": "added",
+   "atlasId": "spectacles-invention",
+   "note": "Correction: Wikipedia dates concave lenses for myopia to 1300; the earliest documents for them are from Florence and Milan in the 1460s (Ilardi)."
+  },
+  "w117": {
+   "status": "added",
+   "atlasId": "benivieni-pathology",
+   "note": ""
+  },
+  "w119": {
+   "status": "added",
+   "atlasId": "paracelsus-chemical-medicine",
+   "note": "The entry covers Paracelsus's chemical medicine; Wikipedia also names Fabricius and Stromayr in the same line, whose work on other subjects is not part of this claim."
+  },
+  "w121": {
+   "status": "added",
+   "atlasId": "pare-gunshot-wounds",
+   "note": ""
+  },
+  "w122": {
+   "status": "added",
+   "atlasId": "college-of-physicians-london",
+   "note": ""
+  },
+  "w126": {
+   "status": "added",
+   "atlasId": "fracastoro-contagion",
+   "note": ""
+  },
+  "w128": {
+   "status": "added",
+   "atlasId": "servetus-colombo-pulmonary",
+   "note": "Merged with w130 (Colombo); related to Ibn al-Nafis's earlier description."
+  },
+  "w130": {
+   "status": "added",
+   "atlasId": "servetus-colombo-pulmonary",
+   "note": "Merged with w128 (Servetus)."
+  },
+  "w131": {
+   "status": "added",
+   "atlasId": "garcia-de-orta-coloquios",
+   "note": ""
+  },
+  "w132": {
+   "status": "added",
+   "atlasId": "woodall-surgions-mate",
+   "note": "Dated to the book's publication in 1617; Wikipedia gives Woodall's life dates."
+  },
+  "w133": {
+   "status": "added",
+   "atlasId": "compound-microscope",
+   "note": "Entered as contested: the c. 1590 Janssen claim was made only in 1655; firm records begin in 1619."
+  },
+  "w134": {
+   "status": "added",
+   "atlasId": "li-shizhen-bencao",
+   "note": "Wikipedia gives 1596 for printing; the Library of Congress dates the first printing to 1593."
+  }
+ }
+}
