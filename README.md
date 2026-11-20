@@ -1,7 +1,8 @@
 # An Atlas of Medical Progress
 
 
-<img width="800" height="451" alt="ezgif-52404aa689a9122d" src="https://github.com/user-attachments/assets/bdf20e85-b4d3-4cb0-baf7-c612b9049283" />
+<img width="800" height="451" alt="ezgif-52404aa689a9122d" src="https://github.com/user-attachments/assets/60b790e4-5e27-499b-81b6-5144e7647351" />
+
 
 
 **Live site:** http://www.alexdavidson.me/medical-progress-atlas/
