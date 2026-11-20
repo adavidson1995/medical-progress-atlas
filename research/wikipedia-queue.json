@@ -262,8 +262,8 @@
    "claim": "Dissection; brain as seat of senses",
    "place": "Croton",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "alcmaeon-brain",
    "note": ""
   },
   {
@@ -317,9 +317,9 @@
    "claim": "Huangdi Neijing",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "huangdi-neijing",
+   "note": "Wikipedia gives 400–1 BC; most historians date the compilation to the Han dynasty, probably the first century BCE."
   },
   {
    "wid": "w030",
@@ -328,9 +328,9 @@
    "claim": "Praxagoras distinguishes arteries from veins",
    "place": "Locri",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "praxagoras-arteries-veins",
+   "note": "Wikipedia also names Philistion of Locri; the entry follows the sources, which credit Praxagoras (with Diocles)."
   },
   {
    "wid": "w031",
@@ -350,8 +350,8 @@
    "claim": "Removes arrow from Philip II's eye",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "critobulus-arrow-wound",
    "note": ""
   },
   {
@@ -361,9 +361,9 @@
    "claim": "Empiricist school; human dissection in Alexandria",
    "place": "Alexandria",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "alexandria-human-dissection",
+   "note": "Merged with Herophilus (w034) and Erasistratus (w036). Philinus and the Empiricist school are not covered."
   },
   {
    "wid": "w034",
@@ -372,8 +372,8 @@
    "claim": "Nervous system and eye anatomy",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "alexandria-human-dissection",
    "note": ""
   },
   {
@@ -383,9 +383,9 @@
    "claim": "First textbook devoted to acupuncture",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "huangfu-mi-acupuncture",
+   "note": "Wikipedia gives 270 AD; sources give 256–260 or about 282."
   },
   {
    "wid": "w036",
@@ -394,8 +394,8 @@
    "claim": "Brain: cerebrum and cerebellum distinguished",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "alexandria-human-dissection",
    "note": ""
   },
   {
@@ -405,8 +405,8 @@
    "claim": "Shang Han Lun, on cold damage disorders",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "zhang-zhongjing-cold-damage",
    "note": ""
   },
   {
@@ -416,9 +416,9 @@
    "claim": "Charaka Samhita",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "charaka-samhita",
+   "note": "Wikipedia gives 200 BC; Meulenbeld dates Charaka's recension to about 100 BCE–200 CE."
   },
   {
    "wid": "w039",
@@ -438,8 +438,8 @@
    "claim": "Proto germ theory (tiny creatures cause disease)",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "varro-minute-creatures",
    "note": ""
   },
   {
@@ -471,8 +471,8 @@
    "claim": "Medical encyclopedia (De Medicina)",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "celsus-de-medicina",
    "note": ""
   },
   {
@@ -482,8 +482,8 @@
    "claim": "De Materia Medica",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "dioscorides-materia-medica",
    "note": ""
   },
   {
@@ -515,8 +515,8 @@
    "claim": "Clinical medicine based on observation",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "galen-pergamon",
    "note": ""
   },
   {

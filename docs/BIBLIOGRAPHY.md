@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 828 distinct sources across 191 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 880 distinct sources across 203 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -79,6 +79,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `penicillin`: Norman Heatley, last surviving member of the Oxford team, unveiled the landmark plaque.
 
+- Abdelrahim N. De Medicina: a complete medical text for its time. Institute for Medical Science and Simulation, library blog (2019).  
+  <https://imss.org/2019/11/de-medicina-a-complete-medical-text-for-its-time/>  
+  Type: museum.
+  - `celsus-de-medicina`: Oldest copies from the 9th century; first printed in the late 1400s in Florence; after the Hippocratic writings, the oldest surviving medical text.
+
 - Abdi R. John Putnam Merrill: the unsung hero behind the first successful renal transplantation. Frontiers in Transplantation 4:1620534 (2025).  
   DOI: [10.3389/frtra.2025.1620534](https://doi.org/10.3389/frtra.2025.1620534), <https://www.frontiersin.org/articles/10.3389/frtra.2025.1620534/full>  
   Type: journal.
@@ -118,6 +123,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8888238/>  
   Type: journal.
   - `polio-vaccine-trials`: Cutter Laboratories' defective lots; Sabin's vaccine tested in the Soviet Union, with tens of millions of children vaccinated in 1959–1961.
+
+- Alcmaeon of Croton (c. 540–500 BCE). Encyclopedia of Philosophy (Encyclopedia.com).  
+  <https://www.encyclopedia.com/history/biographies/nicaragua-history-biographies/alcmaeon>  
+  Type: book.
+  - `alcmaeon-brain`: May have excised an eyeball and observed passages leading towards the brain; first in the Greek tradition to argue that the brain was the seat of thought; no evidence of systematic dissection.
 
 - Alcmaeon. Stanford Encyclopedia of Philosophy (Summer 2015 edition).  
   <https://plato.stanford.edu/archives/sum2015/entries/alcmaeon/>  
@@ -364,6 +374,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `toxoid-vaccines`: Brief 1921 description of diphtheria toxoid; first toxoids produced reactions unacceptable in Britain; alum-precipitated toxoid from 1926; now in diphtheria–tetanus–pertussis vaccine.
 
+- Bay NSY, Bay BH. Greek anatomist Herophilus: the father of anatomy. Anatomy & Cell Biology (2010).  
+  <https://synapse.koreamed.org/articles/1071617>  
+  Type: journal.
+  - `alexandria-human-dissection`: First person to perform systematic dissection of the human body; human dissection permitted for 30 to 40 years before being abandoned for 1,800 years; differentiated nerves from blood vessels and tendons; Celsus and Galen's charges; pupil of Praxagoras.
+
 - Bayer. Gerhard Domagk (biography).  
   <https://www.bayer.com/en/about-us/history/biographies/gerhard-domagk>  
   Type: institution.
@@ -399,6 +414,26 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `rubella-vaccine`: HPV77.DE5 and Cendehill strains licensed in the USA in 1969; HPV77.DK12 discontinued for adverse reactions; RA27/3 licensed in the UK in 1972 and replaced HPV77 in the USA in 1979; MMR licensed 1971.
 
+- Bi W. Huangfu Mi: ancestor of acupuncture. Science and Technology Daily (2022).  
+  <https://digitalpaper.stdaily.com/http_www.kjrb.com/ywtk/html/2022-03/17/content_532188.htm>  
+  Type: journal.
+  - `huangfu-mi-acupuncture`: Huangfu Mi (215–282); earliest acupuncture books had errors in names and locations of points; compiled the Systematic Classic in 256–260, the earliest systemised book on acupuncture and moxibustion, in 12 volumes.
+
+- Bi W. Traditional eastern wisdom: Zhang Zhongjing. Science and Technology Daily (2022).  
+  <https://digitalpaper.stdaily.com/http_www.kjrb.com/ywtk/html/2022-03/03/content_531364.htm?div=0>  
+  Type: journal.
+  - `zhang-zhongjing-cold-damage`: Later physicians collated the version seen today into the Shang Han Lun and Jingui Yaolue; more than a thousand scholars have compiled, annotated and studied it since the Jin dynasty.
+
+- Bi W. Zhang Zhongjing: the sage of Chinese medicine. Science and Technology Daily (2022).  
+  <https://digitalpaper.stdaily.com/http_www.kjrb.com/ywtk/html/2022-03/03/content_531364.htm?div=-1>  
+  Type: journal.
+  - `zhang-zhongjing-cold-damage`: Zhang (150–219) born in Nanyang, Henan, in the late Eastern Han; used the Huangdi Neijing, collected prescriptions and drew on experience to write the Shanghan Zabing Lun; principle of pattern-based treatment.
+
+- Bibliotheca Alexandrina, SCIplanet. Herophilus and Erasistratus: the butchers of Alexandria.  
+  <https://www.bibalex.org/SCIplanet/en/Article/Details.aspx?id=10296>  
+  Type: institution.
+  - `alexandria-human-dissection`: Systematic human dissection in third-century BCE Alexandria; nerves traced to the brain as the controlling organ; Erasistratus born on Cos in 304 BCE; Celsus's account of vivisection written 250 years later.
+
 - Black JW. Biographical. The Nobel Prize in Physiology or Medicine 1988. NobelPrize.org.  
   <https://www.nobelprize.org/nobel_prizes/medicine/laureates/1988/black-bio.html>  
   Type: institution.
@@ -429,6 +464,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.raps.org/resource/fda-approves-first-automated-insulin-delivery-devi.html>  
   Type: institution.
   - `artificial-pancreas-hybrid-loop`: FDA approval of the MiniMed 670G hybrid closed-loop system; first device to automatically monitor glucose and provide basal insulin; ages 14 and over; users must request mealtime doses.
+
+- Bridwell Library, Southern Methodist University. Dioscorides Pedanius.  
+  <https://bridwell.omeka.net/exhibits/show/sellers/medicine/pedanius>  
+  Type: university.
+  - `dioscorides-materia-medica`: Born in Anazarbus; served in Nero's army; De materia medica the most authoritative and influential botanical and pharmacological text before Linnaeus.
 
 - British Museum blog. Ancient healthcare fit for a king.  
   <https://www.britishmuseum.org/blog/ancient-healthcare-fit-king>  
@@ -565,6 +605,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `human-insulin-recombinant`: Humulin the first marketed human health-care product derived from rDNA technology, in 1982; Lilly's contractual arrangement with Genentech.
 
+- Charak Samhita New Edition. Charak Samhita Research, Training and Development Centre.  
+  <https://www.carakasamhitaonline.com/index.php?title=Charak_Samhita>  
+  Type: institution.
+  - `charaka-samhita`: The Samhita addresses eight branches of medicine; the Sutra Sthana covers principles including medicaments and preventive medicine.
+
 - Chaussy CG. Legends in Urology. Can J Urol 17(6) (2010).  
   <https://canjurol.com/html/free-articles/V17I6-02-Legends_Dec10.pdf>  
   Type: journal.
@@ -584,6 +629,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.chop.edu/news/intussusception-and-rotavirus-vaccination>  
   Type: institution.
   - `rotavirus-vaccines`: RotaShield withdrawn in 1999 with attributable risk of 10 per 100,000; RotaTeq licensed in 2006 and Rotarix in 2008.
+
+- China Culture. Huangfu Mi.  
+  <https://en.chinaculture.org/info/2013-04/25/content_456658.htm>  
+  Type: institution.
+  - `huangfu-mi-acupuncture`: Born in 215 in Anding Chaona (now Lingtai, Gansu); acupuncture treated his own illness; compared the Huangdi Zhenjing, Su Wen and the Mingtang acupuncture text.
 
 - Chittoria RK, Singh BK. History of liposuction for body contouring. CosmoDerma 2:110 (2022).  
   <https://cosmoderma.org/history-of-liposuction-for-body-contouring/>  
@@ -742,6 +792,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `artificial-pancreas-hybrid-loop`: First hybrid closed-loop system for insulin delivery; described as incremental progress toward a full closed loop.
 
+- Dick M. The ancient Ayurvedic writings. The Ayurvedic Institute.  
+  <https://ayurveda.com/?p=1811>  
+  Type: institution.
+  - `charaka-samhita`: Sometimes considered a redaction of the older Agnivesha Samhita; over 8,400 metrical verses; concentrates on internal medicine (kayachikitsa).
+
 - Dictionary of National Biography: Priestley, Joseph (via The Victorian Web).  
   <https://victorianweb.org/history/dnb/3.html>  
   Type: book.
@@ -781,6 +836,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://digfir-published.macmillanusa.com/hunt5e/hunt5e_ch01_31.html>  
   Type: book.
   - `hammurabi-medical-laws`: In Hammurabi's 282 laws, fees for successful operations and punishment for errors; law 218, cutting off the hand.
+
+- Does modern research concerning Chinese medicine acupoints relate to original prescriptions? (abstract). J Altern Complement Med (2019), via Read by QxMD.  
+  <https://read.qxmd.com/read/30671154/does-modern-research-concerning-chinese-medicine-acupoints-relate-to-original-prescriptions-if-not-why-not>  
+  Type: journal.
+  - `huangfu-mi-acupuncture`: Huang Fu Mi's Zhen Jiu Jia Yi Jing regarded as the earliest text (282 CE) on differential diagnosis and clinical acumoxa therapy.
 
 - Doolan DL, Dobaño C, Baird JK. Acquired immunity to malaria. Clinical Microbiology Reviews 2009.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2620631/>  
@@ -847,6 +907,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `aciclovir-antiviral`: Discovered in 1974, by this account at Wellcome laboratories near London; FDA approval for herpes infections in 1982; Elion and Hitchings' Nobel Prize.
 
+- EBSCO Research Starters. Alcmaeon.  
+  <https://ebsco.com/research-starters/biography/alcmaeon>  
+  Type: institution.
+  - `alcmaeon-brain`: Croton known for an early school of medicine; cut out the eye of an animal; inferred channels connecting the eye to the brain.
+
 - EBSCO Research Starters. Berger studies the human electroencephalogram.  
   <https://www.ebsco.com/research-starters/history/berger-studies-human-electroencephalogram>  
   Type: institution.
@@ -886,6 +951,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ebsco.com/research-starters/politics-and-government/fda-approves-first-cholesterol-lowering-drug>  
   Type: institution.
   - `statins`: Lovastatin approved on 31 August 1987 as the first statin; Endo's work at Sankyo in Tokyo in 1973; Alberts at Merck.
+
+- EBSCO Research Starters. Galen.  
+  <https://ebsco.com/research-starters/biography/galen>  
+  Type: institution.
+  - `galen-pergamon`: Physician to the gladiators; anatomy derived from animal dissections, particularly the Barbary ape; discovered that arteries contain blood.
 
 - EBSCO Research Starters. Gibbon develops the heart-lung machine.  
   <https://www.ebsco.com/research-starters/health-and-medicine/gibbon-develops-heart-lung-machine>  
@@ -1031,6 +1101,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://kwx.liehendr.com/content/wikisource_en_all_maxi_2022-09/A/Encyclop%C3%A6dia_Britannica%2C_Ninth_Edition/Desault%2C_Pierre_Joseph>  
   Type: book.
   - `desault-clinical-surgery`: Opened a school of anatomy in Paris in winter 1766 with about 300 pupils; opposition from established teachers; surgeon-major to the Charité in 1782.
+
+- Encyclopaedia Britannica. Galen.  
+  <https://www.britannica.com:443/biography/Galen>  
+  Type: book.
+  - `galen-pergamon`: Dominant influence on medicine from the Middle Ages to the mid-17th century; returned to Pergamum in 157 as chief physician to the gladiators of the high priest of Asia; moved to Rome in 162; served Marcus Aurelius, Commodus and Septimius Severus; tied off the recurrent laryngeal nerve; spinal cord transections.
 
 - Encyclopaedia Britannica. Julius Wagner-Jauregg.  
   <https://www.britannica.com/EBchecked/topic/633983/Julius-Wagner-Jauregg>  
@@ -1247,6 +1322,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `lind-scurvy-trial`: Lind's own words: twelve patients 'as similar as I could have them'; one citrus patient fit for duty after six days, the other appointed nurse.
 
+- Galen of Pergamum: ancient Rome's great philosopher physician. TheCollector.  
+  <https://www.thecollector.com/galen-pergamum-roman-philosopher-physician/>  
+  Type: journal.
+  - `galen-pergamon`: Studied in Alexandria; chief physician to the gladiators; demonstrated that cutting the recurrent laryngeal nerves renders an animal voiceless; anatomy as the basis of medicine.
+
 - Game changers: plastic and reconstructive surgery innovations of the last 100 years (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC10431564/>  
   Type: journal.
@@ -1281,6 +1361,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://historyofmedicine.com/subject?id=1008>  
   Type: book.
   - `ebers-papyrus`: The Ebers Papyrus dates from about 1552 BCE and, with the Edwin Smith Papyrus, is one of the two most important; the Greater Berlin (Brugsch) Papyrus dates from about 1300 BCE; Reisner's 1905 edition of the Hearst Papyrus.
+
+- Garrison–Morton. Vienna Dioscorides, Codex Vindobonensis Med. Gr. 1.  
+  <https://archive.historyofmedicine.com/author/d/pedanius--dioscorides>  
+  Type: book.
+  - `dioscorides-materia-medica`: The oldest surviving copy is an illuminated Byzantine manuscript made in Constantinople about 512 CE; De materia medica written in the first century CE.
 
 - Gavi. 75 years later: the birth of the World Health Organization (2023).  
   <https://www.gavi.org/vaccineswork/75-years-later-birth-world-health-organization>  
@@ -1332,6 +1417,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3046760/>  
   Type: journal.
   - `liggins-antenatal-steroids`: Sheep infused with corticosteroids; premature lamb born alive and breathing.
+
+- Gross CG. Aristotle on the brain. The Neuroscientist 1:245–250 (1995).  
+  <https://polyu.edu.hk/cbs/rclcn/images/cdl_articles/G/Gross._1995.pdf>  
+  Type: journal.
+  - `alcmaeon-brain`: Aristotle placed sensation in the heart, unlike his predecessors such as Alcmaeon; Alcmaeon described the optic nerves.
+
+- Gruber F. Aulus Cornelius Celsus' De Medicina and his contributions to knowledge on skin diseases. Acta Dermatovenerol Croat 31(2):92 (2023).  
+  <https://hrcak.srce.hr/file/449999>  
+  Type: journal.
+  - `celsus-de-medicina`: The first complete book on medicine in Latin; rediscovered by Tommaso Parentucelli in Milan; printed in Florence in 1478, one of the first medical books printed, before Hippocrates and Galen.
 
 - Grzybowski A. Dutch master Herman Snellen famous for visual acuity testing chart. EuroTimes (ESCRS), 1 November 2016.  
   <https://www.escrs.org/eurotimes/snellen-visual-acuity/>  
@@ -1500,6 +1595,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `magnetic-resonance-imaging`: Damadian's 1971 Science article; first human MRI scan with 'Indomitable' on 3 July 1977; Lauterbur's first image of water in a test tube in 1973.
 
+- Herophilos of Chalcedon (review). DergiPark.  
+  <https://dergipark.org.tr/download/article-file/371071>  
+  Type: journal.
+  - `alexandria-human-dissection`: Celsus and Tertullian blamed Herophilos for vivisection on condemned criminals, but such accusations remain speculative.
+
+- Herophilus. Complete Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://encyclopedia.com/people/medicine/medicine-biographies/herophilus>  
+  Type: book.
+  - `praxagoras-arteries-veins`: Herophilus studied under Praxagoras; Praxagoras and Diocles distinguished arteries and veins; Herophilus transferred to the nerves the function Praxagoras assigned to the arteries.
+
 - Highfield R. Ole: the brain surgeon with a difference. The Press (Christchurch), 6 December 1985, Papers Past.  
   <https://paperspast.natlib.govt.nz/newspapers/CHP19851206.2.101>  
   Type: archive.
@@ -1529,6 +1634,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC6139747>  
   Type: journal.
   - `cochlear-implant`: 1961 House and Doyle perform first true cochlear implants; 1964 Simmons multichannel implant; 1967 House and Urban induction coil; 1976–77 NIH Bilger report; 1984 FDA approves the 3M/House single-channel device for adults.
+
+- History of Indian Medicine (and Ayurveda). Shree Gulabkunverba Ayurvedic Society (1949), via Wisdom Library.  
+  <https://www.wisdomlib.org/hinduism/book/history-of-indian-medicine-and-ayurveda/d/doc627433.html>  
+  Type: book.
+  - `charaka-samhita`: Dridhabala, the redactor of the Caraka Samhita, was a native of Pancanadapura; his supplementary redaction.
 
 - History of polymerase chain reaction (PCR). News-Medical.  
   <https://www.news-medical.net/life-sciences/History-of-Polymerase-Chain-Reaction-%28PCR%29.aspx>  
@@ -1570,10 +1680,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `women-medical-degrees-us`: In 2017, for the first time, a majority of medical students in the United States were women.
 
+- HistoryofInformation.com. Celsus's De Medicina, the oldest Western medical document after the Hippocratic writings, and how it survived the Middle Ages.  
+  <https://historyofinformation.com/detail.php?id=1765>  
+  Type: book.
+  - `celsus-de-medicina`: Lost during the Middle Ages and rediscovered in 1426–27; manuscript at Siena in 1426 and Codex F in 1427; first printed in Florence by Nicolaus Laurentii in 1478.
+
 - HistoryofInformation.com. The Ebers Papyrus, the most extensive record of ancient Egyptian medicine.  
   <https://historyofinformation.com/detail.php?entryid=1657>  
   Type: book.
   - `ebers-papyrus`: 110 pages in hieratic; a chapter on mental disorders; Edwin Smith bought it in 1862; said to have been found in the Assasif district of the Theban necropolis; purchased by Georg Ebers and kept in Leipzig.
+
+- HistoryOfWar.org. Siege of Methone, late 355 – early 354 BC.  
+  <https://www.historyofwar.org/articles/siege_methone.html>  
+  Type: institution.
+  - `critobulus-arrow-wound`: Methone on the Thermaic Gulf; Philip lost his right eye to an arrow during the siege.
+
+- Hoernle AFR. Studies in ancient Indian medicine V: the composition of the Caraka Samhita in the light of the Bower Manuscript. J R Asiatic Soc (Cambridge Core).  
+  <https://cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/xix-studies-in-ancient-indian-medicine-vthe-composition-of-the-caraka-samhita-in-the-light-of-the-bower-manuscript/D030D8A5CF701BBE9DF55E1B2FD45636>  
+  Type: journal.
+  - `charaka-samhita`: Dridhabala's share in the composition of the Caraka Samhita and the dating of his redaction.
 
 - Holland B. The 'father of modern gynecology' performed shocking experiments on enslaved women. History.com (A&E Television Networks).  
   <https://www.history.com/articles/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves>  
@@ -1619,6 +1744,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/>  
   Type: journal.
   - `mumps-mmr-vaccine`: Jeryl Lynn's illness in March 1963; Hilleman at the Merck Institute, West Point; studies showing MMR does not increase the risk of autism.
+
+- Huffman C. Alcmaeon (spring 2007 archive). Stanford Encyclopedia of Philosophy.  
+  <https://plato.stanford.edu/archives/spr2007/entries/alcmaeon/>  
+  Type: institution.
+  - `alcmaeon-brain`: Sensory organs connected to the brain by channels; may have discovered the optic nerve by excising an animal's eyeball.
+
+- Huffman C. Alcmaeon. Stanford Encyclopedia of Philosophy.  
+  <https://plato.stanford.edu/archives/sum2007/entries/alcmaeon/>  
+  Type: institution.
+  - `alcmaeon-brain`: The first to identify the brain as the seat of understanding and to distinguish understanding from perception; doubt that he used dissection as a standard method; Herodotus on Croton's physicians; wrote mostly on medical matters.
 
 - Hunt P. Ötzi the Iceman's putative 'medicine kit'. Electrum Magazine (2019).  
   <https://www.electrummagazine.com/2019/06/otzi-the-icemans-medicine-kit-included-sloe-berries-prunus-spinosa/>  
@@ -2196,6 +2331,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `edwin-smith-papyrus`: Copied circa 1600 BC; 48 cases topographically ordered from the skull to the chest and upper arm.
 
+- Marcus Terentius Varro and the invisible creatures that cause disease. Amusing Planet (2026).  
+  <https://www.amusingplanet.com/2026/08/marcus-terentius-varro-and-invisible.html>  
+  Type: journal.
+  - `varro-minute-creatures`: Written around 37 BC; marshes as breeding grounds for mosquitoes carrying malaria; Greek atomists such as Democritus; Varro born in 116 BC.
+
 - Marescaux J, Leroy J, Gagner M, et al. Transatlantic robot-assisted telesurgery. Nature 413:379–380 (2001), as catalogued in Garrison–Morton (HistoryofMedicine.com).  
   <https://historyofmedicine.com/id/10134>  
   Type: journal.
@@ -2276,6 +2416,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `streptomycin-trial`: Original trial report (record and full text at the James Lind Library).
 
+- Medicine in early China (chapter). Cambridge University Press (Cambridge Core).  
+  <https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader>  
+  Type: book.
+  - `huangdi-neijing`: The primary canon of East Asian medicine; traced by tradition to a prehistoric sage; Suwen focuses on cosmological theory and Lingshu on acupuncture; Western Han consolidation of knowledge and attribution to legendary sages; most ancient medical works have no definite author.
+
 - Mellanby, Edward (Encyclopedia.com topic entry).  
   <https://www.encyclopedia.com/topic/Edward_Mellanby.aspx/>  
   Type: book.
@@ -2290,6 +2435,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.contractpharma.com/contents/view_online-exclusives/2017-04-19/inventing-the-mdi-a-history-in-modern-inhalation-therapy/>  
   Type: journal.
   - `metered-dose-inhaler`: Thiel on the Riker team in 1956; squeeze-bulb glass nebuliser; CFC propellants used in early formulations.
+
+- Miasma. Mètode Science Studies Journal.  
+  <https://metode.org/issues/seccions-revistes/sociofolcologia-seccions-seccions/miasma.html>  
+  Type: journal.
+  - `varro-minute-creatures`: Around 36 BCE Varro wrote De re rustica; apart from vague references in the Atharvaveda, the oldest and clearest statement on the biological origin of infectious disease; nobody paid attention; Fracastoro returned to the idea.
 
 - Microscopy reveals early Neolithic dentistry. Microscopy Today (Cambridge University Press), published online 14 March 2018.  
   <https://cambridge.org/core/journals/microscopy-today/article/microscopy-reveals-early-neolithic-dentistry/2715BDEA100ACFA5AB6898CA0B8FF571>  
@@ -2613,6 +2763,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `palmaz-stent`: First balloon-expandable stent to receive FDA approval; Palmaz–Schatz coronary stent of 1994 became the gold standard; used in nearly 100 million patients.
 
+- Online Latin Dictionary. Aulus Cornelius Celsus.  
+  <https://www.online-latin-dictionary.com/authors/aulus_cornelius_celsus.php>  
+  Type: institution.
+  - `celsus-de-medicina`: De Medicina the only surviving section of a larger encyclopedia; covers diet, pharmacy and surgery; Celsus credited with recording the cardinal signs of inflammation: calor, dolor, tumor and rubor.
+
 - OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).  
   <https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation>  
   Type: university.
@@ -2738,10 +2893,25 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `otzi-birch-fungus`: Ötzi, who lived 5,300 years ago, carried two fragments of F. betulina; some scientists believe he used it medically (Capasso 1998), though the idea is controversial (Pöder 2005); long tradition of folk-medicine use.
 
+- Pliny the Elder. Natural History 7.37 (Bostock and Riley translation).  
+  <https://peterburk.github.io/pliny/ChaptersHtml/7.%20Book%20VII.%20Man,%20His%20Birth,%20His%20Organization,%20And%20The%20Invention%20Of%20The%20Arts./37.%20Chap.%2037.%20(37.)-Names%20Of%20Men%20Who%20Have%20Excelled%20In%20The%20Arts,%20Astrology,%20Grammar,%20And%20Medicine..html>  
+  Type: primary.
+  - `critobulus-arrow-wound`: Critobulus extracted an arrow from the eye of King Philip with so much skill that, although the sight was lost, there was no defect.
+
+- Porter R. The Greatest Benefit to Mankind (HarperCollins, 1997).  
+  <https://litres.ru/book/roy-porter/the-greatest-benefit-to-mankind-63306920/chitat-onlayn/?page=7>  
+  Type: book.
+  - `praxagoras-arteries-veins`: Herophilus a student of Praxagoras (fl. 340 BC), who distinguished arteries from veins; arteries as air tubes; Herophilus noted thicker arterial walls and held that arteries contained blood.
+
 - Prabhu M. Scrutiny or public spectacle? How Louis Pasteur put the anthrax vaccine on trial. Gavi VaccinesWork, 8 July 2026.  
   <https://www.gavi.org/vaccineswork/scrutiny-or-public-spectacle-how-louis-pasteur-put-anthrax-vaccine-trial>  
   Type: institution.
   - `pasteur-attenuated-vaccines`: Public trial at a farm in Pouilly-le-Fort, near Paris, in May 1881.
+
+- Praxagoras of Cos. Complete Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/praxagoras-cos>  
+  Type: book.
+  - `praxagoras-arteries-veins`: Born on Cos c. 340 BC into a medical family; blood in the veins, psychic pneuma in the arteries from the heart; generally credited with the distinction between veins and arteries; shared views with Diocles; influence on Herophilus.
 
 - Preamble to the Constitution of the World Health Organization (SSWM record).  
   <https://www.sswm.info/node/784>  
@@ -2928,6 +3098,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `lister-antisepsis`: 1867 Lancet articles; open fracture dressed in carbolic acid; full recovery; carbolic spray mainly used in Edinburgh.
 
+- Royal College of Physicians of Edinburgh. Marcus Terentius Varro, De re rustica (Venice, 1514).  
+  <https://rcpe.ac.uk/node/5954>  
+  Type: institution.
+  - `varro-minute-creatures`: The idea that diseases are caused by minute living creatures goes back more than 2,000 years; Varro's statement.
+
+- Royal College of Physicians of Edinburgh. The history of germ theory in the College collections.  
+  <https://www.rcpe.ac.uk/heritage/history-germ-theory-college-collections>  
+  Type: institution.
+  - `varro-minute-creatures`: Varro (116–27 BC), director of the library at Rome and author of a work on agriculture, warned against homesteads near swamps because of minute creatures invisible to the eye that float in the air and enter the body through the mouth and nose; Fracastoro's later seminaria.
+
 - Royal College of Physicians. Inspiring physicians: James Francis Pantridge.  
   <https://history.rcp.ac.uk/inspiring-physicians/james-francis-pantridge>  
   Type: institution.
@@ -2967,6 +3147,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ogmagazine.org.au/?p=5937>  
   Type: journal.
   - `thera-saffron-frescoes`: Xeste 3 frescoes depict women in ritual scenes with Crocus sativus; a goddess flanked by a griffin and a blue monkey; medicinal use of saffron noted in the Ebers Papyrus and by Dioscorides.
+
+- Satyori. Charaka (citing Meulenbeld, A History of Indian Medical Literature, 1999).  
+  <https://satyori.com/historical-figures/charaka/>  
+  Type: institution.
+  - `charaka-samhita`: Meulenbeld dates the Charaka recension to roughly 100 BCE–200 CE, working over the older Agnivesha Samhita of the Atreya school; final completion by Dridhabala c. 4th–6th century CE; a layered work.
 
 - Saving lives, not sacrificing them: the inevitable clash between medical research and the protection of medical subjects (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3684307/>  
@@ -3058,6 +3243,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `semmelweis-handwashing`: Handwashing reduced mortality; cessation after Semmelweis left Vienna in 1850 associated with increased mortality.
 
+- Semmelweis Museum. Pictures from the Past of the Healing Arts: guide to the exhibition. Orvostörténeti Közlemények Suppl. 18–19 (2000).  
+  <https://library.hungaricana.hu/en/view/ORSZ_ORVO_OK_Suppl_2000_018_019/?pg=33>  
+  Type: museum.
+  - `dioscorides-materia-medica`: Born in Anazarba; served as a military doctor; five books describing plants, oils and minerals; most frequently used classical textbook beside Galen; commentary by Mattioli.
+
 - Seven years of intracytoplasmic sperm injection and follow-up (Brussels Centres for Reproductive Medicine and Medical Genetics). Human Reproduction.  
   <https://typeset.io/pdf/seven-years-of-intracytoplasmic-sperm-injection-and-follow-5dv6h0b4ri.pdf>  
   Type: journal.
@@ -3067,6 +3257,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.general-anaesthesia.com/oxygen.htm>  
   Type: journal.
   - `priestley-oxygen`: Scheele's earlier (1772) discovery and the dispute over credit; Lavoisier failed to credit Priestley or Scheele.
+
+- Shanghan Lun: Zhang Zhongjing's Treatise on Cold Damage. TCM Guide.  
+  <https://tcmguide.pages.dev/classics/shanghan-lun/>  
+  Type: institution.
+  - `zhang-zhongjing-cold-damage`: Composed around 200 AD in the Eastern Han; written in response to an epidemic that killed much of his extended family; pattern differentiation and formula-based treatment.
 
 - Shapiro-Shapin CG. Pearl Kendrick, Grace Eldering, and the pertussis vaccine. Emerg Infect Dis 16(8):1273–1278 (2010).  
   DOI: [10.3201/eid1608.100288](https://doi.org/10.3201/eid1608.100288), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3298325>  
@@ -3117,6 +3312,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.1038/321674a0](https://doi.org/10.1038/321674a0), <https://pubmed.ncbi.nlm.nih.gov/3713851/>  
   Type: journal.
   - `automated-dna-sequencer`: Partial automation of DNA sequencing; a different-coloured fluorophore for each base reaction; combined in a single gel tube; sequence acquired directly by computer; June 1986.
+
+- Smith W (ed.). A Dictionary of Greek and Roman Biography and Mythology (1890): Critobulus.  
+  <https://cts.perseids.org/read/pdlrefwk/viaf88890045/003/perseus-eng1/C.critobulus_3>  
+  Type: book.
+  - `critobulus-arrow-wound`: A Greek surgeon who, according to Pliny, extracted an arrow from Philip's eye, probably at the siege of Methone, preventing disfigurement.
 
 - Song JJ, Guyette JP, Gilpin SE, Gonzalez G, Vacanti JP, Ott HC. Regeneration and experimental orthotopic transplantation of a bioengineered kidney. Nat Med 19(5):646–651 (2013).  
   DOI: [10.1038/nm.3154](https://doi.org/10.1038/nm.3154), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3650107>  
@@ -3188,6 +3388,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `kangaroo-mother-care`: Developed in 1978 in Bogotá; skin-to-skin contact, exclusive breastfeeding and follow-up; WHO recommends KMC for clinically stable newborns of 2,000 g or less.
 
+- Štrkalj G, Chorn D. Herophilus of Chalcedon and the practice of dissection in Hellenistic Alexandria. South African Medical Journal 98(2) (2008), excerpted.  
+  <https://novoscriptorium.com/2019/01/26/herophilus-of-chalcedon-and-the-practice-of-dissection-in-hellenistic-alexandria/>  
+  Type: journal.
+  - `alexandria-human-dissection`: Herophilus and Erasistratus performed human dissections; no fewer than 600 dissections reported; Celsus claims vivisection.
+
 - Stronks HC, Dagnelie G. The functional performance of the Argus II retinal prosthesis. Expert Rev Med Devices 11(1):23–30 (2014).  
   DOI: [10.1586/17434440.2014.862494](https://doi.org/10.1586/17434440.2014.862494), <https://pmc.ncbi.nlm.nih.gov/articles/PMC3926652>  
   Type: journal.
@@ -3257,6 +3462,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://diabetesonthenet.com/wp-content/uploads/dd8-1-6-8.pdf>  
   Type: journal.
   - `insulin-coma-therapy`: Around 1930 Sakel worked at a Berlin clinic for morphine addicts; returned to Vienna in 1933; claimed 70% full remission in 1934; up to 20 patients treated together; Bourne's 1953 critique.
+
+- Taylor HO. Greek Biology and Medicine (1922), p. 126 (Wikisource scan).  
+  <https://wiki.1209k.com/content/wikisource_en_all_maxi_2022-09/A/Page%3AGreek_Biology_and_Medicine.djvu/126>  
+  Type: book.
+  - `galen-pergamon`: Although some blood in the arteries had been sensed before him, Galen seems to have been the first to demonstrate it; quoting Garrison on aphonia from cutting the recurrent laryngeal nerve and spinal cord sections.
 
 - Technology's Stories (Society for the History of Technology). Article on the origins of surgical anaesthesia (PDF, 2015).  
   <https://www.technologystories.org/wp-content/uploads/2015/04/Wright_article.pdf>  
@@ -3343,6 +3553,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ivf-1978`: The Kolkata unit applied ovarian stimulation (HMG) and other techniques.
 
+- The facial injury of King Philip II of Macedonia and its treatment by Critobulos. Craniomaxillofacial Trauma & Reconstruction 10(3) (2017), MDPI.  
+  <https://www.mdpi.com/1943-3883/10/3/29>  
+  Type: journal.
+  - `critobulus-arrow-wound`: Evidence on Philip II's facial injury and its treatment by his physician Critobulos; zygomatico-orbital injury and loss of the eye at Methone; Demosthenes' account of the archer.
+
 - The first human heart transplant and further advances in cardiac transplantation at Groote Schuur Hospital and the University of Cape Town. Cardiovascular Journal of Africa (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC4200566/>  
   Type: journal.
@@ -3352,6 +3567,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.21037/jtd.2017.11.84](https://doi.org/10.21037/jtd.2017.11.84), <https://pmc.ncbi.nlm.nih.gov/articles/PMC5757055/figure/f2>  
   Type: journal.
   - `lung-transplant-hardy`: First human lung transplantation on 11 June 1963 at University Hospital, Jackson; 58-year-old John Russell with an obstructive tumour in the left main bronchus died 18 days later of renal failure.
+
+- The first medical encyclopaedia and the experimental physiology of Erasistratus. Project MUSE.  
+  <https://muse.jhu.edu/article/403227/summary>  
+  Type: journal.
+  - `alexandria-human-dissection`: Herophilus and Erasistratus probably the first to demonstrate human dissection; Celsus's account; Erasistratus distinguished sensory from motor nerves and traced both to the brain; considered the first experimental physiologist.
 
 - The first New England stone bath. Urologic History Museum newsletter (2021).  
   <https://urologichistory.museum/the-scope-of-urology-newsletter/issue-7-fall-2021/the-first-new-england-stone-bath>  
@@ -3427,6 +3647,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745>  
   Type: journal.
   - `semmelweis-handwashing`: Semmelweis did not publish at first; students reported his results; his book appeared in 1861.
+
+- The Metropolitan Museum of Art. Folio from the De Materia Medica of Dioscorides.  
+  <https://metmuseum.org/art/collection/search/451825>  
+  Type: museum.
+  - `dioscorides-materia-medica`: Dioscorides, a physician in the Roman army, wrote a herbal in Greek in the first century AD, discussing each plant's characteristics, habitat and use.
 
 - The molecule that changed everything: how insulin rewired drug manufacturing. Investigations Quality.  
   <https://investigationsquality.com/tag/biologics/>  
@@ -3583,6 +3808,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `positron-emission-tomography`: Seminal 1975 paper by Phelps, Hoffman, Mullani and Ter-Pogossian from Washington University; a couple of years after CT; individual detectors around a transaxial plane; Phelps and Hoffman later moved to UCLA and built a commercial version.
 
+- Traditional Chinese medicine overview citing Sivin (1998). Rukasu Budo Dojo, healing arts.  
+  <https://sites.google.com/rukasubudodojo.com/rukasubudodojo/healing-arts/tcm>  
+  Type: institution.
+  - `huangdi-neijing`: The Yellow Emperor's Inner Canon, the oldest received work of Chinese medical theory, was compiled around the first century BCE from shorter texts from different medical lineages.
+
 - Translational Research Institute (Brisbane). Cervical cancer vaccine: Ian Frazer and Jian Zhou.  
   <https://tri.edu.au/node/4597>  
   Type: institution.
@@ -3643,6 +3873,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `pantridge-mobile-defibrillator`: Collaboration with Mawhinney, Geddes and engineer John Anderson; defibrillator installed in Belfast ambulances as the 'Pantridge plan'.
 
+- UNESCO Memory of the World Register. Huang Di Nei Jing (Yellow Emperor's Inner Canon), nomination 2010-15.  
+  <https://media.unesco.org/sites/default/files/webform/mow001/china_huan_di_nei.pdf>  
+  Type: institution.
+  - `huangdi-neijing`: The earliest and most important written work of traditional Chinese medicine; two parts, Suwen and Lingshu, each with 9 volumes and 81 chapters; editions in the Warring States period with supplements under the Qin and Han.
+
 - UNESCO World Heritage Centre. Archaeological Ruins at Moenjodaro (List no. 138).  
   <https://whc.unesco.org/en/list/138/>  
   Type: institution.
@@ -3657,6 +3892,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.justice.gov/d9/case-documents/attachments/1974/05/30/339310.pdf>  
   Type: primary.
   - `tetracycline`: Action alleging fraud on the Patent Office in obtaining the Conover tetracycline patent issued to Pfizer on 11 January 1955.
+
+- University at Buffalo, History of CDS. Praxagoras c. 340–280 BC.  
+  <https://ubwp.buffalo.edu/history-of-cds/?p=449>  
+  Type: university.
+  - `praxagoras-arteries-veins`: Distinguished arteries and veins; arteries carry pneuma and stem from the heart, veins carry blood and stem from the liver; first to direct attention to the pulse in diagnosis; believed arteries pulsed by themselves; refuted by Herophilus.
 
 - University Hospitals. UH celebrates 70th anniversary of world's first successful cardiac defibrillation (2018).  
   <https://uhhospitals.org/for-clinicians/articles-and-news/articles/2018/01/uh-celebrates-70th-anniversary-of-worlds-first-successful-cardiac-defibrillation>  
@@ -3782,6 +4022,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://healthcare.utah.edu/healthfeed/2012/12/first-artificial-heart-30-years-later>  
   Type: university.
   - `jarvik-7-artificial-heart`: Jarvik-7 of aluminium and polyurethane connected to a 400-pound air compressor; Clark lived 112 days and died on 23 March 1983, aged 62; Seattle dentist.
+
+- University of Virginia, Claude Moore Health Sciences Library. Pedanius Dioscorides of Anazarbos (fl. 50–70).  
+  <https://exhibits.hsl.virginia.edu/treasures/pedanius-dioscorides-of-anazarbos-fl-50-70/index.html>  
+  Type: university.
+  - `dioscorides-materia-medica`: A Greek surgeon who served in Nero's army; an extensive guide to pharmacy and medical botany; the classic text for 1,500 years; more than 600 plants and plant ingredients.
 
 - Upton H. Origin of drugs in current use: the cyclosporine story (2001).  
   <https://davidmoore.org.uk/Sec04_01.htm>  
@@ -3963,6 +4208,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `jarvik-7-artificial-heart`: DeVries rejoined Kolff's team in 1979; FDA approval in 1982; selection panel; 61-year-old Clark; complications followed by the news media; died after 112 days.
 
+- Wills A. Herophilus, Erasistratus, and the birth of neuroscience (The neuroanatomy of Herophilus). European Neurology 69(5):292 (Karger).  
+  <https://karger.com/ene/article/69/5/292/124592/The-Neuroanatomy-of-Herophilus>  
+  Type: journal.
+  - `alexandria-human-dissection`: Herophilus (c. 330–260 BC), the 'Father of Anatomy'; cadaveric dissection and possibly vivisection; for 40 years Ptolemaic royal patronage permitted dissection of condemned criminals; library of some 7,000 scrolls.
+
 - Withering W. An Account of the Foxglove, and Some of Its Medical Uses: with Practical Remarks on Dropsy, and Other Diseases. Birmingham: M. Swinney; 1785 (Project Gutenberg edition).  
   <https://www.gutenberg.org/ebooks/24886>  
   Type: primary.
@@ -4063,6 +4313,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `rts-s-malaria-vaccine`: First vaccine recommended against a human parasitic disease of any kind; reduces deadly severe malaria.
 
+- World History Encyclopedia. Galen.  
+  <https://www.worldhistory.org/Galen/>  
+  Type: institution.
+  - `galen-pergamon`: Born in 129 CE in Pergamon; returned in 157 CE as physician to gladiators, an opportunity to study anatomy; left for Rome in 162 CE; described an epidemic in Rome.
+
 - World's first full-face transplant. Indian Transplant Newsletter 9(29) (2010).  
   <https://www.itnnews.co.in/article-print.asp?id=647>  
   Type: journal.
@@ -4147,6 +4402,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.yourgenome.org/theme/the-dawn-of-dna-profiling-the-eureka-moment-that-revolutionised-crime-solving/>  
   Type: institution.
   - `dna-fingerprinting`: Developed in 1984 at the University of Leicester; revolutionised police investigation.
+
+- Yu X. History of epidemic diseases in China (review). PubMed Central PMC9009840.  
+  <https://pmc.ncbi.nlm.nih.gov/articles/PMC9009840>  
+  Type: journal.
+  - `zhang-zhongjing-cold-damage`: Epidemic disease in Chinese history and the significance of the Shang Han Za Bing Lun in responding to epidemics.
 
 - Zhou M. Pearl Luella Kendrick (1890–1980). Embryo Project Encyclopedia.  
   <https://embryo.asu.edu/pages/pearl-luella-kendrick-1890-1980>  
