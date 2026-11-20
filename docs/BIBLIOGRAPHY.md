@@ -1,6 +1,6 @@
 # Source bibliography
 
-Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 880 distinct sources across 203 milestones.
+Generated from the dataset on 2026-11-20 by `scripts/validate-data.mjs`. 948 distinct sources across 217 milestones.
 
 Each entry lists the milestones it is cited for and, for each, the specific claims that were checked against it.
 
@@ -114,6 +114,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `ether-anaesthesia`: Twenty years of dispute between three claimants, none the earliest; Morton patented ether.
 
+- Ahmad H. Hunayn ibn Ishaq. Aspetar Sports Medicine Journal 5(2), 2016.  
+  <https://journal.aspetar.com/viewarticle.aspx?id=320>  
+  Type: journal.
+  - `hunayn-translations`: Key figure in the translation movement of the House of Wisdom; command of Syriac, Arabic, Persian and Greek; trained under Yuhanna ibn Masawayh; the Ten Treatises described as the earliest existing systematic textbook of ophthalmology.
+
 - Akira Endo, father of statins, dies. The Hospitalist.  
   <https://blogs.the-hospitalist.org/index.php/content/akira-endo-father-statins-dies>  
   Type: journal.
@@ -123,6 +128,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC8888238/>  
   Type: journal.
   - `polio-vaccine-trials`: Cutter Laboratories' defective lots; Sabin's vaccine tested in the Soviet Union, with tens of millions of children vaccinated in 1959–1961.
+
+- Albucasis and the foundations of surgery. Medicine and Pharmacy Reports.  
+  <https://medpharmareports.com/index.php/mpr/article/download/2963/3397/24107>  
+  Type: journal.
+  - `albucasis-tasrif`: Patronage of al-Hakam II; the final volume devoted exclusively to surgery, with more than 200 illustrated instruments, operative techniques and ethical and educational principles; influence for nearly five centuries.
 
 - Alcmaeon of Croton (c. 540–500 BCE). Encyclopedia of Philosophy (Encyclopedia.com).  
   <https://www.encyclopedia.com/history/biographies/nicaragua-history-biographies/alcmaeon>  
@@ -369,6 +379,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `dolly-cloned-sheep`: Experiments at the Roslin Institute; scepticism based on Gurdon's earlier results; cloning from adult cells.
 
+- Basil's house of healing. Christian History Institute.  
+  <https://christianhistoryinstitute.org/magazine/article/basils-house-of-healing>  
+  Type: institution.
+  - `basileias-hospital`: Gregory's funeral oration of 379; Basil ordained priest in 365 and bishop five years later; many historians consider it the first hospital.
+
+- Basil's house of healing. RedeemTV magazine.  
+  <https://redeemtv.com/magazine/article/basils-house-of-healing>  
+  Type: institution.
+  - `basileias-hospital`: Physicians and nurses treated sick patients there.
+
 - Baxby D. Appreciation of Glenny AT, Südmersen HJ, J Hyg 1921. Epidemiology and Infection (2005).  
   <https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44B20AEA600187C6E0BC38A5B63702EF/S0950268805004267a.pdf/6_the_discovery_of_diphtheria_toxoid_and_the_primary_and_secondary_immune_response_glenny_at_sudmersen_hj_j_hyg_1921_20_176220.pdf>  
   Type: journal.
@@ -403,6 +423,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.scielo.br/j/mioc/a/Mk9HP3HbF8qgPN4KTxysFTS/?lang=en>  
   Type: journal.
   - `yellow-fever-17d`: Use of 17D for vaccine production in Brazil since its introduction in 1937.
+
+- Benedict XV. Principi apostolorum Petro (1920), section 9 (IntraText).  
+  <https://www.intratext.com/IXT/ENG0629/_P9.HTM>  
+  Type: primary.
+  - `ephrem-edessa-famine-hospital`: In a famine Ephrem ran to Edessa, castigated those hoarding grain, and with the money he begged provided beds for the starving, spread in the porticoes of Edessa, where he nursed the sick.
 
 - Bentley Historical Library, University of Michigan. The trailblazer (Snapshots of U-M History).  
   <https://bentley.umich.edu/?p=2238>  
@@ -475,6 +500,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: museum.
   - `nineveh-medical-encyclopaedia`: A 2,600-year-old handbook with thousands of descriptions of diseases and symptoms and prescriptions; compiled in the library of Ashurbanipal; made up of 12 sections.
 
+- Brock SP. Sergios of Reshʿayna. Gorgias Encyclopedic Dictionary of the Syriac Heritage (online ed., Beth Mardutho).  
+  <https://gedsh.bethmardutho.org/Sergios-of-Reshayna>  
+  Type: book.
+  - `sergius-syriac-galen`: Educated, including in medicine, in Alexandria; designated archiatros (chief doctor) of Reshʿayna; sent with a letter to Pope Agapetus and died suddenly at Constantinople on his return; Galen treatises listed in Hunayn's letter as his work.
+
 - Brodie BB, Axelrod J. The fate of acetanilide in man. J Pharmacol Exp Ther 94:29–38 (1948). NLM Profiles in Science record.  
   <https://profiles.nlm.nih.gov/101584577X4>  
   Type: primary.
@@ -509,6 +539,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.bpb.de/themen/zeit-kulturgeschichte/geteilte-geschichte/340570/salvarsan-ampulle/>  
   Type: institution.
   - `salvarsan`: Salvarsan developed in 1909 by Paul Ehrlich and the chemist Alfred Bertheim at the Georg-Speyer-Haus in Frankfurt; later Neosalvarsan.
+
+- Burnett C, Jacquart D (eds). Constantine the African and ʿAlī ibn al-ʿAbbās al-Maǧūsī: the Pantegni and related texts. Leiden: Brill, 1994.  
+  <https://doi.org/10.1163/9789004377356>  
+  Type: book.
+  - `al-majusi-royal-book`: Adapted for a Latin-reading audience by Constantine the African in the late eleventh century.
 
 - Burruss H. Oral history interview (1986). NIH History Office.  
   <https://history.nih.gov/download/attachments/14844135/Burruss%2C%20Harry%20oral%20history%201986.pdf?api=v2>  
@@ -589,6 +624,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://words.fromoldbooks.org/Chalmers-Biography/d/desault-peter-joseph.html>  
   Type: book.
   - `desault-clinical-surgery`: Principal surgeon to the Hôtel-Dieu in Paris; came to Paris in 1764; surgeon-major to the Charité in 1782.
+
+- Chalmers A. The General Biographical Dictionary: Ephrem, St. (From Old Books).  
+  <https://words.fromoldbooks.org/Chalmers-Biography/e/ephrem-st.html>  
+  Type: book.
+  - `ephrem-edessa-famine-hospital`: Ordained deacon at Edessa; set up some 300 beds in the public porticoes during the famine.
 
 - Chalmers I. Underuse of antenatal corticosteroids and future litigation (listed in 'Iain Chalmers: a bibliography', James Lind Library).  
   <https://www.jameslindlibrary.org/blogs/iain-chalmers-a-bibliography/>  
@@ -710,6 +750,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `favaloro-coronary-bypass`: Favaloro hesitant to be called the father of bypass surgery but credited with introducing it clinically; joined the Cleveland Clinic in 1962 and studied Sones's cineangiograms.
 
+- Cooper GM. Review of Burnett C, Jacquart D (eds), Constantine the African and ʿAlī ibn al-ʿAbbās al-Maǧūsī: the Pantegni and related texts.  
+  <https://law-journals-books.vlex.com/vid/constantine-ibn-abbas-magusi-pantegni-52647121>  
+  Type: journal.
+  - `al-majusi-royal-book`: Constantine the African made the first Latin translation and called it Pantegni; 108 known Latin manuscripts; very little known about al-Majusi, born in Iran in the early tenth century and associated with Adud al-Dawla, the dedicatee, before 978.
+
 - Cooper R. Walter, (William) Grey (1910–1977), neurophysiologist (text of Oxford DNB entry). Cyberneticzoo.  
   <https://cyberneticzoo.com/cyberneticanimals/30/>  
   Type: book.
@@ -756,6 +801,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://ijdb.ehu.eus/article/pdf/9184332>  
   Type: journal.
   - `icsi-brussels`: Earlier microinjection attempts uncontrolled; the Brussels laboratory headed by Van Steirteghem and Devroey persisted and reported pregnancies and births (Palermo et al. 1992).
+
+- Daily Medieval. De Gradibus (22 February 2022) and Al-Kindi (21 February 2022).  
+  <https://dailymedieval.blogspot.com/2022/02/de-gradibus.html>  
+  Type: institution.
+  - `al-kindi-drug-degrees`: Born in Kufa, educated in Baghdad; De gradibus applied mathematics to drug strength; Roger Bacon found the method extremely difficult and almost unknown among Latin physicians.
 
 - Day J. Crocuses in context: a diachronic survey of the crocus motif in the Aegean Bronze Age. Hesperia 80(3):337 (2011).  
   <https://ascsa.edu.gr/uploads/media/hesperia/hesperia.80.3.0337.pdf>  
@@ -816,6 +866,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   DOI: [10.11604/pamj.2021.40.120.32092](https://doi.org/10.11604/pamj.2021.40.120.32092), <https://www.panafrican-med-journal.com/content/article/40/120/full>  
   Type: journal.
   - `bunyoro-caesarean`: Patient aged 21, first pregnancy; banana alcohol used; wound closed with iron spikes; mother and baby followed for 11 days; Bunyoro kingdom.
+
+- Discover Campania. La Scuola Salernitana: an encounter between cultures and innovation.  
+  <https://discovercampania.it/en/explore-campania/territory/cilento/salerno/read-more/la-scuola-salernitana-incontro-tra-culture-e-innovazione>  
+  Type: institution.
+  - `salerno-medical-school`: Medicine taught in Salerno by the tenth century; Constantine the African came to Salerno and then translated Arabic medical texts into Latin at Monte Cassino.
 
 - Dittrick Medical History Center. Intrauterine device (IUD), History of Birth Control exhibit.  
   <https://artsci.case.edu/dittrick/?p=1901>  
@@ -1102,6 +1157,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `desault-clinical-surgery`: Opened a school of anatomy in Paris in winter 1766 with about 300 pupils; opposition from established teachers; surgeon-major to the Charité in 1782.
 
+- Encyclopaedia Britannica. Avicenna: legacy.  
+  <https://www.britannica.com/biography/Avicenna/Legacy>  
+  Type: book.
+  - `avicenna-canon`: Profound influence over European schools into the seventeenth century; increasing criticism by Renaissance instructors; the text adhered to Greco-Roman theory; Osler's description of 'the most famous medical text-book ever written'.
+
 - Encyclopaedia Britannica. Galen.  
   <https://www.britannica.com:443/biography/Galen>  
   Type: book.
@@ -1132,6 +1192,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `bath-laserphaco`: Invented the laserphaco probe for cataract surgery; patented in 1988, the first African American woman physician to receive a US medical patent; advocate for eye care in underserved communities; first woman on the faculty of the Jules Stein Eye Institute.
 
+- Encyclopaedia Britannica. Paul of Aegina.  
+  <https://www.britannica.com/biography/Paul-of-Aegina>  
+  Type: book.
+  - `paul-of-aegina-surgery`: Born c. 625 on Aegina, died c. 690; Alexandrian physician and surgeon; Epitome in seven books based on Galen, Oribasius and Aëtius; influenced Arab medicine; al-Razi drew on it; Abu al-Qasim borrowed heavily from the sixth, surgical book for the surgery chapter of al-Tasrif; lithotomy and trephination.
+  - `albucasis-tasrif`: Abu al-Qasim borrowed heavily from the sixth, surgical book of Paul's Epitome for the surgery chapter of al-Tasrif.
+
 - Encyclopaedia Britannica. Stereotaxic surgery.  
   <https://www.britannica.com/print/article/565672>  
   Type: book.
@@ -1152,6 +1218,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `women-medical-degrees-us`: Founded 1850, two years after Seneca Falls; first building at 627 Arch Street; first graduating class included Ann Preston, later the first female dean of a US medical school; first medical school in the world for women authorised to award the MD.
 
+- Encyclopedia.com (New Catholic Encyclopedia). Sergius of Resaina.  
+  <https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sergius-resaina>  
+  Type: book.
+  - `sergius-syriac-galen`: He studied in Alexandria and became a physician.
+
+- Encyclopedia.com (Women in World History). Fabiola (d. 399 CE).  
+  <https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/fabiola-d-399-ce>  
+  Type: book.
+  - `fabiola-rome-hospital`: Founder of the first public hospital in Rome; opened a nosocomeion, apparently the first of its kind there; founded a house for pilgrims at Portus; details come from Jerome's Letter 77 to Oceanus, written in 399.
+
 - Endo A and the discovery of statins: 50 years on. PubMed Central, PMC9491398.  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9491398>  
   Type: journal.
@@ -1161,6 +1237,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ethw.org/Electrocardiography>  
   Type: institution.
   - `waller-einthoven-ecg`: Waller used Lippmann's capillary electrometer and photographed the meniscus on moving paper; pessimistic about utility; one of his demonstrations inspired Einthoven; string galvanometer developed at Leiden in 1901.
+
+- Epistolae: Medieval Women's Latin Letters (Columbia University). Fabiola.  
+  <https://epistolae.ctl.columbia.edu/woman/50.html>  
+  Type: university.
+  - `fabiola-rome-hospital`: She and Pammachius founded a hospice at Portus; most of what is known comes from Jerome's eulogy.
 
 - Ernst E. The prime assumption of homeopathy is based on a misunderstanding (2015).  
   <https://edzardernst.com/2015/12/the-prime-assumption-of-homeopathy-is-based-on-a-misunderstanding/>  
@@ -1312,6 +1393,12 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `hippocratic-sacred-disease`: Epilepsy 'no more sacred than any other disease'; natural, brain-based causes; described signs; phlegm mechanism.
 
+- From poorhouse to hospital. Christian History Institute.  
+  <https://christianhistoryinstitute.org/magazine/article/from-poorhouse-to-hospital>  
+  Type: institution.
+  - `basileias-hospital`: Julian's letter to a pagan high priest urging pagans to match Christian charity; hospitals first appeared in the fourth century in the Greek East.
+  - `fabiola-rome-hospital`: Hospitals first appeared in the fourth century in the Greek East.
+
 - From the Gorgon's blood to Behring's Blutserumtherapie: a long path towards serum therapy (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC13459526/>  
   Type: journal.
@@ -1341,6 +1428,31 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://historyofmedicine.com/id/9177>  
   Type: book.
   - `kahun-gynaecological-papyrus`: c. 1800 BCE; found at El-Lahun by Petrie in 1889; translated by Griffith (1893); concerns gynaecological diseases, fertility, pregnancy and contraception.
+
+- Garrison–Morton (HistoryofMedicine.com). Author entry: al-Kindī.  
+  <https://historyofmedicine.com/author/d/abu-ysuf-yaqb-ibn-isq-aabb-alkindus-alkind>  
+  Type: book.
+  - `al-kindi-drug-degrees`: The medical formulary (Aqrabadhin) of al-Kindi, edited by Martin Levey, 1966.
+
+- Garrison–Morton (HistoryofMedicine.com). Author entry: Oribasius.  
+  <https://historyofmedicine.com/author/d/oreibasius-oribasius->  
+  Type: book.
+  - `oribasius-collections`: Physician to the emperor Julian; a compiler of existing knowledge rather than an original writer; compiled the Synagoge.
+
+- Garrison–Morton (HistoryofMedicine.com). Oribasius, Collectionum medicarum reliquae, ed. J. Raeder, 1926–1933. Entry 8756.  
+  <https://beta.historyofmedicine.com/id/8756>  
+  Type: book.
+  - `oribasius-collections`: Surviving books of the Collectiones; selections from physicians whose works no longer exist, including Antyllus, Archigenes and Diocles; studied at Alexandria under Zeno; physician to Julian; recalled by Valens; the encyclopedia a product of the effort of Julian and his circle to recall the classical past.
+
+- Garrison–Morton (HistoryofMedicine.com). Tacuini sanitatis … Alkindus de rerum gradibus (Strasbourg, 1531). Entry 9799.  
+  <https://www.historyofmedicine.com/id/9799>  
+  Type: book.
+  - `al-kindi-drug-degrees`: Al-Kindi's work on the preparation and dosage of medicines applied mathematics to pharmacology by quantifying drug strength; Prioreschi called it the first attempt at serious quantification in medicine; system based on the phases of the moon to predict critical days.
+
+- Garrison–Morton (HistoryofMedicine.com). The Syriac Galen palimpsest (entry 6900).  
+  <https://historyofmedicine.com/author/d/sergius-of-reshaina>  
+  Type: book.
+  - `sergius-syriac-galen`: Ninth-century palimpsest whose undertext is Galen's On Simple Drugs in Sergius's Syriac translation.
 
 - Garrison–Morton (Norman J, ed.). HistoryofMedicine.com, subject: leukaemia. Bennett JH (1845), GMN 3061; Virchow R. Weisses Blut (1845), GMN 3062.  
   <https://historyofmedicine.com/subject?id=1158>  
@@ -1407,6 +1519,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `ivf-1978`: Two IVF births in 1978: Louise Brown (Jean Purdy, Patrick Steptoe, Robert Edwards) and Kanupriya Agarwal (Subhas Mukerji, Sunit Mukherjee, Saroj Kanti Bhattacharya), 3 October.
 
+- Gorgias Encyclopedic Dictionary of the Syriac Heritage (Beth Mardutho). Ḥunayn b. Isḥāq (808–873).  
+  <https://dev.gedsh.bethmardutho.org/entry/Hunayn-b-Ishaq.html>  
+  Type: book.
+  - `hunayn-translations`: 808–873; Church of the East; Hunayn and his school translated well over a hundred Greek medical works, including Hippocrates, Dioscorides and almost the entire corpus of Galen; his letter on the Galen translations; Ten Treatises on the Eye and Questions on the Eye.
+
 - Green E. The human genome sequence is now complete. NHGRI Director's Page, 7 April 2022.  
   <https://www.genome.gov/es/node/84831>  
   Type: institution.
@@ -1443,6 +1560,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `kidney-transplant-twins`: 23 December 1954 at the Peter Bent Brigham Hospital; Murray's 1990 Nobel Prize; an earlier partial kidney transplant at the same hospital in 1946.
 
+- Gurunluoglu R, Gurunluoglu A. Paul of Aegina: landmark in surgical progress. World Journal of Surgery 27(1):18–25, 2003.  
+  <https://doi.org/10.1007/s00268-002-6464-8>  
+  Type: journal.
+  - `paul-of-aegina-surgery`: 625–690; born on Aegina, practised in Alexandria; review of his surgical treatise including inguinal hernia repair; influence on Rhazes, Haly Abbas, Albucasis and Avicenna.
+
 - Haefely W. The chemical pedigree of flumazenil. Chimia (1993).  
   <https://chimia.ch/chimia/article/download/1993_141/1552/12207>  
   Type: journal.
@@ -1467,6 +1589,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.skepdoc.info/homeopathy/>  
   Type: institution.
   - `hahnemann-homeopathy`: Spread to over 30 countries by the late 1800s; at its peak 22 homeopathic medical schools and over 100 homeopathic hospitals in the US; continued popularity in Europe and India.
+
+- Hamarneh S. Al-Ṭabarī, Abu'l-Ḥasan ʿAlī ibn Sahl Rabban. Dictionary of Scientific Biography (Encyclopedia.com).  
+  <https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/al-tabari-abul-hasan-ali-ibn-sahl-rabban>  
+  Type: book.
+  - `al-tabari-firdaws`: Born in Marw c. 808, died c. 861; wrote Firdaws al-hikma in 850, dedicated to al-Mutawakkil; compiled from Greek, Syriac and Indian compendiums with his own observations; the first of its kind in Arabic with such scope; edited by M. Z. Siddiqi, Berlin, 1928.
+
+- Hamarneh S. Contributions of ʿAli al-Ṭabarī to ninth-century Arabic culture. Folia Orientalia 12, 1970.  
+  <https://wydawnictwo.pan.pl/index.php/fo/article/download/2114/1575/6703>  
+  Type: journal.
+  - `al-tabari-firdaws`: He began the encyclopedia almost two decades before completing it, after reading Syriac medical texts confined to one subject each; his duties in Tabaristan and then at Samarra delayed it.
 
 - Handyside AH, Kontogianni EH, Hardy K, Winston RML. Pregnancies from biopsied human preimplantation embryos sexed by Y-specific DNA amplification. Nature 344:768–770 (1990).  
   DOI: [10.1038/344768a0](https://doi.org/10.1038/344768a0), <https://pubmed.ncbi.nlm.nih.gov/2330030/>  
@@ -1605,6 +1737,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `praxagoras-arteries-veins`: Herophilus studied under Praxagoras; Praxagoras and Diocles distinguished arteries and veins; Herophilus transferred to the nerves the function Praxagoras assigned to the arteries.
 
+- Heyne T. Reconstructing the world's first hospital: the Basiliad. Hektoen International, 2017.  
+  <https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/>  
+  Type: journal.
+  - `basileias-hospital`: Gregory's description of the 'new city'; three of Basil's letters refer to it; lepers were treated there.
+
+- Heyne T. The world's first Christian hospital: the Basiliad. Orthodox Outlet for Dogmatic Enquiries.  
+  <https://oodegr.com/english/koinwnia/iatrika/Basiliad_medical_care.htm>  
+  Type: institution.
+  - `basileias-hospital`: The famine of 369, when Basil gathered and fed the poor; construction well under way by 372, the date of his letter; Crislip's definition of a hospital.
+
 - Highfield R. Ole: the brain surgeon with a difference. The Press (Christchurch), 6 December 1985, Papers Past.  
   <https://paperspast.natlib.govt.nz/newspapers/CHP19851206.2.101>  
   Type: archive.
@@ -1619,6 +1761,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://jogi.co.in/storage/articles/files/filebase/Archives\1963\sep\1963_323_330_Sep.pdf>  
   Type: journal.
   - `malmstrom-vacuum-extractor`: Use spread throughout the world, particularly Europe, since Malmström designed his instrument in 1954; American authors emphasised foetal risks; unlike earlier suction cups, it also functions as a traction instrument.
+
+- Hirudotherapy Society. Oribasius of Pergamon (biography).  
+  <https://www.hirudotherapysociety.org/en/biography/oribasius>  
+  Type: institution.
+  - `oribasius-collections`: c. 320–c. 403; personal physician to Julian, 361–363; seventy-book Collectiones commissioned by Julian, excerpting and arranging earlier Greek medical literature; preserved fragments of Rufus of Ephesus and Antyllus; nine-book Synopsis ad Eustathium; Byzantine influence.
+
+- Hirudotherapy Society. Paul of Aegina (biography).  
+  <https://www.hirudotherapysociety.org/en/biography/paul-of-aegina>  
+  Type: institution.
+  - `paul-of-aegina-surgery`: Compiled at Alexandria in the mid-seventh century, when the city passed from Byzantine to Arab rule; Book VI on surgery influential in Islamic and Western medicine.
 
 - History News Network. The surprising story of the first blood transfusion.  
   <https://www.historynewsnetwork.org/article/the-surprising-story-of-the-first-blood-transfusio>  
@@ -1810,10 +1962,20 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `malaria-mosquito-transmission`: Ross posted to Secunderabad in June 1897; observed pigmented oocysts on 20 August 1897; role of Grassi.
 
+- Index of Medieval Art, Princeton. The Tacuinum Sanitatis (August 2016).  
+  <https://ima.princeton.edu/2016/08>  
+  Type: university.
+  - `ibn-butlan-tables-of-health`: Based on an Arabic text by Ibn Butlan, an eleventh-century Christian physician of Baghdad, credited in the Vienna, Paris, Casanatense and Liège manuscripts.
+
 - Indian Council of Medical Research. ICMR Bulletin 2003;33(10).  
   <https://www.icmr.gov.in/icmrobject/custom_data/pdf/icmr-bulletins/BUOCT03.pdf>  
   Type: institution.
   - `ivf-1978`: Both announcements met great scepticism; Mukerjee transferred to an eye hospital and could not pursue his work.
+
+- Inlibris. Editio princeps of the Tacuini sanitatis.  
+  <https://inlibris.com/item/bn63735/>  
+  Type: archive.
+  - `ibn-butlan-tables-of-health`: First printed edition; Ibn Butlan, a Nestorian physician of eleventh-century Baghdad, summarised medical knowledge in synoptic tables.
 
 - Innovation in retina. Retinal Physician (March 2015).  
   <https://retinalphysician.com/issues/2015/march/innovation-in-retina/>  
@@ -1910,6 +2072,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `mawangdui-medical-manuscripts`: Tomb 3 at Changsha probably belonged to Li Xi (d. 168 BCE); manuscripts including medical texts on bamboo, wood and silk stored in a lacquer case.
 
+- Iran Chamber Society. Ali ibn Rabban Tabari.  
+  <https://iranchamber.com/personalities/atabari/ali_tabari.php>  
+  Type: institution.
+  - `al-tabari-firdaws`: Educated in medicine by his father Sahl, a successful physician; mastered Syriac and Greek.
+
 - Izuo M. Medical history: Seishu Hanaoka and his success in breast cancer surgery under general anesthesia two hundred years ago. Breast Cancer 2004;11(4).  
   <https://www.deepdyve.com/lp/springer-journals/medical-history-seishu-hanaoka-and-his-success-in-breast-cancer-uemPDaSLKI>  
   Type: journal.
@@ -1940,6 +2107,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `cyclosporine`: David White came across cyclosporin A, not felt by Sandoz to have practical use; first use in human transplantation in Cambridge in 1978; step change in kidney transplant outcomes and renewed interest in other organs.
 
+- Janick J, Daunay M-C, Paris HS. Horticulture and health in the Middle Ages: images from the Tacuinum Sanitatis. HortScience 45(11), 2010.  
+  <https://journals.ashs.org/view/journals/hortsci/45/11/article-p1592.xml>  
+  Type: journal.
+  - `ibn-butlan-tables-of-health`: Late fourteenth-century illustrated Tacuinum manuscripts based on Ibn Butlan's eleventh-century Taqwim al-sihha ('Rectifying Health by Six Causes'); Ibn Butlan a Baghdad-born Nestorian Christian physician.
+
 - Jansson B. Controversial psychosurgery resulted in a Nobel Prize. NobelPrize.org.  
   <https://nobelprize.org/prizes/medicine/1949/moniz/article>  
   Type: institution.
@@ -1960,6 +2132,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.beingpatient.com/?p=9237>  
   Type: journal.
   - `alzheimer-disease-described`: Lecture at the 37th meeting of South-West German Psychiatrists in Tübingen in 1906; thinner cortex, tangles and senile plaques; poorly received.
+
+- Jerome. Letter 77 (New Advent, Nicene and Post-Nicene Fathers).  
+  <https://www.newadvent.org/fathers/3001077.htm>  
+  Type: primary.
+  - `fabiola-rome-hospital`: The hospital at Portus and her other charitable work.
+
+- Jerome. Letter 77, to Oceanus (Roman Letters).  
+  <https://romanletters.org/letters/jerome/77/>  
+  Type: primary.
+  - `fabiola-rome-hospital`: Eulogy of Fabiola, who died in 399; she founded a hospital where she gathered the sick out of the streets and nursed them.
 
 - John Snow, cholera, the Broad Street pump; waterborne diseases then and now (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/>  
@@ -2035,6 +2217,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1636120>  
   Type: journal.
   - `aro-village-system`: Rehabilitation villages in Tanzania from 1969 modelled on Lambo's Aro village.
+
+- Kirsch JP. St. Fabiola. Catholic Encyclopedia (Catholic Answers).  
+  <https://www.catholic.com/encyclopedia/fabiola-saint>  
+  Type: book.
+  - `fabiola-rome-hospital`: She erected a hospital at Rome and waited on the inmates herself, not shunning those with repulsive wounds and sores; Jerome's eulogy in a letter to Oceanus.
 
 - Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature 402(6762):656–660 (1999).  
   DOI: [10.1038/45230](https://doi.org/10.1038/45230), <https://ideas.repec.org/a/nat/nature/v402y1999i6762d10.1038_45230.html>  
@@ -2160,6 +2347,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://epe.lac-bac.gc.ca/100/206/301/lac-bac/explorers/www.collectionscanada.gc.ca/explorers/h24-1330-e.html>  
   Type: archive.
   - `annedda-scurvy`: Taignoagny and Domagaya kidnapped at Gaspé in 1534; twenty-five Frenchmen died of scurvy before the cure was learned.
+
+- Library of Congress. The Canon of Medicine (manuscript).  
+  <https://www.loc.gov/item/2021667335>  
+  Type: archive.
+  - `avicenna-canon`: Born in Bukhara in 980, died in Hamadan in 1037; translated into Latin by Gerard of Cremona in the twelfth century; part of the standard curriculum for medical students until the late seventeenth century; five books, the first on general principles and the second on materia medica.
 
 - Liebson PR. Willem Einthoven and the string galvanometer. Hektoen International, 2017.  
   <https://hekint.org/2017/01/27/willem-einthoven-and-the-string-galvanometer/>  
@@ -2421,6 +2613,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: book.
   - `huangdi-neijing`: The primary canon of East Asian medicine; traced by tradition to a prehistoric sage; Suwen focuses on cosmological theory and Lingshu on acupuncture; Western Han consolidation of knowledge and attribution to legendary sages; most ancient medical works have no definite author.
 
+- Medievalists.net. The shift of medical education into the universities.  
+  <https://www.medievalists.net/?p=462>  
+  Type: institution.
+  - `salerno-medical-school`: Generally acknowledged as the first European school of medicine; a crossroads of Greek, Arabic, Hebrew and Roman medicine; apex of prestige about 1100.
+
 - Mellanby, Edward (Encyclopedia.com topic entry).  
   <https://www.encyclopedia.com/topic/Edward_Mellanby.aspx/>  
   Type: book.
@@ -2476,6 +2673,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `artificial-skin`: Silicone covering; epidermal autograft for large wounds; new dermis lacks sweat glands and hair follicles.
 
+- Mizan Project. The Syriac Galen Palimpsest: digital recovery of a missing link between Greek and Islamic science.  
+  <https://mizanproject.org/?p=2398>  
+  Type: university.
+  - `sergius-syriac-galen`: The palimpsest preserves Sergius's translation of Galen's On Simple Drugs and was probably written in the ninth century; Syriac intermediaries were crucial for transmission into Arabic.
+
+- Mizan Project. The Syriac Galen Palimpsest.  
+  <https://mizanproject.org/the-syriac-galen-palimpsest/>  
+  Type: university.
+  - `sergius-syriac-galen`: Sergius (d. 536), a priest and doctor from northern Syria, rendered over thirty of Galen's works into Syriac; Hunayn, though critical, consulted and revised his versions; the palimpsest copies his sixth-century translation.
+
 - Monath TP, et al. (review). The 17D yellow fever vaccine: history and duration of protection. Ther Adv Vaccines (2014).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC3991151>  
   Type: journal.
@@ -2500,6 +2707,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.museumofhealthcare.ca/blog/a-mere-appendix>  
   Type: museum.
   - `amyand-appendicectomy`: First recorded removal of an appendix in London in 1735 by Amyand; the surgery was a success; the work fell into obscurity and the operation was not tried again until the 1880s, after anaesthesia and antisepsis.
+
+- Muslim Heritage. Al-Zahrawi (Albucasis), the great surgeon.  
+  <https://muslimheritage.com/?p=4787>  
+  Type: institution.
+  - `albucasis-tasrif`: Born at Madinat al-Zahra near Córdoba in 936, died 1013; al-Tasrif completed about 1000 after almost fifty years of practice; an illustrated encyclopedia of medicine and surgery.
+
+- Muslim Heritage. Ibn Sina's The Canon of Medicine.  
+  <https://muslimheritage.com/ibn-sinas-the-canon-of-medicine/>  
+  Type: institution.
+  - `avicenna-canon`: Ibn Sina lived in Hamadan and Jurjan; the Canon translated into Latin by Gerard of Cremona and used in European universities until the end of the seventeenth century.
+
+- Muslim Heritage. Ophthalmologists of Muslim civilisation.  
+  <https://muslimheritage.com/ophthalmologists/>  
+  Type: institution.
+  - `hunayn-translations`: Translation at the House of Wisdom; Hirschberg identified Hunayn as author of the Ten Treatises, which Demetrius and Constantine the African had merely translated.
 
 - National Health and Medical Research Council (Australia). Gardasil impact case study.  
   <https://nhmrc.gov.au/sites/default/files/documents/Case%20studies/GARDASIL-impact-case-study.pdf>  
@@ -2566,6 +2788,18 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `paracetamol-brodie-axelrod`: 1946 grant from the Institute for the Study of Analgesic and Sedative Drugs to the Laboratory of Industrial Hygiene; users of non-aspirin analgesics such as Bromo-Seltzer developed methaemoglobinaemia; acetanilide the problem; they suggested acetaminophen; 1948 paper 'The fate of acetanilide in man'.
 
+- National Library of Medicine. Islamic culture and the medical arts: medieval Arabic medicine.  
+  <https://www.nlm.nih.gov/hmd/medieval/arabic.html>  
+  Type: institution.
+  - `hunayn-translations`: Hunayn's workshop was the most productive; his synopsis Questions on Medicine; his organisation of the subject inspired encyclopedias such as the Royal Book of al-Majusi.
+  - `salerno-medical-school`: Constantine the African's translations at Monte Cassino; they seem not to have immediately affected discourse in nearby Salerno.
+  - `al-majusi-royal-book`: The Royal Book of Haly Abbas; Constantine's version, the Pantegni, exerted a strong influence in Europe.
+
+- National Library of Medicine. Islamic medical manuscripts: Kitāb Kāmil al-ṣināʿah al-ṭibbīyah (MS A 26).  
+  <https://www.nlm.nih.gov/hmd/arabic/E5_E6.html>  
+  Type: institution.
+  - `al-majusi-royal-book`: Also called the Royal Book; dedicated to ʿAdud al-Dawlah, ruler of Persia and Iraq from 949 to 983 and founder of hospitals in Baghdad and Shiraz; al-Majusi from a Persian family with Zoroastrian forebears but himself a Muslim; written partly to redress the poor organisation of al-Razi's Hawi and its neglect of anatomy and surgery; two parts of ten sections each on theory and therapeutics.
+
 - National MagLab (National High Magnetic Field Laboratory). Electrocardiograph – 1903.  
   <https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/electrocardiograph-1903/>  
   Type: institution.
@@ -2626,6 +2860,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.researchgate.net/profile/Mark_Nelson19/publication/51907943_The_history_of_the_tetracyclines/links/59e4e956458515250246e9ee/The-history-of-the-tetracyclines.pdf>  
   Type: journal.
   - `tetracycline`: Tetracyclines discovered as natural products from actinomycete soil bacteria and first reported in 1948; Aureomycin discovered by Lederle; Duggar headed the soil screening.
+
+- New Catholic Dictionary. University of Salerno (StudyLight).  
+  <https://www.studylight.org/dictionaries/ncd/u/university-of-salerno.html>  
+  Type: book.
+  - `salerno-medical-school`: Physicians celebrated in the ninth century; fuller accounts of the school from the eleventh; opinions differ on a secular or Benedictine origin; in 1231 Frederick II ordered that no one should practise without the approval of its professors.
 
 - New York Academy of Medicine. Edwin Smith Surgical Papyrus.  
   <https://nyam.org/library-resources/library-collections/edwin-smith-surgical-papyrus/>  
@@ -2768,6 +3007,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `celsus-de-medicina`: De Medicina the only surviving section of a larger encyclopedia; covers diet, pharmacy and surgery; Celsus credited with recording the cardinal signs of inflammation: calor, dolor, tumor and rubor.
 
+- Open Culture. Discover the Persian 11th century Canon of Medicine (2019).  
+  <https://openculture.com/2019/10/discover-the-persian-11th-century-canon-of-medicine.html>  
+  Type: institution.
+  - `avicenna-canon`: Completed in 1025; drew Greek, Roman, Arabic, Indian and Chinese medicine together in five volumes; Ibn Sina took up medicine early.
+
 - OpenStax. Microbiology, section 3.1: Spontaneous generation (Rice University).  
   <https://openstax.org/books/microbiology/pages/3-1-spontaneous-generation>  
   Type: university.
@@ -2782,6 +3026,21 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC9143002/>  
   Type: journal.
   - `ors-oral-rehydration`: Cash and Nalin tested an oral glucose and salt solution in 29 patients in Dhaka in 1968; Mahalanabis's demonstration in a West Bengal refugee camp.
+
+- Orange County Catholic. Saint Ephraem.  
+  <https://www.occatholic.com/?p=23018>  
+  Type: institution.
+  - `ephrem-edessa-famine-hospital`: Moved to a cave above Edessa in 363; the winter before his death he managed relief supplies during a severe famine in Edessa.
+
+- Osler W. The Evolution of Modern Medicine, chapter III (1913; Project Gutenberg).  
+  <https://www.gutenberg.org/files/1566/1566-h/1566-h.htm#link2H_4_0017>  
+  Type: book.
+  - `salerno-medical-school`: Frederick II's regulations: three years' preliminary study and five years of medicine including surgery; the Regimen sanitatis as a handbook of diet and household medicine.
+
+- Ostia: Harbour City of Ancient Rome. Hieronymus (Jerome), Letter 77.10.  
+  <https://www.ostia-antica.org/~atexts/hieronym.htm>  
+  Type: institution.
+  - `fabiola-rome-hospital`: Pammachius and Fabiola set up a xenodochium, a hospice for strangers, at Portus.
 
 - Oxilia G, Peresani M, Romandini M, et al. Earliest evidence of dental caries manipulation in the Late Upper Palaeolithic. Scientific Reports 2015;5:12150.  
   DOI: [10.1038/srep12150](https://doi.org/10.1038/srep12150), <https://pmc.ncbi.nlm.nih.gov/articles/PMC4504065>  
@@ -2812,6 +3071,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://c4v8.evtoday.com/articles/2004-nov/1104_F5_Palmaz.html>  
   Type: journal.
   - `palmaz-stent`: First stent report by Dotter in 1969; by 1984 four stents proposed, three self-expanding and one balloon-expandable; patent in 1985; conception in 1978 and move to San Antonio about five years later.
+
+- Papapostolou G, et al. Paul of Aegina (ca 625–690 AD). Cureus 12(3):e7287, 2020.  
+  <https://doi.org/10.7759/cureus.7287>  
+  Type: journal.
+  - `paul-of-aegina-surgery`: Dates and career of Paul of Aegina.
+
+- Paris HS. The Tacuinum sanitatis (ASHS conference abstract, 2009).  
+  <https://ashs.confex.com/ashs/2009/webprogram/Paper2931.html>  
+  Type: institution.
+  - `ibn-butlan-tables-of-health`: Illustrated manuscripts first commissioned by northern Italian nobility in the last decades of the fourteenth century, derived from the Taqwim al-sihha written in Baghdad by the Christian physician Ibn Butlan.
 
 - Park K, et al. Historical introduction to the field of controlled drug delivery. J Control Release 342:157–159 (2022), lecture slides.  
   <https://hoangson0787.github.io/Presentation/BaoCheCacDangDacBiet/PDF/DDS-history-9-12.pdf>  
@@ -2898,6 +3167,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `critobulus-arrow-wound`: Critobulus extracted an arrow from the eye of King Philip with so much skill that, although the sight was lost, there was no defect.
 
+- Points: The Blog of the Alcohol and Drugs History Society. Medieval drugs III: how do I drug thee? Let me count the ways.  
+  <https://www.pointshistory.org/post/medieval-drugs-iii-how-do-i-drug-thee-let-me-count-the-ways>  
+  Type: institution.
+  - `al-kindi-drug-degrees`: Degrees worked for single drugs but not for compound medicines; al-Kindi (801–873) of Baghdad quantified medical theory and influenced later medieval European pharmacy.
+
 - Porter R. The Greatest Benefit to Mankind (HarperCollins, 1997).  
   <https://litres.ru/book/roy-porter/the-greatest-benefit-to-mankind-63306920/chitat-onlayn/?page=7>  
   Type: book.
@@ -2972,6 +3246,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://muse.jhu.edu/article/8677/summary>  
   Type: journal.
   - `mawangdui-medical-manuscripts`: Seven medical manuscripts on three sheets of silk from Mawangdui Tomb 3, recovered in 1973; burial dated 168 BCE; first published 1983.
+
+- Rare Books Digest. The first illustrated textbook of surgery (2014).  
+  <https://rarebooksdigest.com/2014/06/26/the-first-illustrated-textbook-of-surgery/>  
+  Type: institution.
+  - `albucasis-tasrif`: Widely described as the first illustrated textbook of surgery; more than 200 illustrations of instruments; translated by Gerard of Cremona at Toledo and later printed in Venice.
 
 - Recalling how fetal ultrasound transformed pregnancy care. AuntMinnieEurope (2013).  
   <https://www.auntminnieeurope.com/clinical-news/article/15646079/recalling-how-fetal-ultrasound-transformed-pregnancy-care>  
@@ -3138,6 +3417,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: journal.
   - `urbani-sars-alert`: Urbani died on 29 March 2003; Viet Nam's response depended on resolute government action and on Urbani tracing the businessman's movements back to Guangdong province.
 
+- Saad MN. Al-Zahrawi and his surgical instruments. IEEE Pulse (EMBS).  
+  <https://www.embs.org/pulse/?p=461>  
+  Type: institution.
+  - `albucasis-tasrif`: 936–1013; the last treatise of al-Tasrif, on surgery, has about 200 illustrations of surgical and medical instruments, most of them his own designs.
+
 - Sabbatini RME. The history of the electroencephalogram. Brain & Mind (Cérebro & Mente), State University of Campinas.  
   <https://cerebromente.org.br/n03/tecnologia/historia.htm>  
   Type: university.
@@ -3147,6 +3431,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.ogmagazine.org.au/?p=5937>  
   Type: journal.
   - `thera-saffron-frescoes`: Xeste 3 frescoes depict women in ritual scenes with Crocus sativus; a goddess flanked by a griffin and a blue monkey; medicinal use of saffron noted in the Ebers Papyrus and by Dioscorides.
+
+- Saints Alive. St. Ephrem (306?–373).  
+  <https://saints-alive.siministries.org/saints-alive/saint/st-ephrem/>  
+  Type: institution.
+  - `ephrem-edessa-famine-hospital`: Native of Nisibis who moved to Edessa, lived as a hermit and became a deacon; the famine of winter 372–373; about 300 litters for the sick.
+
+- Salerno and medical women. The Hospital; in PubMed Central.  
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233100/>  
+  Type: journal.
+  - `salerno-medical-school`: Salerno famous for physicians from the ninth century; the school connected with government support from 1140.
 
 - Satyori. Charaka (citing Meulenbeld, A History of Indian Medical Literature, 1999).  
   <https://satyori.com/historical-figures/charaka/>  
@@ -3167,6 +3461,16 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://sae.saw-leipzig.de/en/documents/papyrus-edwin-smith?version=34>  
   Type: university.
   - `ebers-papyrus`: The Ebers papyrus contains a calendar from year 9 of Amenhotep I; both papyri likely from the Theban necropolis.
+
+- Schaff-Herzog Encyclopedia of Religious Knowledge. Ephraem Syrus (Christian Classics Ethereal Library).  
+  <https://ccel.org/s/schaff/encyc04/htm/iii.x.htm>  
+  Type: book.
+  - `ephrem-edessa-famine-hospital`: Shortly before his death he opened a hospital for the sick during a famine; the Chronicle of Edessa gives his death as June 373, though 378 and 379 are also given.
+
+- Schaff-Herzog Encyclopedia. Ephraem Syrus: life (CB Library).  
+  <https://cblibrary.org/schaff_h/ea/ephraem_syrus.htm>  
+  Type: book.
+  - `ephrem-edessa-famine-hospital`: Lived at Nisibis until 363, then near Edessa as an anchorite; said to have been ordained deacon.
 
 - Schmidt PJ, Leacock AG. Forgotten transfusion history: John Leacock of Barbados. BMJ 2002;325(7378):1485–1487.  
   DOI: [10.1136/bmj.325.7378.1485](https://doi.org/10.1136/bmj.325.7378.1485), <https://pmc.ncbi.nlm.nih.gov/articles/PMC139049>  
@@ -3328,6 +3632,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `yellow-fever-17d`: In December 1933 Lloyd transferred the Asibi strain to tissue culture; later passages in whole chick embryo and in chick embryo without the central nervous system gave virus 17D.
 
+- Sozomen. Ecclesiastical History, book 3, chapter 16 (Nicene and Post-Nicene Fathers; St-Takla.org).  
+  <https://st-takla.org/books/en/ecf/202/2020353.html>  
+  Type: primary.
+  - `ephrem-edessa-famine-hospital`: When Edessa was severely visited by famine, Ephrem left his solitary cell and rebuked the rich for letting the poor die instead of sharing their surplus.
+
 - Spinal cord injury: past, present, and future (PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC2031949/>  
   Type: journal.
@@ -3337,6 +3646,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://experts.azregents.edu/en/publications/the-history-of-pancreas-transplantation-past-present-and-future/>  
   Type: journal.
   - `pancreas-transplant`: First attempt to cure type 1 diabetes by pancreas transplantation at the University of Minnesota on 17 December 1966.
+
+- St John's College, Cambridge. Tacuini sanitatis (Strasbourg: Johann Schott, 1531).  
+  <https://www.joh.cam.ac.uk/node/2335>  
+  Type: university.
+  - `ibn-butlan-tables-of-health`: Illustrated Latin translation printed in Strasbourg in 1531; Ibn Butlan came from the Christian community and died as a monk in Antioch.
 
 - St. Jude Medical celebrates 50th anniversary of the world's first implantable pacemaker. Diagnostic and Interventional Cardiology, 7 October 2008.  
   <https://www.dicardiology.com/node/25537>  
@@ -3522,6 +3836,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://www.medicaldesigndevelopment.com/topics/surgical/news/22925484/the-chaotic-beginnings-of-the-tool-that-made-heart-surgery-possible>  
   Type: journal.
   - `gibbon-heart-lung-machine`: The diagnosis was wrong and the child died; Bavolek on the machine for 45 minutes; cross-circulation operation on 26 March 1954; the Mayo team's work.
+
+- The Christian origin of hospitals. The Hospital (London); in PubMed Central.  
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259531/>  
+  Type: journal.
+  - `basileias-hospital`: Founded by Basil at Caesarea soon after he became bishop (370); called 'the new city' and later 'the Basileiad'; a group of buildings including a church, houses for the poor, the sick and travellers, workshops, and a part devoted to lepers, whom Basil cared for personally.
 
 - The Cutter incident: how America's first polio vaccine led to the growing vaccine crisis (book review, PubMed Central).  
   <https://pmc.ncbi.nlm.nih.gov/articles/PMC1410842/>  
@@ -3938,6 +4257,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: university.
   - `dolly-cloned-sheep`: Born 5 July 1996; first cloning from an adult mammalian somatic cell by somatic cell nuclear transfer; led by Ian Wilmut; stepping stone between Gurdon's work and Yamanaka's induced pluripotent stem cells; ethical debate.
 
+- University of Exeter (ORE). Article challenging assumptions about the Syriac translations of Galen.  
+  <https://ore.exeter.ac.uk/rest/bitstreams/161207/retrieve>  
+  Type: university.
+  - `sergius-syriac-galen`: The common view that the sixth-century Syriac translations, especially Sergius's, were inferior and were redone by Hunayn, and a challenge to it.
+
 - University of Florida. Treatment of polio led to the evolution of the modern ICU (2011).  
   <https://news.drgator.ufl.edu/2011/12/16/treatment-of-polio-led-to-the-evolution-of-the-modern-icu>  
   Type: university.
@@ -3952,6 +4276,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://medicine.uiowa.edu/node/5401>  
   Type: university.
   - `frozen-sperm-pregnancies`: The first cryobank for frozen semen established at Iowa, based on work by Sherman and Bunge in the Department of Urology; first successful human pregnancy from frozen sperm.
+
+- University of Iowa, HEIRS. Ibn Butlan, Theatrum sanitatis (Casanatense codex 4182).  
+  <https://heirs.lib.uiowa.edu/record.php?id=70>  
+  Type: university.
+  - `ibn-butlan-tables-of-health`: Studied under Ibn al-Tayyib at Baghdad; practised in Mosul, Diyarbekir and Aleppo; in Egypt for a time; lived later in Constantinople and Antioch.
 
 - University of Iowa, John Martin Rare Book Room (HEIRS). Davy H. Researches, chemical and philosophical, chiefly concerning nitrous oxide. Bristol: Biggs & Cottle, 1800.  
   <https://heirs.lib.uiowa.edu/record.php?id=1338.5>  
@@ -4218,6 +4547,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: primary.
   - `withering-foxglove`: Physician to the General Hospital at Birmingham; printed in Birmingham in 1785; about ten years' use; every case mentioned, proper or improper, successful or not.
 
+- Withington ET. Medical history from the earliest times: XXXVI. The School of Salerno. The Hospital, 17 December 1892.  
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5251803/>  
+  Type: journal.
+  - `salerno-medical-school`: Distinguished Salernitan physicians in the ninth century; in the tenth, one at the French court and bishops and nobles travelling to Salerno; the legend of four founding masters; competing origin stories.
+
 - Woman gets 3D printed skull from UMC. NL Times, 26 March 2014.  
   <https://nltimes.nl/2014/03/26/woman-gets-3d-printed-skull-umc>  
   Type: journal.
@@ -4318,6 +4652,11 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   Type: institution.
   - `galen-pergamon`: Born in 129 CE in Pergamon; returned in 157 CE as physician to gladiators, an opportunity to study anatomy; left for Rome in 162 CE; described an epidemic in Rome.
 
+- World History Encyclopedia. Oribasius.  
+  <https://www.worldhistory.org/Oribasius/>  
+  Type: institution.
+  - `oribasius-collections`: Overview of Oribasius's life and his medical compilations for Julian.
+
 - World's first full-face transplant. Indian Transplant Newsletter 9(29) (2010).  
   <https://www.itnnews.co.in/article-print.asp?id=647>  
   Type: journal.
@@ -4412,3 +4751,8 @@ Each entry lists the milestones it is cited for and, for each, the specific clai
   <https://embryo.asu.edu/pages/pearl-luella-kendrick-1890-1980>  
   Type: university.
   - `pertussis-vaccine`: More than 6,000 US children died from pertussis each year in the 1920s; Madsen developed a vaccine; Kendrick and Eldering began in 1932.
+
+- Zozuľak J. The structure and management of the Basileias according to historical sources. Constantine's Letters 18(2), 2025.  
+  <https://www.constantinesletters.ukf.sk/images/issues/2025_v18_iss2/CL_v18_iss2_003to010.pdf>  
+  Type: journal.
+  - `basileias-hospital`: Basil preferred the term shelter for the poor (ptochotropheion); Sozomen calls it the Basileias; Gregory's 'new city'.

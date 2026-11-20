@@ -559,9 +559,9 @@
    "claim": "70-volume medical encyclopedia",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "oribasius-collections",
+   "note": "Wikipedia gives 325–400 for his life; the entry dates the work to Julian's reign (361–363), when it was commissioned."
   },
   {
    "wid": "w052",
@@ -581,9 +581,9 @@
    "claim": "Basileias hospital complex",
    "place": "Caesarea, Cappadocia",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "basileias-hospital",
+   "note": "Julian's call for pagans to match Christian charity is covered in the explanation; dated 369–372, construction being under way by 372."
   },
   {
    "wid": "w054",
@@ -592,9 +592,9 @@
    "claim": "Hospital at Edessa",
    "place": "Edessa",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "ephrem-edessa-famine-hospital",
+   "note": "Wikipedia gives 375; Ephrem died in 373, and the famine hospital belongs to the winter of 372–373."
   },
   {
    "wid": "w055",
@@ -603,9 +603,9 @@
    "claim": "First hospital in Latin Christendom",
    "place": "Rome",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "fabiola-rome-hospital",
+   "note": "Dated to the 390s; Fabiola died in 399. The entry also covers her house at Portus."
   },
   {
    "wid": "w056",
@@ -680,8 +680,8 @@
    "claim": "Translates Galen into Syriac",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "sergius-syriac-galen",
    "note": ""
   },
   {
@@ -746,9 +746,9 @@
    "claim": "Seven-book encyclopedia with surgery",
    "place": "Aegina",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "paul-of-aegina-surgery",
+   "note": "Paul was born on Aegina but worked in Alexandria, where the entry is mapped."
   },
   {
    "wid": "w069",
@@ -768,8 +768,8 @@
    "claim": "De Gradibus, degrees of drug strength",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "al-kindi-drug-degrees",
    "note": ""
   },
   {
@@ -779,9 +779,9 @@
    "claim": "Hospital at Salerno; School of Salerno",
    "place": "Salerno",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "salerno-medical-school",
+   "note": "Wikipedia's Benedictine hospital of 820 is not supported by the sources found, which date Salerno's medical fame to the ninth and tenth centuries and record a dispute over whether it began as a lay or monastic foundation."
   },
   {
    "wid": "w072",
@@ -801,8 +801,8 @@
    "claim": "Translator; medical tracts",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "hunayn-translations",
    "note": ""
   },
   {
@@ -812,9 +812,9 @@
    "claim": "Arabic encyclopedia of medicine",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "al-tabari-firdaws",
+   "note": "Wikipedia gives c. 838–870 for his life; the encyclopedia was finished in 850, and the sources disagree on his dates."
   },
   {
    "wid": "w075",
@@ -878,9 +878,9 @@
    "claim": "Complete Book of the Medical Art",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "al-majusi-royal-book",
+   "note": "Wikipedia gives his death as 982–994; the entry dates the book to Adud al-Dawla's reign, before 978."
   },
   {
    "wid": "w081",
@@ -889,8 +889,8 @@
    "claim": "Kitab al-Tasrif, surgical instruments",
    "place": "-",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
+   "status": "added",
+   "atlasId": "albucasis-tasrif",
    "note": ""
   },
   {
@@ -900,9 +900,9 @@
    "claim": "Tacuinum sanitatis in tables",
    "place": "Baghdad",
    "wpCited": true,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "ibn-butlan-tables-of-health",
+   "note": "Wikipedia gives his death as 1075; the sources consulted give dates between the 1030s and 1068."
   },
   {
    "wid": "w083",
@@ -922,9 +922,9 @@
    "claim": "Canon of Medicine",
    "place": "-",
    "wpCited": false,
-   "status": "pending",
-   "atlasId": null,
-   "note": ""
+   "status": "added",
+   "atlasId": "avicenna-canon",
+   "note": "Wikipedia gives c. 1030; the sources date completion to 1025."
   },
   {
    "wid": "w085",

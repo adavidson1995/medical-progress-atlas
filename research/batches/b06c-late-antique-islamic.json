@@ -1,0 +1,1357 @@
+{
+ "entries": [
+  {
+   "id": "oribasius-collections",
+   "title": "Oribasius compiles the Medical Collections",
+   "summary": "Oribasius (c. 320–c. 403), physician to the emperor Julian, compiled at Julian's request a 70-book Greek medical encyclopedia of excerpts from earlier writers. Only part of it survives, but it preserves the words of physicians whose own books are lost.",
+   "explanation": "Oribasius studied medicine in Alexandria under Zeno of Cyprus and became personal physician to Julian, serving him from 361 until the emperor's death in 363. Julian, who hoped to revive the classical past, commissioned him to gather the best of Greek medical writing. The result was the Medical Collections (Iatrikai Synagogai, or Collectiones medicae), which excerpted and arranged the earlier literature. After Julian's death Oribasius fell from favour for a time and was later recalled by the emperor Valens.\n\nOribasius was a compiler rather than an original writer, and that is what makes the work valuable: it preserves selections from physicians such as Antyllus, Archigenes, Diocles and Rufus of Ephesus, whose own books no longer exist. He also wrote shorter digests, including a nine-book Synopsis for Eustathius, which carried this material into Byzantine medicine.",
+   "date": {
+    "start": 361,
+    "end": 363,
+    "display": "c. 361–363 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "year",
+    "basis": "Commissioned by Julian, whom Oribasius served from 361 to 363; when the compilation was finished is not recorded."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "diagnosis"
+   ],
+   "themes": [
+    "Byzantine medicine",
+    "medical texts",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Pergamon",
+     "modern": "Bergama, Turkey",
+     "lat": 39.13,
+     "lon": 27.18,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "locationNote": "Mapped to Pergamon, the city the sources associate him with; where he compiled the work is not recorded in the sources consulted.",
+   "people": [
+    {
+     "name": "Oribasius",
+     "role": "Physician and compiler"
+    },
+    {
+     "name": "Julian",
+     "role": "Roman emperor who commissioned the work"
+    }
+   ],
+   "whatChanged": "The scattered Greek medical literature was gathered into one large reference compiled from many authors.",
+   "whyItMattered": "Much of what is known about several lost Greek physicians survives only through Oribasius's excerpts, and his digests carried Greek medicine into the Byzantine world.",
+   "limitations": [
+    "Oribasius compiled other writers' work and added little of his own.",
+    "Only part of the 70 books survives."
+   ],
+   "sources": [
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Oribasius, Collectionum medicarum reliquae, ed. J. Raeder, 1926–1933. Entry 8756.",
+     "url": "https://beta.historyofmedicine.com/id/8756",
+     "kind": "book",
+     "supports": "Surviving books of the Collectiones; selections from physicians whose works no longer exist, including Antyllus, Archigenes and Diocles; studied at Alexandria under Zeno; physician to Julian; recalled by Valens; the encyclopedia a product of the effort of Julian and his circle to recall the classical past."
+    },
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: Oribasius.",
+     "url": "https://historyofmedicine.com/author/d/oreibasius-oribasius-",
+     "kind": "book",
+     "supports": "Physician to the emperor Julian; a compiler of existing knowledge rather than an original writer; compiled the Synagoge."
+    },
+    {
+     "citation": "Hirudotherapy Society. Oribasius of Pergamon (biography).",
+     "url": "https://www.hirudotherapysociety.org/en/biography/oribasius",
+     "kind": "institution",
+     "supports": "c. 320–c. 403; personal physician to Julian, 361–363; seventy-book Collectiones commissioned by Julian, excerpting and arranging earlier Greek medical literature; preserved fragments of Rufus of Ephesus and Antyllus; nine-book Synopsis ad Eustathium; Byzantine influence."
+    },
+    {
+     "citation": "World History Encyclopedia. Oribasius.",
+     "url": "https://www.worldhistory.org/Oribasius/",
+     "kind": "institution",
+     "supports": "Overview of Oribasius's life and his medical compilations for Julian."
+    }
+   ],
+   "related": [
+    "galen-pergamon",
+    "paul-of-aegina-surgery"
+   ]
+  },
+  {
+   "id": "basileias-hospital",
+   "title": "Basil of Caesarea builds the Basileias",
+   "summary": "After the famine of 369, Basil of Caesarea built a charitable complex outside the city, with houses for the poor, the sick and travellers and a section for people with leprosy. Physicians and nurses treated the sick there, and many historians regard it as one of the first hospitals.",
+   "explanation": "In 369 a severe famine struck Cappadocia, and Basil, then a priest, gathered the poor and fed them. After becoming bishop of Caesarea in 370 he built a complex just outside the city, which his friend Gregory of Nazianzus called a 'new city'. It held a church, houses for the poor, the sick and travellers, workshops, and a part set aside for people with leprosy, whom Basil cared for himself. Physicians and nurses treated the sick there.\n\nA letter of 372 shows the building well under way, and Gregory's funeral oration for Basil in 379 is the fullest description of it. Some years earlier the emperor Julian had written to a pagan high priest urging pagans to match the Christians' care for strangers, a sign that Christian charitable houses were already spreading in the Greek East.",
+   "date": {
+    "start": 369,
+    "end": 372,
+    "display": "c. 369–372 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "year",
+    "basis": "Begun after the famine of 369; a letter of 372 shows construction well under way."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "hospitals",
+    "charity",
+    "leprosy"
+   ],
+   "locations": [
+    {
+     "name": "Caesarea in Cappadocia",
+     "modern": "Kayseri, Turkey",
+     "lat": 38.72,
+     "lon": 35.49,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Basil of Caesarea",
+     "role": "Bishop and founder"
+    },
+    {
+     "name": "Gregory of Nazianzus",
+     "role": "Friend who described the complex"
+    }
+   ],
+   "whatChanged": "Care for the sick, the poor and people with leprosy was gathered into a permanent institution with medical staff.",
+   "whyItMattered": "It is the best-documented early example of the Christian hospital, an institution that went on to spread through the Byzantine world and beyond.",
+   "limitations": [
+    "Whether it was the first hospital depends on the definition used; Basil himself called it a shelter for the poor (ptochotropheion).",
+    "The evidence comes from a few letters and Gregory's praise of his friend, not from records of the institution."
+   ],
+   "sources": [
+    {
+     "citation": "The Christian origin of hospitals. The Hospital (London); in PubMed Central.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259531/",
+     "kind": "journal",
+     "supports": "Founded by Basil at Caesarea soon after he became bishop (370); called 'the new city' and later 'the Basileiad'; a group of buildings including a church, houses for the poor, the sick and travellers, workshops, and a part devoted to lepers, whom Basil cared for personally."
+    },
+    {
+     "citation": "Heyne T. Reconstructing the world's first hospital: the Basiliad. Hektoen International, 2017.",
+     "url": "https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/",
+     "kind": "journal",
+     "supports": "Gregory's description of the 'new city'; three of Basil's letters refer to it; lepers were treated there."
+    },
+    {
+     "citation": "Heyne T. The world's first Christian hospital: the Basiliad. Orthodox Outlet for Dogmatic Enquiries.",
+     "url": "https://oodegr.com/english/koinwnia/iatrika/Basiliad_medical_care.htm",
+     "kind": "institution",
+     "supports": "The famine of 369, when Basil gathered and fed the poor; construction well under way by 372, the date of his letter; Crislip's definition of a hospital."
+    },
+    {
+     "citation": "Basil's house of healing. Christian History Institute.",
+     "url": "https://christianhistoryinstitute.org/magazine/article/basils-house-of-healing",
+     "kind": "institution",
+     "supports": "Gregory's funeral oration of 379; Basil ordained priest in 365 and bishop five years later; many historians consider it the first hospital."
+    },
+    {
+     "citation": "Basil's house of healing. RedeemTV magazine.",
+     "url": "https://redeemtv.com/magazine/article/basils-house-of-healing",
+     "kind": "institution",
+     "supports": "Physicians and nurses treated sick patients there."
+    },
+    {
+     "citation": "Zozuľak J. The structure and management of the Basileias according to historical sources. Constantine's Letters 18(2), 2025.",
+     "url": "https://www.constantinesletters.ukf.sk/images/issues/2025_v18_iss2/CL_v18_iss2_003to010.pdf",
+     "kind": "journal",
+     "supports": "Basil preferred the term shelter for the poor (ptochotropheion); Sozomen calls it the Basileias; Gregory's 'new city'."
+    },
+    {
+     "citation": "From poorhouse to hospital. Christian History Institute.",
+     "url": "https://christianhistoryinstitute.org/magazine/article/from-poorhouse-to-hospital",
+     "kind": "institution",
+     "supports": "Julian's letter to a pagan high priest urging pagans to match Christian charity; hospitals first appeared in the fourth century in the Greek East."
+    }
+   ],
+   "related": [
+    "ephrem-edessa-famine-hospital",
+    "fabiola-rome-hospital",
+    "mansuri-bimaristan"
+   ]
+  },
+  {
+   "id": "ephrem-edessa-famine-hospital",
+   "title": "Ephrem sets up a famine hospital in Edessa",
+   "summary": "When famine struck Edessa in the winter of 372–373, the deacon and hymn writer Ephrem the Syrian shamed the city's rich into giving, then set up about 300 beds in the public porticoes, where he nursed the starving and the sick. He died soon afterwards, probably in June 373.",
+   "explanation": "Ephrem moved from Nisibis to Edessa, in northern Mesopotamia, in 363 and lived as a hermit near the city while serving its church as a deacon; he is remembered above all for his hymns. When famine struck Edessa in the winter of 372–373 he left his cell, rebuked the rich for letting the poor die while they hoarded grain, and used the money they gave him to set up about 300 beds in the public porticoes. There he nursed the starving and the sick himself.\n\nThe church historian Sozomen tells the story in the fifth century. It shows that within a few years of Basil's foundation at Caesarea, Christian leaders in Syria were also organising care for the sick in buildings set aside for it.",
+   "date": {
+    "start": 372,
+    "end": 373,
+    "display": "Winter 372–373 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "year",
+    "basis": "The famine of winter 372–373; Ephrem died soon afterwards, probably in June 373."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [],
+   "themes": [
+    "hospitals",
+    "famine relief",
+    "Syriac Christianity"
+   ],
+   "locations": [
+    {
+     "name": "Edessa",
+     "modern": "Şanlıurfa, Turkey",
+     "lat": 37.16,
+     "lon": 38.79,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "implementation-area"
+    }
+   ],
+   "people": [
+    {
+     "name": "Ephrem the Syrian",
+     "role": "Deacon who organised the relief"
+    }
+   ],
+   "whatChanged": "An emergency hospital was organised in a city's public buildings to care for famine victims.",
+   "whyItMattered": "It is an early example of a temporary hospital set up in a crisis, and of hospital care spreading through the Christian East.",
+   "limitations": [
+    "The account comes from church histories and lives of the saint, not from records of the relief, and details such as the number of beds may be rounded or idealised.",
+    "The Chronicle of Edessa dates his death to June 373, but 378 and 379 are also given."
+   ],
+   "sources": [
+    {
+     "citation": "Sozomen. Ecclesiastical History, book 3, chapter 16 (Nicene and Post-Nicene Fathers; St-Takla.org).",
+     "url": "https://st-takla.org/books/en/ecf/202/2020353.html",
+     "kind": "primary",
+     "supports": "When Edessa was severely visited by famine, Ephrem left his solitary cell and rebuked the rich for letting the poor die instead of sharing their surplus."
+    },
+    {
+     "citation": "Benedict XV. Principi apostolorum Petro (1920), section 9 (IntraText).",
+     "url": "https://www.intratext.com/IXT/ENG0629/_P9.HTM",
+     "kind": "primary",
+     "supports": "In a famine Ephrem ran to Edessa, castigated those hoarding grain, and with the money he begged provided beds for the starving, spread in the porticoes of Edessa, where he nursed the sick."
+    },
+    {
+     "citation": "Saints Alive. St. Ephrem (306?–373).",
+     "url": "https://saints-alive.siministries.org/saints-alive/saint/st-ephrem/",
+     "kind": "institution",
+     "supports": "Native of Nisibis who moved to Edessa, lived as a hermit and became a deacon; the famine of winter 372–373; about 300 litters for the sick."
+    },
+    {
+     "citation": "Chalmers A. The General Biographical Dictionary: Ephrem, St. (From Old Books).",
+     "url": "https://words.fromoldbooks.org/Chalmers-Biography/e/ephrem-st.html",
+     "kind": "book",
+     "supports": "Ordained deacon at Edessa; set up some 300 beds in the public porticoes during the famine."
+    },
+    {
+     "citation": "Schaff-Herzog Encyclopedia of Religious Knowledge. Ephraem Syrus (Christian Classics Ethereal Library).",
+     "url": "https://ccel.org/s/schaff/encyc04/htm/iii.x.htm",
+     "kind": "book",
+     "supports": "Shortly before his death he opened a hospital for the sick during a famine; the Chronicle of Edessa gives his death as June 373, though 378 and 379 are also given."
+    },
+    {
+     "citation": "Schaff-Herzog Encyclopedia. Ephraem Syrus: life (CB Library).",
+     "url": "https://cblibrary.org/schaff_h/ea/ephraem_syrus.htm",
+     "kind": "book",
+     "supports": "Lived at Nisibis until 363, then near Edessa as an anchorite; said to have been ordained deacon."
+    },
+    {
+     "citation": "Orange County Catholic. Saint Ephraem.",
+     "url": "https://www.occatholic.com/?p=23018",
+     "kind": "institution",
+     "supports": "Moved to a cave above Edessa in 363; the winter before his death he managed relief supplies during a severe famine in Edessa."
+    }
+   ],
+   "related": [
+    "basileias-hospital"
+   ]
+  },
+  {
+   "id": "fabiola-rome-hospital",
+   "title": "Fabiola founds a hospital in Rome",
+   "summary": "In the 390s the Roman noblewoman Fabiola used her wealth to found a hospital in Rome, where she gathered the sick from the streets and nursed them herself. With Pammachius she also founded a hospice for travellers at Portus, Rome's harbour. Jerome's letter about her is the main source.",
+   "explanation": "Fabiola came from a leading Roman family and, after the death of her second husband, devoted her fortune to charity. In Rome she opened a nosocomeion, a house for the sick, apparently the first in the city. According to Jerome she gathered the sick from the streets and waited on them herself, not shunning even repulsive wounds and sores. With her friend Pammachius she also set up a hospice for strangers (xenodochium) at Portus, the harbour of Rome.\n\nJerome described her work in a eulogy written to her relative Oceanus (Letter 77) after her death in 399. It shows the hospital, which had appeared first in the Christian East, reaching the Latin West within a generation of Basil's foundation at Caesarea.",
+   "date": {
+    "start": 390,
+    "end": 399,
+    "display": "c. 390s CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Founded in the last years of Fabiola's life; she died in 399."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "hospitals",
+    "charity",
+    "women in medicine"
+   ],
+   "locations": [
+    {
+     "name": "Rome",
+     "modern": "Rome, Italy",
+     "lat": 41.89,
+     "lon": 12.49,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "implementation-area",
+     "role": "Hospital"
+    },
+    {
+     "name": "Portus",
+     "modern": "Fiumicino, Italy",
+     "lat": 41.78,
+     "lon": 12.26,
+     "radiusKm": 3,
+     "precision": "site",
+     "type": "implementation-area",
+     "role": "Hospice for travellers at Rome's harbour"
+    }
+   ],
+   "people": [
+    {
+     "name": "Fabiola",
+     "role": "Founder and nurse"
+    },
+    {
+     "name": "Pammachius",
+     "role": "Co-founder of the hospice at Portus"
+    },
+    {
+     "name": "Jerome",
+     "role": "Author of the letter describing her work"
+    }
+   ],
+   "whatChanged": "A hospital for the sick was founded in Rome and run by its founder.",
+   "whyItMattered": "It marks the arrival of the hospital in the Latin-speaking West.",
+   "limitations": [
+    "Jerome's claim that she was the first to found a hospital is a eulogist's; hospitals had appeared a little earlier in the Greek East, such as Basil's at Caesarea.",
+    "Almost everything known comes from Jerome's letters."
+   ],
+   "sources": [
+    {
+     "citation": "Encyclopedia.com (Women in World History). Fabiola (d. 399 CE).",
+     "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/fabiola-d-399-ce",
+     "kind": "book",
+     "supports": "Founder of the first public hospital in Rome; opened a nosocomeion, apparently the first of its kind there; founded a house for pilgrims at Portus; details come from Jerome's Letter 77 to Oceanus, written in 399."
+    },
+    {
+     "citation": "Jerome. Letter 77, to Oceanus (Roman Letters).",
+     "url": "https://romanletters.org/letters/jerome/77/",
+     "kind": "primary",
+     "supports": "Eulogy of Fabiola, who died in 399; she founded a hospital where she gathered the sick out of the streets and nursed them."
+    },
+    {
+     "citation": "Jerome. Letter 77 (New Advent, Nicene and Post-Nicene Fathers).",
+     "url": "https://www.newadvent.org/fathers/3001077.htm",
+     "kind": "primary",
+     "supports": "The hospital at Portus and her other charitable work."
+    },
+    {
+     "citation": "Kirsch JP. St. Fabiola. Catholic Encyclopedia (Catholic Answers).",
+     "url": "https://www.catholic.com/encyclopedia/fabiola-saint",
+     "kind": "book",
+     "supports": "She erected a hospital at Rome and waited on the inmates herself, not shunning those with repulsive wounds and sores; Jerome's eulogy in a letter to Oceanus."
+    },
+    {
+     "citation": "Epistolae: Medieval Women's Latin Letters (Columbia University). Fabiola.",
+     "url": "https://epistolae.ctl.columbia.edu/woman/50.html",
+     "kind": "university",
+     "supports": "She and Pammachius founded a hospice at Portus; most of what is known comes from Jerome's eulogy."
+    },
+    {
+     "citation": "Ostia: Harbour City of Ancient Rome. Hieronymus (Jerome), Letter 77.10.",
+     "url": "https://www.ostia-antica.org/~atexts/hieronym.htm",
+     "kind": "institution",
+     "supports": "Pammachius and Fabiola set up a xenodochium, a hospice for strangers, at Portus."
+    },
+    {
+     "citation": "From poorhouse to hospital. Christian History Institute.",
+     "url": "https://christianhistoryinstitute.org/magazine/article/from-poorhouse-to-hospital",
+     "kind": "institution",
+     "supports": "Hospitals first appeared in the fourth century in the Greek East."
+    }
+   ],
+   "related": [
+    "basileias-hospital"
+   ]
+  },
+  {
+   "id": "sergius-syriac-galen",
+   "title": "Sergius of Reshaina translates Galen into Syriac",
+   "summary": "Sergius of Reshaina (d. 536), a priest and physician educated in Alexandria, translated more than thirty works of Galen from Greek into Syriac. His versions, later revised by Hunayn ibn Ishaq, were an early bridge by which Greek medicine passed into Syriac and then Arabic learning.",
+   "explanation": "Sergius received his education, including medicine, in Alexandria and is called in the sources chief physician (archiatros) of Reshaina, a town in northern Mesopotamia. He translated more than thirty of Galen's works, as well as philosophy and theology, into Syriac, his native language. Sent on a church mission to the pope late in life, he died suddenly at Constantinople on the way back, in 536.\n\nThree centuries later Hunayn ibn Ishaq, though critical of Sergius's skill, consulted and revised his Syriac versions when making his own Arabic translations. Sergius's translation of Galen's On Simple Drugs survives in the Syriac Galen Palimpsest, a ninth-century copy that was scraped off and overwritten with hymns.",
+   "date": {
+    "start": 500,
+    "end": 536,
+    "display": "c. 500–536 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Sergius's working life in the early sixth century, to his death in 536."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "mechanisms"
+   ],
+   "themes": [
+    "translation and transmission",
+    "Syriac Christianity",
+    "medical texts"
+   ],
+   "locations": [
+    {
+     "name": "Reshaina",
+     "modern": "Ras al-Ayn, Syria",
+     "lat": 36.85,
+     "lon": 40.07,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Sergius of Reshaina",
+     "role": "Priest, physician and translator"
+    }
+   ],
+   "whatChanged": "A large part of Galen's medicine became available in Syriac.",
+   "whyItMattered": "These translations were the starting point for the later movement that brought Greek medicine into Arabic.",
+   "limitations": [
+    "Hunayn and later scholars judged his translations uneven, though a recent study questions how poor they were.",
+    "Much of his work is lost or survives only in fragments."
+   ],
+   "sources": [
+    {
+     "citation": "Brock SP. Sergios of Reshʿayna. Gorgias Encyclopedic Dictionary of the Syriac Heritage (online ed., Beth Mardutho).",
+     "url": "https://gedsh.bethmardutho.org/Sergios-of-Reshayna",
+     "kind": "book",
+     "supports": "Educated, including in medicine, in Alexandria; designated archiatros (chief doctor) of Reshʿayna; sent with a letter to Pope Agapetus and died suddenly at Constantinople on his return; Galen treatises listed in Hunayn's letter as his work."
+    },
+    {
+     "citation": "Mizan Project. The Syriac Galen Palimpsest.",
+     "url": "https://mizanproject.org/the-syriac-galen-palimpsest/",
+     "kind": "university",
+     "supports": "Sergius (d. 536), a priest and doctor from northern Syria, rendered over thirty of Galen's works into Syriac; Hunayn, though critical, consulted and revised his versions; the palimpsest copies his sixth-century translation."
+    },
+    {
+     "citation": "Mizan Project. The Syriac Galen Palimpsest: digital recovery of a missing link between Greek and Islamic science.",
+     "url": "https://mizanproject.org/?p=2398",
+     "kind": "university",
+     "supports": "The palimpsest preserves Sergius's translation of Galen's On Simple Drugs and was probably written in the ninth century; Syriac intermediaries were crucial for transmission into Arabic."
+    },
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). The Syriac Galen palimpsest (entry 6900).",
+     "url": "https://historyofmedicine.com/author/d/sergius-of-reshaina",
+     "kind": "book",
+     "supports": "Ninth-century palimpsest whose undertext is Galen's On Simple Drugs in Sergius's Syriac translation."
+    },
+    {
+     "citation": "University of Exeter (ORE). Article challenging assumptions about the Syriac translations of Galen.",
+     "url": "https://ore.exeter.ac.uk/rest/bitstreams/161207/retrieve",
+     "kind": "university",
+     "supports": "The common view that the sixth-century Syriac translations, especially Sergius's, were inferior and were redone by Hunayn, and a challenge to it."
+    },
+    {
+     "citation": "Encyclopedia.com (New Catholic Encyclopedia). Sergius of Resaina.",
+     "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/sergius-resaina",
+     "kind": "book",
+     "supports": "He studied in Alexandria and became a physician."
+    }
+   ],
+   "related": [
+    "galen-pergamon",
+    "hunayn-translations"
+   ]
+  },
+  {
+   "id": "paul-of-aegina-surgery",
+   "title": "Paul of Aegina's compendium, with a book on surgery",
+   "summary": "Paul of Aegina (c. 625–690), working in Alexandria, wrote a seven-book medical compendium drawn from Galen, Oribasius and other Greek writers. Its sixth book, on surgery, covered operations from removing bladder stones to trephining the skull, and Arab surgeons, above all Albucasis, borrowed heavily from it.",
+   "explanation": "Born on the island of Aegina, Paul practised in Alexandria in the mid-seventh century, around the time the city passed from Byzantine to Arab rule. His Medical Compendium in Seven Books (Epitome medicae libri septem) gathered what was known from Galen, Oribasius, Aetius and other Greek physicians into a practical handbook.\n\nIts sixth book is devoted to surgery and describes procedures including lithotomy for bladder stones, trephination of the skull and the repair of hernias. Arab physicians counted Paul among the most authoritative Greek writers: al-Razi drew extensively on the work, and Albucasis borrowed heavily from its surgical book for the surgery section of al-Tasrif, through which Paul's methods later reached medieval Europe.",
+   "date": {
+    "start": 640,
+    "end": 660,
+    "display": "c. 650 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Compiled in Alexandria in the mid-seventh century; the work is not precisely dated."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "surgery",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "Byzantine medicine",
+    "medical texts",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Alexandria",
+     "modern": "Alexandria, Egypt",
+     "lat": 31.2,
+     "lon": 29.92,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Paul of Aegina",
+     "role": "Physician, surgeon and compiler"
+    }
+   ],
+   "whatChanged": "Greek surgical knowledge was gathered into a single, practical book of operations.",
+   "whyItMattered": "Through Arabic authors who used it, especially Albucasis, Paul's surgery shaped surgical teaching in both the Islamic world and medieval Europe.",
+   "limitations": [
+    "Like Oribasius, Paul mainly compiled the work of earlier writers."
+   ],
+   "sources": [
+    {
+     "citation": "Encyclopaedia Britannica. Paul of Aegina.",
+     "url": "https://www.britannica.com/biography/Paul-of-Aegina",
+     "kind": "book",
+     "supports": "Born c. 625 on Aegina, died c. 690; Alexandrian physician and surgeon; Epitome in seven books based on Galen, Oribasius and Aëtius; influenced Arab medicine; al-Razi drew on it; Abu al-Qasim borrowed heavily from the sixth, surgical book for the surgery chapter of al-Tasrif; lithotomy and trephination."
+    },
+    {
+     "citation": "Gurunluoglu R, Gurunluoglu A. Paul of Aegina: landmark in surgical progress. World Journal of Surgery 27(1):18–25, 2003.",
+     "url": "https://doi.org/10.1007/s00268-002-6464-8",
+     "kind": "journal",
+     "supports": "625–690; born on Aegina, practised in Alexandria; review of his surgical treatise including inguinal hernia repair; influence on Rhazes, Haly Abbas, Albucasis and Avicenna."
+    },
+    {
+     "citation": "Papapostolou G, et al. Paul of Aegina (ca 625–690 AD). Cureus 12(3):e7287, 2020.",
+     "url": "https://doi.org/10.7759/cureus.7287",
+     "kind": "journal",
+     "supports": "Dates and career of Paul of Aegina."
+    },
+    {
+     "citation": "Hirudotherapy Society. Paul of Aegina (biography).",
+     "url": "https://www.hirudotherapysociety.org/en/biography/paul-of-aegina",
+     "kind": "institution",
+     "supports": "Compiled at Alexandria in the mid-seventh century, when the city passed from Byzantine to Arab rule; Book VI on surgery influential in Islamic and Western medicine."
+    }
+   ],
+   "related": [
+    "oribasius-collections",
+    "albucasis-tasrif",
+    "al-razi-smallpox-measles"
+   ]
+  },
+  {
+   "id": "al-kindi-drug-degrees",
+   "title": "Al-Kindi tries to calculate the strength of drugs",
+   "summary": "The Baghdad philosopher al-Kindi (c. 801–873) wrote a treatise, known in Latin as De gradibus, that used mathematics to calculate the strength of compound medicines from the strengths of their ingredients. The historian Plinio Prioreschi called it the first serious attempt at quantification in medicine.",
+   "explanation": "Al-Kindi, born in Kufa and educated in Baghdad, was the leading philosopher of the early Abbasid translation movement and also wrote on medicine and pharmacy. Physicians graded single drugs by degrees of their qualities, but that gave no way of working out the strength of a compound medicine made from several ingredients.\n\nIn the treatise later known as De gradibus, al-Kindi proposed a mathematical method for calculating the degree of a compound from its parts. He also wrote a formulary of medicines and a scheme for predicting the critical days of an illness from the phases of the moon. In Latin, De gradibus was admired by Roger Bacon, who complained that its method was extremely difficult and almost unknown among Latin physicians.",
+   "date": {
+    "start": 830,
+    "end": 873,
+    "display": "c. 830–873 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Al-Kindi's working life in Baghdad, to his death in 873; the treatise is not dated."
+   },
+   "type": "invention",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [],
+   "themes": [
+    "pharmacy",
+    "quantification",
+    "Islamic medicine"
+   ],
+   "locations": [
+    {
+     "name": "Baghdad",
+     "modern": "Baghdad, Iraq",
+     "lat": 33.31,
+     "lon": 44.36,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Abu Yusuf Yaqub al-Kindi",
+     "role": "Philosopher and physician"
+    }
+   ],
+   "whatChanged": "Mathematics was applied to the dosing of medicines.",
+   "whyItMattered": "Al-Kindi's attempt to measure drug strength influenced later medieval European pharmacy and is an early step towards quantitative dosing.",
+   "limitations": [
+    "Calling it the first serious attempt at quantification is one historian's judgement, not a settled fact.",
+    "The method was hard to follow and, according to Roger Bacon, little used by Latin physicians."
+   ],
+   "sources": [
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Tacuini sanitatis … Alkindus de rerum gradibus (Strasbourg, 1531). Entry 9799.",
+     "url": "https://www.historyofmedicine.com/id/9799",
+     "kind": "book",
+     "supports": "Al-Kindi's work on the preparation and dosage of medicines applied mathematics to pharmacology by quantifying drug strength; Prioreschi called it the first attempt at serious quantification in medicine; system based on the phases of the moon to predict critical days."
+    },
+    {
+     "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: al-Kindī.",
+     "url": "https://historyofmedicine.com/author/d/abu-ysuf-yaqb-ibn-isq-aabb-alkindus-alkind",
+     "kind": "book",
+     "supports": "The medical formulary (Aqrabadhin) of al-Kindi, edited by Martin Levey, 1966."
+    },
+    {
+     "citation": "Points: The Blog of the Alcohol and Drugs History Society. Medieval drugs III: how do I drug thee? Let me count the ways.",
+     "url": "https://www.pointshistory.org/post/medieval-drugs-iii-how-do-i-drug-thee-let-me-count-the-ways",
+     "kind": "institution",
+     "supports": "Degrees worked for single drugs but not for compound medicines; al-Kindi (801–873) of Baghdad quantified medical theory and influenced later medieval European pharmacy."
+    },
+    {
+     "citation": "Daily Medieval. De Gradibus (22 February 2022) and Al-Kindi (21 February 2022).",
+     "url": "https://dailymedieval.blogspot.com/2022/02/de-gradibus.html",
+     "kind": "institution",
+     "supports": "Born in Kufa, educated in Baghdad; De gradibus applied mathematics to drug strength; Roger Bacon found the method extremely difficult and almost unknown among Latin physicians."
+    }
+   ],
+   "related": [
+    "hunayn-translations",
+    "ibn-butlan-tables-of-health"
+   ]
+  },
+  {
+   "id": "salerno-medical-school",
+   "title": "The medical school of Salerno",
+   "summary": "By the tenth century the physicians of Salerno, in southern Italy, were famous across Europe, and the city became what is generally seen as Europe's first medical school. Latin versions of Arabic medicine reached it in the late 11th century, and in 1231 Frederick II made its masters' approval a condition of practice.",
+   "explanation": "Salerno already had well-known physicians in the ninth century. By the tenth, bishops and nobles travelled there for treatment, and a Salernitan physician served at the French court. The city lay where Greek, Latin, Arabic and Jewish medicine met.\n\nIn the late eleventh century Constantine the African, a scholar from North Africa, came to Salerno and then, as a monk at nearby Monte Cassino, translated Arabic medical works into Latin. The school reached the height of its fame around 1100, and works such as the Regimen sanitatis Salernitanum, a verse handbook of diet and household medicine, spread its teaching. In 1231 Frederick II ordered that no one should practise medicine without the approval of Salerno's masters, and laid down three years of preliminary study and five of medicine, including surgery.",
+   "date": {
+    "start": 900,
+    "end": 1231,
+    "display": "c. 900–1231 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "century",
+    "basis": "From the ninth and tenth centuries, when Salerno's physicians were already famous, to Frederick II's licensing rule of 1231."
+   },
+   "type": "implementation",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "public-health",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "medical education",
+    "medical profession",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Salerno",
+     "modern": "Salerno, Italy",
+     "lat": 40.68,
+     "lon": 14.77,
+     "radiusKm": 5,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Constantine the African",
+     "role": "Translator of Arabic medical works"
+    },
+    {
+     "name": "Frederick II",
+     "role": "Emperor who regulated medical licensing"
+    }
+   ],
+   "whatChanged": "Medicine began to be taught in an organised way in medieval Europe, and the right to practise came to depend on the approval of its masters.",
+   "whyItMattered": "Salerno was the leading centre of medical teaching in Europe before the universities, and a gateway for Arabic and Greek medicine into Latin Europe.",
+   "limitations": [
+    "Calling Salerno the first medical school in Europe depends on the definition; it began as a community of practitioners and teachers rather than a chartered university, and its origins are obscure.",
+    "Historians disagree on whether it began as a lay or a monastic foundation, and a legend that it was founded by four masters, an Arab, a Jew, a Greek and a Latin, is not regarded as history.",
+    "How quickly Constantine's translations changed teaching at Salerno is debated."
+   ],
+   "sources": [
+    {
+     "citation": "Withington ET. Medical history from the earliest times: XXXVI. The School of Salerno. The Hospital, 17 December 1892.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5251803/",
+     "kind": "journal",
+     "supports": "Distinguished Salernitan physicians in the ninth century; in the tenth, one at the French court and bishops and nobles travelling to Salerno; the legend of four founding masters; competing origin stories."
+    },
+    {
+     "citation": "Salerno and medical women. The Hospital; in PubMed Central.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233100/",
+     "kind": "journal",
+     "supports": "Salerno famous for physicians from the ninth century; the school connected with government support from 1140."
+    },
+    {
+     "citation": "New Catholic Dictionary. University of Salerno (StudyLight).",
+     "url": "https://www.studylight.org/dictionaries/ncd/u/university-of-salerno.html",
+     "kind": "book",
+     "supports": "Physicians celebrated in the ninth century; fuller accounts of the school from the eleventh; opinions differ on a secular or Benedictine origin; in 1231 Frederick II ordered that no one should practise without the approval of its professors."
+    },
+    {
+     "citation": "Medievalists.net. The shift of medical education into the universities.",
+     "url": "https://www.medievalists.net/?p=462",
+     "kind": "institution",
+     "supports": "Generally acknowledged as the first European school of medicine; a crossroads of Greek, Arabic, Hebrew and Roman medicine; apex of prestige about 1100."
+    },
+    {
+     "citation": "Discover Campania. La Scuola Salernitana: an encounter between cultures and innovation.",
+     "url": "https://discovercampania.it/en/explore-campania/territory/cilento/salerno/read-more/la-scuola-salernitana-incontro-tra-culture-e-innovazione",
+     "kind": "institution",
+     "supports": "Medicine taught in Salerno by the tenth century; Constantine the African came to Salerno and then translated Arabic medical texts into Latin at Monte Cassino."
+    },
+    {
+     "citation": "Osler W. The Evolution of Modern Medicine, chapter III (1913; Project Gutenberg).",
+     "url": "https://www.gutenberg.org/files/1566/1566-h/1566-h.htm#link2H_4_0017",
+     "kind": "book",
+     "supports": "Frederick II's regulations: three years' preliminary study and five years of medicine including surgery; the Regimen sanitatis as a handbook of diet and household medicine."
+    },
+    {
+     "citation": "National Library of Medicine. Islamic culture and the medical arts: medieval Arabic medicine.",
+     "url": "https://www.nlm.nih.gov/hmd/medieval/arabic.html",
+     "kind": "institution",
+     "supports": "Constantine the African's translations at Monte Cassino; they seem not to have immediately affected discourse in nearby Salerno."
+    }
+   ],
+   "related": [
+    "al-majusi-royal-book",
+    "trotula-womens-medicine",
+    "roger-of-salerno-chirurgia"
+   ]
+  },
+  {
+   "id": "hunayn-translations",
+   "title": "Hunayn ibn Ishaq translates Greek medicine into Arabic",
+   "summary": "In ninth-century Baghdad, Hunayn ibn Ishaq (808–873) and his school translated well over a hundred Greek medical works, including almost all of Galen, into Syriac and Arabic. His own Ten Treatises on the Eye is the earliest surviving systematic textbook of ophthalmology.",
+   "explanation": "Hunayn, a Christian of the Church of the East, trained in medicine in Baghdad under Yuhanna ibn Masawayh and mastered Greek, Syriac, Arabic and Persian. He became a key figure in the translation movement around the House of Wisdom (Bayt al-Hikma). With his school he translated well over a hundred Greek medical works, including Hippocrates, Dioscorides and almost the whole of Galen, and wrote an account of which works of Galen had been translated and by whom.\n\nHis own writings include Questions on Medicine, a clear introductory synopsis, and the Ten Treatises on the Eye. In Latin the eye treatise circulated in versions credited to Constantine the African and Demetrius, until the historian Julius Hirschberg showed that Hunayn was its author.",
+   "date": {
+    "start": 830,
+    "end": 873,
+    "display": "c. 830–873 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Hunayn's working life in Baghdad, to his death in 873."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "mechanisms"
+   ],
+   "themes": [
+    "translation and transmission",
+    "Islamic medicine",
+    "ophthalmology"
+   ],
+   "locations": [
+    {
+     "name": "Baghdad",
+     "modern": "Baghdad, Iraq",
+     "lat": 33.31,
+     "lon": 44.36,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Hunayn ibn Ishaq",
+     "role": "Physician and translator"
+    }
+   ],
+   "whatChanged": "Nearly the whole of Greek medicine became available in Arabic, in careful translations.",
+   "whyItMattered": "Hunayn's translations and his way of organising medicine underlie the great Arabic medical encyclopedias, which later passed into Latin Europe.",
+   "limitations": [
+    "Many translations were the work of his school as a whole, not Hunayn alone.",
+    "The Ten Treatises is the earliest systematic ophthalmology textbook to survive; earlier works may have been lost."
+   ],
+   "sources": [
+    {
+     "citation": "Gorgias Encyclopedic Dictionary of the Syriac Heritage (Beth Mardutho). Ḥunayn b. Isḥāq (808–873).",
+     "url": "https://dev.gedsh.bethmardutho.org/entry/Hunayn-b-Ishaq.html",
+     "kind": "book",
+     "supports": "808–873; Church of the East; Hunayn and his school translated well over a hundred Greek medical works, including Hippocrates, Dioscorides and almost the entire corpus of Galen; his letter on the Galen translations; Ten Treatises on the Eye and Questions on the Eye."
+    },
+    {
+     "citation": "Ahmad H. Hunayn ibn Ishaq. Aspetar Sports Medicine Journal 5(2), 2016.",
+     "url": "https://journal.aspetar.com/viewarticle.aspx?id=320",
+     "kind": "journal",
+     "supports": "Key figure in the translation movement of the House of Wisdom; command of Syriac, Arabic, Persian and Greek; trained under Yuhanna ibn Masawayh; the Ten Treatises described as the earliest existing systematic textbook of ophthalmology."
+    },
+    {
+     "citation": "National Library of Medicine. Islamic culture and the medical arts: medieval Arabic medicine.",
+     "url": "https://www.nlm.nih.gov/hmd/medieval/arabic.html",
+     "kind": "institution",
+     "supports": "Hunayn's workshop was the most productive; his synopsis Questions on Medicine; his organisation of the subject inspired encyclopedias such as the Royal Book of al-Majusi."
+    },
+    {
+     "citation": "Muslim Heritage. Ophthalmologists of Muslim civilisation.",
+     "url": "https://muslimheritage.com/ophthalmologists/",
+     "kind": "institution",
+     "supports": "Translation at the House of Wisdom; Hirschberg identified Hunayn as author of the Ten Treatises, which Demetrius and Constantine the African had merely translated."
+    }
+   ],
+   "related": [
+    "galen-pergamon",
+    "sergius-syriac-galen",
+    "al-majusi-royal-book"
+   ]
+  },
+  {
+   "id": "al-tabari-firdaws",
+   "title": "Al-Tabari completes the Paradise of Wisdom",
+   "summary": "In 850 the Persian physician Ali ibn Sahl Rabban al-Tabari completed Firdaws al-hikma (the Paradise of Wisdom), an Arabic medical encyclopedia drawing on Greek, Syriac and Indian sources and his own observations. It was among the earliest Arabic works to cover the whole of medicine.",
+   "explanation": "Ali ibn Sahl Rabban al-Tabari was born in Marw and learned medicine from his father, a physician. He began his encyclopedia almost twenty years before finishing it, after finding that the Syriac medical books available to him each covered only one subject, but his duties in Tabaristan and then at the caliph's court in Samarra held him back.\n\nFirdaws al-hikma, completed in 850 and dedicated to the caliph al-Mutawakkil, digested medical writing from Greek, Syriac and Indian compendiums and added al-Tabari's own observations. It was the first Arabic work of its kind with such scope.",
+   "date": {
+    "start": 850,
+    "end": 850,
+    "display": "c. 850 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "year",
+    "basis": "Completed in 850, according to the Dictionary of Scientific Biography."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "diagnosis"
+   ],
+   "themes": [
+    "Islamic medicine",
+    "medical texts",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Samarra",
+     "modern": "Samarra, Iraq",
+     "lat": 34.2,
+     "lon": 43.87,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "locationNote": "Mapped to Samarra, the caliph's capital, where al-Tabari served at court before finishing the book; the sources do not say where he completed it.",
+   "people": [
+    {
+     "name": "Ali ibn Sahl Rabban al-Tabari",
+     "role": "Physician and author"
+    },
+    {
+     "name": "al-Mutawakkil",
+     "role": "Abbasid caliph and dedicatee"
+    }
+   ],
+   "whatChanged": "Medicine from several traditions was brought together in one Arabic book.",
+   "whyItMattered": "It stands at the start of the line of comprehensive Arabic medical encyclopedias later continued by al-Razi, al-Majusi and Avicenna.",
+   "limitations": [
+    "'Earliest' depends on what counts as comprehensive; other Arabic medical writing, mostly translations, existed before it.",
+    "Sources disagree on al-Tabari's dates of birth and death."
+   ],
+   "sources": [
+    {
+     "citation": "Hamarneh S. Al-Ṭabarī, Abu'l-Ḥasan ʿAlī ibn Sahl Rabban. Dictionary of Scientific Biography (Encyclopedia.com).",
+     "url": "https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/al-tabari-abul-hasan-ali-ibn-sahl-rabban",
+     "kind": "book",
+     "supports": "Born in Marw c. 808, died c. 861; wrote Firdaws al-hikma in 850, dedicated to al-Mutawakkil; compiled from Greek, Syriac and Indian compendiums with his own observations; the first of its kind in Arabic with such scope; edited by M. Z. Siddiqi, Berlin, 1928."
+    },
+    {
+     "citation": "Hamarneh S. Contributions of ʿAli al-Ṭabarī to ninth-century Arabic culture. Folia Orientalia 12, 1970.",
+     "url": "https://wydawnictwo.pan.pl/index.php/fo/article/download/2114/1575/6703",
+     "kind": "journal",
+     "supports": "He began the encyclopedia almost two decades before completing it, after reading Syriac medical texts confined to one subject each; his duties in Tabaristan and then at Samarra delayed it."
+    },
+    {
+     "citation": "Iran Chamber Society. Ali ibn Rabban Tabari.",
+     "url": "https://iranchamber.com/personalities/atabari/ali_tabari.php",
+     "kind": "institution",
+     "supports": "Educated in medicine by his father Sahl, a successful physician; mastered Syriac and Greek."
+    }
+   ],
+   "related": [
+    "hunayn-translations",
+    "charaka-samhita"
+   ]
+  },
+  {
+   "id": "al-majusi-royal-book",
+   "title": "Al-Majusi writes the Royal Book",
+   "summary": "In tenth-century Persia, Ali ibn al-Abbas al-Majusi (Haly Abbas) wrote the Complete Book of the Medical Art, or Royal Book, for the Buyid ruler Adud al-Dawla. Clearly ordered in ten sections of theory and ten of treatment, it reached Latin Europe as the Pantegni, adapted by Constantine the African.",
+   "explanation": "Al-Majusi, known in Europe as Haly Abbas, came from a Persian family with Zoroastrian forebears, though he was himself a Muslim. He dedicated his Complete Book of the Medical Art (Kamil al-sinaʿa al-tibbiyya), also called the Royal Book, to Adud al-Dawla, ruler of Persia and Iraq, who founded hospitals in Baghdad and Shiraz.\n\nHe wrote it partly because he found al-Razi's great compilation poorly organised and thin on anatomy and surgery. The book has two parts of ten sections each, one on medical theory and one on treatment. In the late eleventh century Constantine the African adapted it into Latin as the Pantegni, which gave Latin readers a complete, systematic survey of medicine; 108 Latin manuscripts of it are known.",
+   "date": {
+    "start": 949,
+    "end": 978,
+    "display": "c. 949–978 CE",
+    "kind": "span",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Written for Adud al-Dawla, who began to rule in 949; one study dates the dedication before 978."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "surgery",
+    "mechanisms"
+   ],
+   "themes": [
+    "Islamic medicine",
+    "medical texts",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Shiraz",
+     "modern": "Shiraz, Iran",
+     "lat": 29.61,
+     "lon": 52.53,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "locationNote": "Mapped to Shiraz, seat of his patron Adud al-Dawla; the sources do not record where he wrote the book.",
+   "people": [
+    {
+     "name": "Ali ibn al-Abbas al-Majusi (Haly Abbas)",
+     "role": "Physician and author"
+    },
+    {
+     "name": "Adud al-Dawla",
+     "role": "Buyid ruler and dedicatee"
+    },
+    {
+     "name": "Constantine the African",
+     "role": "Latin adapter (Pantegni)"
+    }
+   ],
+   "whatChanged": "Medical theory and practice were set out in a clear, balanced structure, with more attention to anatomy and surgery.",
+   "whyItMattered": "As the Pantegni, it was one of the first full Arabic medical encyclopedias available in Latin and shaped teaching in medieval Europe.",
+   "limitations": [
+    "Very little is known about al-Majusi's life.",
+    "The Pantegni was an adaptation, not a faithful translation."
+   ],
+   "sources": [
+    {
+     "citation": "National Library of Medicine. Islamic medical manuscripts: Kitāb Kāmil al-ṣināʿah al-ṭibbīyah (MS A 26).",
+     "url": "https://www.nlm.nih.gov/hmd/arabic/E5_E6.html",
+     "kind": "institution",
+     "supports": "Also called the Royal Book; dedicated to ʿAdud al-Dawlah, ruler of Persia and Iraq from 949 to 983 and founder of hospitals in Baghdad and Shiraz; al-Majusi from a Persian family with Zoroastrian forebears but himself a Muslim; written partly to redress the poor organisation of al-Razi's Hawi and its neglect of anatomy and surgery; two parts of ten sections each on theory and therapeutics."
+    },
+    {
+     "citation": "Cooper GM. Review of Burnett C, Jacquart D (eds), Constantine the African and ʿAlī ibn al-ʿAbbās al-Maǧūsī: the Pantegni and related texts.",
+     "url": "https://law-journals-books.vlex.com/vid/constantine-ibn-abbas-magusi-pantegni-52647121",
+     "kind": "journal",
+     "supports": "Constantine the African made the first Latin translation and called it Pantegni; 108 known Latin manuscripts; very little known about al-Majusi, born in Iran in the early tenth century and associated with Adud al-Dawla, the dedicatee, before 978."
+    },
+    {
+     "citation": "Burnett C, Jacquart D (eds). Constantine the African and ʿAlī ibn al-ʿAbbās al-Maǧūsī: the Pantegni and related texts. Leiden: Brill, 1994.",
+     "url": "https://doi.org/10.1163/9789004377356",
+     "kind": "book",
+     "supports": "Adapted for a Latin-reading audience by Constantine the African in the late eleventh century."
+    },
+    {
+     "citation": "National Library of Medicine. Islamic culture and the medical arts: medieval Arabic medicine.",
+     "url": "https://www.nlm.nih.gov/hmd/medieval/arabic.html",
+     "kind": "institution",
+     "supports": "The Royal Book of Haly Abbas; Constantine's version, the Pantegni, exerted a strong influence in Europe."
+    }
+   ],
+   "related": [
+    "al-razi-smallpox-measles",
+    "salerno-medical-school",
+    "avicenna-canon"
+   ]
+  },
+  {
+   "id": "albucasis-tasrif",
+   "title": "Albucasis illustrates the surgeon's instruments",
+   "summary": "Around 1000, the Córdoban physician Abu al-Qasim al-Zahrawi (Albucasis) completed al-Tasrif, a medical encyclopedia drawn from some fifty years of practice. Its last part, on surgery, illustrated about 200 instruments and described operations step by step; in Latin it was used in Europe for centuries.",
+   "explanation": "Al-Zahrawi was born near Córdoba, at Madinat al-Zahra, in 936 and died in 1013. He worked under the patronage of the caliph al-Hakam II and completed al-Tasrif, his encyclopedia of medicine and surgery, around 1000, after almost fifty years of practice.\n\nIts final part is devoted entirely to surgery. It includes drawings of about 200 surgical instruments and devices, most of them his own designs, with operative techniques and advice on ethics and teaching. Translated into Latin by Gerard of Cremona in the twelfth century and later printed, it remained an influential surgical text in Europe for some five centuries.",
+   "date": {
+    "start": 1000,
+    "end": 1000,
+    "display": "c. 1000 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Completed about 1000; the exact year is not known."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "surgery",
+   "tags": [
+    "therapeutics"
+   ],
+   "themes": [
+    "Islamic medicine",
+    "surgical instruments",
+    "medical illustration"
+   ],
+   "locations": [
+    {
+     "name": "Córdoba (Madinat al-Zahra)",
+     "modern": "Córdoba, Spain",
+     "lat": 37.88,
+     "lon": -4.82,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "documented-practice"
+    }
+   ],
+   "people": [
+    {
+     "name": "Abu al-Qasim al-Zahrawi (Albucasis)",
+     "role": "Physician and surgeon"
+    }
+   ],
+   "whatChanged": "Surgery was taught with drawings of the instruments and step-by-step operations.",
+   "whyItMattered": "In Latin, the surgical part of al-Tasrif became a standard textbook for European surgeons into the early modern period.",
+   "limitations": [
+    "It is often called the first illustrated surgical textbook, but earlier illustrated works may not have survived.",
+    "Al-Zahrawi drew heavily on Paul of Aegina's surgical book."
+   ],
+   "sources": [
+    {
+     "citation": "Muslim Heritage. Al-Zahrawi (Albucasis), the great surgeon.",
+     "url": "https://muslimheritage.com/?p=4787",
+     "kind": "institution",
+     "supports": "Born at Madinat al-Zahra near Córdoba in 936, died 1013; al-Tasrif completed about 1000 after almost fifty years of practice; an illustrated encyclopedia of medicine and surgery."
+    },
+    {
+     "citation": "Saad MN. Al-Zahrawi and his surgical instruments. IEEE Pulse (EMBS).",
+     "url": "https://www.embs.org/pulse/?p=461",
+     "kind": "institution",
+     "supports": "936–1013; the last treatise of al-Tasrif, on surgery, has about 200 illustrations of surgical and medical instruments, most of them his own designs."
+    },
+    {
+     "citation": "Albucasis and the foundations of surgery. Medicine and Pharmacy Reports.",
+     "url": "https://medpharmareports.com/index.php/mpr/article/download/2963/3397/24107",
+     "kind": "journal",
+     "supports": "Patronage of al-Hakam II; the final volume devoted exclusively to surgery, with more than 200 illustrated instruments, operative techniques and ethical and educational principles; influence for nearly five centuries."
+    },
+    {
+     "citation": "Rare Books Digest. The first illustrated textbook of surgery (2014).",
+     "url": "https://rarebooksdigest.com/2014/06/26/the-first-illustrated-textbook-of-surgery/",
+     "kind": "institution",
+     "supports": "Widely described as the first illustrated textbook of surgery; more than 200 illustrations of instruments; translated by Gerard of Cremona at Toledo and later printed in Venice."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Paul of Aegina.",
+     "url": "https://www.britannica.com/biography/Paul-of-Aegina",
+     "kind": "book",
+     "supports": "Abu al-Qasim borrowed heavily from the sixth, surgical book of Paul's Epitome for the surgery chapter of al-Tasrif."
+    }
+   ],
+   "related": [
+    "paul-of-aegina-surgery",
+    "avicenna-canon"
+   ]
+  },
+  {
+   "id": "ibn-butlan-tables-of-health",
+   "title": "Ibn Butlan sets out healthy living in tables",
+   "summary": "In the 11th century Ibn Butlan, a Christian physician of Baghdad, summarised the rules of healthy living in synoptic tables, the Taqwim al-sihha (Tables of Health). In Latin, as the Tacuinum sanitatis, it became a lavishly illustrated health guide for the nobility of late medieval Italy.",
+   "explanation": "Ibn Butlan studied medicine in Baghdad under Ibn al-Tayyib, later practised in Mosul, Diyarbakır and Aleppo, spent time in Egypt and Constantinople, and died as a monk in Antioch. His Taqwim al-sihha, 'Rectifying Health by Six Causes', set out in tables how foods and other parts of daily life affect health.\n\nTranslated into Latin as the Tacuinum sanitatis, it was made in the last decades of the fourteenth century into richly illustrated manuscripts commissioned by the nobility of northern Italy, showing foods, plants and activities. It was first printed in Strasbourg in 1531.",
+   "date": {
+    "start": 1040,
+    "end": 1068,
+    "display": "c. 1050 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "decade",
+    "basis": "Written in the mid-eleventh century; the sources give dates for Ibn Butlan's death from the 1030s to 1068, and the work is not precisely dated."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "prevention",
+   "tags": [],
+   "themes": [
+    "diet and regimen",
+    "medical illustration",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Baghdad",
+     "modern": "Baghdad, Iraq",
+     "lat": 33.31,
+     "lon": 44.36,
+     "radiusKm": 10,
+     "precision": "settlement",
+     "type": "text-origin"
+    }
+   ],
+   "people": [
+    {
+     "name": "Ibn Butlan",
+     "role": "Physician and author"
+    }
+   ],
+   "whatChanged": "Advice on keeping healthy was organised into tables a reader could consult quickly.",
+   "whyItMattered": "The illustrated Tacuinum manuscripts spread Arabic ideas of healthy living in Europe and are now a rich visual record of late medieval life.",
+   "limitations": [
+    "The illustrated Latin versions were luxury objects made for noble patrons.",
+    "Sources disagree on Ibn Butlan's dates: one gives his death as about 1038, others as between 1063 and 1068."
+   ],
+   "sources": [
+    {
+     "citation": "Janick J, Daunay M-C, Paris HS. Horticulture and health in the Middle Ages: images from the Tacuinum Sanitatis. HortScience 45(11), 2010.",
+     "url": "https://journals.ashs.org/view/journals/hortsci/45/11/article-p1592.xml",
+     "kind": "journal",
+     "supports": "Late fourteenth-century illustrated Tacuinum manuscripts based on Ibn Butlan's eleventh-century Taqwim al-sihha ('Rectifying Health by Six Causes'); Ibn Butlan a Baghdad-born Nestorian Christian physician."
+    },
+    {
+     "citation": "Paris HS. The Tacuinum sanitatis (ASHS conference abstract, 2009).",
+     "url": "https://ashs.confex.com/ashs/2009/webprogram/Paper2931.html",
+     "kind": "institution",
+     "supports": "Illustrated manuscripts first commissioned by northern Italian nobility in the last decades of the fourteenth century, derived from the Taqwim al-sihha written in Baghdad by the Christian physician Ibn Butlan."
+    },
+    {
+     "citation": "University of Iowa, HEIRS. Ibn Butlan, Theatrum sanitatis (Casanatense codex 4182).",
+     "url": "https://heirs.lib.uiowa.edu/record.php?id=70",
+     "kind": "university",
+     "supports": "Studied under Ibn al-Tayyib at Baghdad; practised in Mosul, Diyarbekir and Aleppo; in Egypt for a time; lived later in Constantinople and Antioch."
+    },
+    {
+     "citation": "St John's College, Cambridge. Tacuini sanitatis (Strasbourg: Johann Schott, 1531).",
+     "url": "https://www.joh.cam.ac.uk/node/2335",
+     "kind": "university",
+     "supports": "Illustrated Latin translation printed in Strasbourg in 1531; Ibn Butlan came from the Christian community and died as a monk in Antioch."
+    },
+    {
+     "citation": "Inlibris. Editio princeps of the Tacuini sanitatis.",
+     "url": "https://inlibris.com/item/bn63735/",
+     "kind": "archive",
+     "supports": "First printed edition; Ibn Butlan, a Nestorian physician of eleventh-century Baghdad, summarised medical knowledge in synoptic tables."
+    },
+    {
+     "citation": "Index of Medieval Art, Princeton. The Tacuinum Sanitatis (August 2016).",
+     "url": "https://ima.princeton.edu/2016/08",
+     "kind": "university",
+     "supports": "Based on an Arabic text by Ibn Butlan, an eleventh-century Christian physician of Baghdad, credited in the Vienna, Paris, Casanatense and Liège manuscripts."
+    }
+   ],
+   "related": [
+    "al-kindi-drug-degrees"
+   ]
+  },
+  {
+   "id": "avicenna-canon",
+   "title": "Avicenna completes the Canon of Medicine",
+   "summary": "Ibn Sina (Avicenna, 980–1037) completed his Canon of Medicine around 1025: a five-book encyclopedia that ordered Greek and Islamic medical knowledge into one system. Translated into Latin by Gerard of Cremona in the 12th century, it was a standard textbook in European medical schools until the 17th century.",
+   "explanation": "Ibn Sina was born in Bukhara in 980, took up medicine young and lived in Jurjan and Hamadan, where he wrote on philosophy and science as well as medicine. He completed the Canon (al-Qanun fi al-tibb) around 1025.\n\nThe Canon brought the medicine of Galen and the Greeks together with Aristotelian philosophy and the experience of Islamic physicians in five books, beginning with general principles and simple drugs. Translated into Latin by Gerard of Cremona in the twelfth century, it formed the basis of medical teaching in European universities until the seventeenth century, even as Renaissance teachers increasingly criticised it. William Osler called it 'the most famous medical text-book ever written'.",
+   "date": {
+    "start": 1025,
+    "end": 1025,
+    "display": "c. 1025 CE",
+    "kind": "point",
+    "approximate": true,
+    "precision": "year",
+    "basis": "Completed in 1025."
+   },
+   "type": "practice",
+   "evidence": [
+    "surviving-text"
+   ],
+   "category": "therapeutics",
+   "tags": [
+    "diagnosis"
+   ],
+   "themes": [
+    "Islamic medicine",
+    "medical texts",
+    "medical education",
+    "translation and transmission"
+   ],
+   "locations": [
+    {
+     "name": "Jurjan and Hamadan",
+     "modern": "Northern Iran",
+     "lat": 35.8,
+     "lon": 51.5,
+     "radiusKm": 320,
+     "precision": "region",
+     "type": "text-origin"
+    }
+   ],
+   "locationNote": "Avicenna wrote the Canon while living in Jurjan and Hamadan; the circle spans both, as the sources consulted do not say where he completed it.",
+   "people": [
+    {
+     "name": "Ibn Sina (Avicenna)",
+     "role": "Physician and philosopher"
+    },
+    {
+     "name": "Gerard of Cremona",
+     "role": "Latin translator"
+    }
+   ],
+   "whatChanged": "The whole of medicine was set out as one ordered, reasoned system.",
+   "whyItMattered": "For centuries the Canon was a central medical textbook in both the Islamic world and Europe.",
+   "limitations": [
+    "The Canon systematised Galenic and Aristotelian medicine rather than overturning it.",
+    "Renaissance teachers increasingly criticised it."
+   ],
+   "sources": [
+    {
+     "citation": "Library of Congress. The Canon of Medicine (manuscript).",
+     "url": "https://www.loc.gov/item/2021667335",
+     "kind": "archive",
+     "supports": "Born in Bukhara in 980, died in Hamadan in 1037; translated into Latin by Gerard of Cremona in the twelfth century; part of the standard curriculum for medical students until the late seventeenth century; five books, the first on general principles and the second on materia medica."
+    },
+    {
+     "citation": "Encyclopaedia Britannica. Avicenna: legacy.",
+     "url": "https://www.britannica.com/biography/Avicenna/Legacy",
+     "kind": "book",
+     "supports": "Profound influence over European schools into the seventeenth century; increasing criticism by Renaissance instructors; the text adhered to Greco-Roman theory; Osler's description of 'the most famous medical text-book ever written'."
+    },
+    {
+     "citation": "Muslim Heritage. Ibn Sina's The Canon of Medicine.",
+     "url": "https://muslimheritage.com/ibn-sinas-the-canon-of-medicine/",
+     "kind": "institution",
+     "supports": "Ibn Sina lived in Hamadan and Jurjan; the Canon translated into Latin by Gerard of Cremona and used in European universities until the end of the seventeenth century."
+    },
+    {
+     "citation": "Open Culture. Discover the Persian 11th century Canon of Medicine (2019).",
+     "url": "https://openculture.com/2019/10/discover-the-persian-11th-century-canon-of-medicine.html",
+     "kind": "institution",
+     "supports": "Completed in 1025; drew Greek, Roman, Arabic, Indian and Chinese medicine together in five volumes; Ibn Sina took up medicine early."
+    }
+   ],
+   "related": [
+    "galen-pergamon",
+    "al-majusi-royal-book",
+    "ibn-al-nafis-pulmonary-circulation",
+    "vesalius-fabrica"
+   ]
+  }
+ ],
+ "queue": {
+  "w051": {
+   "status": "added",
+   "atlasId": "oribasius-collections",
+   "note": "Wikipedia gives 325–400 for his life; the entry dates the work to Julian's reign (361–363), when it was commissioned."
+  },
+  "w053": {
+   "status": "added",
+   "atlasId": "basileias-hospital",
+   "note": "Julian's call for pagans to match Christian charity is covered in the explanation; dated 369–372, construction being under way by 372."
+  },
+  "w054": {
+   "status": "added",
+   "atlasId": "ephrem-edessa-famine-hospital",
+   "note": "Wikipedia gives 375; Ephrem died in 373, and the famine hospital belongs to the winter of 372–373."
+  },
+  "w055": {
+   "status": "added",
+   "atlasId": "fabiola-rome-hospital",
+   "note": "Dated to the 390s; Fabiola died in 399. The entry also covers her house at Portus."
+  },
+  "w062": {
+   "status": "added",
+   "atlasId": "sergius-syriac-galen",
+   "note": ""
+  },
+  "w068": {
+   "status": "added",
+   "atlasId": "paul-of-aegina-surgery",
+   "note": "Paul was born on Aegina but worked in Alexandria, where the entry is mapped."
+  },
+  "w070": {
+   "status": "added",
+   "atlasId": "al-kindi-drug-degrees",
+   "note": ""
+  },
+  "w071": {
+   "status": "added",
+   "atlasId": "salerno-medical-school",
+   "note": "Wikipedia's Benedictine hospital of 820 is not supported by the sources found, which date Salerno's medical fame to the ninth and tenth centuries and record a dispute over whether it began as a lay or monastic foundation."
+  },
+  "w073": {
+   "status": "added",
+   "atlasId": "hunayn-translations",
+   "note": ""
+  },
+  "w074": {
+   "status": "added",
+   "atlasId": "al-tabari-firdaws",
+   "note": "Wikipedia gives c. 838–870 for his life; the encyclopedia was finished in 850, and the sources disagree on his dates."
+  },
+  "w080": {
+   "status": "added",
+   "atlasId": "al-majusi-royal-book",
+   "note": "Wikipedia gives his death as 982–994; the entry dates the book to Adud al-Dawla's reign, before 978."
+  },
+  "w081": {
+   "status": "added",
+   "atlasId": "albucasis-tasrif",
+   "note": ""
+  },
+  "w082": {
+   "status": "added",
+   "atlasId": "ibn-butlan-tables-of-health",
+   "note": "Wikipedia gives his death as 1075; the sources consulted give dates between the 1030s and 1068."
+  },
+  "w084": {
+   "status": "added",
+   "atlasId": "avicenna-canon",
+   "note": "Wikipedia gives c. 1030; the sources date completion to 1025."
+  }
+ }
+}

@@ -2483,5 +2483,412 @@
       "harvey-circulation"
     ],
     "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "oribasius-collections",
+    "title": "Oribasius compiles the Medical Collections",
+    "summary": "Oribasius (c. 320–c. 403), physician to the emperor Julian, compiled at Julian's request a 70-book Greek medical encyclopedia of excerpts from earlier writers. Only part of it survives, but it preserves the words of physicians whose own books are lost.",
+    "explanation": "Oribasius studied medicine in Alexandria under Zeno of Cyprus and became personal physician to Julian, serving him from 361 until the emperor's death in 363. Julian, who hoped to revive the classical past, commissioned him to gather the best of Greek medical writing. The result was the Medical Collections (Iatrikai Synagogai, or Collectiones medicae), which excerpted and arranged the earlier literature. After Julian's death Oribasius fell from favour for a time and was later recalled by the emperor Valens.\n\nOribasius was a compiler rather than an original writer, and that is what makes the work valuable: it preserves selections from physicians such as Antyllus, Archigenes, Diocles and Rufus of Ephesus, whose own books no longer exist. He also wrote shorter digests, including a nine-book Synopsis for Eustathius, which carried this material into Byzantine medicine.",
+    "date": {
+      "start": 361,
+      "end": 363,
+      "display": "c. 361–363 CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Commissioned by Julian, whom Oribasius served from 361 to 363; when the compilation was finished is not recorded."
+    },
+    "type": "practice",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "therapeutics",
+    "tags": [
+      "diagnosis"
+    ],
+    "themes": [
+      "Byzantine medicine",
+      "medical texts",
+      "translation and transmission"
+    ],
+    "locations": [
+      {
+        "name": "Pergamon",
+        "modern": "Bergama, Turkey",
+        "lat": 39.13,
+        "lon": 27.18,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "text-origin"
+      }
+    ],
+    "locationNote": "Mapped to Pergamon, the city the sources associate him with; where he compiled the work is not recorded in the sources consulted.",
+    "people": [
+      {
+        "name": "Oribasius",
+        "role": "Physician and compiler"
+      },
+      {
+        "name": "Julian",
+        "role": "Roman emperor who commissioned the work"
+      }
+    ],
+    "whatChanged": "The scattered Greek medical literature was gathered into one large reference compiled from many authors.",
+    "whyItMattered": "Much of what is known about several lost Greek physicians survives only through Oribasius's excerpts, and his digests carried Greek medicine into the Byzantine world.",
+    "limitations": [
+      "Oribasius compiled other writers' work and added little of his own.",
+      "Only part of the 70 books survives."
+    ],
+    "sources": [
+      {
+        "citation": "Garrison–Morton (HistoryofMedicine.com). Oribasius, Collectionum medicarum reliquae, ed. J. Raeder, 1926–1933. Entry 8756.",
+        "url": "https://beta.historyofmedicine.com/id/8756",
+        "kind": "book",
+        "supports": "Surviving books of the Collectiones; selections from physicians whose works no longer exist, including Antyllus, Archigenes and Diocles; studied at Alexandria under Zeno; physician to Julian; recalled by Valens; the encyclopedia a product of the effort of Julian and his circle to recall the classical past."
+      },
+      {
+        "citation": "Garrison–Morton (HistoryofMedicine.com). Author entry: Oribasius.",
+        "url": "https://historyofmedicine.com/author/d/oreibasius-oribasius-",
+        "kind": "book",
+        "supports": "Physician to the emperor Julian; a compiler of existing knowledge rather than an original writer; compiled the Synagoge."
+      },
+      {
+        "citation": "Hirudotherapy Society. Oribasius of Pergamon (biography).",
+        "url": "https://www.hirudotherapysociety.org/en/biography/oribasius",
+        "kind": "institution",
+        "supports": "c. 320–c. 403; personal physician to Julian, 361–363; seventy-book Collectiones commissioned by Julian, excerpting and arranging earlier Greek medical literature; preserved fragments of Rufus of Ephesus and Antyllus; nine-book Synopsis ad Eustathium; Byzantine influence."
+      },
+      {
+        "citation": "World History Encyclopedia. Oribasius.",
+        "url": "https://www.worldhistory.org/Oribasius/",
+        "kind": "institution",
+        "supports": "Overview of Oribasius's life and his medical compilations for Julian."
+      }
+    ],
+    "related": [
+      "galen-pergamon",
+      "paul-of-aegina-surgery"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "basileias-hospital",
+    "title": "Basil of Caesarea builds the Basileias",
+    "summary": "After the famine of 369, Basil of Caesarea built a charitable complex outside the city, with houses for the poor, the sick and travellers and a section for people with leprosy. Physicians and nurses treated the sick there, and many historians regard it as one of the first hospitals.",
+    "explanation": "In 369 a severe famine struck Cappadocia, and Basil, then a priest, gathered the poor and fed them. After becoming bishop of Caesarea in 370 he built a complex just outside the city, which his friend Gregory of Nazianzus called a 'new city'. It held a church, houses for the poor, the sick and travellers, workshops, and a part set aside for people with leprosy, whom Basil cared for himself. Physicians and nurses treated the sick there.\n\nA letter of 372 shows the building well under way, and Gregory's funeral oration for Basil in 379 is the fullest description of it. Some years earlier the emperor Julian had written to a pagan high priest urging pagans to match the Christians' care for strangers, a sign that Christian charitable houses were already spreading in the Greek East.",
+    "date": {
+      "start": 369,
+      "end": 372,
+      "display": "c. 369–372 CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "year",
+      "basis": "Begun after the famine of 369; a letter of 372 shows construction well under way."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "hospitals",
+      "charity",
+      "leprosy"
+    ],
+    "locations": [
+      {
+        "name": "Caesarea in Cappadocia",
+        "modern": "Kayseri, Turkey",
+        "lat": 38.72,
+        "lon": 35.49,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Basil of Caesarea",
+        "role": "Bishop and founder"
+      },
+      {
+        "name": "Gregory of Nazianzus",
+        "role": "Friend who described the complex"
+      }
+    ],
+    "whatChanged": "Care for the sick, the poor and people with leprosy was gathered into a permanent institution with medical staff.",
+    "whyItMattered": "It is the best-documented early example of the Christian hospital, an institution that went on to spread through the Byzantine world and beyond.",
+    "limitations": [
+      "Whether it was the first hospital depends on the definition used; Basil himself called it a shelter for the poor (ptochotropheion).",
+      "The evidence comes from a few letters and Gregory's praise of his friend, not from records of the institution."
+    ],
+    "sources": [
+      {
+        "citation": "The Christian origin of hospitals. The Hospital (London); in PubMed Central.",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5259531/",
+        "kind": "journal",
+        "supports": "Founded by Basil at Caesarea soon after he became bishop (370); called 'the new city' and later 'the Basileiad'; a group of buildings including a church, houses for the poor, the sick and travellers, workshops, and a part devoted to lepers, whom Basil cared for personally."
+      },
+      {
+        "citation": "Heyne T. Reconstructing the world's first hospital: the Basiliad. Hektoen International, 2017.",
+        "url": "https://hekint.org/2017/02/24/reconstructing-the-worlds-first-hospital-the-basiliad/",
+        "kind": "journal",
+        "supports": "Gregory's description of the 'new city'; three of Basil's letters refer to it; lepers were treated there."
+      },
+      {
+        "citation": "Heyne T. The world's first Christian hospital: the Basiliad. Orthodox Outlet for Dogmatic Enquiries.",
+        "url": "https://oodegr.com/english/koinwnia/iatrika/Basiliad_medical_care.htm",
+        "kind": "institution",
+        "supports": "The famine of 369, when Basil gathered and fed the poor; construction well under way by 372, the date of his letter; Crislip's definition of a hospital."
+      },
+      {
+        "citation": "Basil's house of healing. Christian History Institute.",
+        "url": "https://christianhistoryinstitute.org/magazine/article/basils-house-of-healing",
+        "kind": "institution",
+        "supports": "Gregory's funeral oration of 379; Basil ordained priest in 365 and bishop five years later; many historians consider it the first hospital."
+      },
+      {
+        "citation": "Basil's house of healing. RedeemTV magazine.",
+        "url": "https://redeemtv.com/magazine/article/basils-house-of-healing",
+        "kind": "institution",
+        "supports": "Physicians and nurses treated sick patients there."
+      },
+      {
+        "citation": "Zozuľak J. The structure and management of the Basileias according to historical sources. Constantine's Letters 18(2), 2025.",
+        "url": "https://www.constantinesletters.ukf.sk/images/issues/2025_v18_iss2/CL_v18_iss2_003to010.pdf",
+        "kind": "journal",
+        "supports": "Basil preferred the term shelter for the poor (ptochotropheion); Sozomen calls it the Basileias; Gregory's 'new city'."
+      },
+      {
+        "citation": "From poorhouse to hospital. Christian History Institute.",
+        "url": "https://christianhistoryinstitute.org/magazine/article/from-poorhouse-to-hospital",
+        "kind": "institution",
+        "supports": "Julian's letter to a pagan high priest urging pagans to match Christian charity; hospitals first appeared in the fourth century in the Greek East."
+      }
+    ],
+    "related": [
+      "ephrem-edessa-famine-hospital",
+      "fabiola-rome-hospital",
+      "mansuri-bimaristan"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "ephrem-edessa-famine-hospital",
+    "title": "Ephrem sets up a famine hospital in Edessa",
+    "summary": "When famine struck Edessa in the winter of 372–373, the deacon and hymn writer Ephrem the Syrian shamed the city's rich into giving, then set up about 300 beds in the public porticoes, where he nursed the starving and the sick. He died soon afterwards, probably in June 373.",
+    "explanation": "Ephrem moved from Nisibis to Edessa, in northern Mesopotamia, in 363 and lived as a hermit near the city while serving its church as a deacon; he is remembered above all for his hymns. When famine struck Edessa in the winter of 372–373 he left his cell, rebuked the rich for letting the poor die while they hoarded grain, and used the money they gave him to set up about 300 beds in the public porticoes. There he nursed the starving and the sick himself.\n\nThe church historian Sozomen tells the story in the fifth century. It shows that within a few years of Basil's foundation at Caesarea, Christian leaders in Syria were also organising care for the sick in buildings set aside for it.",
+    "date": {
+      "start": 372,
+      "end": 373,
+      "display": "Winter 372–373 CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "year",
+      "basis": "The famine of winter 372–373; Ephrem died soon afterwards, probably in June 373."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [],
+    "themes": [
+      "hospitals",
+      "famine relief",
+      "Syriac Christianity"
+    ],
+    "locations": [
+      {
+        "name": "Edessa",
+        "modern": "Şanlıurfa, Turkey",
+        "lat": 37.16,
+        "lon": 38.79,
+        "radiusKm": 5,
+        "precision": "settlement",
+        "type": "implementation-area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ephrem the Syrian",
+        "role": "Deacon who organised the relief"
+      }
+    ],
+    "whatChanged": "An emergency hospital was organised in a city's public buildings to care for famine victims.",
+    "whyItMattered": "It is an early example of a temporary hospital set up in a crisis, and of hospital care spreading through the Christian East.",
+    "limitations": [
+      "The account comes from church histories and lives of the saint, not from records of the relief, and details such as the number of beds may be rounded or idealised.",
+      "The Chronicle of Edessa dates his death to June 373, but 378 and 379 are also given."
+    ],
+    "sources": [
+      {
+        "citation": "Sozomen. Ecclesiastical History, book 3, chapter 16 (Nicene and Post-Nicene Fathers; St-Takla.org).",
+        "url": "https://st-takla.org/books/en/ecf/202/2020353.html",
+        "kind": "primary",
+        "supports": "When Edessa was severely visited by famine, Ephrem left his solitary cell and rebuked the rich for letting the poor die instead of sharing their surplus."
+      },
+      {
+        "citation": "Benedict XV. Principi apostolorum Petro (1920), section 9 (IntraText).",
+        "url": "https://www.intratext.com/IXT/ENG0629/_P9.HTM",
+        "kind": "primary",
+        "supports": "In a famine Ephrem ran to Edessa, castigated those hoarding grain, and with the money he begged provided beds for the starving, spread in the porticoes of Edessa, where he nursed the sick."
+      },
+      {
+        "citation": "Saints Alive. St. Ephrem (306?–373).",
+        "url": "https://saints-alive.siministries.org/saints-alive/saint/st-ephrem/",
+        "kind": "institution",
+        "supports": "Native of Nisibis who moved to Edessa, lived as a hermit and became a deacon; the famine of winter 372–373; about 300 litters for the sick."
+      },
+      {
+        "citation": "Chalmers A. The General Biographical Dictionary: Ephrem, St. (From Old Books).",
+        "url": "https://words.fromoldbooks.org/Chalmers-Biography/e/ephrem-st.html",
+        "kind": "book",
+        "supports": "Ordained deacon at Edessa; set up some 300 beds in the public porticoes during the famine."
+      },
+      {
+        "citation": "Schaff-Herzog Encyclopedia of Religious Knowledge. Ephraem Syrus (Christian Classics Ethereal Library).",
+        "url": "https://ccel.org/s/schaff/encyc04/htm/iii.x.htm",
+        "kind": "book",
+        "supports": "Shortly before his death he opened a hospital for the sick during a famine; the Chronicle of Edessa gives his death as June 373, though 378 and 379 are also given."
+      },
+      {
+        "citation": "Schaff-Herzog Encyclopedia. Ephraem Syrus: life (CB Library).",
+        "url": "https://cblibrary.org/schaff_h/ea/ephraem_syrus.htm",
+        "kind": "book",
+        "supports": "Lived at Nisibis until 363, then near Edessa as an anchorite; said to have been ordained deacon."
+      },
+      {
+        "citation": "Orange County Catholic. Saint Ephraem.",
+        "url": "https://www.occatholic.com/?p=23018",
+        "kind": "institution",
+        "supports": "Moved to a cave above Edessa in 363; the winter before his death he managed relief supplies during a severe famine in Edessa."
+      }
+    ],
+    "related": [
+      "basileias-hospital"
+    ],
+    "suggestedBy": "wikipedia-timeline"
+  },
+  {
+    "id": "fabiola-rome-hospital",
+    "title": "Fabiola founds a hospital in Rome",
+    "summary": "In the 390s the Roman noblewoman Fabiola used her wealth to found a hospital in Rome, where she gathered the sick from the streets and nursed them herself. With Pammachius she also founded a hospice for travellers at Portus, Rome's harbour. Jerome's letter about her is the main source.",
+    "explanation": "Fabiola came from a leading Roman family and, after the death of her second husband, devoted her fortune to charity. In Rome she opened a nosocomeion, a house for the sick, apparently the first in the city. According to Jerome she gathered the sick from the streets and waited on them herself, not shunning even repulsive wounds and sores. With her friend Pammachius she also set up a hospice for strangers (xenodochium) at Portus, the harbour of Rome.\n\nJerome described her work in a eulogy written to her relative Oceanus (Letter 77) after her death in 399. It shows the hospital, which had appeared first in the Christian East, reaching the Latin West within a generation of Basil's foundation at Caesarea.",
+    "date": {
+      "start": 390,
+      "end": 399,
+      "display": "c. 390s CE",
+      "kind": "span",
+      "approximate": true,
+      "precision": "decade",
+      "basis": "Founded in the last years of Fabiola's life; she died in 399."
+    },
+    "type": "implementation",
+    "evidence": [
+      "surviving-text"
+    ],
+    "category": "public-health",
+    "tags": [
+      "therapeutics"
+    ],
+    "themes": [
+      "hospitals",
+      "charity",
+      "women in medicine"
+    ],
+    "locations": [
+      {
+        "name": "Rome",
+        "modern": "Rome, Italy",
+        "lat": 41.89,
+        "lon": 12.49,
+        "radiusKm": 10,
+        "precision": "settlement",
+        "type": "implementation-area",
+        "role": "Hospital"
+      },
+      {
+        "name": "Portus",
+        "modern": "Fiumicino, Italy",
+        "lat": 41.78,
+        "lon": 12.26,
+        "radiusKm": 3,
+        "precision": "site",
+        "type": "implementation-area",
+        "role": "Hospice for travellers at Rome's harbour"
+      }
+    ],
+    "people": [
+      {
+        "name": "Fabiola",
+        "role": "Founder and nurse"
+      },
+      {
+        "name": "Pammachius",
+        "role": "Co-founder of the hospice at Portus"
+      },
+      {
+        "name": "Jerome",
+        "role": "Author of the letter describing her work"
+      }
+    ],
+    "whatChanged": "A hospital for the sick was founded in Rome and run by its founder.",
+    "whyItMattered": "It marks the arrival of the hospital in the Latin-speaking West.",
+    "limitations": [
+      "Jerome's claim that she was the first to found a hospital is a eulogist's; hospitals had appeared a little earlier in the Greek East, such as Basil's at Caesarea.",
+      "Almost everything known comes from Jerome's letters."
+    ],
+    "sources": [
+      {
+        "citation": "Encyclopedia.com (Women in World History). Fabiola (d. 399 CE).",
+        "url": "https://encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/fabiola-d-399-ce",
+        "kind": "book",
+        "supports": "Founder of the first public hospital in Rome; opened a nosocomeion, apparently the first of its kind there; founded a house for pilgrims at Portus; details come from Jerome's Letter 77 to Oceanus, written in 399."
+      },
+      {
+        "citation": "Jerome. Letter 77, to Oceanus (Roman Letters).",
+        "url": "https://romanletters.org/letters/jerome/77/",
+        "kind": "primary",
+        "supports": "Eulogy of Fabiola, who died in 399; she founded a hospital where she gathered the sick out of the streets and nursed them."
+      },
+      {
+        "citation": "Jerome. Letter 77 (New Advent, Nicene and Post-Nicene Fathers).",
+        "url": "https://www.newadvent.org/fathers/3001077.htm",
+        "kind": "primary",
+        "supports": "The hospital at Portus and her other charitable work."
+      },
+      {
+        "citation": "Kirsch JP. St. Fabiola. Catholic Encyclopedia (Catholic Answers).",
+        "url": "https://www.catholic.com/encyclopedia/fabiola-saint",
+        "kind": "book",
+        "supports": "She erected a hospital at Rome and waited on the inmates herself, not shunning those with repulsive wounds and sores; Jerome's eulogy in a letter to Oceanus."
+      },
+      {
+        "citation": "Epistolae: Medieval Women's Latin Letters (Columbia University). Fabiola.",
+        "url": "https://epistolae.ctl.columbia.edu/woman/50.html",
+        "kind": "university",
+        "supports": "She and Pammachius founded a hospice at Portus; most of what is known comes from Jerome's eulogy."
+      },
+      {
+        "citation": "Ostia: Harbour City of Ancient Rome. Hieronymus (Jerome), Letter 77.10.",
+        "url": "https://www.ostia-antica.org/~atexts/hieronym.htm",
+        "kind": "institution",
+        "supports": "Pammachius and Fabiola set up a xenodochium, a hospice for strangers, at Portus."
+      },
+      {
+        "citation": "From poorhouse to hospital. Christian History Institute.",
+        "url": "https://christianhistoryinstitute.org/magazine/article/from-poorhouse-to-hospital",
+        "kind": "institution",
+        "supports": "Hospitals first appeared in the fourth century in the Greek East."
+      }
+    ],
+    "related": [
+      "basileias-hospital"
+    ],
+    "suggestedBy": "wikipedia-timeline"
   }
 ]
